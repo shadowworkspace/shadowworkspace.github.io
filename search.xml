@@ -119,28 +119,6 @@
       </tags>
   </entry>
   <entry>
-    <title>I003-我学到了什么</title>
-    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
-    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
-<blockquote>
-<p>回收多年的学习生涯，在看看当前的自己：</p>
-<p>不会写作</p>
-<p>不会阅读</p>
-<p>不会演讲</p>
-<p>不会语言</p>
-<p>那么这么多年我们在学习什么呢？</p>
-</blockquote>
-<hr>
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>深度思考</tag>
-        <tag>我在做什么</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>I002-伟大的实践-个人经历管理系统</title>
     <url>/2021/01/06/I002-%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AE%9E%E8%B7%B5-%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h4 id="个人管理系统"><a href="#个人管理系统" class="headerlink" title="个人管理系统"></a>个人管理系统</h4><hr>
@@ -188,6 +166,28 @@
       <tags>
         <tag>积木竞赛</tag>
         <tag>耐心与毅力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>I003-我学到了什么</title>
+    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
+    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
+<blockquote>
+<p>回收多年的学习生涯，在看看当前的自己：</p>
+<p>不会写作</p>
+<p>不会阅读</p>
+<p>不会演讲</p>
+<p>不会语言</p>
+<p>那么这么多年我们在学习什么呢？</p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>深度思考</tag>
+        <tag>我在做什么</tag>
       </tags>
   </entry>
   <entry>
@@ -269,46 +269,6 @@
       </tags>
   </entry>
   <entry>
-    <title>P003-人工智能-图像检测</title>
-    <url>/2021/01/05/P003-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%9B%BE%E5%83%8F%E6%A3%80%E6%B5%8B/</url>
-    <content><![CDATA[<h4 id="NULL"><a href="#NULL" class="headerlink" title="NULL"></a>NULL</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## [https://zhuanlan.zhihu.com/p/25236464]</span><br><br><span class="hljs-comment">## [http://www.360doc.com/content/20/0507/19/40892371_910817845.shtml]</span><br><br><span class="hljs-comment">## [https://zhuanlan.zhihu.com/p/32525231]</span><br><br><span class="hljs-comment">## [https://pjreddie.com/darknet/yolo/]</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="关于环境配置以及学习书籍"><a href="#关于环境配置以及学习书籍" class="headerlink" title="关于环境配置以及学习书籍"></a>关于环境配置以及学习书籍</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br>**https://blog.csdn.net/weixin_44107621/article/details/85879270<br>**https://www.jianshu.com/p/62f155eb6ac5<br>**https://www.zhihu.com/question/25252987?sort=created<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## WIN10 ISO</span><br>http://www.xitongcheng.com/jiaocheng/win10_article_46181.html<br></code></pre></td></tr></table></figure>
-
-
-
-]]></content>
-      <categories>
-        <category>专业学习</category>
-        <category>人工智能</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>图像识别</tag>
-        <tag>鱼脸识别</tag>
-        <tag>WIN10镜像</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R001</title>
-    <url>/2020/12/14/R001/</url>
-    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
     <title>R000-文章命名规范</title>
     <url>/2021/01/01/R000/</url>
     <content><![CDATA[<h4 id="规范是为了更加高效"><a href="#规范是为了更加高效" class="headerlink" title="规范是为了更加高效"></a>规范是为了更加高效</h4><hr>
@@ -354,6 +314,46 @@
       </tags>
   </entry>
   <entry>
+    <title>P003-人工智能-图像检测</title>
+    <url>/2021/01/05/P003-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%9B%BE%E5%83%8F%E6%A3%80%E6%B5%8B/</url>
+    <content><![CDATA[<h4 id="NULL"><a href="#NULL" class="headerlink" title="NULL"></a>NULL</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## [https://zhuanlan.zhihu.com/p/25236464]</span><br><br><span class="hljs-comment">## [http://www.360doc.com/content/20/0507/19/40892371_910817845.shtml]</span><br><br><span class="hljs-comment">## [https://zhuanlan.zhihu.com/p/32525231]</span><br><br><span class="hljs-comment">## [https://pjreddie.com/darknet/yolo/]</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="关于环境配置以及学习书籍"><a href="#关于环境配置以及学习书籍" class="headerlink" title="关于环境配置以及学习书籍"></a>关于环境配置以及学习书籍</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br>**https://blog.csdn.net/weixin_44107621/article/details/85879270<br>**https://www.jianshu.com/p/62f155eb6ac5<br>**https://www.zhihu.com/question/25252987?sort=created<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## WIN10 ISO</span><br>http://www.xitongcheng.com/jiaocheng/win10_article_46181.html<br></code></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>专业学习</category>
+        <category>人工智能</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>图像识别</tag>
+        <tag>鱼脸识别</tag>
+        <tag>WIN10镜像</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R001</title>
+    <url>/2020/12/14/R001/</url>
+    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
     <title>R002</title>
     <url>/2020/12/15/R002/</url>
     <content><![CDATA[<hr>
@@ -381,20 +381,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R003</title>
-    <url>/2020/12/15/R003/</url>
-    <content><![CDATA[<hr>
-<figure class="highlight csharp"><table><tr><td class="code"><pre><code class="hljs csharp"><span class="hljs-meta">## 如何让故事更加真实、可触摸？</span><br>	一位脾气暴躁的姐妹，有一天走在路上，突然不知道从什么地方飞过来一个马铃薯砸在她头上。她顿时火冒三丈，捡起马铃薯准备寻找元凶报仇，突然一个声音在她脑中想起：已经是门徒了，还是没有改变吗？<br>	她愤怒立刻消去，也不再寻找扔她的人了，转身拿起马铃薯，回到家中，把这个马铃薯切成碎片。然后种植在架子上。几个月之后，马铃薯一颗颗长出来了。等到见证之时，马铃薯可以送出去，又养成新的马铃薯。<br>	<br>	[<span class="hljs-meta">故事本身很简单，但是故事的寓意和提示深远悠长</span>]<br>	[<span class="hljs-meta">用行动赋予故事意义</span>]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>blub</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R004</title>
     <url>/2020/12/15/R004/</url>
     <content><![CDATA[<h4 id="机遇与挑战"><a href="#机遇与挑战" class="headerlink" title="机遇与挑战"></a>机遇与挑战</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 国家的机遇与挑战<br><span class="hljs-comment">	*历史潮流</span><br><span class="hljs-comment">	*马克思理论</span><br><span class="hljs-comment">	*变化与发展</span><br><br>## 个人的机遇与挑战<br><br><span class="hljs-comment">	*旁征博引</span><br><span class="hljs-comment">	*古今中外</span><br><span class="hljs-comment">	*排比设问</span><br>	<br>	--------------<br><span class="hljs-comment">	*认识与实践</span><br><span class="hljs-comment">	*认识世界与改造世界</span><br>	---------------<br></code></pre></td></tr></table></figure>
@@ -410,6 +396,20 @@
         <tag>形势与政策</tag>
         <tag>百年大变局之下大学生的思考</tag>
         <tag>写作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R003</title>
+    <url>/2020/12/15/R003/</url>
+    <content><![CDATA[<hr>
+<figure class="highlight csharp"><table><tr><td class="code"><pre><code class="hljs csharp"><span class="hljs-meta">## 如何让故事更加真实、可触摸？</span><br>	一位脾气暴躁的姐妹，有一天走在路上，突然不知道从什么地方飞过来一个马铃薯砸在她头上。她顿时火冒三丈，捡起马铃薯准备寻找元凶报仇，突然一个声音在她脑中想起：已经是门徒了，还是没有改变吗？<br>	她愤怒立刻消去，也不再寻找扔她的人了，转身拿起马铃薯，回到家中，把这个马铃薯切成碎片。然后种植在架子上。几个月之后，马铃薯一颗颗长出来了。等到见证之时，马铃薯可以送出去，又养成新的马铃薯。<br>	<br>	[<span class="hljs-meta">故事本身很简单，但是故事的寓意和提示深远悠长</span>]<br>	[<span class="hljs-meta">用行动赋予故事意义</span>]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>blub</tag>
       </tags>
   </entry>
   <entry>
@@ -592,20 +592,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R011</title>
-    <url>/2020/12/18/R011/</url>
-    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>演讲的艺术</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R012-软工知识点梳理</title>
     <url>/2020/12/23/R012/</url>
     <content><![CDATA[<h4 id="软工知识点梳理"><a href="#软工知识点梳理" class="headerlink" title="软工知识点梳理"></a>软工知识点梳理</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 梳理了考试和学习的重点</span><br>	**<br>	**<br><br><span class="hljs-comment">## 分析著名的缺乏测试项目</span><br>	** 爱国者导弹防御系统<br>	** 温州动车事故[2011]<br>	** <br><br><span class="hljs-comment">## 从敏捷软件开发到项目管理、从软件测试到DevOps</span><br>	**是否安装软件测试工具<br>	**是否开始学习DevOps<br><br><span class="hljs-comment">## 灵感的来源：</span><br>	** 元素周期表<br>	** 全世界、所有大学、所有专业的培养计划<br>	** 对人类社会产生重大深远影响的书籍<br>	<br><span class="hljs-comment">## 软工资料地址</span><br>	**[LINK] - [http://124.160.107.91:10001/SoftEng/SitePages/Home.aspx]<br>	**ID: SEI\189051042<br>	**PW: 189051042@hdu.com<br>	<br><br></code></pre></td></tr></table></figure>
@@ -618,6 +604,20 @@
         <tag>软件工程</tag>
         <tag>Xmind</tag>
         <tag>灵感</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R011</title>
+    <url>/2020/12/18/R011/</url>
+    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>演讲的艺术</tag>
       </tags>
   </entry>
   <entry>
@@ -1436,6 +1436,23 @@
       </tags>
   </entry>
   <entry>
+    <title>R030-自动化发布文章更新</title>
+    <url>/2021/01/01/R030/</url>
+    <content><![CDATA[<h4 id="不断趋于完美"><a href="#不断趋于完美" class="headerlink" title="不断趋于完美"></a>不断趋于完美</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 加入新的功能</span><br>	**创建文章时只需要输入类型，不需要指定具体编号<br>	**能够自动提取参数并且加入到tag<br>	**能够自动追加整体经验值<br>	**能够自动判断段位增量<br></code></pre></td></tr></table></figure>
+
+<p><code>3.14159.........</code></p>
+<p>:fallen_leaf:</p>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>自动化构建</tag>
+        <tag>系统维护</tag>
+        <tag>商业化潜力</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R029-个人项目经验规划</title>
     <url>/2021/01/01/R029/</url>
     <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
@@ -1503,23 +1520,6 @@
         <tag>912考研资料索引专刊</tag>
         <tag>个人项目规划参考</tag>
         <tag>大数据工程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R030-自动化发布文章更新</title>
-    <url>/2021/01/01/R030/</url>
-    <content><![CDATA[<h4 id="不断趋于完美"><a href="#不断趋于完美" class="headerlink" title="不断趋于完美"></a>不断趋于完美</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 加入新的功能</span><br>	**创建文章时只需要输入类型，不需要指定具体编号<br>	**能够自动提取参数并且加入到tag<br>	**能够自动追加整体经验值<br>	**能够自动判断段位增量<br></code></pre></td></tr></table></figure>
-
-<p><code>3.14159.........</code></p>
-<p>:fallen_leaf:</p>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>自动化构建</tag>
-        <tag>系统维护</tag>
-        <tag>商业化潜力</tag>
       </tags>
   </entry>
   <entry>
@@ -2084,6 +2084,30 @@
       </tags>
   </entry>
   <entry>
+    <title>R036-CS-STACK项目分析会议</title>
+    <url>/2021/01/06/R036-CS-STACK%E9%A1%B9%E7%9B%AE%E5%88%86%E6%9E%90%E4%BC%9A%E8%AE%AE/</url>
+    <content><![CDATA[<h4 id="项目人员素查"><a href="#项目人员素查" class="headerlink" title="项目人员素查"></a>项目人员素查</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 了解队员意愿</span><br><span class="hljs-comment">## 快刀斩乱麻</span><br><br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="项目前景介绍"><a href="#项目前景介绍" class="headerlink" title="项目前景介绍"></a>项目前景介绍</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 当前项目</span><br><span class="hljs-comment">## 后续项目</span><br><span class="hljs-comment">## 能学到什么</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="后续安排"><a href="#后续安排" class="headerlink" title="后续安排"></a>后续安排</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 经验贡献制度</span><br><span class="hljs-comment">## 分类记录规范</span><br>---<br>题外：<br>	** 需要监督的计划<br>	** 想要了解更多关于计科/软工<br>	** 职业发展<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>HZIEE-CS-STACK</tag>
+        <tag>项目分析</tag>
+        <tag>会议大纲</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R037-考研单词L3</title>
     <url>/2021/01/06/R037-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D-L2/</url>
     <content><![CDATA[<h4 id="知行合一"><a href="#知行合一" class="headerlink" title="知行合一"></a>知行合一</h4><hr>
@@ -2362,30 +2386,6 @@
       <categories>
         <category>日常记录</category>
       </categories>
-  </entry>
-  <entry>
-    <title>R036-CS-STACK项目分析会议</title>
-    <url>/2021/01/06/R036-CS-STACK%E9%A1%B9%E7%9B%AE%E5%88%86%E6%9E%90%E4%BC%9A%E8%AE%AE/</url>
-    <content><![CDATA[<h4 id="项目人员素查"><a href="#项目人员素查" class="headerlink" title="项目人员素查"></a>项目人员素查</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 了解队员意愿</span><br><span class="hljs-comment">## 快刀斩乱麻</span><br><br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="项目前景介绍"><a href="#项目前景介绍" class="headerlink" title="项目前景介绍"></a>项目前景介绍</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 当前项目</span><br><span class="hljs-comment">## 后续项目</span><br><span class="hljs-comment">## 能学到什么</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="后续安排"><a href="#后续安排" class="headerlink" title="后续安排"></a>后续安排</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 经验贡献制度</span><br><span class="hljs-comment">## 分类记录规范</span><br>---<br>题外：<br>	** 需要监督的计划<br>	** 想要了解更多关于计科/软工<br>	** 职业发展<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>HZIEE-CS-STACK</tag>
-        <tag>项目分析</tag>
-        <tag>会议大纲</tag>
-      </tags>
   </entry>
   <entry>
     <title>R039-HZIEE-CS-STACK-初期会议</title>
@@ -3434,6 +3434,18 @@
       </tags>
   </entry>
   <entry>
+    <title>R048-单词计划经验等级管理</title>
+    <url>/2021/01/08/R048-%E5%8D%95%E8%AF%8D%E8%AE%A1%E5%88%92%E7%BB%8F%E9%AA%8C%E7%AD%89%E7%BA%A7%E7%AE%A1%E7%90%86/</url>
+    <content><![CDATA[<h4 id="我们的每一天、做的每一件事都值得被记录"><a href="#我们的每一天、做的每一件事都值得被记录" class="headerlink" title="我们的每一天、做的每一件事都值得被记录"></a>我们的每一天、做的每一件事都值得被记录</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 等级颜色样式引用：</span><br>[https://ant.design/docs/spec/colors<span class="hljs-comment">#System-level-Color-System]</span><br><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>单词等级</tag>
+        <tag>经验管理系统</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R047-毛泽东思想考点梳理</title>
     <url>/2021/01/08/R047-%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
     <content><![CDATA[<h4 id="考试时间"><a href="#考试时间" class="headerlink" title="考试时间"></a>考试时间</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 三天左右出成绩</span><br>	**15号晚<br>	**可以携带任何纸质材料<br></code></pre></td></tr></table></figure>
@@ -3452,18 +3464,6 @@
       <tags>
         <tag>毛泽东思想体系</tag>
         <tag>毛考试知识点梳理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R048-单词计划经验等级管理</title>
-    <url>/2021/01/08/R048-%E5%8D%95%E8%AF%8D%E8%AE%A1%E5%88%92%E7%BB%8F%E9%AA%8C%E7%AD%89%E7%BA%A7%E7%AE%A1%E7%90%86/</url>
-    <content><![CDATA[<h4 id="我们的每一天、做的每一件事都值得被记录"><a href="#我们的每一天、做的每一件事都值得被记录" class="headerlink" title="我们的每一天、做的每一件事都值得被记录"></a>我们的每一天、做的每一件事都值得被记录</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 等级颜色样式引用：</span><br>[https://ant.design/docs/spec/colors<span class="hljs-comment">#System-level-Color-System]</span><br><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>单词等级</tag>
-        <tag>经验管理系统</tag>
       </tags>
   </entry>
   <entry>
@@ -3866,7 +3866,7 @@
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## TCP报文段中序号字段指的是：数据部分第一个字节在应用数据字节流中的序号</span><br><br>	**TCP报文中确认序号指的是：期望收到的第一个字节序号<br>	<br>	**保留端口: 161<br>	<br>	**TCP重传计时器的设置的重传时间--大于平均往返时延<br>	<br>	**TCP流量控制中通知窗口的功能是：[指明接收端的接收能力<br>	<br>	**TCP拥塞控制中的拥塞窗口是：[发送方根据网络状况得到的数值：<br>	<br>	**TCP协议中，连接管理的方法为：三次握手机制[C4-T9]<br>	<br><span class="hljs-comment">## TCP建立连接时，会协商哪些参数？</span><br>	*最大窗口<br>	TCP连接释放时，需要将--FIN--比特置位<br>	**TCP重传机制：<br>		<span class="hljs-comment">#一旦收到3个冗余ACK, TCP就执行快速重传</span><br>		<br>	**UDP协议在IP协议的数据报服务之上增加了--端口--和--差错检测--功能<br>	<br>	**UDP首部的组成：<br>		<span class="hljs-comment">#源端口、目的端口、长度、校验和 [ 2*4 Bytes ]</span><br>		**所以UDP用户数据报的长度最小是8[仅有首部]<br>		<br>	**UDP报文计算校验和时需要增加一个伪首部，伪首部长度为 -- 12 Bytes，4-4-1-1-2<br>		<span class="hljs-comment"># 源IP地址 - 目的IP地址 - 0 - 17 - UDP长度</span><br>		<br>	**TCP协议提供的服务使高层用户看到好像在两个运输实体之间有一天--端到端的-- 可靠的-- 全双工的--通信通路<br>	<br>	**TCP报文的首部最小长度是--20 字节--， 后面有4N字节根据需要而增加，<br>	<br>	**TCP有效荷载的最大长度是--65565字节？？？？<br>	<br><span class="hljs-comment">## 在TCP标准中，重发时间一般取为平均往返时间的--2倍</span><br>	**TCP发送窗口中的数据可以分为-- 以发送未被确认数据 和 -- 待发送数据-- ？？<br>	<br></code></pre></td></tr></table></figure>
 
 <hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## TCP拥塞控制</span><br>	**TCP拥塞控制算法分为四个阶段，分别是：--<br>		<span class="hljs-comment">##慢启动：</span><br>		<span class="hljs-comment">##拥塞避免</span><br>		<span class="hljs-comment">##快速重传</span><br>		<span class="hljs-comment">##快速恢复</span><br>		<br>		慢启动阶段，在没有出现丢包时每收到一个 ACK 就将拥塞窗口大小加一（单位是 MSS，最大单个报文段长度），每轮次发送窗口增加一倍，呈指数增长，若出现丢包，则将拥塞窗口减半，进入拥塞避免阶段；当窗口达到慢启动阈值或出现丢包时，进入拥塞避免阶段，窗口每轮次加一，呈线性增长；当收到对一个报文的三个重复的 ACK 时，认为这个报文的下一个报文丢失了，进入快重传阶段，立即重传丢失的报文，而不是等待超时重传；快重传完成后进入快恢复阶段，将慢启动阈值修改为当前拥塞窗口值的一半，同时拥塞窗口值等于慢启动阈值，然后进入拥塞避免阶段，重复上诉过程<br>[https://wenku.baidu.com/view/70397fa3915f804d2a16c182.html] - DETAILS<br><br><span class="hljs-comment">## 滑动窗口的作用：</span><br><br><span class="hljs-comment">## 接收窗口的作用</span><br><br><span class="hljs-comment">## 发送窗口的作用</span><br><br>**P182 5-36 5-43<br>----------------------------------------------------------------------------------------------------------<br><br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## TCP拥塞控制</span><br>	**TCP拥塞控制算法分为四个阶段，分别是：--<br>		<span class="hljs-comment">##慢启动：</span><br>		<span class="hljs-comment">##拥塞避免</span><br>		<span class="hljs-comment">##快速重传</span><br>		<span class="hljs-comment">##快速恢复</span><br>		<br>		慢启动阶段，在没有出现丢包时每收到一个 ACK 就将拥塞窗口大小加一（单位是 MSS，最大单个报文段长度），每轮次发送窗口增加一倍，呈指数增长，若出现丢包，则将拥塞窗口减半，进入拥塞避免阶段；当窗口达到慢启动阈值或出现丢包时，进入拥塞避免阶段，窗口每轮次加一，呈线性增长；当收到对一个报文的三个重复的 ACK 时，认为这个报文的下一个报文丢失了，进入快重传阶段，立即重传丢失的报文，而不是等待超时重传；快重传完成后进入快恢复阶段，将慢启动阈值修改为当前拥塞窗口值的一半，同时拥塞窗口值等于慢启动阈值，然后进入拥塞避免阶段，重复上诉过程<br>[https://wenku.baidu.com/view/70397fa3915f804d2a16c182.html] - DETAILS<br><br><span class="hljs-comment">## 滑动窗口的作用：</span><br><br><span class="hljs-comment">## 接收窗口的作用</span><br>	 流量控制<br><span class="hljs-comment">## 发送窗口的作用</span><br>	<br>**P182 5-36 5-43<br>----------------------------------------------------------------------------------------------------------<br><br></code></pre></td></tr></table></figure>
 
 
 
@@ -3908,6 +3908,18 @@
 
 <hr>
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## QA:</span><br>	T6-6<br>	<br></code></pre></td></tr></table></figure>
+
+
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 选择题整理：</span><br><br><br><br><br><br><br><br><br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 填空题整理</span><br><br><span class="hljs-comment">## 分片：当一个8192B的UDP数据报通过以太网传送时，导致分片，问需要分成几个数据报片？每个数据报片的长度和偏移是多少？</span><br>1）首先，计算数据包总长度：<br>数据包总长度=IP头（20字节）+UDP头（8字节）+UDP数据（8192字节）=8220（字节）<br>2）由于你没有提到分片大小，以一般的以太网MTU值（Maximum Transmission Unit，最大传输单元）1500字节计算。<br>因为要考虑20个字节的IP报文头，所以每个数据分片的数据段长度最大为1480字节。<br>3）分片结果，分为6片，具体长度和偏移量（IP报偏移量的单位是8字节，要除以8）如下：<br>第一片用户数据报的数据字段长度1480，偏移量0<br>第二片用户数据报的数据字段长度1480，偏移量1480/8<br>第三片用户数据报的数据字段长度1480，偏移量2960/8<br>第四片用户数据报的数据字段长度1480，偏移量4440/8<br>第五片用户数据报的数据字段长度1480，偏移量5920/8<br>第六片用户数据报的数据字段长度800，偏移量7400/8<br>4）如果分片大小有变化，即MTU值不是1500，请按照设定的MTU值计算即可。<br><br><span class="hljs-comment">## 数据链路层的协议数据单元称为：数据帧</span><br><br><span class="hljs-comment">## RIP是基于--距离矢量--算法的路由协议</span><br><br><span class="hljs-comment">## TCP拥塞控制算法常被称为--</span><br><br><br></code></pre></td></tr></table></figure>
+
+
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 计算题整理</span><br>	**1. 设一个信道带宽为4Hz，信噪比为30dB，求该信道的最大数据传输速率是多少？<br>	答：根据香农定理：<br>		C=Blog_2(1+S/N) ………………(其中S/N = 10^[信噪比[或者叫噪声比]/10]  ……比如噪声比=30dB，则S/N = 10^3 = 1000<br>		此处log_2(1001) ~= 10;  a^M = N<br><br><br><br>	**2. TCP Reno的计算：<br>		https://www.cnblogs.com/glsy/p/8605848.html<br>		  1.当出现因超时引起的重传时，执行：<br>1.ssthreshold = cwnd / 2<br>2.cwnd = 1<br>3.进入慢启动<br><br>		2.当出现发送端接收到三个重复的ACK后发生的重传，执行：<br>1.cwnd = cwnd / 2<br>2.ssthreshold = cwnd<br>3.进入快速恢复算法<br><br>		3.快速恢复算法：<br>1.前面已经更新了cwnd和ssthreshold<br>2.随后设置cwnd = cwnd + 3 * MSS<br>3.重传数据<br>4.再每收到一个重复ACK，cwnd = cwnd + 1<br>5.直到没收到重复ACK，设置cwnd = ssthreshold<br></code></pre></td></tr></table></figure>
 
 
 

@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>B000-四月的书单</title>
-    <url>/2021/01/06/B000-%E5%9B%9B%E6%9C%88%E7%9A%84%E4%B9%A6%E5%8D%95/</url>
-    <content><![CDATA[<h4 id="万般皆下品，唯有读书高"><a href="#万般皆下品，唯有读书高" class="headerlink" title="万般皆下品，唯有读书高"></a>万般皆下品，唯有读书高</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 过往的记忆</span><br>《如何阅读一本书》<br>《狼图腾》<br>《鞋狗》<br>《基业长青》<br>《从零到一》<br>《道路与梦想》<br>《数学之美》<br>《浪潮之巅》<br>《文明之光》<br>《大学之路》<br>《态度》<br>《见识》<br>《褚时健传》<br>《邓小平传》<br>《毛泽东传》<br>《任正非传》<br>《稻盛和夫》<br>《传习录》<br>《以客户为中心》<br>《大而不倒》<br>《乔布斯传》<br>《麦克阿瑟传》<br>《拿破仑传》<br>《杰克韦尔奇自传》<br>《将心注入》<br>《洛克菲勒自传》<br>《富甲美国》<br>《创新者的窘境》<br>《禅者的初心》<br>《被遗忘的士兵》<br>《狼群》<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>深夜书刊</category>
-        <category>阅读笔记</category>
-      </categories>
-      <tags>
-        <tag>四月的书单</tag>
-        <tag>阅读</tag>
-        <tag>阅读笔记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>B002-如何阅读一本书</title>
     <url>/2021/01/06/B002-%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/</url>
     <content><![CDATA[<h4 id="嘲讽"><a href="#嘲讽" class="headerlink" title="嘲讽"></a>嘲讽</h4><hr>
@@ -51,6 +34,23 @@
         <tag>深夜书刊</tag>
         <tag>读书笔记</tag>
         <tag>如何阅读一本书</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>B000-四月的书单</title>
+    <url>/2021/01/06/B000-%E5%9B%9B%E6%9C%88%E7%9A%84%E4%B9%A6%E5%8D%95/</url>
+    <content><![CDATA[<h4 id="万般皆下品，唯有读书高"><a href="#万般皆下品，唯有读书高" class="headerlink" title="万般皆下品，唯有读书高"></a>万般皆下品，唯有读书高</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 过往的记忆</span><br>《如何阅读一本书》<br>《狼图腾》<br>《鞋狗》<br>《基业长青》<br>《从零到一》<br>《道路与梦想》<br>《数学之美》<br>《浪潮之巅》<br>《文明之光》<br>《大学之路》<br>《态度》<br>《见识》<br>《褚时健传》<br>《邓小平传》<br>《毛泽东传》<br>《任正非传》<br>《稻盛和夫》<br>《传习录》<br>《以客户为中心》<br>《大而不倒》<br>《乔布斯传》<br>《麦克阿瑟传》<br>《拿破仑传》<br>《杰克韦尔奇自传》<br>《将心注入》<br>《洛克菲勒自传》<br>《富甲美国》<br>《创新者的窘境》<br>《禅者的初心》<br>《被遗忘的士兵》<br>《狼群》<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>深夜书刊</category>
+        <category>阅读笔记</category>
+      </categories>
+      <tags>
+        <tag>四月的书单</tag>
+        <tag>阅读</tag>
+        <tag>阅读笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -119,6 +119,25 @@
       </tags>
   </entry>
   <entry>
+    <title>I002-伟大的实践-个人经历管理系统</title>
+    <url>/2021/01/06/I002-%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AE%9E%E8%B7%B5-%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<h4 id="个人管理系统"><a href="#个人管理系统" class="headerlink" title="个人管理系统"></a>个人管理系统</h4><hr>
+<h5 id="系统简介"><a href="#系统简介" class="headerlink" title="系统简介"></a>系统简介</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 系统需求分析</span><br>	**1. 个人的经历需要管理<br>	**2. 个人的经历需要分类<br>	**3. 个人的经历隐藏价值<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h5 id="系统组成"><a href="#系统组成" class="headerlink" title="系统组成"></a>系统组成</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 系统主要组成</span><br>	**1. 经验系统<br>	**2. 等级系统<br>	**3. 段位系统<br>	**4. 属性系统<br>	**5. 声望系统<br>	**6. <br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>个人管理系统</tag>
+        <tag>项目设计</tag>
+        <tag>项目管理</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>I003-我学到了什么</title>
     <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
     <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
@@ -141,25 +160,6 @@
       </tags>
   </entry>
   <entry>
-    <title>I002-伟大的实践-个人经历管理系统</title>
-    <url>/2021/01/06/I002-%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AE%9E%E8%B7%B5-%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</url>
-    <content><![CDATA[<h4 id="个人管理系统"><a href="#个人管理系统" class="headerlink" title="个人管理系统"></a>个人管理系统</h4><hr>
-<h5 id="系统简介"><a href="#系统简介" class="headerlink" title="系统简介"></a>系统简介</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 系统需求分析</span><br>	**1. 个人的经历需要管理<br>	**2. 个人的经历需要分类<br>	**3. 个人的经历隐藏价值<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h5 id="系统组成"><a href="#系统组成" class="headerlink" title="系统组成"></a>系统组成</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 系统主要组成</span><br>	**1. 经验系统<br>	**2. 等级系统<br>	**3. 段位系统<br>	**4. 属性系统<br>	**5. 声望系统<br>	**6. <br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>个人管理系统</tag>
-        <tag>项目设计</tag>
-        <tag>项目管理</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>I004-全球积木竞赛</title>
     <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
     <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
@@ -174,19 +174,6 @@
       <tags>
         <tag>积木竞赛</tag>
         <tag>耐心与毅力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>OpenCV</title>
-    <url>/2020/12/20/OpenCV/</url>
-    <content><![CDATA[<h4 id="QT使用Opencv"><a href="#QT使用Opencv" class="headerlink" title="QT使用Opencv"></a>QT使用Opencv</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## </span><br>	**<span class="hljs-number">1</span>-下载Opencv源码<br>	**<span class="hljs-number">2</span>-下载Cmake安装<br>	**<span class="hljs-number">3</span>- ERROR：QT添加组件 --&gt; 放弃<br>	<br>**link<br>	**https:<span class="hljs-regexp">//</span>cmake.org<span class="hljs-regexp">/download/</span><br>	**https:<span class="hljs-regexp">//</span>opencv.org<span class="hljs-regexp">/releases/</span><br>	**https:<span class="hljs-regexp">//</span>baijiahao.baidu.com/s?id=<span class="hljs-number">1662883232064729369</span>&amp;wfr=spider&amp;<span class="hljs-keyword">for</span>=pc&amp;qq-pf-to=pcqq.c2c<br>	<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>QT实践</tag>
       </tags>
   </entry>
   <entry>
@@ -217,6 +204,19 @@
       <tags>
         <tag>数学建模</tag>
         <tag>数模资料</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>OpenCV</title>
+    <url>/2020/12/20/OpenCV/</url>
+    <content><![CDATA[<h4 id="QT使用Opencv"><a href="#QT使用Opencv" class="headerlink" title="QT使用Opencv"></a>QT使用Opencv</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## </span><br>	**<span class="hljs-number">1</span>-下载Opencv源码<br>	**<span class="hljs-number">2</span>-下载Cmake安装<br>	**<span class="hljs-number">3</span>- ERROR：QT添加组件 --&gt; 放弃<br>	<br>**link<br>	**https:<span class="hljs-regexp">//</span>cmake.org<span class="hljs-regexp">/download/</span><br>	**https:<span class="hljs-regexp">//</span>opencv.org<span class="hljs-regexp">/releases/</span><br>	**https:<span class="hljs-regexp">//</span>baijiahao.baidu.com/s?id=<span class="hljs-number">1662883232064729369</span>&amp;wfr=spider&amp;<span class="hljs-keyword">for</span>=pc&amp;qq-pf-to=pcqq.c2c<br>	<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>QT实践</tag>
       </tags>
   </entry>
   <entry>
@@ -282,6 +282,19 @@
       </tags>
   </entry>
   <entry>
+    <title>R001</title>
+    <url>/2020/12/14/R001/</url>
+    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
     <title>R000-文章命名规范</title>
     <url>/2021/01/01/R000/</url>
     <content><![CDATA[<h4 id="规范是为了更加高效"><a href="#规范是为了更加高效" class="headerlink" title="规范是为了更加高效"></a>规范是为了更加高效</h4><hr>
@@ -325,19 +338,6 @@
         <tag>文章标签规范</tag>
         <tag>文章命名规范</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>R001</title>
-    <url>/2020/12/14/R001/</url>
-    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
   </entry>
   <entry>
     <title>R002</title>
@@ -399,24 +399,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R005</title>
-    <url>/2020/12/16/R005/</url>
-    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>考研安排</tag>
-        <tag>思维导图</tag>
-        <tag>考研索引</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R006</title>
     <url>/2020/12/16/R006/</url>
     <content><![CDATA[<h4 id="实验模块"><a href="#实验模块" class="headerlink" title="实验模块"></a>实验模块</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## ROM<br><br>## RAM<br><br>## GPRs<br><br>## ALU<br></code></pre></td></tr></table></figure>
@@ -433,6 +415,24 @@
         <tag>RI-CPU</tag>
         <tag>计算机组成原理</tag>
         <tag>MIPS指令实现</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R005</title>
+    <url>/2020/12/16/R005/</url>
+    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>考研安排</tag>
+        <tag>思维导图</tag>
+        <tag>考研索引</tag>
       </tags>
   </entry>
   <entry>
@@ -578,20 +578,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R011</title>
-    <url>/2020/12/18/R011/</url>
-    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>演讲的艺术</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R012-软工知识点梳理</title>
     <url>/2020/12/23/R012/</url>
     <content><![CDATA[<h4 id="软工知识点梳理"><a href="#软工知识点梳理" class="headerlink" title="软工知识点梳理"></a>软工知识点梳理</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 梳理了考试和学习的重点</span><br>	**<br>	**<br><br><span class="hljs-comment">## 分析著名的缺乏测试项目</span><br>	** 爱国者导弹防御系统<br>	** 温州动车事故[2011]<br>	** <br><br><span class="hljs-comment">## 从敏捷软件开发到项目管理、从软件测试到DevOps</span><br>	**是否安装软件测试工具<br>	**是否开始学习DevOps<br><br><span class="hljs-comment">## 灵感的来源：</span><br>	** 元素周期表<br>	** 全世界、所有大学、所有专业的培养计划<br>	** 对人类社会产生重大深远影响的书籍<br>	<br><span class="hljs-comment">## 软工资料地址</span><br>	**[LINK] - [http://124.160.107.91:10001/SoftEng/SitePages/Home.aspx]<br>	**ID: SEI\189051042<br>	**PW: 189051042@hdu.com<br>	<br><br></code></pre></td></tr></table></figure>
@@ -604,6 +590,20 @@
         <tag>软件工程</tag>
         <tag>Xmind</tag>
         <tag>灵感</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R011</title>
+    <url>/2020/12/18/R011/</url>
+    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>演讲的艺术</tag>
       </tags>
   </entry>
   <entry>
@@ -698,14 +698,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
     <title>R015-17级实习分享会</title>
     <url>/2020/12/27/R015/</url>
     <content><![CDATA[<h4 id="17级实习经验分享"><a href="#17级实习经验分享" class="headerlink" title="17级实习经验分享"></a>17级实习经验分享</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 张晨</span><br>	**临场改PPT<br>	**<br>	<br>	**求职过程<br>		<span class="hljs-comment">#领英找内推</span><br>		<span class="hljs-comment">#放链接-最好是个人博客</span><br>		<span class="hljs-comment">#包装自己 -- 合理 -- 简历</span><br>		<span class="hljs-comment">#乐于分享 - 表达方法 - 表达自己</span><br>			**你的能力体现、<br>	**学习过程<br>		<span class="hljs-comment">#剑指Offer</span><br>		<span class="hljs-comment">#Leetcode</span><br>		<span class="hljs-comment">#自学能力</span><br>		<span class="hljs-comment">#Pendo - todolist</span><br>		<br>	**求职经验<br>		*项目中承担的角色<br>		*实现<br>		*主要负责<br>		**擅长什么类型<br>		**为什么对这个方向感兴趣？<br>		<br>		*interview.huihut.com<br>		<br>	**看公司的年报，去了解公司<br>	<br>	**逻辑分析- 金字塔模型 - 第一点、第二点、第三点<br>	<br>	**岗位匹配度<br>	<br>	<span class="hljs-comment">#一定要早一点去实习</span><br>	<br></code></pre></td></tr></table></figure>
@@ -720,6 +712,14 @@
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 江飞翔</span><br>	<span class="hljs-comment">#求职经历</span><br>		**简历<br>			<span class="hljs-comment">#实习经历</span><br>			<span class="hljs-comment">#项目经历</span><br>			<span class="hljs-comment">#荣誉奖项</span><br>			<span class="hljs-comment">#写博客</span><br>		**面试经验<br>			<span class="hljs-comment">#注意时间分配</span><br>			<span class="hljs-comment">#大量投简历</span><br>			<span class="hljs-comment">#春招一定要去试试</span><br>		**算法题<br>		**面试<br>	<span class="hljs-comment">#</span><br>	<br>	<span class="hljs-comment">#</span><br><br></code></pre></td></tr></table></figure>
 
 ]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016/</url>
+    <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
@@ -1040,6 +1040,78 @@
       </tags>
   </entry>
   <entry>
+    <title>R025-组成原理实验分配</title>
+    <url>/2020/12/30/R025/</url>
+    <content><![CDATA[<h4 id="任务分配"><a href="#任务分配" class="headerlink" title="任务分配"></a>任务分配</h4><hr>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>实验报告</th>
+<th>作者</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>实验一</td>
+<td>全加器设计</td>
+<td>邹桥东</td>
+</tr>
+<tr>
+<td>实验二</td>
+<td>超前进位加法器设计</td>
+<td>陈天宇</td>
+</tr>
+<tr>
+<td>实验三</td>
+<td>多功能ALU设计实验</td>
+<td>罗依蒙</td>
+</tr>
+<tr>
+<td>实验四</td>
+<td>寄存器堆设计实验</td>
+<td>袁震宏</td>
+</tr>
+<tr>
+<td>实验五</td>
+<td>存储器设计实验</td>
+<td>王焱琪</td>
+</tr>
+<tr>
+<td>实验六</td>
+<td>MIPS汇编器与模拟器实验</td>
+<td>王焱琪</td>
+</tr>
+<tr>
+<td>实验七</td>
+<td>取指令与指令译码实验</td>
+<td>袁震宏</td>
+</tr>
+<tr>
+<td>实验八</td>
+<td>实现R型指令的CPU设计实验</td>
+<td>罗依蒙</td>
+</tr>
+<tr>
+<td>实验九</td>
+<td>实现R-I型指令的CPU设计实验</td>
+<td>陈天宇</td>
+</tr>
+<tr>
+<td>实验十</td>
+<td>实现R-I-J型指令的CPU设计实验</td>
+<td>邹桥东</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>计算机组成原理</tag>
+        <tag>实验报告</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R023-圣经阅读记录</title>
     <url>/2020/12/28/R023/</url>
     <content><![CDATA[<h4 id="亚伯拉罕"><a href="#亚伯拉罕" class="headerlink" title="亚伯拉罕"></a>亚伯拉罕</h4><hr>
@@ -1143,78 +1215,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R025-组成原理实验分配</title>
-    <url>/2020/12/30/R025/</url>
-    <content><![CDATA[<h4 id="任务分配"><a href="#任务分配" class="headerlink" title="任务分配"></a>任务分配</h4><hr>
-<table>
-<thead>
-<tr>
-<th></th>
-<th>实验报告</th>
-<th>作者</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>实验一</td>
-<td>全加器设计</td>
-<td>邹桥东</td>
-</tr>
-<tr>
-<td>实验二</td>
-<td>超前进位加法器设计</td>
-<td>陈天宇</td>
-</tr>
-<tr>
-<td>实验三</td>
-<td>多功能ALU设计实验</td>
-<td>罗依蒙</td>
-</tr>
-<tr>
-<td>实验四</td>
-<td>寄存器堆设计实验</td>
-<td>袁震宏</td>
-</tr>
-<tr>
-<td>实验五</td>
-<td>存储器设计实验</td>
-<td>王焱琪</td>
-</tr>
-<tr>
-<td>实验六</td>
-<td>MIPS汇编器与模拟器实验</td>
-<td>王焱琪</td>
-</tr>
-<tr>
-<td>实验七</td>
-<td>取指令与指令译码实验</td>
-<td>袁震宏</td>
-</tr>
-<tr>
-<td>实验八</td>
-<td>实现R型指令的CPU设计实验</td>
-<td>罗依蒙</td>
-</tr>
-<tr>
-<td>实验九</td>
-<td>实现R-I型指令的CPU设计实验</td>
-<td>陈天宇</td>
-</tr>
-<tr>
-<td>实验十</td>
-<td>实现R-I-J型指令的CPU设计实验</td>
-<td>邹桥东</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>计算机组成原理</tag>
-        <tag>实验报告</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R026-门徒训练第三课</title>
     <url>/2020/12/30/R026/</url>
     <content><![CDATA[<h4 id="为什么要建立稳定的灵修生活"><a href="#为什么要建立稳定的灵修生活" class="headerlink" title="为什么要建立稳定的灵修生活"></a>为什么要建立稳定的灵修生活</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 四件事情：</span><br>	A-为何建立稳定的灵修生活如此重要<br>		**是神儿女们绝不可忽视的拳脚功夫<br>			若不深耕，如何结实？--神一生都在建造我们<br>			当地震、海啸来临之时，一眼就看出哪些树、哪些房屋的根基是深厚的<br>		**生命软弱、跟神关系疏远的原因：<br>			-当今门徒训练-普遍的现象：肤浅、不够深。很多人的生命并没有被改变<br>			很关键的原因就是没有每一天过一个稳定的灵修生活<br>			目的：生命被改变、跟神的关系被改变、与主更亲近、生活更得胜<br>		**是当今时代众教会普遍的危机<br>			好像神家得不到供应，缺少生命-根基问题：没有稳定的灵修生活<br>			<br>		**圣经中的榜样-尤其是主耶稣自己，经常退到野地、海边、或山上去祷告<br>			约瑟在大饥荒之前，就是一直在积蓄粮食：我们的灵修、生活的一切都是在积蓄粮食，<br>			当你里面真正有生命的时候，神会把有需要的人带来。<br>			路德，拾穗。在波阿斯的田里，每一天拾穗就够我们所用<br>			与神亲密且持续的关系<br>			<br>	<span class="hljs-comment">## 我们务要认识耶和华，竭力追求认识祂。祂出现确如晨光；祂必临到我们想甘露，像滋润田地的春雨。 何 6:3</span><br>	<br>	<br></code></pre></td></tr></table></figure>
@@ -1279,6 +1279,76 @@
         <tag>912考研笔记</tag>
         <tag>考研规划</tag>
         <tag>考研资料</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R029-个人项目经验规划</title>
+    <url>/2021/01/01/R029/</url>
+    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cser如何面对复试</td>
+<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
+</tr>
+<tr>
+<td>大数据工程师该会什么</td>
+<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
+</tr>
+<tr>
+<td>清华大学计科培养方案</td>
+<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
+</tr>
+<tr>
+<td>20计算机经验帖</td>
+<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
+</tr>
+<tr>
+<td>一位学姐的912分享</td>
+<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>数据结构邓俊辉</td>
+<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
+<table>
+<thead>
+<tr>
+<th>数据机构[学堂在线]</th>
+<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>考研英语词根词缀</td>
+<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>数学建模</tag>
+        <tag>912考研资料索引专刊</tag>
+        <tag>个人项目规划参考</tag>
+        <tag>大数据工程</tag>
       </tags>
   </entry>
   <entry>
@@ -1559,93 +1629,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R029-个人项目经验规划</title>
-    <url>/2021/01/01/R029/</url>
-    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
-<table>
-<thead>
-<tr>
-<th>名称</th>
-<th>链接</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Cser如何面对复试</td>
-<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
-</tr>
-<tr>
-<td>大数据工程师该会什么</td>
-<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
-</tr>
-<tr>
-<td>清华大学计科培养方案</td>
-<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
-</tr>
-<tr>
-<td>20计算机经验帖</td>
-<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
-</tr>
-<tr>
-<td>一位学姐的912分享</td>
-<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>数据结构邓俊辉</td>
-<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<hr>
-<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
-<table>
-<thead>
-<tr>
-<th>数据机构[学堂在线]</th>
-<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>考研英语词根词缀</td>
-<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>数学建模</tag>
-        <tag>912考研资料索引专刊</tag>
-        <tag>个人项目规划参考</tag>
-        <tag>大数据工程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R030-自动化发布文章更新</title>
-    <url>/2021/01/01/R030/</url>
-    <content><![CDATA[<h4 id="不断趋于完美"><a href="#不断趋于完美" class="headerlink" title="不断趋于完美"></a>不断趋于完美</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 加入新的功能</span><br>	**创建文章时只需要输入类型，不需要指定具体编号<br>	**能够自动提取参数并且加入到tag<br>	**能够自动追加整体经验值<br>	**能够自动判断段位增量<br></code></pre></td></tr></table></figure>
-
-<p><code>3.14159.........</code></p>
-<p>:fallen_leaf:</p>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>自动化构建</tag>
-        <tag>系统维护</tag>
-        <tag>商业化潜力</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R031-假期项目安排</title>
     <url>/2021/01/03/R031/</url>
     <content><![CDATA[<h4 id="一个大胆的计划"><a href="#一个大胆的计划" class="headerlink" title="一个大胆的计划"></a>一个大胆的计划</h4><hr>
@@ -1684,223 +1667,20 @@
       </tags>
   </entry>
   <entry>
-    <title>R033-考研单词L2</title>
-    <url>/2021/01/03/R033/</url>
-    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
+    <title>R030-自动化发布文章更新</title>
+    <url>/2021/01/01/R030/</url>
+    <content><![CDATA[<h4 id="不断趋于完美"><a href="#不断趋于完美" class="headerlink" title="不断趋于完美"></a>不断趋于完美</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 加入新的功能</span><br>	**创建文章时只需要输入类型，不需要指定具体编号<br>	**能够自动提取参数并且加入到tag<br>	**能够自动追加整体经验值<br>	**能够自动判断段位增量<br></code></pre></td></tr></table></figure>
 
-<hr>
-<table>
-<thead>
-<tr>
-<th>supersensitive</th>
-<th></th>
-<th>profess</th>
-<th></th>
-<th>precocious</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>supercharge</td>
-<td></td>
-<td>prodigious</td>
-<td></td>
-<td>predict</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudo</td>
-<td></td>
-<td>proclivity</td>
-<td></td>
-<td>predisposition</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudonym</td>
-<td></td>
-<td>procure</td>
-<td></td>
-<td>preoccupation</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudoscience</td>
-<td></td>
-<td>prominent</td>
-<td></td>
-<td>prescient</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudograph</td>
-<td></td>
-<td>prosecute</td>
-<td></td>
-<td>prerogative</td>
-<td></td>
-</tr>
-<tr>
-<td>pro-American</td>
-<td></td>
-<td>prospect</td>
-<td></td>
-<td>postage</td>
-<td></td>
-</tr>
-<tr>
-<td>proslavery</td>
-<td></td>
-<td>provident</td>
-<td></td>
-<td>postoffice</td>
-<td></td>
-</tr>
-<tr>
-<td>proabortionist</td>
-<td></td>
-<td>provoke</td>
-<td></td>
-<td>postcard</td>
-<td></td>
-</tr>
-<tr>
-<td>procrastinate</td>
-<td></td>
-<td>preschool</td>
-<td></td>
-<td>postal</td>
-<td></td>
-</tr>
-<tr>
-<td>procreate</td>
-<td></td>
-<td>prehistory</td>
-<td></td>
-<td>postwar</td>
-<td></td>
-</tr>
-<tr>
-<td>profligate</td>
-<td></td>
-<td>prefix</td>
-<td></td>
-<td>postpone</td>
-<td></td>
-</tr>
-<tr>
-<td>proliferate</td>
-<td></td>
-<td>preposition</td>
-<td></td>
-<td>postgraduate</td>
-<td></td>
-</tr>
-<tr>
-<td>profit</td>
-<td></td>
-<td>prepay</td>
-<td></td>
-<td>postface</td>
-<td></td>
-</tr>
-<tr>
-<td>profuse</td>
-<td></td>
-<td>prebuilt</td>
-<td></td>
-<td>posterior</td>
-<td></td>
-</tr>
-<tr>
-<td>prolific</td>
-<td></td>
-<td>preamble</td>
-<td></td>
-<td>polyandry</td>
-<td></td>
-</tr>
-<tr>
-<td>prosperous</td>
-<td></td>
-<td>precaution</td>
-<td></td>
-<td>polyglot</td>
-<td></td>
-</tr>
-<tr>
-<td>progress</td>
-<td></td>
-<td>precede</td>
-<td></td>
-<td>polyfunctional</td>
-<td></td>
-</tr>
-<tr>
-<td>project</td>
-<td></td>
-<td>precedent</td>
-<td></td>
-<td>perigon</td>
-<td></td>
-</tr>
-<tr>
-<td>prologue</td>
-<td></td>
-<td>precept</td>
-<td></td>
-<td>perimeter</td>
-<td></td>
-</tr>
-<tr>
-<td>promote</td>
-<td></td>
-<td>precinct</td>
-<td></td>
-<td>periphery</td>
-<td></td>
-</tr>
-<tr>
-<td>protrude</td>
-<td></td>
-<td>precipice</td>
-<td></td>
-<td>perfidy</td>
-<td></td>
-</tr>
-<tr>
-<td>propel</td>
-<td></td>
-<td>precipitation</td>
-<td></td>
-<td>perjury</td>
-<td></td>
-</tr>
-<tr>
-<td>proficient</td>
-<td></td>
-<td>precise</td>
-<td></td>
-<td>perfunctory</td>
-<td></td>
-</tr>
-<tr>
-<td>profile</td>
-<td></td>
-<td>preclude</td>
-<td></td>
-<td>perpetrate</td>
-<td></td>
-</tr>
-</tbody></table>
+<p><code>3.14159.........</code></p>
+<p>:fallen_leaf:</p>
 ]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
       <tags>
-        <tag>英语单词</tag>
-        <tag>考研英语</tag>
+        <tag>自动化构建</tag>
+        <tag>系统维护</tag>
+        <tag>商业化潜力</tag>
       </tags>
   </entry>
   <entry>
@@ -2173,6 +1953,241 @@
       </tags>
   </entry>
   <entry>
+    <title>R033-考研单词L2</title>
+    <url>/2021/01/03/R033/</url>
+    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
+
+<hr>
+<table>
+<thead>
+<tr>
+<th>supersensitive</th>
+<th></th>
+<th>profess</th>
+<th></th>
+<th>precocious</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>supercharge</td>
+<td></td>
+<td>prodigious</td>
+<td></td>
+<td>predict</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudo</td>
+<td></td>
+<td>proclivity</td>
+<td></td>
+<td>predisposition</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudonym</td>
+<td></td>
+<td>procure</td>
+<td></td>
+<td>preoccupation</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudoscience</td>
+<td></td>
+<td>prominent</td>
+<td></td>
+<td>prescient</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudograph</td>
+<td></td>
+<td>prosecute</td>
+<td></td>
+<td>prerogative</td>
+<td></td>
+</tr>
+<tr>
+<td>pro-American</td>
+<td></td>
+<td>prospect</td>
+<td></td>
+<td>postage</td>
+<td></td>
+</tr>
+<tr>
+<td>proslavery</td>
+<td></td>
+<td>provident</td>
+<td></td>
+<td>postoffice</td>
+<td></td>
+</tr>
+<tr>
+<td>proabortionist</td>
+<td></td>
+<td>provoke</td>
+<td></td>
+<td>postcard</td>
+<td></td>
+</tr>
+<tr>
+<td>procrastinate</td>
+<td></td>
+<td>preschool</td>
+<td></td>
+<td>postal</td>
+<td></td>
+</tr>
+<tr>
+<td>procreate</td>
+<td></td>
+<td>prehistory</td>
+<td></td>
+<td>postwar</td>
+<td></td>
+</tr>
+<tr>
+<td>profligate</td>
+<td></td>
+<td>prefix</td>
+<td></td>
+<td>postpone</td>
+<td></td>
+</tr>
+<tr>
+<td>proliferate</td>
+<td></td>
+<td>preposition</td>
+<td></td>
+<td>postgraduate</td>
+<td></td>
+</tr>
+<tr>
+<td>profit</td>
+<td></td>
+<td>prepay</td>
+<td></td>
+<td>postface</td>
+<td></td>
+</tr>
+<tr>
+<td>profuse</td>
+<td></td>
+<td>prebuilt</td>
+<td></td>
+<td>posterior</td>
+<td></td>
+</tr>
+<tr>
+<td>prolific</td>
+<td></td>
+<td>preamble</td>
+<td></td>
+<td>polyandry</td>
+<td></td>
+</tr>
+<tr>
+<td>prosperous</td>
+<td></td>
+<td>precaution</td>
+<td></td>
+<td>polyglot</td>
+<td></td>
+</tr>
+<tr>
+<td>progress</td>
+<td></td>
+<td>precede</td>
+<td></td>
+<td>polyfunctional</td>
+<td></td>
+</tr>
+<tr>
+<td>project</td>
+<td></td>
+<td>precedent</td>
+<td></td>
+<td>perigon</td>
+<td></td>
+</tr>
+<tr>
+<td>prologue</td>
+<td></td>
+<td>precept</td>
+<td></td>
+<td>perimeter</td>
+<td></td>
+</tr>
+<tr>
+<td>promote</td>
+<td></td>
+<td>precinct</td>
+<td></td>
+<td>periphery</td>
+<td></td>
+</tr>
+<tr>
+<td>protrude</td>
+<td></td>
+<td>precipice</td>
+<td></td>
+<td>perfidy</td>
+<td></td>
+</tr>
+<tr>
+<td>propel</td>
+<td></td>
+<td>precipitation</td>
+<td></td>
+<td>perjury</td>
+<td></td>
+</tr>
+<tr>
+<td>proficient</td>
+<td></td>
+<td>precise</td>
+<td></td>
+<td>perfunctory</td>
+<td></td>
+</tr>
+<tr>
+<td>profile</td>
+<td></td>
+<td>preclude</td>
+<td></td>
+<td>perpetrate</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R035-人工智能-初级踩坑</title>
+    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
+    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>入门资料</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R034-md图标收藏</title>
     <url>/2021/01/04/R034/</url>
     <content><![CDATA[<h4 id="四月图标收藏栏"><a href="#四月图标收藏栏" class="headerlink" title="四月图标收藏栏"></a>四月图标收藏栏</h4><p>:fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis:</p>
@@ -2189,21 +2204,6 @@
         <tag>图案模板</tag>
         <tag>图标线条</tag>
         <tag>图形设计</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R035-人工智能-初级踩坑</title>
-    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
-    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>入门资料</tag>
       </tags>
   </entry>
   <entry>
@@ -2509,6 +2509,21 @@
       <categories>
         <category>日常记录</category>
       </categories>
+  </entry>
+  <entry>
+    <title>R039-HZIEE-CS-STACK-初期会议</title>
+    <url>/2021/01/06/R039-HZIEE-CS-STACK-%E5%88%9D%E6%9C%9F%E4%BC%9A%E8%AE%AE/</url>
+    <content><![CDATA[<h4 id="会议目的"><a href="#会议目的" class="headerlink" title="会议目的"></a>会议目的</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 团队成员素查</span><br>	** 认为自己没有时间继续做这个项目，可退出<br>	** 认为做这个项目毫无意义，对自己没有帮助，可退出<br>	** 没有任何理由，可推出<br>	<br><span class="hljs-comment">## 回顾之前做了什么</span><br><span class="hljs-comment">## 传达下一步做什么</span><br>	** <br><span class="hljs-comment">## 下一个项目做什么</span><br>	** <br>	** <br>	** 应用到我们当前的项目：CS-STACK，添加金币经验等级管理<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>团队管理</tag>
+        <tag>HZIEE资料共享项目</tag>
+      </tags>
   </entry>
   <entry>
     <title>R039-考研单词L4</title>
@@ -3038,21 +3053,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R039-HZIEE-CS-STACK-初期会议</title>
-    <url>/2021/01/06/R039-HZIEE-CS-STACK-%E5%88%9D%E6%9C%9F%E4%BC%9A%E8%AE%AE/</url>
-    <content><![CDATA[<h4 id="会议目的"><a href="#会议目的" class="headerlink" title="会议目的"></a>会议目的</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 团队成员素查</span><br>	** 认为自己没有时间继续做这个项目，可退出<br>	** 认为做这个项目毫无意义，对自己没有帮助，可退出<br>	** 没有任何理由，可推出<br>	<br><span class="hljs-comment">## 回顾之前做了什么</span><br><span class="hljs-comment">## 传达下一步做什么</span><br>	** <br><span class="hljs-comment">## 下一个项目做什么</span><br>	** <br>	** <br>	** 应用到我们当前的项目：CS-STACK，添加金币经验等级管理<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>团队管理</tag>
-        <tag>HZIEE资料共享项目</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R040-马原考点梳理</title>
     <url>/2021/01/06/R040-%E9%A9%AC%E5%8E%9F%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
     <content><![CDATA[<h4 id="引用资料"><a href="#引用资料" class="headerlink" title="引用资料"></a>引用资料</h4><hr>
@@ -3454,21 +3454,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R045-Visio绘制流程图</title>
-    <url>/2021/01/07/R045-Visio%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B%E5%9B%BE/</url>
-    <content><![CDATA[<h4 id="流程图绘制神器"><a href="#流程图绘制神器" class="headerlink" title="流程图绘制神器"></a>流程图绘制神器</h4><blockquote>
-<p>Visio</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>流程图绘制工具</tag>
-        <tag>Visio</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R044-信工计网复习提纲</title>
     <url>/2021/01/07/R044-%E4%BF%A1%E5%B7%A5%E8%AE%A1%E7%BD%91%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2/</url>
     <content><![CDATA[<p>计算机网络复习提纲</p>
@@ -3542,6 +3527,21 @@
       </tags>
   </entry>
   <entry>
+    <title>R045-Visio绘制流程图</title>
+    <url>/2021/01/07/R045-Visio%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B%E5%9B%BE/</url>
+    <content><![CDATA[<h4 id="流程图绘制神器"><a href="#流程图绘制神器" class="headerlink" title="流程图绘制神器"></a>流程图绘制神器</h4><blockquote>
+<p>Visio</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>流程图绘制工具</tag>
+        <tag>Visio</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R046-以不变应万变</title>
     <url>/2021/01/07/R046-%E4%BB%A5%E4%B8%8D%E5%8F%98%E5%BA%94%E4%B8%87%E5%8F%98/</url>
     <content><![CDATA[<h4 id="告别2020"><a href="#告别2020" class="headerlink" title="告别2020"></a>告别2020</h4><hr>
@@ -3587,6 +3587,273 @@
       <tags>
         <tag>单词等级</tag>
         <tag>经验管理系统</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R050-考研单词L6</title>
+    <url>/2021/01/09/R050-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL6/</url>
+    <content><![CDATA[<h4 id="以不变应万变"><a href="#以不变应万变" class="headerlink" title="以不变应万变"></a>以不变应万变</h4><hr>
+<table>
+<thead>
+<tr>
+<th>encounter</th>
+<th></th>
+<th>immigrant</th>
+<th></th>
+<th>mirror</th>
+<th></th>
+<th>surroundings</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>patron</td>
+<td></td>
+<td>invade</td>
+<td></td>
+<td>purchase</td>
+<td></td>
+<td>slender</td>
+<td></td>
+</tr>
+<tr>
+<td>scheme</td>
+<td></td>
+<td>confident</td>
+<td></td>
+<td>permeate</td>
+<td></td>
+<td>linger</td>
+<td></td>
+</tr>
+<tr>
+<td>thermal</td>
+<td></td>
+<td>nominate</td>
+<td></td>
+<td>steep</td>
+<td></td>
+<td>classical</td>
+<td></td>
+</tr>
+<tr>
+<td>pursue</td>
+<td></td>
+<td>wisdom</td>
+<td></td>
+<td>calendar</td>
+<td></td>
+<td>rein</td>
+<td></td>
+</tr>
+<tr>
+<td>acquaint</td>
+<td></td>
+<td>phase</td>
+<td></td>
+<td>dam</td>
+<td></td>
+<td>scale</td>
+<td></td>
+</tr>
+<tr>
+<td>worthwhile</td>
+<td></td>
+<td>specialist</td>
+<td></td>
+<td>narrative</td>
+<td></td>
+<td>suspend</td>
+<td></td>
+</tr>
+<tr>
+<td>lumber</td>
+<td></td>
+<td>definite</td>
+<td></td>
+<td>worldwide</td>
+<td></td>
+<td>exert</td>
+<td></td>
+</tr>
+<tr>
+<td>majesty</td>
+<td></td>
+<td>somehow</td>
+<td></td>
+<td>altitude</td>
+<td></td>
+<td>lamb</td>
+<td></td>
+</tr>
+<tr>
+<td>global</td>
+<td></td>
+<td>subscribe</td>
+<td></td>
+<td>vulgar</td>
+<td></td>
+<td>target</td>
+<td></td>
+</tr>
+<tr>
+<td>repertoire</td>
+<td></td>
+<td>carbohydrate</td>
+<td></td>
+<td>cripple</td>
+<td></td>
+<td>butterfly</td>
+<td></td>
+</tr>
+<tr>
+<td>aggressibe</td>
+<td></td>
+<td>discourse</td>
+<td></td>
+<td>liable</td>
+<td></td>
+<td>librarian</td>
+<td></td>
+</tr>
+<tr>
+<td>compensate</td>
+<td></td>
+<td>complicate</td>
+<td></td>
+<td>farewell</td>
+<td></td>
+<td>supreme</td>
+<td></td>
+</tr>
+<tr>
+<td>oppose</td>
+<td></td>
+<td>contrary</td>
+<td></td>
+<td>equality</td>
+<td></td>
+<td>liberal</td>
+<td></td>
+</tr>
+<tr>
+<td>crew</td>
+<td></td>
+<td>numerical</td>
+<td></td>
+<td>panel</td>
+<td></td>
+<td>peanut</td>
+<td></td>
+</tr>
+<tr>
+<td>sake</td>
+<td></td>
+<td>junior</td>
+<td></td>
+<td>immune</td>
+<td></td>
+<td>biology</td>
+<td></td>
+</tr>
+<tr>
+<td>X-ray</td>
+<td></td>
+<td>overhaul</td>
+<td></td>
+<td>pamphlet</td>
+<td></td>
+<td>satisfactory</td>
+<td></td>
+</tr>
+<tr>
+<td>interrupt</td>
+<td></td>
+<td>fuss</td>
+<td></td>
+<td>federal</td>
+<td></td>
+<td>wink</td>
+<td></td>
+</tr>
+<tr>
+<td>obstruction</td>
+<td></td>
+<td>undo</td>
+<td></td>
+<td>snap</td>
+<td></td>
+<td>multiple</td>
+<td></td>
+</tr>
+<tr>
+<td>fragile</td>
+<td></td>
+<td>ax</td>
+<td></td>
+<td>indifferent</td>
+<td></td>
+<td>trumpet</td>
+<td></td>
+</tr>
+<tr>
+<td>cautious</td>
+<td></td>
+<td>majority</td>
+<td></td>
+<td>fairy</td>
+<td></td>
+<td>hijack</td>
+<td></td>
+</tr>
+<tr>
+<td>echo</td>
+<td></td>
+<td>physical</td>
+<td></td>
+<td>transistor</td>
+<td></td>
+<td>sensible</td>
+<td></td>
+</tr>
+<tr>
+<td>agony</td>
+<td></td>
+<td>possess</td>
+<td></td>
+<td>whatsoever</td>
+<td></td>
+<td>nurture</td>
+<td></td>
+</tr>
+<tr>
+<td>negotiate</td>
+<td></td>
+<td>elevator</td>
+<td></td>
+<td>fancy</td>
+<td></td>
+<td>selection</td>
+<td></td>
+</tr>
+<tr>
+<td>propose</td>
+<td></td>
+<td>buffet</td>
+<td></td>
+<td>recur</td>
+<td></td>
+<td>heir</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
       </tags>
   </entry>
   <entry>

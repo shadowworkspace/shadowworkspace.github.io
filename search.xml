@@ -97,28 +97,6 @@
       </tags>
   </entry>
   <entry>
-    <title>I003-我学到了什么</title>
-    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
-    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
-<blockquote>
-<p>回收多年的学习生涯，在看看当前的自己：</p>
-<p>不会写作</p>
-<p>不会阅读</p>
-<p>不会演讲</p>
-<p>不会语言</p>
-<p>那么这么多年我们在学习什么呢？</p>
-</blockquote>
-<hr>
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>深度思考</tag>
-        <tag>我在做什么</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>I001-战争军事</title>
     <url>/2021/01/04/I001-%E6%88%98%E4%BA%89%E5%86%9B%E4%BA%8B/</url>
     <content><![CDATA[<h4 id="克隆另一个自己"><a href="#克隆另一个自己" class="headerlink" title="克隆另一个自己"></a>克隆另一个自己</h4><hr>
@@ -138,6 +116,28 @@
         <tag>人工智能</tag>
         <tag>杀戮武器</tag>
         <tag>战争军事</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>I003-我学到了什么</title>
+    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
+    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
+<blockquote>
+<p>回收多年的学习生涯，在看看当前的自己：</p>
+<p>不会写作</p>
+<p>不会阅读</p>
+<p>不会演讲</p>
+<p>不会语言</p>
+<p>那么这么多年我们在学习什么呢？</p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>深度思考</tag>
+        <tag>我在做什么</tag>
       </tags>
   </entry>
   <entry>
@@ -234,6 +234,23 @@
       </tags>
   </entry>
   <entry>
+    <title>P002-高等数学-奇谈</title>
+    <url>/2021/01/04/P002-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E5%A5%87%E8%B0%88/</url>
+    <content><![CDATA[<h4 id="关于积分的思考"><a href="#关于积分的思考" class="headerlink" title="关于积分的思考"></a>关于积分的思考</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 求导</span><br>	** 求导数的过程就是降维打击的过程：<br>		<span class="hljs-comment">#从空间到平面 --&gt; 从平面到直线 --&gt; 从直线到基点 --&gt; 从点到虚无</span><br>		<br>	** 积分的过程就是量变引起质变，并且受到统计支配：<br>		<span class="hljs-comment">#从一个点恢复到一条线，这个过程可能被随机扭曲：直线变成了曲线</span><br>		<span class="hljs-comment">#从一条直线恢复到一个平面，被扭曲，平面变成了曲面</span><br>		<span class="hljs-comment">#从一个平面恢复到一个空间几何体，被扭曲，成为了奇怪的几何体[扭曲的过程是随机的，但是表现出统计学规律]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>专业学习</category>
+        <category>高等数学</category>
+      </categories>
+      <tags>
+        <tag>空间几何</tag>
+        <tag>导数与积分</tag>
+        <tag>奇异思想</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>P001-算法的有穷性</title>
     <url>/2021/01/01/P001-%E7%AE%97%E6%B3%95%E7%9A%84%E6%9C%89%E7%A9%B7%E6%80%A7/</url>
     <content><![CDATA[<h4 id="算法的有穷性"><a href="#算法的有穷性" class="headerlink" title="算法的有穷性"></a>算法的有穷性</h4><hr>
@@ -249,23 +266,6 @@
         <tag>DSA</tag>
         <tag>hailstone</tag>
         <tag>algorithm</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>P002-高等数学-奇谈</title>
-    <url>/2021/01/04/P002-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E5%A5%87%E8%B0%88/</url>
-    <content><![CDATA[<h4 id="关于积分的思考"><a href="#关于积分的思考" class="headerlink" title="关于积分的思考"></a>关于积分的思考</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 求导</span><br>	** 求导数的过程就是降维打击的过程：<br>		<span class="hljs-comment">#从空间到平面 --&gt; 从平面到直线 --&gt; 从直线到基点 --&gt; 从点到虚无</span><br>		<br>	** 积分的过程就是量变引起质变，并且受到统计支配：<br>		<span class="hljs-comment">#从一个点恢复到一条线，这个过程可能被随机扭曲：直线变成了曲线</span><br>		<span class="hljs-comment">#从一条直线恢复到一个平面，被扭曲，平面变成了曲面</span><br>		<span class="hljs-comment">#从一个平面恢复到一个空间几何体，被扭曲，成为了奇怪的几何体[扭曲的过程是随机的，但是表现出统计学规律]</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>专业学习</category>
-        <category>高等数学</category>
-      </categories>
-      <tags>
-        <tag>空间几何</tag>
-        <tag>导数与积分</tag>
-        <tag>奇异思想</tag>
       </tags>
   </entry>
   <entry>
@@ -354,6 +354,20 @@
       </categories>
   </entry>
   <entry>
+    <title>R003</title>
+    <url>/2020/12/15/R003/</url>
+    <content><![CDATA[<hr>
+<figure class="highlight csharp"><table><tr><td class="code"><pre><code class="hljs csharp"><span class="hljs-meta">## 如何让故事更加真实、可触摸？</span><br>	一位脾气暴躁的姐妹，有一天走在路上，突然不知道从什么地方飞过来一个马铃薯砸在她头上。她顿时火冒三丈，捡起马铃薯准备寻找元凶报仇，突然一个声音在她脑中想起：已经是门徒了，还是没有改变吗？<br>	她愤怒立刻消去，也不再寻找扔她的人了，转身拿起马铃薯，回到家中，把这个马铃薯切成碎片。然后种植在架子上。几个月之后，马铃薯一颗颗长出来了。等到见证之时，马铃薯可以送出去，又养成新的马铃薯。<br>	<br>	[<span class="hljs-meta">故事本身很简单，但是故事的寓意和提示深远悠长</span>]<br>	[<span class="hljs-meta">用行动赋予故事意义</span>]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>blub</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R002</title>
     <url>/2020/12/15/R002/</url>
     <content><![CDATA[<hr>
@@ -378,20 +392,6 @@
         <tag>门徒训练</tag>
         <tag>N102</tag>
         <tag>在基督的学校作门徒</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R003</title>
-    <url>/2020/12/15/R003/</url>
-    <content><![CDATA[<hr>
-<figure class="highlight csharp"><table><tr><td class="code"><pre><code class="hljs csharp"><span class="hljs-meta">## 如何让故事更加真实、可触摸？</span><br>	一位脾气暴躁的姐妹，有一天走在路上，突然不知道从什么地方飞过来一个马铃薯砸在她头上。她顿时火冒三丈，捡起马铃薯准备寻找元凶报仇，突然一个声音在她脑中想起：已经是门徒了，还是没有改变吗？<br>	她愤怒立刻消去，也不再寻找扔她的人了，转身拿起马铃薯，回到家中，把这个马铃薯切成碎片。然后种植在架子上。几个月之后，马铃薯一颗颗长出来了。等到见证之时，马铃薯可以送出去，又养成新的马铃薯。<br>	<br>	[<span class="hljs-meta">故事本身很简单，但是故事的寓意和提示深远悠长</span>]<br>	[<span class="hljs-meta">用行动赋予故事意义</span>]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>blub</tag>
       </tags>
   </entry>
   <entry>
@@ -447,21 +447,6 @@
         <tag>RI-CPU</tag>
         <tag>计算机组成原理</tag>
         <tag>MIPS指令实现</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R007</title>
-    <url>/2020/12/16/R007/</url>
-    <content><![CDATA[<h4 id=""><a href="#" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>www.mi.com<span class="hljs-regexp">/miwifimini 		/</span><span class="hljs-regexp">/ MI</span><br></code></pre></td></tr></table></figure>
-
-<h4 id="-1"><a href="#-1" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">VLC									<span class="hljs-regexp">//</span> QT视频处理方案<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>MI</tag>
       </tags>
   </entry>
   <entry>
@@ -534,6 +519,21 @@
       <tags>
         <tag>企业管理</tag>
         <tag>未雨绸缪</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R007</title>
+    <url>/2020/12/16/R007/</url>
+    <content><![CDATA[<h4 id=""><a href="#" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>www.mi.com<span class="hljs-regexp">/miwifimini 		/</span><span class="hljs-regexp">/ MI</span><br></code></pre></td></tr></table></figure>
+
+<h4 id="-1"><a href="#-1" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">VLC									<span class="hljs-regexp">//</span> QT视频处理方案<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>MI</tag>
       </tags>
   </entry>
   <entry>
@@ -731,16 +731,16 @@
       </categories>
   </entry>
   <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016/</url>
+    <title>R017-NULL</title>
+    <url>/2020/12/27/R017/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
   </entry>
   <entry>
-    <title>R017-NULL</title>
-    <url>/2020/12/27/R017/</url>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
@@ -2069,21 +2069,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R035-人工智能-初级踩坑</title>
-    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
-    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>入门资料</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R036-CS-STACK项目分析会议</title>
     <url>/2021/01/06/R036-CS-STACK%E9%A1%B9%E7%9B%AE%E5%88%86%E6%9E%90%E4%BC%9A%E8%AE%AE/</url>
     <content><![CDATA[<h4 id="项目人员素查"><a href="#项目人员素查" class="headerlink" title="项目人员素查"></a>项目人员素查</h4><hr>
@@ -2105,6 +2090,21 @@
         <tag>HZIEE-CS-STACK</tag>
         <tag>项目分析</tag>
         <tag>会议大纲</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R035-人工智能-初级踩坑</title>
+    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
+    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>入门资料</tag>
       </tags>
   </entry>
   <entry>
@@ -3434,18 +3434,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R048-单词计划经验等级管理</title>
-    <url>/2021/01/08/R048-%E5%8D%95%E8%AF%8D%E8%AE%A1%E5%88%92%E7%BB%8F%E9%AA%8C%E7%AD%89%E7%BA%A7%E7%AE%A1%E7%90%86/</url>
-    <content><![CDATA[<h4 id="我们的每一天、做的每一件事都值得被记录"><a href="#我们的每一天、做的每一件事都值得被记录" class="headerlink" title="我们的每一天、做的每一件事都值得被记录"></a>我们的每一天、做的每一件事都值得被记录</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 等级颜色样式引用：</span><br>[https://ant.design/docs/spec/colors<span class="hljs-comment">#System-level-Color-System]</span><br><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>单词等级</tag>
-        <tag>经验管理系统</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R047-毛泽东思想考点梳理</title>
     <url>/2021/01/08/R047-%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
     <content><![CDATA[<h4 id="考试时间"><a href="#考试时间" class="headerlink" title="考试时间"></a>考试时间</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 三天左右出成绩</span><br>	**15号晚<br>	**可以携带任何纸质材料<br></code></pre></td></tr></table></figure>
@@ -3464,6 +3452,18 @@
       <tags>
         <tag>毛泽东思想体系</tag>
         <tag>毛考试知识点梳理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R048-单词计划经验等级管理</title>
+    <url>/2021/01/08/R048-%E5%8D%95%E8%AF%8D%E8%AE%A1%E5%88%92%E7%BB%8F%E9%AA%8C%E7%AD%89%E7%BA%A7%E7%AE%A1%E7%90%86/</url>
+    <content><![CDATA[<h4 id="我们的每一天、做的每一件事都值得被记录"><a href="#我们的每一天、做的每一件事都值得被记录" class="headerlink" title="我们的每一天、做的每一件事都值得被记录"></a>我们的每一天、做的每一件事都值得被记录</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 等级颜色样式引用：</span><br>[https://ant.design/docs/spec/colors<span class="hljs-comment">#System-level-Color-System]</span><br><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>单词等级</tag>
+        <tag>经验管理系统</tag>
       </tags>
   </entry>
   <entry>

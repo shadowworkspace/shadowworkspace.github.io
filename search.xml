@@ -169,16 +169,25 @@
       </tags>
   </entry>
   <entry>
-    <title>OpenCV</title>
-    <url>/2020/12/20/OpenCV/</url>
-    <content><![CDATA[<h4 id="QT使用Opencv"><a href="#QT使用Opencv" class="headerlink" title="QT使用Opencv"></a>QT使用Opencv</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## </span><br>	**<span class="hljs-number">1</span>-下载Opencv源码<br>	**<span class="hljs-number">2</span>-下载Cmake安装<br>	**<span class="hljs-number">3</span>- ERROR：QT添加组件 --&gt; 放弃<br>	<br>**link<br>	**https:<span class="hljs-regexp">//</span>cmake.org<span class="hljs-regexp">/download/</span><br>	**https:<span class="hljs-regexp">//</span>opencv.org<span class="hljs-regexp">/releases/</span><br>	**https:<span class="hljs-regexp">//</span>baijiahao.baidu.com/s?id=<span class="hljs-number">1662883232064729369</span>&amp;wfr=spider&amp;<span class="hljs-keyword">for</span>=pc&amp;qq-pf-to=pcqq.c2c<br>	<br></code></pre></td></tr></table></figure>
-
+    <title>I003-我学到了什么</title>
+    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
+    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
+<blockquote>
+<p>回收多年的学习生涯，在看看当前的自己：</p>
+<p>不会写作</p>
+<p>不会阅读</p>
+<p>不会演讲</p>
+<p>不会语言</p>
+<p>那么这么多年我们在学习什么呢？</p>
+</blockquote>
+<hr>
 ]]></content>
       <categories>
-        <category>日常记录</category>
+        <category>突发灵感</category>
       </categories>
       <tags>
-        <tag>QT实践</tag>
+        <tag>深度思考</tag>
+        <tag>我在做什么</tag>
       </tags>
   </entry>
   <entry>
@@ -212,25 +221,16 @@
       </tags>
   </entry>
   <entry>
-    <title>I003-我学到了什么</title>
-    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
-    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
-<blockquote>
-<p>回收多年的学习生涯，在看看当前的自己：</p>
-<p>不会写作</p>
-<p>不会阅读</p>
-<p>不会演讲</p>
-<p>不会语言</p>
-<p>那么这么多年我们在学习什么呢？</p>
-</blockquote>
-<hr>
+    <title>OpenCV</title>
+    <url>/2020/12/20/OpenCV/</url>
+    <content><![CDATA[<h4 id="QT使用Opencv"><a href="#QT使用Opencv" class="headerlink" title="QT使用Opencv"></a>QT使用Opencv</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## </span><br>	**<span class="hljs-number">1</span>-下载Opencv源码<br>	**<span class="hljs-number">2</span>-下载Cmake安装<br>	**<span class="hljs-number">3</span>- ERROR：QT添加组件 --&gt; 放弃<br>	<br>**link<br>	**https:<span class="hljs-regexp">//</span>cmake.org<span class="hljs-regexp">/download/</span><br>	**https:<span class="hljs-regexp">//</span>opencv.org<span class="hljs-regexp">/releases/</span><br>	**https:<span class="hljs-regexp">//</span>baijiahao.baidu.com/s?id=<span class="hljs-number">1662883232064729369</span>&amp;wfr=spider&amp;<span class="hljs-keyword">for</span>=pc&amp;qq-pf-to=pcqq.c2c<br>	<br></code></pre></td></tr></table></figure>
+
 ]]></content>
       <categories>
-        <category>突发灵感</category>
+        <category>日常记录</category>
       </categories>
       <tags>
-        <tag>深度思考</tag>
-        <tag>我在做什么</tag>
+        <tag>QT实践</tag>
       </tags>
   </entry>
   <entry>
@@ -413,24 +413,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R005</title>
-    <url>/2020/12/16/R005/</url>
-    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>考研安排</tag>
-        <tag>思维导图</tag>
-        <tag>考研索引</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R006</title>
     <url>/2020/12/16/R006/</url>
     <content><![CDATA[<h4 id="实验模块"><a href="#实验模块" class="headerlink" title="实验模块"></a>实验模块</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## ROM<br><br>## RAM<br><br>## GPRs<br><br>## ALU<br></code></pre></td></tr></table></figure>
@@ -450,6 +432,24 @@
       </tags>
   </entry>
   <entry>
+    <title>R005</title>
+    <url>/2020/12/16/R005/</url>
+    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>考研安排</tag>
+        <tag>思维导图</tag>
+        <tag>考研索引</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R007</title>
     <url>/2020/12/16/R007/</url>
     <content><![CDATA[<h4 id=""><a href="#" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>www.mi.com<span class="hljs-regexp">/miwifimini 		/</span><span class="hljs-regexp">/ MI</span><br></code></pre></td></tr></table></figure>
@@ -462,20 +462,6 @@
       </categories>
       <tags>
         <tag>MI</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R009</title>
-    <url>/2020/12/17/R009/</url>
-    <content><![CDATA[<h4 id="提前准备"><a href="#提前准备" class="headerlink" title="提前准备"></a>提前准备</h4><figure class="highlight gams"><table><tr><td class="code"><pre><code class="hljs gams"><span class="hljs-comment">**企业管理的工具、方法</span><br><span class="hljs-comment">**财务、人力、研发</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>企业管理</tag>
-        <tag>未雨绸缪</tag>
       </tags>
   </entry>
   <entry>
@@ -534,6 +520,20 @@
       <tags>
         <tag>计算机组成原理</tag>
         <tag>考试内容</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R009</title>
+    <url>/2020/12/17/R009/</url>
+    <content><![CDATA[<h4 id="提前准备"><a href="#提前准备" class="headerlink" title="提前准备"></a>提前准备</h4><figure class="highlight gams"><table><tr><td class="code"><pre><code class="hljs gams"><span class="hljs-comment">**企业管理的工具、方法</span><br><span class="hljs-comment">**财务、人力、研发</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>企业管理</tag>
+        <tag>未雨绸缪</tag>
       </tags>
   </entry>
   <entry>
@@ -621,43 +621,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R014-马原分享笔记</title>
-    <url>/2020/12/26/R014/</url>
-    <content><![CDATA[<h4 id="提纲"><a href="#提纲" class="headerlink" title="提纲"></a>提纲</h4><p>​        大家早上好，今天我分享的主体是垄断资本主义，根据国际管理，我们的分享会综合理论与实践相结合的方式，贯彻实践是检验真理的唯一标准重要思想，来分析垄断与垄断企业案例。</p>
-<p>第一理论部分是垄断资本主义，我会简要的介绍垄断资本主义的相关定义和发展阶段；第二实践部分是企业垄断案例分析，我们会重点举例分析，包括著名的滴滴优步合并案、谷歌、微软“反”垄断案例</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 垄断资本主义</span><br><br><span class="hljs-comment">## 垄断  </span><br>	<span class="hljs-comment"># 什么是垄断？</span><br>`垄断是从政府保护主义的自由竞争中成长起来的。在以自由竞争为基本特征的资本主义发展阶段，资本主义企业为了攫取更多的剩余价值，必然会采取先进的生产技术和科学的管理方法，实行生产的专业化和协作，提高劳动生产率；在激烈的竞争中，大企业往往凭借自己在经济上的优势，不断排挤和吞并中小企业，使生产资料、劳动力和劳动产品的生产日益集中于自己手中。<br></code></pre></td></tr></table></figure>
-
-
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 垄断资本主义的定义</span><br><br>垄断资本主义（formation of monopoly capitalism）即帝国主义，是资本主义发展的最高阶段。它是在资本主义生产力和生产关系的矛盾进一步发展的基础上，在生产和资本加速集中的过程中，于19世纪末20世纪初形成起来的。资本主义从自由竞争阶段进入到垄断阶段，是资本主义社会生产力和生产关系矛盾运动的结果。垄断是适应生产高度社会化而产生的资本社会化形式。垄断取代自由竞争只是在资本主义私有制范围内生产关系的阶段性调整。垄断资本主义在发展过程中又出现部分质的变化，从私人垄断资本主义转变为国家垄断资本主义<br></code></pre></td></tr></table></figure>
-
-<hr>
-<p>小结：垄断是从政府保护主义的自由竞争中成长起来的</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 垄断资本主义的三个阶段</span><br><br>生产和资本集中达到一定规模会造成垄断，可能出现由大企业之间协议或联合组成的垄断组织。垄断组织的发展有一个从少到多、从小到大的发展过程。这个过程大致分为3个基本时期：<br>第一个时期　19世纪60-70年代。这时，自由竞争资本主义发展到了顶点，垄断组织开始出现，但只是处于萌芽状态。如在60年代，美国工矿业和铁路业中出现了称作“普尔”的垄断组织。它们在企业间订立短期协定，规定共同价格，分配营业额和划分销售市场。德国在1857年出现了第一个卡特尔，到1870年增加到6个。<br><br>*卡特尔：Cartel ，也叫同业联盟、企业联合、垄断联盟，由一系列生产类似产品的独立企业所构成的组织，集体行动的生产者，目的是提高该类产品价格和控制其产量。根据美国反托拉斯法，卡特尔属于非法。参加这一同盟的成员在生产、商业和法律上仍然保持独立性。<br><br><br>第二个时期　1873年爆发严重经济危机以后到80年代。在这个时期，连续发生的经济危机使生产和资本的集中进一步加强，垄断组织得到了广泛发展。1882年，美国出现第一个托拉斯，即J.D.洛克菲勒（1839～1937）的美孚石油托拉斯，接着80年代在榨油、造酒、制糖、火柴、烟草、屠宰和采煤等部门都出现了托拉斯组织。德国1879年有卡特尔14个，1890年猛增到210个。英、法等国也出现了垄断组织。但是这时垄断组织还未占统治地位，垄断协定往往还是暂时的、不稳固的。<br>*托拉斯：Trust的音译。垄断组织的高级形式之一。参加的企业在生产上、商业上和法律上都丧失独立性。当然目的都是为了垄断销售市场、争夺原料产地和投资范围，加强竞争力量，以获取高额垄断利润<br>*金融资本：Financial capital 工业垄断资本和银行垄断资本在一起而形成的垄断资本。简单讲就是钱生钱的途径<br>*金融寡头：Tycoon，掌握着经济、政治统治权的大金融资本家或集团<br><br>第三个时期　19世纪末20世纪初。这个时期，由于工业高涨和经济危机的交替作用，资本和生产的集中大大加快，垄断组织急剧增加，普及到一切主要工业部门，并和银行垄断结合起来，形成了金融资本和金融寡头，垄断成了全部经济生活的基础，垄断资本在各个主要资本主义国家确立了统治地位。以美国为例：到1904年，美国共有318个工业托拉斯，其中占资本总额5/6的236个，是在1898年以后建立的。这318个工业托拉斯吞并了5300个工业企业，拥有全部加工工业资本的40%。在这些托拉斯中，有26个托拉斯控制了各自部门生产的80%以上，有57个控制各自部门生产的60%以上，有78个控制各自部门生产的50%以上。在工业迅速集中和垄断的同时，银行业也迅速地向集中和垄断发展，并出现了银行资本与工业资本相融合的金融资本。1901年银行巨头J.P.摩根（1837～1913）组织美国钢铁公司，石油大王洛克菲勒在19世纪90年代掌握花旗银行，就是典型的例证。金融资本通过对工商业的长期贷款、股票和债券的买卖、直接向工商业投资，支配着整个社会的工商企业，统治着整个国民经济的活动。20世纪初，在美国已经确立了金融资本的统治。它们的代表者是摩根、洛克菲勒、库恩－洛布、梅隆、杜邦、芝加哥、克利夫兰、波士顿等八大财团和60个家族。金融资本还操纵政府，控制着国家全部政治生活，决定国家的对内对外政策。<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">##垄断的危害<br><span class="hljs-comment">	**行业垄断导致有效投资不足</span><br>			提高了整个社会的竞争成本<br><span class="hljs-comment">	**垄断行业直接影响其他行业</span><br>			价格垄断拉高整个社会成本，垄断性行业所从事的一般都是与绝大多数人、行业息息相关的公共事业，例如电信、邮政、自来水、电		  力、煤气、铁路、航空等等。<br>			因为这些行业渗透到社会的方方面面，所以这些行业的服务价格的高低便关系到整个社会的成本。这些行业的整体效率直接关系到其		  他产业参与国际竞争的能力。		<br><span class="hljs-comment">	**行政垄断滋生腐败毒瘤</span><br>	<br>	那么问题又来了，如果对于一个企业来讲，要不要反垄断呢？<br>	如果你的企业是行业垄断受害者，你当然和消费者一样强烈反对垄断<br>	如果你的企业就是行业垄断者，那么你要不要反垄断呢？答案是肯定的。当然要听从党的领导，为人民服务，还有一个问题，企业的目的是盈利，如果我直接退出，那少则几十人，多则数万名员工要如何养家糊口呢？<br>	只不过垄断企业要做的不是反垄断，而是把自己变成“非垄断”企业<br></code></pre></td></tr></table></figure>
-
-
-
-<hr>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><code class="hljs yaml"><span class="hljs-comment">## 滴滴优步</span><br>	<span class="hljs-number">2016</span><span class="hljs-string">年8月1日，占有中国网约车市场最大订单份额的滴滴出行与优步中国宣布合并。</span><br>	<span class="hljs-number">2016</span><span class="hljs-string">年9月，商务部表示称正对滴滴优步合并进行反垄断调查。</span><br>	<span class="hljs-number">2018</span><span class="hljs-string">年11月，国家市场监管总局反垄断局局长吴振国在新闻发布会上表示，市场监管总局正在运用《反垄断法》对滴滴优步合并案进行反垄断调查，全面分析评估该交易案对市场竞争和行业发展的影响，以及对损害消费者利益的垄断行为。</span><br>		<span class="hljs-string">*投资人不愿继续烧钱</span><br>		<span class="hljs-string">*出行行业格局已定</span><br>		<span class="hljs-string">*滴滴地位不可撼动，优步退出更加理性</span><br>		<span class="hljs-string">*合并具备协同效应，有利于应对外部竞争</span><br>		<span class="hljs-string">*专车新规出台，合并有利于共同扩张</span><br><br><span class="hljs-comment">## 浏览器之争</span><br><span class="hljs-string">该案主要源于Internet</span> <span class="hljs-string">浏览器之争。Netscape（网景）公司通过推出强大的Navigator网络浏览器而一举成名。而原本控制操作系统软件市场的微软公司则针对Navigator</span> <span class="hljs-string">推出了自己的浏览器Internet</span> <span class="hljs-string">Explorer（IE），并且将IE</span> <span class="hljs-string">与其操作系统Windows95</span> <span class="hljs-string">捆绑在一起进行销售；进而微软公司还要求PC</span> <span class="hljs-string">制造商在购买Windows操作系统的时候不准去掉Windows</span> <span class="hljs-string">软件包中的IE，否则就不准将Windows</span> <span class="hljs-string">卖给该PC</span> <span class="hljs-string">厂商。美国司法部（DOJ）反托拉斯分部因此在1997</span> <span class="hljs-string">年10</span> <span class="hljs-string">月20</span> <span class="hljs-string">日指控微软公司利用它的影响力抑制来自于Netscape</span> <span class="hljs-string">公司潜在的竞争，从而违反了美国的反垄断法。</span><br><br><span class="hljs-number">2000</span> <span class="hljs-string">年6</span> <span class="hljs-string">月7</span> <span class="hljs-string">日这一天将载入史册，当天美国联邦地区法院法官杰克逊对微软涉嫌垄断一案做出了拆分微软的一审判决。杰克逊法官判决微软公司败诉，下令该公司停止在Windows95</span> <span class="hljs-string">的销售中捆绑IE</span> <span class="hljs-string">浏览器的行为，不允许把捆绑IE</span> <span class="hljs-string">作为Windows95</span> <span class="hljs-string">许可协议的一个前提条件。不过法官拒绝了司法部对微软每日100万美元的罚款请求。</span><br><br><span class="hljs-comment">## 谷歌涉嫌垄断</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<p><code>LINK</code></p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">https://mm.edrawsoft.cn/template/86077			// LINK DATA<br></code></pre></td></tr></table></figure>
-
-<p><code>将PPT导出为PDF格式</code></p>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>马克思主义基本原理</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R013-组成原理笔记</title>
     <url>/2020/12/24/R013/</url>
     <content><![CDATA[<h4 id="微程序控制器"><a href="#微程序控制器" class="headerlink" title="微程序控制器"></a>微程序控制器</h4><hr>
@@ -712,12 +675,41 @@
       </categories>
   </entry>
   <entry>
-    <title>R017-NULL</title>
-    <url>/2020/12/27/R017/</url>
-    <content><![CDATA[]]></content>
+    <title>R014-马原分享笔记</title>
+    <url>/2020/12/26/R014/</url>
+    <content><![CDATA[<h4 id="提纲"><a href="#提纲" class="headerlink" title="提纲"></a>提纲</h4><p>​        大家早上好，今天我分享的主体是垄断资本主义，根据国际管理，我们的分享会综合理论与实践相结合的方式，贯彻实践是检验真理的唯一标准重要思想，来分析垄断与垄断企业案例。</p>
+<p>第一理论部分是垄断资本主义，我会简要的介绍垄断资本主义的相关定义和发展阶段；第二实践部分是企业垄断案例分析，我们会重点举例分析，包括著名的滴滴优步合并案、谷歌、微软“反”垄断案例</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 垄断资本主义</span><br><br><span class="hljs-comment">## 垄断  </span><br>	<span class="hljs-comment"># 什么是垄断？</span><br>`垄断是从政府保护主义的自由竞争中成长起来的。在以自由竞争为基本特征的资本主义发展阶段，资本主义企业为了攫取更多的剩余价值，必然会采取先进的生产技术和科学的管理方法，实行生产的专业化和协作，提高劳动生产率；在激烈的竞争中，大企业往往凭借自己在经济上的优势，不断排挤和吞并中小企业，使生产资料、劳动力和劳动产品的生产日益集中于自己手中。<br></code></pre></td></tr></table></figure>
+
+
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 垄断资本主义的定义</span><br><br>垄断资本主义（formation of monopoly capitalism）即帝国主义，是资本主义发展的最高阶段。它是在资本主义生产力和生产关系的矛盾进一步发展的基础上，在生产和资本加速集中的过程中，于19世纪末20世纪初形成起来的。资本主义从自由竞争阶段进入到垄断阶段，是资本主义社会生产力和生产关系矛盾运动的结果。垄断是适应生产高度社会化而产生的资本社会化形式。垄断取代自由竞争只是在资本主义私有制范围内生产关系的阶段性调整。垄断资本主义在发展过程中又出现部分质的变化，从私人垄断资本主义转变为国家垄断资本主义<br></code></pre></td></tr></table></figure>
+
+<hr>
+<p>小结：垄断是从政府保护主义的自由竞争中成长起来的</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 垄断资本主义的三个阶段</span><br><br>生产和资本集中达到一定规模会造成垄断，可能出现由大企业之间协议或联合组成的垄断组织。垄断组织的发展有一个从少到多、从小到大的发展过程。这个过程大致分为3个基本时期：<br>第一个时期　19世纪60-70年代。这时，自由竞争资本主义发展到了顶点，垄断组织开始出现，但只是处于萌芽状态。如在60年代，美国工矿业和铁路业中出现了称作“普尔”的垄断组织。它们在企业间订立短期协定，规定共同价格，分配营业额和划分销售市场。德国在1857年出现了第一个卡特尔，到1870年增加到6个。<br><br>*卡特尔：Cartel ，也叫同业联盟、企业联合、垄断联盟，由一系列生产类似产品的独立企业所构成的组织，集体行动的生产者，目的是提高该类产品价格和控制其产量。根据美国反托拉斯法，卡特尔属于非法。参加这一同盟的成员在生产、商业和法律上仍然保持独立性。<br><br><br>第二个时期　1873年爆发严重经济危机以后到80年代。在这个时期，连续发生的经济危机使生产和资本的集中进一步加强，垄断组织得到了广泛发展。1882年，美国出现第一个托拉斯，即J.D.洛克菲勒（1839～1937）的美孚石油托拉斯，接着80年代在榨油、造酒、制糖、火柴、烟草、屠宰和采煤等部门都出现了托拉斯组织。德国1879年有卡特尔14个，1890年猛增到210个。英、法等国也出现了垄断组织。但是这时垄断组织还未占统治地位，垄断协定往往还是暂时的、不稳固的。<br>*托拉斯：Trust的音译。垄断组织的高级形式之一。参加的企业在生产上、商业上和法律上都丧失独立性。当然目的都是为了垄断销售市场、争夺原料产地和投资范围，加强竞争力量，以获取高额垄断利润<br>*金融资本：Financial capital 工业垄断资本和银行垄断资本在一起而形成的垄断资本。简单讲就是钱生钱的途径<br>*金融寡头：Tycoon，掌握着经济、政治统治权的大金融资本家或集团<br><br>第三个时期　19世纪末20世纪初。这个时期，由于工业高涨和经济危机的交替作用，资本和生产的集中大大加快，垄断组织急剧增加，普及到一切主要工业部门，并和银行垄断结合起来，形成了金融资本和金融寡头，垄断成了全部经济生活的基础，垄断资本在各个主要资本主义国家确立了统治地位。以美国为例：到1904年，美国共有318个工业托拉斯，其中占资本总额5/6的236个，是在1898年以后建立的。这318个工业托拉斯吞并了5300个工业企业，拥有全部加工工业资本的40%。在这些托拉斯中，有26个托拉斯控制了各自部门生产的80%以上，有57个控制各自部门生产的60%以上，有78个控制各自部门生产的50%以上。在工业迅速集中和垄断的同时，银行业也迅速地向集中和垄断发展，并出现了银行资本与工业资本相融合的金融资本。1901年银行巨头J.P.摩根（1837～1913）组织美国钢铁公司，石油大王洛克菲勒在19世纪90年代掌握花旗银行，就是典型的例证。金融资本通过对工商业的长期贷款、股票和债券的买卖、直接向工商业投资，支配着整个社会的工商企业，统治着整个国民经济的活动。20世纪初，在美国已经确立了金融资本的统治。它们的代表者是摩根、洛克菲勒、库恩－洛布、梅隆、杜邦、芝加哥、克利夫兰、波士顿等八大财团和60个家族。金融资本还操纵政府，控制着国家全部政治生活，决定国家的对内对外政策。<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">##垄断的危害<br><span class="hljs-comment">	**行业垄断导致有效投资不足</span><br>			提高了整个社会的竞争成本<br><span class="hljs-comment">	**垄断行业直接影响其他行业</span><br>			价格垄断拉高整个社会成本，垄断性行业所从事的一般都是与绝大多数人、行业息息相关的公共事业，例如电信、邮政、自来水、电		  力、煤气、铁路、航空等等。<br>			因为这些行业渗透到社会的方方面面，所以这些行业的服务价格的高低便关系到整个社会的成本。这些行业的整体效率直接关系到其		  他产业参与国际竞争的能力。		<br><span class="hljs-comment">	**行政垄断滋生腐败毒瘤</span><br>	<br>	那么问题又来了，如果对于一个企业来讲，要不要反垄断呢？<br>	如果你的企业是行业垄断受害者，你当然和消费者一样强烈反对垄断<br>	如果你的企业就是行业垄断者，那么你要不要反垄断呢？答案是肯定的。当然要听从党的领导，为人民服务，还有一个问题，企业的目的是盈利，如果我直接退出，那少则几十人，多则数万名员工要如何养家糊口呢？<br>	只不过垄断企业要做的不是反垄断，而是把自己变成“非垄断”企业<br></code></pre></td></tr></table></figure>
+
+
+
+<hr>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><code class="hljs yaml"><span class="hljs-comment">## 滴滴优步</span><br>	<span class="hljs-number">2016</span><span class="hljs-string">年8月1日，占有中国网约车市场最大订单份额的滴滴出行与优步中国宣布合并。</span><br>	<span class="hljs-number">2016</span><span class="hljs-string">年9月，商务部表示称正对滴滴优步合并进行反垄断调查。</span><br>	<span class="hljs-number">2018</span><span class="hljs-string">年11月，国家市场监管总局反垄断局局长吴振国在新闻发布会上表示，市场监管总局正在运用《反垄断法》对滴滴优步合并案进行反垄断调查，全面分析评估该交易案对市场竞争和行业发展的影响，以及对损害消费者利益的垄断行为。</span><br>		<span class="hljs-string">*投资人不愿继续烧钱</span><br>		<span class="hljs-string">*出行行业格局已定</span><br>		<span class="hljs-string">*滴滴地位不可撼动，优步退出更加理性</span><br>		<span class="hljs-string">*合并具备协同效应，有利于应对外部竞争</span><br>		<span class="hljs-string">*专车新规出台，合并有利于共同扩张</span><br><br><span class="hljs-comment">## 浏览器之争</span><br><span class="hljs-string">该案主要源于Internet</span> <span class="hljs-string">浏览器之争。Netscape（网景）公司通过推出强大的Navigator网络浏览器而一举成名。而原本控制操作系统软件市场的微软公司则针对Navigator</span> <span class="hljs-string">推出了自己的浏览器Internet</span> <span class="hljs-string">Explorer（IE），并且将IE</span> <span class="hljs-string">与其操作系统Windows95</span> <span class="hljs-string">捆绑在一起进行销售；进而微软公司还要求PC</span> <span class="hljs-string">制造商在购买Windows操作系统的时候不准去掉Windows</span> <span class="hljs-string">软件包中的IE，否则就不准将Windows</span> <span class="hljs-string">卖给该PC</span> <span class="hljs-string">厂商。美国司法部（DOJ）反托拉斯分部因此在1997</span> <span class="hljs-string">年10</span> <span class="hljs-string">月20</span> <span class="hljs-string">日指控微软公司利用它的影响力抑制来自于Netscape</span> <span class="hljs-string">公司潜在的竞争，从而违反了美国的反垄断法。</span><br><br><span class="hljs-number">2000</span> <span class="hljs-string">年6</span> <span class="hljs-string">月7</span> <span class="hljs-string">日这一天将载入史册，当天美国联邦地区法院法官杰克逊对微软涉嫌垄断一案做出了拆分微软的一审判决。杰克逊法官判决微软公司败诉，下令该公司停止在Windows95</span> <span class="hljs-string">的销售中捆绑IE</span> <span class="hljs-string">浏览器的行为，不允许把捆绑IE</span> <span class="hljs-string">作为Windows95</span> <span class="hljs-string">许可协议的一个前提条件。不过法官拒绝了司法部对微软每日100万美元的罚款请求。</span><br><br><span class="hljs-comment">## 谷歌涉嫌垄断</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<p><code>LINK</code></p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">https://mm.edrawsoft.cn/template/86077			// LINK DATA<br></code></pre></td></tr></table></figure>
+
+<p><code>将PPT导出为PDF格式</code></p>
+]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
+      <tags>
+        <tag>马克思主义基本原理</tag>
+      </tags>
   </entry>
   <entry>
     <title>R015-17级实习分享会</title>
@@ -796,6 +788,14 @@
       <tags>
         <tag>linux kernel</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>R017-NULL</title>
+    <url>/2020/12/27/R017/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
   </entry>
   <entry>
     <title>R021-软工答辩初稿</title>
@@ -1020,39 +1020,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R026-门徒训练第三课</title>
-    <url>/2020/12/30/R026/</url>
-    <content><![CDATA[<h4 id="为什么要建立稳定的灵修生活"><a href="#为什么要建立稳定的灵修生活" class="headerlink" title="为什么要建立稳定的灵修生活"></a>为什么要建立稳定的灵修生活</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 四件事情：</span><br>	A-为何建立稳定的灵修生活如此重要<br>		**是神儿女们绝不可忽视的拳脚功夫<br>			若不深耕，如何结实？--神一生都在建造我们<br>			当地震、海啸来临之时，一眼就看出哪些树、哪些房屋的根基是深厚的<br>		**生命软弱、跟神关系疏远的原因：<br>			-当今门徒训练-普遍的现象：肤浅、不够深。很多人的生命并没有被改变<br>			很关键的原因就是没有每一天过一个稳定的灵修生活<br>			目的：生命被改变、跟神的关系被改变、与主更亲近、生活更得胜<br>		**是当今时代众教会普遍的危机<br>			好像神家得不到供应，缺少生命-根基问题：没有稳定的灵修生活<br>			<br>		**圣经中的榜样-尤其是主耶稣自己，经常退到野地、海边、或山上去祷告<br>			约瑟在大饥荒之前，就是一直在积蓄粮食：我们的灵修、生活的一切都是在积蓄粮食，<br>			当你里面真正有生命的时候，神会把有需要的人带来。<br>			路德，拾穗。在波阿斯的田里，每一天拾穗就够我们所用<br>			与神亲密且持续的关系<br>			<br>	<span class="hljs-comment">## 我们务要认识耶和华，竭力追求认识祂。祂出现确如晨光；祂必临到我们想甘露，像滋润田地的春雨。 何 6:3</span><br>	<br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="竭力追求认识祂"><a href="#竭力追求认识祂" class="headerlink" title="竭力追求认识祂"></a>竭力追求认识祂</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 光和雨都是生命成长所必须要的，[在竭力上不够，所以光和雨缺乏导致生长的不好]</span><br>	我们务必要认识耶和华，竭力追求认识他。祂出现确如晨光；祂必临到我们像甘雨，像滋润田地的春雨。<br></code></pre></td></tr></table></figure>
-
-<h4 id="培养好习惯的重要"><a href="#培养好习惯的重要" class="headerlink" title="培养好习惯的重要"></a>培养好习惯的重要</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第二件重要的事情</span><br>	B-培养好习惯的重要性<br>			什么是习惯：很自然的、重复在做的<br>			习惯带来累积性的影响<br>			坏习惯-害你<br>			好习惯-不断成长的祝福，<br>		**得享累积且不住增长的果效，使人终生受益无穷。<br>			[加拉太书 6:7] 人种的是什么，收的就是什么<br>			培养好习惯，收祝福：懂得感恩，看到别人的好习惯、长处、可取之处、获得祝福<br>			荣耀神、祝福人、又祝福自己<br>			我们今天收到的就是自己种下的<br>			[林后 9:6] 少种的少收，多种的多收，这话是真的。[这句话太重要了，所以强调]<br>			所以我们的灵修，有人交差了事，五分钟觉得我良心平安，我今天晨更了。有的人，只要有机会，就跟主建立更亲近的关系<br>			竭力往前，都要进步[我可以凡事长进]-要越来越长进<br>			[诗篇：我所得的，你为我持守]<br>		**建立稳定的灵修生活，是最值得培养的好习惯之一。<br>			从最基本的拳脚，先把稳定的灵修生活建立起来<br>			[提前 4:8-9] 操练身体，益处还少；唯独敬虔，凡事都有益处，因有今生和来生的应许。这话是可信的，是十分可佩服的。<br></code></pre></td></tr></table></figure>
-
-<h4 id="建立稳定灵修生活的挑战"><a href="#建立稳定灵修生活的挑战" class="headerlink" title="建立稳定灵修生活的挑战"></a>建立稳定灵修生活的挑战</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第三件重要的事情</span><br>	C-建立稳定灵修生活的挑战<br>		---稳行在高处<br>		建立稳定灵修生活-<br>		*但以理的榜样<br>		[但 6:10] 但以理知道这禁令盖了玉玺，就到了自己家里（他楼上的窗户开向耶路撒冷）一日三次，双膝跪在他神面前，祷告感谢，与素常一样<br>		**稳的挑战 - [与素常一样] ---很大的挑战<br>		**行的挑战 - 一日三次 --- 开始、具体、可行、持续<br>		**高的挑战 - 跪在他神面前 --- 最重要、最难<br>        	不能够持续：在灵修里碰不到主、去圣经里、去生活里找亮光，但是光是不需要去寻找的<br>        	最被我们忽略的地方-仇敌使我们被蒙蔽<br>        	在灵修中遇见神、在神的同在中灵修[读经读的很过瘾，但是不见得碰到神]<br>        	灵修不只是一件事、不只是一个习惯、不只是一个lifestyle<br>        	: 常常在灵修中遇见神，在神的同在中灵修<br>        	圣经研读：遇见说话的神<br>        	祷告：人与神在圣灵中的相会与相交<br>        		*一疏忽就会在人的境界里灵修、祷告<br>        		读经之路：[以赛亚书 55:3]<br>                <br>                *三分钟到五分钟[尽心尽力 - 遇见主]<br>                什么时候我们等候祂，祂就必施恩于我们 - 每一次回来，祂都在等候我们<br>                *让我们的生命被改变<br>                <br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="属灵同伴的重要"><a href="#属灵同伴的重要" class="headerlink" title="属灵同伴的重要"></a>属灵同伴的重要</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第四件重要的事情</span><br>	D-属灵同伴的重要<br>		[箴言 27:17] 铁磨铁，磨出刃来，朋友相感也是如此<br>		*打磨成器 - <br>		增加对方的价值、提高对方的功用，脱离粗糙的情景<br>		[提 2:22] 你们要逃避少年人的私欲，同那清心祷告主的人追求公义、信德、仁爱、和平。 <br>		我们的朋友如何，那是非常重要的事情<br>		[传道书 4:9-12] 两个人总比一个人好……<br>		&amp;故事：碳火-火红的碳于与潮湿的碳<br>		**保罗的榜样<br>		[林后 8:23] 论到提多，他是我的同伴，一同为你们劳碌的。<br>		保罗的谦卑<br>		care主、基督、神的旨意，同伴的重要<br>		&amp;故事：谁的南瓜大？当大家一起来追求突破的时候，--就会引发质变<br></code></pre></td></tr></table></figure>
-
-<h4 id="稳行在高处"><a href="#稳行在高处" class="headerlink" title="稳行在高处"></a>稳行在高处</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">具体、可行<br>到高的境界<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>新人门徒训练N103</tag>
-        <tag>建立稳定的灵修生活</tag>
-        <tag>稳行在高处</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R025-组成原理实验分配</title>
     <url>/2020/12/30/R025/</url>
     <content><![CDATA[<h4 id="任务分配"><a href="#任务分配" class="headerlink" title="任务分配"></a>任务分配</h4><hr>
@@ -1122,6 +1089,39 @@
       <tags>
         <tag>计算机组成原理</tag>
         <tag>实验报告</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R026-门徒训练第三课</title>
+    <url>/2020/12/30/R026/</url>
+    <content><![CDATA[<h4 id="为什么要建立稳定的灵修生活"><a href="#为什么要建立稳定的灵修生活" class="headerlink" title="为什么要建立稳定的灵修生活"></a>为什么要建立稳定的灵修生活</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 四件事情：</span><br>	A-为何建立稳定的灵修生活如此重要<br>		**是神儿女们绝不可忽视的拳脚功夫<br>			若不深耕，如何结实？--神一生都在建造我们<br>			当地震、海啸来临之时，一眼就看出哪些树、哪些房屋的根基是深厚的<br>		**生命软弱、跟神关系疏远的原因：<br>			-当今门徒训练-普遍的现象：肤浅、不够深。很多人的生命并没有被改变<br>			很关键的原因就是没有每一天过一个稳定的灵修生活<br>			目的：生命被改变、跟神的关系被改变、与主更亲近、生活更得胜<br>		**是当今时代众教会普遍的危机<br>			好像神家得不到供应，缺少生命-根基问题：没有稳定的灵修生活<br>			<br>		**圣经中的榜样-尤其是主耶稣自己，经常退到野地、海边、或山上去祷告<br>			约瑟在大饥荒之前，就是一直在积蓄粮食：我们的灵修、生活的一切都是在积蓄粮食，<br>			当你里面真正有生命的时候，神会把有需要的人带来。<br>			路德，拾穗。在波阿斯的田里，每一天拾穗就够我们所用<br>			与神亲密且持续的关系<br>			<br>	<span class="hljs-comment">## 我们务要认识耶和华，竭力追求认识祂。祂出现确如晨光；祂必临到我们想甘露，像滋润田地的春雨。 何 6:3</span><br>	<br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="竭力追求认识祂"><a href="#竭力追求认识祂" class="headerlink" title="竭力追求认识祂"></a>竭力追求认识祂</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 光和雨都是生命成长所必须要的，[在竭力上不够，所以光和雨缺乏导致生长的不好]</span><br>	我们务必要认识耶和华，竭力追求认识他。祂出现确如晨光；祂必临到我们像甘雨，像滋润田地的春雨。<br></code></pre></td></tr></table></figure>
+
+<h4 id="培养好习惯的重要"><a href="#培养好习惯的重要" class="headerlink" title="培养好习惯的重要"></a>培养好习惯的重要</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第二件重要的事情</span><br>	B-培养好习惯的重要性<br>			什么是习惯：很自然的、重复在做的<br>			习惯带来累积性的影响<br>			坏习惯-害你<br>			好习惯-不断成长的祝福，<br>		**得享累积且不住增长的果效，使人终生受益无穷。<br>			[加拉太书 6:7] 人种的是什么，收的就是什么<br>			培养好习惯，收祝福：懂得感恩，看到别人的好习惯、长处、可取之处、获得祝福<br>			荣耀神、祝福人、又祝福自己<br>			我们今天收到的就是自己种下的<br>			[林后 9:6] 少种的少收，多种的多收，这话是真的。[这句话太重要了，所以强调]<br>			所以我们的灵修，有人交差了事，五分钟觉得我良心平安，我今天晨更了。有的人，只要有机会，就跟主建立更亲近的关系<br>			竭力往前，都要进步[我可以凡事长进]-要越来越长进<br>			[诗篇：我所得的，你为我持守]<br>		**建立稳定的灵修生活，是最值得培养的好习惯之一。<br>			从最基本的拳脚，先把稳定的灵修生活建立起来<br>			[提前 4:8-9] 操练身体，益处还少；唯独敬虔，凡事都有益处，因有今生和来生的应许。这话是可信的，是十分可佩服的。<br></code></pre></td></tr></table></figure>
+
+<h4 id="建立稳定灵修生活的挑战"><a href="#建立稳定灵修生活的挑战" class="headerlink" title="建立稳定灵修生活的挑战"></a>建立稳定灵修生活的挑战</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第三件重要的事情</span><br>	C-建立稳定灵修生活的挑战<br>		---稳行在高处<br>		建立稳定灵修生活-<br>		*但以理的榜样<br>		[但 6:10] 但以理知道这禁令盖了玉玺，就到了自己家里（他楼上的窗户开向耶路撒冷）一日三次，双膝跪在他神面前，祷告感谢，与素常一样<br>		**稳的挑战 - [与素常一样] ---很大的挑战<br>		**行的挑战 - 一日三次 --- 开始、具体、可行、持续<br>		**高的挑战 - 跪在他神面前 --- 最重要、最难<br>        	不能够持续：在灵修里碰不到主、去圣经里、去生活里找亮光，但是光是不需要去寻找的<br>        	最被我们忽略的地方-仇敌使我们被蒙蔽<br>        	在灵修中遇见神、在神的同在中灵修[读经读的很过瘾，但是不见得碰到神]<br>        	灵修不只是一件事、不只是一个习惯、不只是一个lifestyle<br>        	: 常常在灵修中遇见神，在神的同在中灵修<br>        	圣经研读：遇见说话的神<br>        	祷告：人与神在圣灵中的相会与相交<br>        		*一疏忽就会在人的境界里灵修、祷告<br>        		读经之路：[以赛亚书 55:3]<br>                <br>                *三分钟到五分钟[尽心尽力 - 遇见主]<br>                什么时候我们等候祂，祂就必施恩于我们 - 每一次回来，祂都在等候我们<br>                *让我们的生命被改变<br>                <br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="属灵同伴的重要"><a href="#属灵同伴的重要" class="headerlink" title="属灵同伴的重要"></a>属灵同伴的重要</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第四件重要的事情</span><br>	D-属灵同伴的重要<br>		[箴言 27:17] 铁磨铁，磨出刃来，朋友相感也是如此<br>		*打磨成器 - <br>		增加对方的价值、提高对方的功用，脱离粗糙的情景<br>		[提 2:22] 你们要逃避少年人的私欲，同那清心祷告主的人追求公义、信德、仁爱、和平。 <br>		我们的朋友如何，那是非常重要的事情<br>		[传道书 4:9-12] 两个人总比一个人好……<br>		&amp;故事：碳火-火红的碳于与潮湿的碳<br>		**保罗的榜样<br>		[林后 8:23] 论到提多，他是我的同伴，一同为你们劳碌的。<br>		保罗的谦卑<br>		care主、基督、神的旨意，同伴的重要<br>		&amp;故事：谁的南瓜大？当大家一起来追求突破的时候，--就会引发质变<br></code></pre></td></tr></table></figure>
+
+<h4 id="稳行在高处"><a href="#稳行在高处" class="headerlink" title="稳行在高处"></a>稳行在高处</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">具体、可行<br>到高的境界<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>新人门徒训练N103</tag>
+        <tag>建立稳定的灵修生活</tag>
+        <tag>稳行在高处</tag>
       </tags>
   </entry>
   <entry>
@@ -1830,40 +1830,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R035-人工智能-初级踩坑</title>
-    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
-    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>入门资料</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R034-md图标收藏</title>
-    <url>/2021/01/04/R034/</url>
-    <content><![CDATA[<h4 id="四月图标收藏栏"><a href="#四月图标收藏栏" class="headerlink" title="四月图标收藏栏"></a>四月图标收藏栏</h4><p>:fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis:</p>
-<hr>
-<p>:maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf:</p>
-<hr>
-<p>:fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp:</p>
-<hr>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>图案模板</tag>
-        <tag>图标线条</tag>
-        <tag>图形设计</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R033-考研单词L2</title>
     <url>/2021/01/03/R033/</url>
     <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
@@ -2081,6 +2047,40 @@
       <tags>
         <tag>英语单词</tag>
         <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R034-md图标收藏</title>
+    <url>/2021/01/04/R034/</url>
+    <content><![CDATA[<h4 id="四月图标收藏栏"><a href="#四月图标收藏栏" class="headerlink" title="四月图标收藏栏"></a>四月图标收藏栏</h4><p>:fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis:</p>
+<hr>
+<p>:maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf:</p>
+<hr>
+<p>:fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp:</p>
+<hr>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>图案模板</tag>
+        <tag>图标线条</tag>
+        <tag>图形设计</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R035-人工智能-初级踩坑</title>
+    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
+    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>入门资料</tag>
       </tags>
   </entry>
   <entry>
@@ -2386,25 +2386,6 @@
       <categories>
         <category>日常记录</category>
       </categories>
-  </entry>
-  <entry>
-    <title>R040-马原考点梳理</title>
-    <url>/2021/01/06/R040-%E9%A9%AC%E5%8E%9F%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
-    <content><![CDATA[<h4 id="引用资料"><a href="#引用资料" class="headerlink" title="引用资料"></a>引用资料</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 优先级递减</span><br>[https://wenku.baidu.com/view/b55bfd386aec0975f46527d3240c844769eaa096.html]<br>[https://wenku.baidu.com/view/a1e34d49534de518964bcf84b9d528ea81c72fb5.html]<br>[https://wenku.baidu.com/view/d7fac81ea0c7aa00b52acfc789eb172dec639906.html]<br>[https://www.docin.com/p-1837022384.html]<br></code></pre></td></tr></table></figure>
-
-<hr>
-<blockquote>
-<p>将知识点与问题大纲标注在目录页，并且将重点强调页标注折叠</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>马克思主义基本原理概论</tag>
-        <tag>马原考点梳理</tag>
-      </tags>
   </entry>
   <entry>
     <title>R039-HZIEE-CS-STACK-初期会议</title>
@@ -2949,6 +2930,25 @@
       </tags>
   </entry>
   <entry>
+    <title>R040-马原考点梳理</title>
+    <url>/2021/01/06/R040-%E9%A9%AC%E5%8E%9F%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
+    <content><![CDATA[<h4 id="引用资料"><a href="#引用资料" class="headerlink" title="引用资料"></a>引用资料</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 优先级递减</span><br>[https://wenku.baidu.com/view/b55bfd386aec0975f46527d3240c844769eaa096.html]<br>[https://wenku.baidu.com/view/a1e34d49534de518964bcf84b9d528ea81c72fb5.html]<br>[https://wenku.baidu.com/view/d7fac81ea0c7aa00b52acfc789eb172dec639906.html]<br>[https://www.docin.com/p-1837022384.html]<br></code></pre></td></tr></table></figure>
+
+<hr>
+<blockquote>
+<p>将知识点与问题大纲标注在目录页，并且将重点强调页标注折叠</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>马克思主义基本原理概论</tag>
+        <tag>马原考点梳理</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R041-软件工程考点梳理</title>
     <url>/2021/01/06/R041-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
     <content><![CDATA[<h4 id="核心内容"><a href="#核心内容" class="headerlink" title="核心内容"></a>核心内容</h4><blockquote>
@@ -3266,6 +3266,71 @@
       </tags>
   </entry>
   <entry>
+    <title>Dec-18-QT</title>
+    <url>/2020/12/18/R043-Dec-18-QT/</url>
+    <content><![CDATA[<h4 id="项目分析"><a href="#项目分析" class="headerlink" title="项目分析"></a>项目分析</h4><blockquote>
+<p>第一次阅读作业要求，重点在于代码的规范性，界面设计的简洁优雅。难点在于视频处理，大部分时间应该会花在和视频处理相关的点。基本功能之前的几次作业已经实现，只要把前几次的代码优化、规范即可。界面图标需要自己设计</p>
+</blockquote>
+<hr>
+<h4 id="界面设计阶段"><a href="#界面设计阶段" class="headerlink" title="界面设计阶段"></a>界面设计阶段</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 双窗口设计，左侧预留视频处理侧边栏-上方预留图片处理界面<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## 基本功能介绍[图片]</span><br>	**缩放<span class="hljs-regexp">/翻转/</span>旋转<br>	**亮度<span class="hljs-regexp">/色温/</span>相框<br>	**均值滤波<br>	**灰度处理<span class="hljs-regexp">/边缘检测/</span>二值化<span class="hljs-regexp">/腐蚀/</span><br>	**I18N<br>	**关于<br>	**图片保存<span class="hljs-regexp">/另存/</span>撤销上一步<span class="hljs-regexp">/撤销全部/</span>关闭图片/退出软件<br>	**<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="此处留白"><a href="#此处留白" class="headerlink" title="此处留白"></a>此处留白</h4><figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">这里用于之后介绍项目<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<h4 id="开发记录"><a href="#开发记录" class="headerlink" title="开发记录"></a>开发记录</h4><figure class="highlight c++"><table><tr><td class="code"><pre><code class="hljs c++">&gt; $$<span class="hljs-number">1</span>-项目结构调整：<br>&gt; 为了更加清晰的展示代码，对项目的结构进行分类调整<br>&gt; *首先在项目根目录新建分类的文件夹，如：res, mainwindow, tools<br>&gt; *然后修改 `项目名.pro` 文件，添加引用目录<br>---------------------------------------------------------<br>INCLUDEPATH += ./ \<br>    dialog/ \<br>    tools/  \<br>    mainwindow/<br><br>SOURCES += \<br>    mainwindow/mainwindow.cpp  \<br>    main.cpp<br><br>HEADERS += \<br>        mainwindow/mainwindow.h    \<br><br>FORMS    += mainwindow/mainwindow.ui \<br>---------------------------------------------------------<br>    <br>&gt; $$<span class="hljs-number">1</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$2-设计制作图标<br>&gt; [LINK] - [https:&#x2F;&#x2F;www.iconfont.cn&#x2F;collections&#x2F;detail?spm&#x3D;a313x.7781069.1998910419.dc64b3430&amp;cid&#x3D;12507]<br>&gt; [生成ICON] - [http:&#x2F;&#x2F;www.ico51.cn&#x2F;]<br>&gt; $$2-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$3-UI实现<br>&gt; ERROR: 四月花了半小时添加图标，离奇的事件发生了：还剩最后一个图标没有添加-四月去下载，添加后 - 资源文件突然离奇失踪 - 之前的图标都还在<br>&gt; 在进行高危操作之前一定要备份！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>&gt; CNMLGB, WHAT THE FUCKING HELL WRONG WITH QT?<br><br>&gt; $$3-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **1-重写QGraphicsView实现图像的缩放<br>&gt;  **2-回顾槽函数、界面初始化设置：未打开图片时禁用所有按钮<br>&gt;  **3-设置tool bar: ui-&gt;toolBar_File-&gt;addAction(ui-&gt;doOpen);[toolBar_file是ui文件中toolbar的名字]<br>&gt;  **4-打开图片[]<br>在QGraphicsView的坐标系统中Scene的原点并是不hi顶点而是中心点，与窗口的坐标系统不一致。<br>[LINK] - [https://blog.csdn.net/fadbgfnbxb/article/details/88777835]<br><br><span class="hljs-comment">#  **因为已经重写了graphicview，此时鼠标缩放事件已经可以使用</span><br><br><span class="hljs-comment">#  **图片打开结束 注意图片的自适应和缩放[scale之前的qMax / qMin]</span><br><br><br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **5-关闭图片 - 添加按钮禁用状态<br>&gt;  **<br><span class="hljs-comment">#  **Q1: ConstImage错误</span><br>&gt;  **A1: BUG已修复 - - 缺少对ConstImage的赋值 -- 打开时<br>&gt;<br>&gt;  **6-灰度处理<br>&gt;  **7-边缘检测<br>&gt;  **8-亮度调节<br>&gt;  **9-冷暖色调<br>&gt;  **10-添加相框<br>&gt;  **11-二值图像<br>&gt;  **12-图片旋转<br>&gt;  **13-马赛克 	-- Mosaic FINISH<br>&gt;  **14-About对话框<br>&gt;  **15-Make donation<br>&gt;  **16-国际化<br>&gt;  **17-跨平台<br>&gt;  **18-视频处理<br>&gt;  **WELL DONE!<br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<blockquote>
+<p>待完成：</p>
+<p>**国际化</p>
+<p>**About对话窗口</p>
+</blockquote>
+<hr>
+<hr>
+<h4 id="视频处理阶段"><a href="#视频处理阶段" class="headerlink" title="视频处理阶段"></a>视频处理阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">**计划使用Opencv<br><span class="hljs-comment"># 进入安装编译阶段</span><br>&gt; [LINK] - https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows<br>&gt; [LINK] - <br>&gt; <span class="hljs-comment">##重装QT-5.9</span><br>&gt; <span class="hljs-comment">##临时移除git的mingw - [C:\Program Files\Git\mingw64\bin]</span><br>&gt; <span class="hljs-comment">##放弃使用Opencv</span><br>&gt; <span class="hljs-comment">##恢复git的mingw</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">##使用QMediaPlayer + QAbstractVideoSurface，获取视频的每一帧，转化成QImage处理</span><br>&gt; [link] - [https:<span class="hljs-regexp">//</span>blog.csdn.net<span class="hljs-regexp">/jxbinwd/</span>article<span class="hljs-regexp">/details/</span><span class="hljs-number">81034339</span>]<br>&gt; E:\shadowworkspace.github.io\source\_posts<br>&gt; [LINK] - https:<span class="hljs-regexp">//</span>download.qt.io<span class="hljs-regexp">/official_releases/</span>qt/<br><br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##改VLC</span><br><span class="hljs-variable">$WDNMD</span><br>-------------------------------------------------------------------------<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##回归QMediaPlayer+QAbstractVideoSurface</span><br>-------------------------------------------------------------------------<br>&gt; LINK - [https://blog.csdn.net/jxbinwd/article/details/81034339]<br>&gt; 补充功能：<br>&gt; **13-马赛克 	-- Mosaic FINISH<br>&gt; **14-About对话框<br>&gt; **15-Make donation<br>&gt; **16-国际化<br>&gt; **17-跨平台 <br>		<span class="hljs-comment">## [LINK] - [https://www.jianshu.com/p/9cc55a2c4e87]</span><br>        <span class="hljs-comment">## https://blog.csdn.net/qq_38204986/article/details/86934603</span><br>        <span class="hljs-comment">## 会遇到一个 ld 重复定义的方法，是因为把文件copy出来到一个目录时，没有删除原来的文件夹，注意修改原文件中的引用还有生成的.pro文件配置</span><br>        <span class="hljs-comment">## glib --》 这个错误要复制后面丢失的库查询，根据提示 find出来，然后手动复制到对应目录    </span><br>&gt; **18-视频处理<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##视频处理问题：</span><br>	**处理速度太慢，考虑使用多线程<br>	**没有保存<br>	**<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>产品设计</tag>
+        <tag>QT</tag>
+        <tag>万法归一</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R044-信工计网复习提纲</title>
     <url>/2021/01/07/R044-%E4%BF%A1%E5%B7%A5%E8%AE%A1%E7%BD%91%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2/</url>
     <content><![CDATA[<p>计算机网络复习提纲</p>
@@ -3354,68 +3419,18 @@
       </tags>
   </entry>
   <entry>
-    <title>Dec-18-QT</title>
-    <url>/2020/12/18/R043-Dec-18-QT/</url>
-    <content><![CDATA[<h4 id="项目分析"><a href="#项目分析" class="headerlink" title="项目分析"></a>项目分析</h4><blockquote>
-<p>第一次阅读作业要求，重点在于代码的规范性，界面设计的简洁优雅。难点在于视频处理，大部分时间应该会花在和视频处理相关的点。基本功能之前的几次作业已经实现，只要把前几次的代码优化、规范即可。界面图标需要自己设计</p>
-</blockquote>
-<hr>
-<h4 id="界面设计阶段"><a href="#界面设计阶段" class="headerlink" title="界面设计阶段"></a>界面设计阶段</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 双窗口设计，左侧预留视频处理侧边栏-上方预留图片处理界面<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## 基本功能介绍[图片]</span><br>	**缩放<span class="hljs-regexp">/翻转/</span>旋转<br>	**亮度<span class="hljs-regexp">/色温/</span>相框<br>	**均值滤波<br>	**灰度处理<span class="hljs-regexp">/边缘检测/</span>二值化<span class="hljs-regexp">/腐蚀/</span><br>	**I18N<br>	**关于<br>	**图片保存<span class="hljs-regexp">/另存/</span>撤销上一步<span class="hljs-regexp">/撤销全部/</span>关闭图片/退出软件<br>	**<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="此处留白"><a href="#此处留白" class="headerlink" title="此处留白"></a>此处留白</h4><figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">这里用于之后介绍项目<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-<h4 id="开发记录"><a href="#开发记录" class="headerlink" title="开发记录"></a>开发记录</h4><figure class="highlight c++"><table><tr><td class="code"><pre><code class="hljs c++">&gt; $$<span class="hljs-number">1</span>-项目结构调整：<br>&gt; 为了更加清晰的展示代码，对项目的结构进行分类调整<br>&gt; *首先在项目根目录新建分类的文件夹，如：res, mainwindow, tools<br>&gt; *然后修改 `项目名.pro` 文件，添加引用目录<br>---------------------------------------------------------<br>INCLUDEPATH += ./ \<br>    dialog/ \<br>    tools/  \<br>    mainwindow/<br><br>SOURCES += \<br>    mainwindow/mainwindow.cpp  \<br>    main.cpp<br><br>HEADERS += \<br>        mainwindow/mainwindow.h    \<br><br>FORMS    += mainwindow/mainwindow.ui \<br>---------------------------------------------------------<br>    <br>&gt; $$<span class="hljs-number">1</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$2-设计制作图标<br>&gt; [LINK] - [https:&#x2F;&#x2F;www.iconfont.cn&#x2F;collections&#x2F;detail?spm&#x3D;a313x.7781069.1998910419.dc64b3430&amp;cid&#x3D;12507]<br>&gt; [生成ICON] - [http:&#x2F;&#x2F;www.ico51.cn&#x2F;]<br>&gt; $$2-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$3-UI实现<br>&gt; ERROR: 四月花了半小时添加图标，离奇的事件发生了：还剩最后一个图标没有添加-四月去下载，添加后 - 资源文件突然离奇失踪 - 之前的图标都还在<br>&gt; 在进行高危操作之前一定要备份！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>&gt; CNMLGB, WHAT THE FUCKING HELL WRONG WITH QT?<br><br>&gt; $$3-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **1-重写QGraphicsView实现图像的缩放<br>&gt;  **2-回顾槽函数、界面初始化设置：未打开图片时禁用所有按钮<br>&gt;  **3-设置tool bar: ui-&gt;toolBar_File-&gt;addAction(ui-&gt;doOpen);[toolBar_file是ui文件中toolbar的名字]<br>&gt;  **4-打开图片[]<br>在QGraphicsView的坐标系统中Scene的原点并是不hi顶点而是中心点，与窗口的坐标系统不一致。<br>[LINK] - [https://blog.csdn.net/fadbgfnbxb/article/details/88777835]<br><br><span class="hljs-comment">#  **因为已经重写了graphicview，此时鼠标缩放事件已经可以使用</span><br><br><span class="hljs-comment">#  **图片打开结束 注意图片的自适应和缩放[scale之前的qMax / qMin]</span><br><br><br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **5-关闭图片 - 添加按钮禁用状态<br>&gt;  **<br><span class="hljs-comment">#  **Q1: ConstImage错误</span><br>&gt;  **A1: BUG已修复 - - 缺少对ConstImage的赋值 -- 打开时<br>&gt;<br>&gt;  **6-灰度处理<br>&gt;  **7-边缘检测<br>&gt;  **8-亮度调节<br>&gt;  **9-冷暖色调<br>&gt;  **10-添加相框<br>&gt;  **11-二值图像<br>&gt;  **12-图片旋转<br>&gt;  **13-马赛克 	-- Mosaic FINISH<br>&gt;  **14-About对话框<br>&gt;  **15-Make donation<br>&gt;  **16-国际化<br>&gt;  **17-跨平台<br>&gt;  **18-视频处理<br>&gt;  **WELL DONE!<br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<blockquote>
-<p>待完成：</p>
-<p>**国际化</p>
-<p>**About对话窗口</p>
-</blockquote>
-<hr>
-<hr>
-<h4 id="视频处理阶段"><a href="#视频处理阶段" class="headerlink" title="视频处理阶段"></a>视频处理阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">**计划使用Opencv<br><span class="hljs-comment"># 进入安装编译阶段</span><br>&gt; [LINK] - https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows<br>&gt; [LINK] - <br>&gt; <span class="hljs-comment">##重装QT-5.9</span><br>&gt; <span class="hljs-comment">##临时移除git的mingw - [C:\Program Files\Git\mingw64\bin]</span><br>&gt; <span class="hljs-comment">##放弃使用Opencv</span><br>&gt; <span class="hljs-comment">##恢复git的mingw</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">##使用QMediaPlayer + QAbstractVideoSurface，获取视频的每一帧，转化成QImage处理</span><br>&gt; [link] - [https:<span class="hljs-regexp">//</span>blog.csdn.net<span class="hljs-regexp">/jxbinwd/</span>article<span class="hljs-regexp">/details/</span><span class="hljs-number">81034339</span>]<br>&gt; E:\shadowworkspace.github.io\source\_posts<br>&gt; [LINK] - https:<span class="hljs-regexp">//</span>download.qt.io<span class="hljs-regexp">/official_releases/</span>qt/<br><br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##改VLC</span><br><span class="hljs-variable">$WDNMD</span><br>-------------------------------------------------------------------------<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##回归QMediaPlayer+QAbstractVideoSurface</span><br>-------------------------------------------------------------------------<br>&gt; LINK - [https://blog.csdn.net/jxbinwd/article/details/81034339]<br>&gt; 补充功能：<br>&gt; **13-马赛克 	-- Mosaic FINISH<br>&gt; **14-About对话框<br>&gt; **15-Make donation<br>&gt; **16-国际化<br>&gt; **17-跨平台 <br>		<span class="hljs-comment">## [LINK] - [https://www.jianshu.com/p/9cc55a2c4e87]</span><br>        <span class="hljs-comment">## https://blog.csdn.net/qq_38204986/article/details/86934603</span><br>        <span class="hljs-comment">## 会遇到一个 ld 重复定义的方法，是因为把文件copy出来到一个目录时，没有删除原来的文件夹，注意修改原文件中的引用还有生成的.pro文件配置</span><br>        <span class="hljs-comment">## glib --》 这个错误要复制后面丢失的库查询，根据提示 find出来，然后手动复制到对应目录    </span><br>&gt; **18-视频处理<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##视频处理问题：</span><br>	**处理速度太慢，考虑使用多线程<br>	**没有保存<br>	**<br></code></pre></td></tr></table></figure>
+    <title>R046-以不变应万变</title>
+    <url>/2021/01/07/R046-%E4%BB%A5%E4%B8%8D%E5%8F%98%E5%BA%94%E4%B8%87%E5%8F%98/</url>
+    <content><![CDATA[<h4 id="告别2020"><a href="#告别2020" class="headerlink" title="告别2020"></a>告别2020</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以不变应万变</span><br><br>	**病毒<br>	**笃定与盼望<br>-----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 凭着信心领受</span><br>	**我们对神的信心是唯一的、不变的力量。我们面临的是千变万化，而唯一不变的是信心<br>	**<br>	<br><span class="hljs-comment">## 三点：</span><br>	**人生中的不变与万变<br>		<span class="hljs-comment">#人生中的不变与万变</span><br>		人的一生都是在应对变化，大部分的人都是被动的面对变化，随时处于濒临破产的状态。信仰不可替代的价值[信、靠、仰]<br>二战：受伤的士兵被封锁在一个战壕里，等他的朋友。“我知道你会来的”。神爱我们，道成肉身，为一切罪人舍命，完全可信可靠的朋友。即使在人生最孤单、最难熬的时候，耶稣也不会丢下我。昨日今日乃至永远都不改变的。[罗 8]-神的爱与我们不能隔绝。我们得救、得胜都是因着信。软弱中得力，失败中得胜，不变的信心从哪里来？希伯来书：仰望为我们的信心创始成终的耶稣。 始于信，以至于信。“看祂，定睛祂，仰望祂”。 人生中的万变与不变<br><br>		<span class="hljs-comment">#旧约中的不变与万变</span><br>		可以说圣经就是教我们怎样以不变应万变。诺亚的方舟，洪水泛滥；约瑟，不变的信心；哈巴谷，不变的信心；完全投靠神[宝贝的信心]-[我们甚至不知道自己拥有如此宝贝的信心，却视世界的粪土为宝贝]。 *二战的时候犹太民族被屠杀，虽然他们没有从上帝那里得到答案，但是他们的信心却从未改变。 约伯[在考验中] *以不变的信心应对身体的变化。书念的妇人，平安无事。无论疾病或死亡，都不可战胜的信心。 *大卫的心情变化是万变，不变的是归向神。不要忧虑、不要恐惧，只要称颂耶和华我的神。<br><br>		<span class="hljs-comment">#新约中的不变与万变</span><br>		一切都在旋转，但核心是不旋转的[对神的信是不旋转的]。信是耶稣一切教导的核心，信祂是神的儿子，信祂的恩，信祂的永不改变的爱。爱不改变，信与接受也不改变。以不变应万变。门徒培训的核心是信心的培训。<br>耶稣为彼得祈求：“西门，西门，撒旦想要得着你们，好筛你们，像筛麦子一样。但我已为你们祈求，叫你们不至于失了信心。你回头以后，要坚固你自己的弟兄。”<br>软弱和试探都是有的，但你不至于失去信心。软弱不等于不爱主，但失去了信心，就是陷入了黑暗。 *在海上起了风浪的时候，门徒叫醒了夫子。耶稣责备门徒 “你们的信心在哪里呢？” “你们这些小信的人呐” 不管是何种训练，都是增强门徒的信心。 *赶鬼的时候，“门徒暗暗地到耶稣跟前说，我们为什么赶不出那鬼呢？耶稣说：是因你们的信心小。我实在告诉你们，你们若是有信心像一粒芥菜种，就是对这座山说，你从这边挪到那边，它也必挪去。”<br><br>一切神迹的要领就是信心。<br>“人子再来的时候，遇得见这个世界的信心吗”<br>因为疑惑的人，就像海中的波浪，被风吹动翻腾。这样的人，不要想从主那里得到什么。<br>------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 一切的复杂，都要归结到简单的信心</span><br>	*以不变应万变 - 一信解百惑<br>	<span class="hljs-comment">#信心。不管事情怎么变化，最终的主权在神，而神的意思总是好的。</span><br><br></code></pre></td></tr></table></figure>
 
 ]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
       <tags>
-        <tag>产品设计</tag>
-        <tag>QT</tag>
-        <tag>万法归一</tag>
+        <tag>远志明</tag>
+        <tag>以不变应万变</tag>
       </tags>
   </entry>
   <entry>
@@ -3437,21 +3452,6 @@
       <tags>
         <tag>毛泽东思想体系</tag>
         <tag>毛考试知识点梳理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R046-以不变应万变</title>
-    <url>/2021/01/07/R046-%E4%BB%A5%E4%B8%8D%E5%8F%98%E5%BA%94%E4%B8%87%E5%8F%98/</url>
-    <content><![CDATA[<h4 id="告别2020"><a href="#告别2020" class="headerlink" title="告别2020"></a>告别2020</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以不变应万变</span><br><br>	**病毒<br>	**笃定与盼望<br>-----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 凭着信心领受</span><br>	**我们对神的信心是唯一的、不变的力量。我们面临的是千变万化，而唯一不变的是信心<br>	**<br>	<br><span class="hljs-comment">## 三点：</span><br>	**人生中的不变与万变<br>		<span class="hljs-comment">#人生中的不变与万变</span><br>		人的一生都是在应对变化，大部分的人都是被动的面对变化，随时处于濒临破产的状态。信仰不可替代的价值[信、靠、仰]<br>二战：受伤的士兵被封锁在一个战壕里，等他的朋友。“我知道你会来的”。神爱我们，道成肉身，为一切罪人舍命，完全可信可靠的朋友。即使在人生最孤单、最难熬的时候，耶稣也不会丢下我。昨日今日乃至永远都不改变的。[罗 8]-神的爱与我们不能隔绝。我们得救、得胜都是因着信。软弱中得力，失败中得胜，不变的信心从哪里来？希伯来书：仰望为我们的信心创始成终的耶稣。 始于信，以至于信。“看祂，定睛祂，仰望祂”。 人生中的万变与不变<br><br>		<span class="hljs-comment">#旧约中的不变与万变</span><br>		可以说圣经就是教我们怎样以不变应万变。诺亚的方舟，洪水泛滥；约瑟，不变的信心；哈巴谷，不变的信心；完全投靠神[宝贝的信心]-[我们甚至不知道自己拥有如此宝贝的信心，却视世界的粪土为宝贝]。 *二战的时候犹太民族被屠杀，虽然他们没有从上帝那里得到答案，但是他们的信心却从未改变。 约伯[在考验中] *以不变的信心应对身体的变化。书念的妇人，平安无事。无论疾病或死亡，都不可战胜的信心。 *大卫的心情变化是万变，不变的是归向神。不要忧虑、不要恐惧，只要称颂耶和华我的神。<br><br>		<span class="hljs-comment">#新约中的不变与万变</span><br>		一切都在旋转，但核心是不旋转的[对神的信是不旋转的]。信是耶稣一切教导的核心，信祂是神的儿子，信祂的恩，信祂的永不改变的爱。爱不改变，信与接受也不改变。以不变应万变。门徒培训的核心是信心的培训。<br>耶稣为彼得祈求：“西门，西门，撒旦想要得着你们，好筛你们，像筛麦子一样。但我已为你们祈求，叫你们不至于失了信心。你回头以后，要坚固你自己的弟兄。”<br>软弱和试探都是有的，但你不至于失去信心。软弱不等于不爱主，但失去了信心，就是陷入了黑暗。 *在海上起了风浪的时候，门徒叫醒了夫子。耶稣责备门徒 “你们的信心在哪里呢？” “你们这些小信的人呐” 不管是何种训练，都是增强门徒的信心。 *赶鬼的时候，“门徒暗暗地到耶稣跟前说，我们为什么赶不出那鬼呢？耶稣说：是因你们的信心小。我实在告诉你们，你们若是有信心像一粒芥菜种，就是对这座山说，你从这边挪到那边，它也必挪去。”<br><br>一切神迹的要领就是信心。<br>“人子再来的时候，遇得见这个世界的信心吗”<br>因为疑惑的人，就像海中的波浪，被风吹动翻腾。这样的人，不要想从主那里得到什么。<br>------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 一切的复杂，都要归结到简单的信心</span><br>	*以不变应万变 - 一信解百惑<br>	<span class="hljs-comment">#信心。不管事情怎么变化，最终的主权在神，而神的意思总是好的。</span><br><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>远志明</tag>
-        <tag>以不变应万变</tag>
       </tags>
   </entry>
   <entry>

@@ -125,28 +125,6 @@
       </tags>
   </entry>
   <entry>
-    <title>I003-我学到了什么</title>
-    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
-    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
-<blockquote>
-<p>回收多年的学习生涯，在看看当前的自己：</p>
-<p>不会写作</p>
-<p>不会阅读</p>
-<p>不会演讲</p>
-<p>不会语言</p>
-<p>那么这么多年我们在学习什么呢？</p>
-</blockquote>
-<hr>
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>深度思考</tag>
-        <tag>我在做什么</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>I002-伟大的实践-个人经历管理系统</title>
     <url>/2021/01/06/I002-%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AE%9E%E8%B7%B5-%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h4 id="个人管理系统"><a href="#个人管理系统" class="headerlink" title="个人管理系统"></a>个人管理系统</h4><hr>
@@ -180,6 +158,28 @@
       </tags>
   </entry>
   <entry>
+    <title>I003-我学到了什么</title>
+    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
+    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
+<blockquote>
+<p>回收多年的学习生涯，在看看当前的自己：</p>
+<p>不会写作</p>
+<p>不会阅读</p>
+<p>不会演讲</p>
+<p>不会语言</p>
+<p>那么这么多年我们在学习什么呢？</p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>深度思考</tag>
+        <tag>我在做什么</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>I004-全球积木竞赛</title>
     <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
     <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
@@ -200,7 +200,7 @@
     <title>I005-高速缓存与调度算法</title>
     <url>/2021/01/11/I005-%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E4%B8%8E%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[<h4 id="高速缓存"><a href="#高速缓存" class="headerlink" title="高速缓存"></a>高速缓存</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将高速缓存应用到生活与工作中？</span><br>	**在工作学习的过程中建立索引，将索引添加只缓冲区[每次要使用到数据先从缓冲区当中查找]<br>	<span class="hljs-comment">##合理利用局部性原理，对计算机适用的方法，对个人生活也同样适用。</span><br>	<br>	**为每一天、每一周、每个月、每一年开辟一个高速缓冲区<br>		[因为会频繁的在短时间内用到，所以开辟一个缓冲区可以大大提高运行效率]<br>		例如：每天背单词重复的步骤：打开单词书、打开typora、新建文章记录、打开听力材料、打开excel记录-----&gt;能否考虑：我只要做核心的部分：记录背诵的单词--其他部分都不需要我亲自动手。自动完成[包括hexo的部署]<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将高速缓存应用到生活与工作中？</span><br>	**在工作学习的过程中建立索引，将索引添加只缓冲区[每次要使用到数据先从缓冲区当中查找]<br>	<span class="hljs-comment">##合理利用局部性原理，对计算机适用的方法，对个人生活也同样适用。</span><br>	<br>	**为每一天、每一周、每个月、每一年开辟一个高速缓冲区<br>		[因为会频繁的在短时间内用到，所以开辟一个缓冲区可以大大提高运行效率]<br>		例如：每天背单词重复的步骤：打开单词书、打开typora、新建文章记录、打开听力材料、打开excel记录-----&gt;能否考虑：我只要做核心的部分：记录背诵的单词--其他部分都不需要我亲自动手。自动完成[包括hexo的部署]<br>		<br>	**每一个重复的流程[多个步骤]，应该都可以由一条指令来完成  [而我只需要专注于最核心的事件]<br>	其他辅助的、必要的、简单重复的程序应该让计算机自己去做。<br></code></pre></td></tr></table></figure>
 
 <hr>
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将计算机科学中的一门门艺术与设计应用到产品与生活中？</span><br>	局部性原理<br>	高速缓存<br>	进程调度<br>	查找算法<br>	<br>	《计算机科学的艺术 与 -&gt; 生活》<br>	<br>	<br><span class="hljs-comment">## 拓展：如何将其他科学的艺术与设计应用到产品与生活当中？</span><br></code></pre></td></tr></table></figure>
@@ -737,14 +737,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
     <title>R015-17级实习分享会</title>
     <url>/2020/12/27/R015/</url>
     <content><![CDATA[<h4 id="17级实习经验分享"><a href="#17级实习经验分享" class="headerlink" title="17级实习经验分享"></a>17级实习经验分享</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 张晨</span><br>	**临场改PPT<br>	**<br>	<br>	**求职过程<br>		<span class="hljs-comment">#领英找内推</span><br>		<span class="hljs-comment">#放链接-最好是个人博客</span><br>		<span class="hljs-comment">#包装自己 -- 合理 -- 简历</span><br>		<span class="hljs-comment">#乐于分享 - 表达方法 - 表达自己</span><br>			**你的能力体现、<br>	**学习过程<br>		<span class="hljs-comment">#剑指Offer</span><br>		<span class="hljs-comment">#Leetcode</span><br>		<span class="hljs-comment">#自学能力</span><br>		<span class="hljs-comment">#Pendo - todolist</span><br>		<br>	**求职经验<br>		*项目中承担的角色<br>		*实现<br>		*主要负责<br>		**擅长什么类型<br>		**为什么对这个方向感兴趣？<br>		<br>		*interview.huihut.com<br>		<br>	**看公司的年报，去了解公司<br>	<br>	**逻辑分析- 金字塔模型 - 第一点、第二点、第三点<br>	<br>	**岗位匹配度<br>	<br>	<span class="hljs-comment">#一定要早一点去实习</span><br>	<br></code></pre></td></tr></table></figure>
@@ -759,6 +751,14 @@
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 江飞翔</span><br>	<span class="hljs-comment">#求职经历</span><br>		**简历<br>			<span class="hljs-comment">#实习经历</span><br>			<span class="hljs-comment">#项目经历</span><br>			<span class="hljs-comment">#荣誉奖项</span><br>			<span class="hljs-comment">#写博客</span><br>		**面试经验<br>			<span class="hljs-comment">#注意时间分配</span><br>			<span class="hljs-comment">#大量投简历</span><br>			<span class="hljs-comment">#春招一定要去试试</span><br>		**算法题<br>		**面试<br>	<span class="hljs-comment">#</span><br>	<br>	<span class="hljs-comment">#</span><br><br></code></pre></td></tr></table></figure>
 
 ]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016/</url>
+    <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
@@ -1184,76 +1184,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R029-个人项目经验规划</title>
-    <url>/2021/01/01/R029/</url>
-    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
-<table>
-<thead>
-<tr>
-<th>名称</th>
-<th>链接</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Cser如何面对复试</td>
-<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
-</tr>
-<tr>
-<td>大数据工程师该会什么</td>
-<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
-</tr>
-<tr>
-<td>清华大学计科培养方案</td>
-<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
-</tr>
-<tr>
-<td>20计算机经验帖</td>
-<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
-</tr>
-<tr>
-<td>一位学姐的912分享</td>
-<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>数据结构邓俊辉</td>
-<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<hr>
-<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
-<table>
-<thead>
-<tr>
-<th>数据机构[学堂在线]</th>
-<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>考研英语词根词缀</td>
-<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>数学建模</tag>
-        <tag>912考研资料索引专刊</tag>
-        <tag>个人项目规划参考</tag>
-        <tag>大数据工程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R028-考研单词记录L0</title>
     <url>/2021/01/01/R028/</url>
     <content><![CDATA[<h4 id="开始战斗"><a href="#开始战斗" class="headerlink" title="开始战斗"></a>开始战斗</h4><hr>
@@ -1531,6 +1461,76 @@
       </tags>
   </entry>
   <entry>
+    <title>R029-个人项目经验规划</title>
+    <url>/2021/01/01/R029/</url>
+    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cser如何面对复试</td>
+<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
+</tr>
+<tr>
+<td>大数据工程师该会什么</td>
+<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
+</tr>
+<tr>
+<td>清华大学计科培养方案</td>
+<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
+</tr>
+<tr>
+<td>20计算机经验帖</td>
+<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
+</tr>
+<tr>
+<td>一位学姐的912分享</td>
+<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>数据结构邓俊辉</td>
+<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
+<table>
+<thead>
+<tr>
+<th>数据机构[学堂在线]</th>
+<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>考研英语词根词缀</td>
+<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>数学建模</tag>
+        <tag>912考研资料索引专刊</tag>
+        <tag>个人项目规划参考</tag>
+        <tag>大数据工程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R030-自动化发布文章更新</title>
     <url>/2021/01/01/R030/</url>
     <content><![CDATA[<h4 id="不断趋于完美"><a href="#不断趋于完美" class="headerlink" title="不断趋于完美"></a>不断趋于完美</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 加入新的功能</span><br>	**创建文章时只需要输入类型，不需要指定具体编号<br>	**能够自动提取参数并且加入到tag<br>	**能够自动追加整体经验值<br>	**能够自动判断段位增量<br></code></pre></td></tr></table></figure>
@@ -1583,226 +1583,6 @@
         <tag>假期安排</tag>
         <tag>产品设计</tag>
         <tag>团队管理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R033-考研单词L2</title>
-    <url>/2021/01/03/R033/</url>
-    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
-
-<hr>
-<table>
-<thead>
-<tr>
-<th>supersensitive</th>
-<th></th>
-<th>profess</th>
-<th></th>
-<th>precocious</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>supercharge</td>
-<td></td>
-<td>prodigious</td>
-<td></td>
-<td>predict</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudo</td>
-<td></td>
-<td>proclivity</td>
-<td></td>
-<td>predisposition</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudonym</td>
-<td></td>
-<td>procure</td>
-<td></td>
-<td>preoccupation</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudoscience</td>
-<td></td>
-<td>prominent</td>
-<td></td>
-<td>prescient</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudograph</td>
-<td></td>
-<td>prosecute</td>
-<td></td>
-<td>prerogative</td>
-<td></td>
-</tr>
-<tr>
-<td>pro-American</td>
-<td></td>
-<td>prospect</td>
-<td></td>
-<td>postage</td>
-<td></td>
-</tr>
-<tr>
-<td>proslavery</td>
-<td></td>
-<td>provident</td>
-<td></td>
-<td>postoffice</td>
-<td></td>
-</tr>
-<tr>
-<td>proabortionist</td>
-<td></td>
-<td>provoke</td>
-<td></td>
-<td>postcard</td>
-<td></td>
-</tr>
-<tr>
-<td>procrastinate</td>
-<td></td>
-<td>preschool</td>
-<td></td>
-<td>postal</td>
-<td></td>
-</tr>
-<tr>
-<td>procreate</td>
-<td></td>
-<td>prehistory</td>
-<td></td>
-<td>postwar</td>
-<td></td>
-</tr>
-<tr>
-<td>profligate</td>
-<td></td>
-<td>prefix</td>
-<td></td>
-<td>postpone</td>
-<td></td>
-</tr>
-<tr>
-<td>proliferate</td>
-<td></td>
-<td>preposition</td>
-<td></td>
-<td>postgraduate</td>
-<td></td>
-</tr>
-<tr>
-<td>profit</td>
-<td></td>
-<td>prepay</td>
-<td></td>
-<td>postface</td>
-<td></td>
-</tr>
-<tr>
-<td>profuse</td>
-<td></td>
-<td>prebuilt</td>
-<td></td>
-<td>posterior</td>
-<td></td>
-</tr>
-<tr>
-<td>prolific</td>
-<td></td>
-<td>preamble</td>
-<td></td>
-<td>polyandry</td>
-<td></td>
-</tr>
-<tr>
-<td>prosperous</td>
-<td></td>
-<td>precaution</td>
-<td></td>
-<td>polyglot</td>
-<td></td>
-</tr>
-<tr>
-<td>progress</td>
-<td></td>
-<td>precede</td>
-<td></td>
-<td>polyfunctional</td>
-<td></td>
-</tr>
-<tr>
-<td>project</td>
-<td></td>
-<td>precedent</td>
-<td></td>
-<td>perigon</td>
-<td></td>
-</tr>
-<tr>
-<td>prologue</td>
-<td></td>
-<td>precept</td>
-<td></td>
-<td>perimeter</td>
-<td></td>
-</tr>
-<tr>
-<td>promote</td>
-<td></td>
-<td>precinct</td>
-<td></td>
-<td>periphery</td>
-<td></td>
-</tr>
-<tr>
-<td>protrude</td>
-<td></td>
-<td>precipice</td>
-<td></td>
-<td>perfidy</td>
-<td></td>
-</tr>
-<tr>
-<td>propel</td>
-<td></td>
-<td>precipitation</td>
-<td></td>
-<td>perjury</td>
-<td></td>
-</tr>
-<tr>
-<td>proficient</td>
-<td></td>
-<td>precise</td>
-<td></td>
-<td>perfunctory</td>
-<td></td>
-</tr>
-<tr>
-<td>profile</td>
-<td></td>
-<td>preclude</td>
-<td></td>
-<td>perpetrate</td>
-<td></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>英语单词</tag>
-        <tag>考研英语</tag>
       </tags>
   </entry>
   <entry>
@@ -2072,6 +1852,226 @@
       </categories>
       <tags>
         <tag>英语单词</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R033-考研单词L2</title>
+    <url>/2021/01/03/R033/</url>
+    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
+
+<hr>
+<table>
+<thead>
+<tr>
+<th>supersensitive</th>
+<th></th>
+<th>profess</th>
+<th></th>
+<th>precocious</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>supercharge</td>
+<td></td>
+<td>prodigious</td>
+<td></td>
+<td>predict</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudo</td>
+<td></td>
+<td>proclivity</td>
+<td></td>
+<td>predisposition</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudonym</td>
+<td></td>
+<td>procure</td>
+<td></td>
+<td>preoccupation</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudoscience</td>
+<td></td>
+<td>prominent</td>
+<td></td>
+<td>prescient</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudograph</td>
+<td></td>
+<td>prosecute</td>
+<td></td>
+<td>prerogative</td>
+<td></td>
+</tr>
+<tr>
+<td>pro-American</td>
+<td></td>
+<td>prospect</td>
+<td></td>
+<td>postage</td>
+<td></td>
+</tr>
+<tr>
+<td>proslavery</td>
+<td></td>
+<td>provident</td>
+<td></td>
+<td>postoffice</td>
+<td></td>
+</tr>
+<tr>
+<td>proabortionist</td>
+<td></td>
+<td>provoke</td>
+<td></td>
+<td>postcard</td>
+<td></td>
+</tr>
+<tr>
+<td>procrastinate</td>
+<td></td>
+<td>preschool</td>
+<td></td>
+<td>postal</td>
+<td></td>
+</tr>
+<tr>
+<td>procreate</td>
+<td></td>
+<td>prehistory</td>
+<td></td>
+<td>postwar</td>
+<td></td>
+</tr>
+<tr>
+<td>profligate</td>
+<td></td>
+<td>prefix</td>
+<td></td>
+<td>postpone</td>
+<td></td>
+</tr>
+<tr>
+<td>proliferate</td>
+<td></td>
+<td>preposition</td>
+<td></td>
+<td>postgraduate</td>
+<td></td>
+</tr>
+<tr>
+<td>profit</td>
+<td></td>
+<td>prepay</td>
+<td></td>
+<td>postface</td>
+<td></td>
+</tr>
+<tr>
+<td>profuse</td>
+<td></td>
+<td>prebuilt</td>
+<td></td>
+<td>posterior</td>
+<td></td>
+</tr>
+<tr>
+<td>prolific</td>
+<td></td>
+<td>preamble</td>
+<td></td>
+<td>polyandry</td>
+<td></td>
+</tr>
+<tr>
+<td>prosperous</td>
+<td></td>
+<td>precaution</td>
+<td></td>
+<td>polyglot</td>
+<td></td>
+</tr>
+<tr>
+<td>progress</td>
+<td></td>
+<td>precede</td>
+<td></td>
+<td>polyfunctional</td>
+<td></td>
+</tr>
+<tr>
+<td>project</td>
+<td></td>
+<td>precedent</td>
+<td></td>
+<td>perigon</td>
+<td></td>
+</tr>
+<tr>
+<td>prologue</td>
+<td></td>
+<td>precept</td>
+<td></td>
+<td>perimeter</td>
+<td></td>
+</tr>
+<tr>
+<td>promote</td>
+<td></td>
+<td>precinct</td>
+<td></td>
+<td>periphery</td>
+<td></td>
+</tr>
+<tr>
+<td>protrude</td>
+<td></td>
+<td>precipice</td>
+<td></td>
+<td>perfidy</td>
+<td></td>
+</tr>
+<tr>
+<td>propel</td>
+<td></td>
+<td>precipitation</td>
+<td></td>
+<td>perjury</td>
+<td></td>
+</tr>
+<tr>
+<td>proficient</td>
+<td></td>
+<td>precise</td>
+<td></td>
+<td>perfunctory</td>
+<td></td>
+</tr>
+<tr>
+<td>profile</td>
+<td></td>
+<td>preclude</td>
+<td></td>
+<td>perpetrate</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
       </tags>
   </entry>
   <entry>
@@ -2955,24 +2955,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R041-软件工程考点梳理</title>
-    <url>/2021/01/06/R041-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
-    <content><![CDATA[<h4 id="核心内容"><a href="#核心内容" class="headerlink" title="核心内容"></a>核心内容</h4><blockquote>
-<p>软件工程的重点内容是SCRUM</p>
-</blockquote>
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 意义不大的参考</span><br>[https://wenku.baidu.com/view/2c6d4a3681eb6294dd88d0d233d4b14e84243e35.html]<br><br><span class="hljs-comment">## SCRUM</span><br>[https://zhuanlan.zhihu.com/p/49048186]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>软件工程考点梳理</tag>
-        <tag>CMMI</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R040-马原考点梳理</title>
     <url>/2021/01/06/R040-%E9%A9%AC%E5%8E%9F%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
     <content><![CDATA[<h4 id="引用资料"><a href="#引用资料" class="headerlink" title="引用资料"></a>引用资料</h4><hr>
@@ -2989,6 +2971,24 @@
       <tags>
         <tag>马克思主义基本原理概论</tag>
         <tag>马原考点梳理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R041-软件工程考点梳理</title>
+    <url>/2021/01/06/R041-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
+    <content><![CDATA[<h4 id="核心内容"><a href="#核心内容" class="headerlink" title="核心内容"></a>核心内容</h4><blockquote>
+<p>软件工程的重点内容是SCRUM</p>
+</blockquote>
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 意义不大的参考</span><br>[https://wenku.baidu.com/view/2c6d4a3681eb6294dd88d0d233d4b14e84243e35.html]<br><br><span class="hljs-comment">## SCRUM</span><br>[https://zhuanlan.zhihu.com/p/49048186]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>软件工程考点梳理</tag>
+        <tag>CMMI</tag>
       </tags>
   </entry>
   <entry>
@@ -3759,18 +3759,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R051-应试的规律</title>
-    <url>/2021/01/09/R051-%E5%BA%94%E8%AF%95%E7%9A%84%E8%A7%84%E5%BE%8B/</url>
-    <content><![CDATA[<h4 id="愚钝的重复"><a href="#愚钝的重复" class="headerlink" title="愚钝的重复"></a>愚钝的重复</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么考试考了一次又一次，却仍然不知道总结反思？</span><br>	**从学期开始，就有一件事是确定了的，那就是这门课程要考试，那么为什么不在学期的一开始就为了要考试的知识点做好准备[寻找模拟题、试卷、教材]<br>	<br><span class="hljs-comment">## 	</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>考试经历</tag>
-        <tag>学习总结</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R052-关于语言学习与思维局限</title>
     <url>/2021/01/09/R052-%E5%85%B3%E4%BA%8E%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%80%9D%E7%BB%B4%E5%B1%80%E9%99%90/</url>
     <content><![CDATA[<h4 id="为什么要多学习几门语言"><a href="#为什么要多学习几门语言" class="headerlink" title="为什么要多学习几门语言"></a>为什么要多学习几门语言</h4><hr>
@@ -3780,6 +3768,18 @@
       <tags>
         <tag>语言学习</tag>
         <tag>思维局限</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R051-应试的规律</title>
+    <url>/2021/01/09/R051-%E5%BA%94%E8%AF%95%E7%9A%84%E8%A7%84%E5%BE%8B/</url>
+    <content><![CDATA[<h4 id="愚钝的重复"><a href="#愚钝的重复" class="headerlink" title="愚钝的重复"></a>愚钝的重复</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么考试考了一次又一次，却仍然不知道总结反思？</span><br>	**从学期开始，就有一件事是确定了的，那就是这门课程要考试，那么为什么不在学期的一开始就为了要考试的知识点做好准备[寻找模拟题、试卷、教材]<br>	<br><span class="hljs-comment">## 	</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>考试经历</tag>
+        <tag>学习总结</tag>
       </tags>
   </entry>
   <entry>

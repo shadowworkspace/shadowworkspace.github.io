@@ -197,6 +197,25 @@
       </tags>
   </entry>
   <entry>
+    <title>I005-高速缓存与调度算法</title>
+    <url>/2021/01/11/I005-%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E4%B8%8E%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/</url>
+    <content><![CDATA[<h4 id="高速缓存"><a href="#高速缓存" class="headerlink" title="高速缓存"></a>高速缓存</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将高速缓存应用到生活与工作中？</span><br>	**在工作学习的过程中建立索引，将索引添加只缓冲区[每次要使用到数据先从缓冲区当中查找]<br>	<span class="hljs-comment">##合理利用局部性原理，对计算机适用的方法，对个人生活也同样适用。</span><br>	<br>	**为每一天、每一周、每个月、每一年开辟一个高速缓冲区<br>		[因为会频繁的在短时间内用到，所以开辟一个缓冲区可以大大提高运行效率]<br>		例如：每天背单词重复的步骤：打开单词书、打开typora、新建文章记录、打开听力材料、打开excel记录-----&gt;能否考虑：我只要做核心的部分：记录背诵的单词--其他部分都不需要我亲自动手。自动完成[包括hexo的部署]<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将计算机科学中的一门门艺术与设计应用到产品与生活中？</span><br>	局部性原理<br>	高速缓存<br>	进程调度<br>	查找算法<br>	<br>	《计算机科学的艺术 与 -&gt; 生活》<br>	<br>	<br><span class="hljs-comment">## 拓展：如何将其他科学的艺术与设计应用到产品与生活当中？</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>缓存与调度</tag>
+        <tag>专业知识的应用</tag>
+        <tag>知行合一</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>M001-数模资料</title>
     <url>/2021/01/01/M001-%E6%95%B0%E6%A8%A1%E8%B5%84%E6%96%99/</url>
     <content><![CDATA[<h4 id="为什么是数学建模？"><a href="#为什么是数学建模？" class="headerlink" title="为什么是数学建模？"></a>为什么是数学建模？</h4><hr>
@@ -240,23 +259,6 @@
       </tags>
   </entry>
   <entry>
-    <title>P002-高等数学-奇谈</title>
-    <url>/2021/01/04/P002-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E5%A5%87%E8%B0%88/</url>
-    <content><![CDATA[<h4 id="关于积分的思考"><a href="#关于积分的思考" class="headerlink" title="关于积分的思考"></a>关于积分的思考</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 求导</span><br>	** 求导数的过程就是降维打击的过程：<br>		<span class="hljs-comment">#从空间到平面 --&gt; 从平面到直线 --&gt; 从直线到基点 --&gt; 从点到虚无</span><br>		<br>	** 积分的过程就是量变引起质变，并且受到统计支配：<br>		<span class="hljs-comment">#从一个点恢复到一条线，这个过程可能被随机扭曲：直线变成了曲线</span><br>		<span class="hljs-comment">#从一条直线恢复到一个平面，被扭曲，平面变成了曲面</span><br>		<span class="hljs-comment">#从一个平面恢复到一个空间几何体，被扭曲，成为了奇怪的几何体[扭曲的过程是随机的，但是表现出统计学规律]</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>专业学习</category>
-        <category>高等数学</category>
-      </categories>
-      <tags>
-        <tag>空间几何</tag>
-        <tag>导数与积分</tag>
-        <tag>奇异思想</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>P001-算法的有穷性</title>
     <url>/2021/01/01/P001-%E7%AE%97%E6%B3%95%E7%9A%84%E6%9C%89%E7%A9%B7%E6%80%A7/</url>
     <content><![CDATA[<h4 id="算法的有穷性"><a href="#算法的有穷性" class="headerlink" title="算法的有穷性"></a>算法的有穷性</h4><hr>
@@ -272,6 +274,23 @@
         <tag>DSA</tag>
         <tag>hailstone</tag>
         <tag>algorithm</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>P002-高等数学-奇谈</title>
+    <url>/2021/01/04/P002-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E5%A5%87%E8%B0%88/</url>
+    <content><![CDATA[<h4 id="关于积分的思考"><a href="#关于积分的思考" class="headerlink" title="关于积分的思考"></a>关于积分的思考</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 求导</span><br>	** 求导数的过程就是降维打击的过程：<br>		<span class="hljs-comment">#从空间到平面 --&gt; 从平面到直线 --&gt; 从直线到基点 --&gt; 从点到虚无</span><br>		<br>	** 积分的过程就是量变引起质变，并且受到统计支配：<br>		<span class="hljs-comment">#从一个点恢复到一条线，这个过程可能被随机扭曲：直线变成了曲线</span><br>		<span class="hljs-comment">#从一条直线恢复到一个平面，被扭曲，平面变成了曲面</span><br>		<span class="hljs-comment">#从一个平面恢复到一个空间几何体，被扭曲，成为了奇怪的几何体[扭曲的过程是随机的，但是表现出统计学规律]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>专业学习</category>
+        <category>高等数学</category>
+      </categories>
+      <tags>
+        <tag>空间几何</tag>
+        <tag>导数与积分</tag>
+        <tag>奇异思想</tag>
       </tags>
   </entry>
   <entry>
@@ -360,20 +379,6 @@
       </categories>
   </entry>
   <entry>
-    <title>R003</title>
-    <url>/2020/12/15/R003/</url>
-    <content><![CDATA[<hr>
-<figure class="highlight csharp"><table><tr><td class="code"><pre><code class="hljs csharp"><span class="hljs-meta">## 如何让故事更加真实、可触摸？</span><br>	一位脾气暴躁的姐妹，有一天走在路上，突然不知道从什么地方飞过来一个马铃薯砸在她头上。她顿时火冒三丈，捡起马铃薯准备寻找元凶报仇，突然一个声音在她脑中想起：已经是门徒了，还是没有改变吗？<br>	她愤怒立刻消去，也不再寻找扔她的人了，转身拿起马铃薯，回到家中，把这个马铃薯切成碎片。然后种植在架子上。几个月之后，马铃薯一颗颗长出来了。等到见证之时，马铃薯可以送出去，又养成新的马铃薯。<br>	<br>	[<span class="hljs-meta">故事本身很简单，但是故事的寓意和提示深远悠长</span>]<br>	[<span class="hljs-meta">用行动赋予故事意义</span>]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>blub</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R002</title>
     <url>/2020/12/15/R002/</url>
     <content><![CDATA[<hr>
@@ -398,6 +403,20 @@
         <tag>门徒训练</tag>
         <tag>N102</tag>
         <tag>在基督的学校作门徒</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R003</title>
+    <url>/2020/12/15/R003/</url>
+    <content><![CDATA[<hr>
+<figure class="highlight csharp"><table><tr><td class="code"><pre><code class="hljs csharp"><span class="hljs-meta">## 如何让故事更加真实、可触摸？</span><br>	一位脾气暴躁的姐妹，有一天走在路上，突然不知道从什么地方飞过来一个马铃薯砸在她头上。她顿时火冒三丈，捡起马铃薯准备寻找元凶报仇，突然一个声音在她脑中想起：已经是门徒了，还是没有改变吗？<br>	她愤怒立刻消去，也不再寻找扔她的人了，转身拿起马铃薯，回到家中，把这个马铃薯切成碎片。然后种植在架子上。几个月之后，马铃薯一颗颗长出来了。等到见证之时，马铃薯可以送出去，又养成新的马铃薯。<br>	<br>	[<span class="hljs-meta">故事本身很简单，但是故事的寓意和提示深远悠长</span>]<br>	[<span class="hljs-meta">用行动赋予故事意义</span>]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>blub</tag>
       </tags>
   </entry>
   <entry>
@@ -453,6 +472,21 @@
         <tag>RI-CPU</tag>
         <tag>计算机组成原理</tag>
         <tag>MIPS指令实现</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R007</title>
+    <url>/2020/12/16/R007/</url>
+    <content><![CDATA[<h4 id=""><a href="#" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>www.mi.com<span class="hljs-regexp">/miwifimini 		/</span><span class="hljs-regexp">/ MI</span><br></code></pre></td></tr></table></figure>
+
+<h4 id="-1"><a href="#-1" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">VLC									<span class="hljs-regexp">//</span> QT视频处理方案<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>MI</tag>
       </tags>
   </entry>
   <entry>
@@ -525,21 +559,6 @@
       <tags>
         <tag>企业管理</tag>
         <tag>未雨绸缪</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R007</title>
-    <url>/2020/12/16/R007/</url>
-    <content><![CDATA[<h4 id=""><a href="#" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>www.mi.com<span class="hljs-regexp">/miwifimini 		/</span><span class="hljs-regexp">/ MI</span><br></code></pre></td></tr></table></figure>
-
-<h4 id="-1"><a href="#-1" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">VLC									<span class="hljs-regexp">//</span> QT视频处理方案<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>MI</tag>
       </tags>
   </entry>
   <entry>
@@ -718,6 +737,14 @@
       </tags>
   </entry>
   <entry>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
     <title>R015-17级实习分享会</title>
     <url>/2020/12/27/R015/</url>
     <content><![CDATA[<h4 id="17级实习经验分享"><a href="#17级实习经验分享" class="headerlink" title="17级实习经验分享"></a>17级实习经验分享</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 张晨</span><br>	**临场改PPT<br>	**<br>	<br>	**求职过程<br>		<span class="hljs-comment">#领英找内推</span><br>		<span class="hljs-comment">#放链接-最好是个人博客</span><br>		<span class="hljs-comment">#包装自己 -- 合理 -- 简历</span><br>		<span class="hljs-comment">#乐于分享 - 表达方法 - 表达自己</span><br>			**你的能力体现、<br>	**学习过程<br>		<span class="hljs-comment">#剑指Offer</span><br>		<span class="hljs-comment">#Leetcode</span><br>		<span class="hljs-comment">#自学能力</span><br>		<span class="hljs-comment">#Pendo - todolist</span><br>		<br>	**求职经验<br>		*项目中承担的角色<br>		*实现<br>		*主要负责<br>		**擅长什么类型<br>		**为什么对这个方向感兴趣？<br>		<br>		*interview.huihut.com<br>		<br>	**看公司的年报，去了解公司<br>	<br>	**逻辑分析- 金字塔模型 - 第一点、第二点、第三点<br>	<br>	**岗位匹配度<br>	<br>	<span class="hljs-comment">#一定要早一点去实习</span><br>	<br></code></pre></td></tr></table></figure>
@@ -739,14 +766,6 @@
   <entry>
     <title>R017-NULL</title>
     <url>/2020/12/27/R017/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
@@ -1165,6 +1184,76 @@
       </tags>
   </entry>
   <entry>
+    <title>R029-个人项目经验规划</title>
+    <url>/2021/01/01/R029/</url>
+    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cser如何面对复试</td>
+<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
+</tr>
+<tr>
+<td>大数据工程师该会什么</td>
+<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
+</tr>
+<tr>
+<td>清华大学计科培养方案</td>
+<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
+</tr>
+<tr>
+<td>20计算机经验帖</td>
+<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
+</tr>
+<tr>
+<td>一位学姐的912分享</td>
+<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>数据结构邓俊辉</td>
+<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
+<table>
+<thead>
+<tr>
+<th>数据机构[学堂在线]</th>
+<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>考研英语词根词缀</td>
+<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>数学建模</tag>
+        <tag>912考研资料索引专刊</tag>
+        <tag>个人项目规划参考</tag>
+        <tag>大数据工程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R028-考研单词记录L0</title>
     <url>/2021/01/01/R028/</url>
     <content><![CDATA[<h4 id="开始战斗"><a href="#开始战斗" class="headerlink" title="开始战斗"></a>开始战斗</h4><hr>
@@ -1442,76 +1531,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R029-个人项目经验规划</title>
-    <url>/2021/01/01/R029/</url>
-    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
-<table>
-<thead>
-<tr>
-<th>名称</th>
-<th>链接</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Cser如何面对复试</td>
-<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
-</tr>
-<tr>
-<td>大数据工程师该会什么</td>
-<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
-</tr>
-<tr>
-<td>清华大学计科培养方案</td>
-<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
-</tr>
-<tr>
-<td>20计算机经验帖</td>
-<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
-</tr>
-<tr>
-<td>一位学姐的912分享</td>
-<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>数据结构邓俊辉</td>
-<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<hr>
-<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
-<table>
-<thead>
-<tr>
-<th>数据机构[学堂在线]</th>
-<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>考研英语词根词缀</td>
-<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>数学建模</tag>
-        <tag>912考研资料索引专刊</tag>
-        <tag>个人项目规划参考</tag>
-        <tag>大数据工程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R030-自动化发布文章更新</title>
     <url>/2021/01/01/R030/</url>
     <content><![CDATA[<h4 id="不断趋于完美"><a href="#不断趋于完美" class="headerlink" title="不断趋于完美"></a>不断趋于完美</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 加入新的功能</span><br>	**创建文章时只需要输入类型，不需要指定具体编号<br>	**能够自动提取参数并且加入到tag<br>	**能够自动追加整体经验值<br>	**能够自动判断段位增量<br></code></pre></td></tr></table></figure>
@@ -1564,6 +1583,226 @@
         <tag>假期安排</tag>
         <tag>产品设计</tag>
         <tag>团队管理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R033-考研单词L2</title>
+    <url>/2021/01/03/R033/</url>
+    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
+
+<hr>
+<table>
+<thead>
+<tr>
+<th>supersensitive</th>
+<th></th>
+<th>profess</th>
+<th></th>
+<th>precocious</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>supercharge</td>
+<td></td>
+<td>prodigious</td>
+<td></td>
+<td>predict</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudo</td>
+<td></td>
+<td>proclivity</td>
+<td></td>
+<td>predisposition</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudonym</td>
+<td></td>
+<td>procure</td>
+<td></td>
+<td>preoccupation</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudoscience</td>
+<td></td>
+<td>prominent</td>
+<td></td>
+<td>prescient</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudograph</td>
+<td></td>
+<td>prosecute</td>
+<td></td>
+<td>prerogative</td>
+<td></td>
+</tr>
+<tr>
+<td>pro-American</td>
+<td></td>
+<td>prospect</td>
+<td></td>
+<td>postage</td>
+<td></td>
+</tr>
+<tr>
+<td>proslavery</td>
+<td></td>
+<td>provident</td>
+<td></td>
+<td>postoffice</td>
+<td></td>
+</tr>
+<tr>
+<td>proabortionist</td>
+<td></td>
+<td>provoke</td>
+<td></td>
+<td>postcard</td>
+<td></td>
+</tr>
+<tr>
+<td>procrastinate</td>
+<td></td>
+<td>preschool</td>
+<td></td>
+<td>postal</td>
+<td></td>
+</tr>
+<tr>
+<td>procreate</td>
+<td></td>
+<td>prehistory</td>
+<td></td>
+<td>postwar</td>
+<td></td>
+</tr>
+<tr>
+<td>profligate</td>
+<td></td>
+<td>prefix</td>
+<td></td>
+<td>postpone</td>
+<td></td>
+</tr>
+<tr>
+<td>proliferate</td>
+<td></td>
+<td>preposition</td>
+<td></td>
+<td>postgraduate</td>
+<td></td>
+</tr>
+<tr>
+<td>profit</td>
+<td></td>
+<td>prepay</td>
+<td></td>
+<td>postface</td>
+<td></td>
+</tr>
+<tr>
+<td>profuse</td>
+<td></td>
+<td>prebuilt</td>
+<td></td>
+<td>posterior</td>
+<td></td>
+</tr>
+<tr>
+<td>prolific</td>
+<td></td>
+<td>preamble</td>
+<td></td>
+<td>polyandry</td>
+<td></td>
+</tr>
+<tr>
+<td>prosperous</td>
+<td></td>
+<td>precaution</td>
+<td></td>
+<td>polyglot</td>
+<td></td>
+</tr>
+<tr>
+<td>progress</td>
+<td></td>
+<td>precede</td>
+<td></td>
+<td>polyfunctional</td>
+<td></td>
+</tr>
+<tr>
+<td>project</td>
+<td></td>
+<td>precedent</td>
+<td></td>
+<td>perigon</td>
+<td></td>
+</tr>
+<tr>
+<td>prologue</td>
+<td></td>
+<td>precept</td>
+<td></td>
+<td>perimeter</td>
+<td></td>
+</tr>
+<tr>
+<td>promote</td>
+<td></td>
+<td>precinct</td>
+<td></td>
+<td>periphery</td>
+<td></td>
+</tr>
+<tr>
+<td>protrude</td>
+<td></td>
+<td>precipice</td>
+<td></td>
+<td>perfidy</td>
+<td></td>
+</tr>
+<tr>
+<td>propel</td>
+<td></td>
+<td>precipitation</td>
+<td></td>
+<td>perjury</td>
+<td></td>
+</tr>
+<tr>
+<td>proficient</td>
+<td></td>
+<td>precise</td>
+<td></td>
+<td>perfunctory</td>
+<td></td>
+</tr>
+<tr>
+<td>profile</td>
+<td></td>
+<td>preclude</td>
+<td></td>
+<td>perpetrate</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
       </tags>
   </entry>
   <entry>
@@ -1836,226 +2075,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R033-考研单词L2</title>
-    <url>/2021/01/03/R033/</url>
-    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
-
-<hr>
-<table>
-<thead>
-<tr>
-<th>supersensitive</th>
-<th></th>
-<th>profess</th>
-<th></th>
-<th>precocious</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>supercharge</td>
-<td></td>
-<td>prodigious</td>
-<td></td>
-<td>predict</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudo</td>
-<td></td>
-<td>proclivity</td>
-<td></td>
-<td>predisposition</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudonym</td>
-<td></td>
-<td>procure</td>
-<td></td>
-<td>preoccupation</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudoscience</td>
-<td></td>
-<td>prominent</td>
-<td></td>
-<td>prescient</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudograph</td>
-<td></td>
-<td>prosecute</td>
-<td></td>
-<td>prerogative</td>
-<td></td>
-</tr>
-<tr>
-<td>pro-American</td>
-<td></td>
-<td>prospect</td>
-<td></td>
-<td>postage</td>
-<td></td>
-</tr>
-<tr>
-<td>proslavery</td>
-<td></td>
-<td>provident</td>
-<td></td>
-<td>postoffice</td>
-<td></td>
-</tr>
-<tr>
-<td>proabortionist</td>
-<td></td>
-<td>provoke</td>
-<td></td>
-<td>postcard</td>
-<td></td>
-</tr>
-<tr>
-<td>procrastinate</td>
-<td></td>
-<td>preschool</td>
-<td></td>
-<td>postal</td>
-<td></td>
-</tr>
-<tr>
-<td>procreate</td>
-<td></td>
-<td>prehistory</td>
-<td></td>
-<td>postwar</td>
-<td></td>
-</tr>
-<tr>
-<td>profligate</td>
-<td></td>
-<td>prefix</td>
-<td></td>
-<td>postpone</td>
-<td></td>
-</tr>
-<tr>
-<td>proliferate</td>
-<td></td>
-<td>preposition</td>
-<td></td>
-<td>postgraduate</td>
-<td></td>
-</tr>
-<tr>
-<td>profit</td>
-<td></td>
-<td>prepay</td>
-<td></td>
-<td>postface</td>
-<td></td>
-</tr>
-<tr>
-<td>profuse</td>
-<td></td>
-<td>prebuilt</td>
-<td></td>
-<td>posterior</td>
-<td></td>
-</tr>
-<tr>
-<td>prolific</td>
-<td></td>
-<td>preamble</td>
-<td></td>
-<td>polyandry</td>
-<td></td>
-</tr>
-<tr>
-<td>prosperous</td>
-<td></td>
-<td>precaution</td>
-<td></td>
-<td>polyglot</td>
-<td></td>
-</tr>
-<tr>
-<td>progress</td>
-<td></td>
-<td>precede</td>
-<td></td>
-<td>polyfunctional</td>
-<td></td>
-</tr>
-<tr>
-<td>project</td>
-<td></td>
-<td>precedent</td>
-<td></td>
-<td>perigon</td>
-<td></td>
-</tr>
-<tr>
-<td>prologue</td>
-<td></td>
-<td>precept</td>
-<td></td>
-<td>perimeter</td>
-<td></td>
-</tr>
-<tr>
-<td>promote</td>
-<td></td>
-<td>precinct</td>
-<td></td>
-<td>periphery</td>
-<td></td>
-</tr>
-<tr>
-<td>protrude</td>
-<td></td>
-<td>precipice</td>
-<td></td>
-<td>perfidy</td>
-<td></td>
-</tr>
-<tr>
-<td>propel</td>
-<td></td>
-<td>precipitation</td>
-<td></td>
-<td>perjury</td>
-<td></td>
-</tr>
-<tr>
-<td>proficient</td>
-<td></td>
-<td>precise</td>
-<td></td>
-<td>perfunctory</td>
-<td></td>
-</tr>
-<tr>
-<td>profile</td>
-<td></td>
-<td>preclude</td>
-<td></td>
-<td>perpetrate</td>
-<td></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>英语单词</tag>
-        <tag>考研英语</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R034-md图标收藏</title>
     <url>/2021/01/04/R034/</url>
     <content><![CDATA[<h4 id="四月图标收藏栏"><a href="#四月图标收藏栏" class="headerlink" title="四月图标收藏栏"></a>四月图标收藏栏</h4><p>:fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis:</p>
@@ -2072,6 +2091,21 @@
         <tag>图案模板</tag>
         <tag>图标线条</tag>
         <tag>图形设计</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R035-人工智能-初级踩坑</title>
+    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
+    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>入门资料</tag>
       </tags>
   </entry>
   <entry>
@@ -2096,21 +2130,6 @@
         <tag>HZIEE-CS-STACK</tag>
         <tag>项目分析</tag>
         <tag>会议大纲</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R035-人工智能-初级踩坑</title>
-    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
-    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>入门资料</tag>
       </tags>
   </entry>
   <entry>
@@ -2936,6 +2955,24 @@
       </tags>
   </entry>
   <entry>
+    <title>R041-软件工程考点梳理</title>
+    <url>/2021/01/06/R041-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
+    <content><![CDATA[<h4 id="核心内容"><a href="#核心内容" class="headerlink" title="核心内容"></a>核心内容</h4><blockquote>
+<p>软件工程的重点内容是SCRUM</p>
+</blockquote>
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 意义不大的参考</span><br>[https://wenku.baidu.com/view/2c6d4a3681eb6294dd88d0d233d4b14e84243e35.html]<br><br><span class="hljs-comment">## SCRUM</span><br>[https://zhuanlan.zhihu.com/p/49048186]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>软件工程考点梳理</tag>
+        <tag>CMMI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R040-马原考点梳理</title>
     <url>/2021/01/06/R040-%E9%A9%AC%E5%8E%9F%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
     <content><![CDATA[<h4 id="引用资料"><a href="#引用资料" class="headerlink" title="引用资料"></a>引用资料</h4><hr>
@@ -2952,24 +2989,6 @@
       <tags>
         <tag>马克思主义基本原理概论</tag>
         <tag>马原考点梳理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R041-软件工程考点梳理</title>
-    <url>/2021/01/06/R041-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
-    <content><![CDATA[<h4 id="核心内容"><a href="#核心内容" class="headerlink" title="核心内容"></a>核心内容</h4><blockquote>
-<p>软件工程的重点内容是SCRUM</p>
-</blockquote>
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 意义不大的参考</span><br>[https://wenku.baidu.com/view/2c6d4a3681eb6294dd88d0d233d4b14e84243e35.html]<br><br><span class="hljs-comment">## SCRUM</span><br>[https://zhuanlan.zhihu.com/p/49048186]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>软件工程考点梳理</tag>
-        <tag>CMMI</tag>
       </tags>
   </entry>
   <entry>
@@ -3782,6 +3801,567 @@
       </categories>
       <tags>
         <tag>计网习题整理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R054-考研单词L7</title>
+    <url>/2021/01/10/R054-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL7/</url>
+    <content><![CDATA[<h4 id="Never-quit"><a href="#Never-quit" class="headerlink" title="Never quit"></a>Never quit</h4><hr>
+<blockquote>
+<p>Just do it.</p>
+</blockquote>
+<hr>
+<table>
+<thead>
+<tr>
+<th>intervene</th>
+<th></th>
+<th>clutch</th>
+<th></th>
+<th>tar</th>
+<th></th>
+<th>grind</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>vacuum</td>
+<td></td>
+<td>hostess</td>
+<td></td>
+<td>quote</td>
+<td></td>
+<td>recycle</td>
+<td></td>
+</tr>
+<tr>
+<td>ancient</td>
+<td></td>
+<td>wrist</td>
+<td></td>
+<td>distill</td>
+<td></td>
+<td>vessel</td>
+<td></td>
+</tr>
+<tr>
+<td>literacy</td>
+<td></td>
+<td>temperament</td>
+<td></td>
+<td>await</td>
+<td></td>
+<td>representative</td>
+<td></td>
+</tr>
+<tr>
+<td>module</td>
+<td></td>
+<td>economic</td>
+<td></td>
+<td>harsh</td>
+<td></td>
+<td>detain</td>
+<td></td>
+</tr>
+<tr>
+<td>swear</td>
+<td></td>
+<td>mate</td>
+<td></td>
+<td>ambitious</td>
+<td></td>
+<td>literary</td>
+<td></td>
+</tr>
+<tr>
+<td>sensitive</td>
+<td></td>
+<td>curl</td>
+<td></td>
+<td>betray</td>
+<td></td>
+<td>setback</td>
+<td></td>
+</tr>
+<tr>
+<td>domestic</td>
+<td></td>
+<td>pastime</td>
+<td></td>
+<td>drawback</td>
+<td></td>
+<td>moreover</td>
+<td></td>
+</tr>
+<tr>
+<td>brand</td>
+<td></td>
+<td>disappear</td>
+<td></td>
+<td>revise</td>
+<td></td>
+<td>cannon</td>
+<td></td>
+</tr>
+<tr>
+<td>speculate</td>
+<td></td>
+<td>prototype</td>
+<td></td>
+<td>norm</td>
+<td></td>
+<td>hormone</td>
+<td></td>
+</tr>
+<tr>
+<td>persecute</td>
+<td></td>
+<td>pact</td>
+<td></td>
+<td>psychiatry</td>
+<td></td>
+<td>petroleum</td>
+<td></td>
+</tr>
+<tr>
+<td>numb</td>
+<td></td>
+<td>wander</td>
+<td></td>
+<td>compulsory</td>
+<td></td>
+<td>revolt</td>
+<td></td>
+</tr>
+<tr>
+<td>slice</td>
+<td></td>
+<td>campus</td>
+<td></td>
+<td>thirst</td>
+<td></td>
+<td>disclose</td>
+<td></td>
+</tr>
+<tr>
+<td>undergo</td>
+<td></td>
+<td>compartment</td>
+<td></td>
+<td>migrate</td>
+<td></td>
+<td>hawk</td>
+<td></td>
+</tr>
+<tr>
+<td>thunder</td>
+<td></td>
+<td>comic</td>
+<td></td>
+<td>absence</td>
+<td></td>
+<td>amid</td>
+<td></td>
+</tr>
+<tr>
+<td>atmosphere</td>
+<td></td>
+<td>imaginative</td>
+<td></td>
+<td>error</td>
+<td></td>
+<td>membership</td>
+<td></td>
+</tr>
+<tr>
+<td>tiresome</td>
+<td></td>
+<td>spectrum</td>
+<td></td>
+<td>bound</td>
+<td></td>
+<td>perfume</td>
+<td></td>
+</tr>
+<tr>
+<td>extinguish</td>
+<td></td>
+<td>inland</td>
+<td></td>
+<td>withdraw</td>
+<td></td>
+<td>expedition</td>
+<td></td>
+</tr>
+<tr>
+<td>canal</td>
+<td></td>
+<td>dash</td>
+<td></td>
+<td>selfish</td>
+<td></td>
+<td>sparkle</td>
+<td></td>
+</tr>
+<tr>
+<td>intact</td>
+<td></td>
+<td>symmetry</td>
+<td></td>
+<td>casualty</td>
+<td></td>
+<td>celebrity</td>
+<td></td>
+</tr>
+<tr>
+<td>revenge</td>
+<td></td>
+<td>bail</td>
+<td></td>
+<td>blunder</td>
+<td></td>
+<td>yawn</td>
+<td></td>
+</tr>
+<tr>
+<td>gas</td>
+<td></td>
+<td>instability</td>
+<td></td>
+<td>incentive</td>
+<td></td>
+<td>overhead</td>
+<td></td>
+</tr>
+<tr>
+<td>lean</td>
+<td></td>
+<td>hay</td>
+<td></td>
+<td>mold</td>
+<td></td>
+<td>sketch</td>
+<td></td>
+</tr>
+<tr>
+<td>engine</td>
+<td></td>
+<td>embassy</td>
+<td></td>
+<td>drift</td>
+<td></td>
+<td>drag</td>
+<td></td>
+</tr>
+<tr>
+<td>conjunction</td>
+<td></td>
+<td>besides</td>
+<td></td>
+<td>spacious</td>
+<td></td>
+<td>relativity</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R055-考研单词L8</title>
+    <url>/2021/01/11/R055-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL8/</url>
+    <content><![CDATA[<h4 id="where-there-is-a-will-there-is-a-way"><a href="#where-there-is-a-will-there-is-a-way" class="headerlink" title="where there is a will, there is a way."></a>where there is a will, there is a way.</h4><hr>
+<table>
+<thead>
+<tr>
+<th>parade</th>
+<th></th>
+<th>mill</th>
+<th></th>
+<th>climax</th>
+<th></th>
+<th>slam</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>performance</td>
+<td></td>
+<td>hurl</td>
+<td></td>
+<td>mud</td>
+<td></td>
+<td>flap</td>
+<td></td>
+</tr>
+<tr>
+<td>cherry</td>
+<td></td>
+<td>shatter</td>
+<td></td>
+<td>enrich</td>
+<td></td>
+<td>deserve</td>
+<td></td>
+</tr>
+<tr>
+<td>timber</td>
+<td></td>
+<td>clarity</td>
+<td></td>
+<td>velocity</td>
+<td></td>
+<td>levy</td>
+<td></td>
+</tr>
+<tr>
+<td>blaze</td>
+<td></td>
+<td>dispose</td>
+<td></td>
+<td>loyalty</td>
+<td></td>
+<td>plural</td>
+<td></td>
+</tr>
+<tr>
+<td>disable</td>
+<td></td>
+<td>hemisphere</td>
+<td></td>
+<td>authority</td>
+<td></td>
+<td>former</td>
+<td></td>
+</tr>
+<tr>
+<td>guitar</td>
+<td></td>
+<td>profound</td>
+<td></td>
+<td>gram</td>
+<td></td>
+<td>quantitative</td>
+<td></td>
+</tr>
+<tr>
+<td>conservation</td>
+<td></td>
+<td>source</td>
+<td></td>
+<td>hunt</td>
+<td></td>
+<td>erroneous</td>
+<td></td>
+</tr>
+<tr>
+<td>invalid</td>
+<td></td>
+<td>restrict</td>
+<td></td>
+<td>balcony</td>
+<td></td>
+<td>privilege</td>
+<td></td>
+</tr>
+<tr>
+<td>intimate</td>
+<td></td>
+<td>formal</td>
+<td></td>
+<td>complex</td>
+<td></td>
+<td>astronomy</td>
+<td></td>
+</tr>
+<tr>
+<td>vulnerable</td>
+<td></td>
+<td>deem</td>
+<td></td>
+<td>restless</td>
+<td></td>
+<td>cassette</td>
+<td></td>
+</tr>
+<tr>
+<td>collective</td>
+<td></td>
+<td>twist</td>
+<td></td>
+<td>publication</td>
+<td></td>
+<td>gene</td>
+<td></td>
+</tr>
+<tr>
+<td>predict</td>
+<td></td>
+<td>constitution</td>
+<td></td>
+<td>herb</td>
+<td></td>
+<td>deficit</td>
+<td></td>
+</tr>
+<tr>
+<td>scholar</td>
+<td></td>
+<td>qualitative</td>
+<td></td>
+<td>glamour</td>
+<td></td>
+<td>obstacle</td>
+<td></td>
+</tr>
+<tr>
+<td>cliff</td>
+<td></td>
+<td>reservoir</td>
+<td></td>
+<td>laser</td>
+<td></td>
+<td>coarse</td>
+<td></td>
+</tr>
+<tr>
+<td>academy</td>
+<td></td>
+<td>absorb</td>
+<td></td>
+<td>skilled</td>
+<td></td>
+<td>digest</td>
+<td></td>
+</tr>
+<tr>
+<td>illusion</td>
+<td></td>
+<td>shutter</td>
+<td></td>
+<td>mainteance</td>
+<td></td>
+<td>leak</td>
+<td></td>
+</tr>
+<tr>
+<td>sore</td>
+<td></td>
+<td>staff</td>
+<td></td>
+<td>cab</td>
+<td></td>
+<td>backward</td>
+<td></td>
+</tr>
+<tr>
+<td>porfolio</td>
+<td></td>
+<td>retention</td>
+<td></td>
+<td>allocate</td>
+<td></td>
+<td>pedal</td>
+<td></td>
+</tr>
+<tr>
+<td>dose</td>
+<td></td>
+<td>radiant</td>
+<td></td>
+<td>ashamed</td>
+<td></td>
+<td>stream</td>
+<td></td>
+</tr>
+<tr>
+<td>chart</td>
+<td></td>
+<td>briefcase</td>
+<td></td>
+<td>series</td>
+<td></td>
+<td>communication</td>
+<td></td>
+</tr>
+<tr>
+<td>deposit</td>
+<td></td>
+<td>lavatory</td>
+<td></td>
+<td>rib</td>
+<td></td>
+<td>galaxy</td>
+<td></td>
+</tr>
+<tr>
+<td>grape</td>
+<td></td>
+<td>resemble</td>
+<td></td>
+<td>stern</td>
+<td></td>
+<td>warehouse</td>
+<td></td>
+</tr>
+<tr>
+<td>displacement</td>
+<td></td>
+<td>necklace</td>
+<td></td>
+<td>demonstrate</td>
+<td></td>
+<td>scissors</td>
+<td></td>
+</tr>
+<tr>
+<td>obscure</td>
+<td></td>
+<td>moist</td>
+<td></td>
+<td>mechanical</td>
+<td></td>
+<td>skim</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R056-组成原理复习专栏</title>
+    <url>/2021/01/11/R056-%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%A4%8D%E4%B9%A0%E4%B8%93%E6%A0%8F/</url>
+    <content><![CDATA[<h4 id="简答题："><a href="#简答题：" class="headerlink" title="简答题："></a>简答题：</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 计算机系统的基本组成：</span><br>	计算机系统包括 硬件系统和软件系统，其中，硬件系统包括：运算器、控制器、存储器、输入设备和输出设备五大基本部件。 软件系统分为系统软件和应用软件两大类。 系统软件用包括操作系统、计算机语言处理程序、服务性程序、数据库管理系统和网络软件等。<br>	<br><span class="hljs-comment">## 计算机性能指标：</span><br>	CPI-Cycles Per Instruction<br>	**性能的定义：一般用程序的响应时间或系统的吞吐率表示机器或系统的整体性能。<br>	**CPU的性能测量[用户程序的CPU时间]；一般把程序的响应时间分成CPU时间和等待时间，CPU时间又分成用户CPU时间和系统CPU时间。 -略[详情参考：E:\home\shadow\hziee\2-COCP\docx\9-PT_PPT\第一章 计算机系统概述.ppt&#123;P93&#125;]<br>	**计算机系统的层次结构：[硬件与软件的交界处] 跨越计算机系统-硬件逻辑单元<br>	<br><span class="hljs-comment">## 冯-诺伊曼结构的特点：</span><br>	**1. 由运算器、控制器、存储器、输入设备和输出设备五大基本部件组成<br>	**2. 基本部件功能：<br>		*存储器不仅能存放数据，而且也能存放指令，形式上两者没有区别，但计算机应能区分数据还是指令；<br>		*控制器应能自动执行指令；<br>		*运算器应能进行加减乘除四种基本算术运算，并且也能进行一些逻辑运算和附加运算。<br>		*输入设备和输出设备用于操作人员和主机进行通信。<br>	**3. 内部以二进制形式表示指令和数据。每条指令由操作码和地址码两部分组成。操作码指出操作类型，地址码指出操作数的地址。由一串指令组成程序。<br>	**4. 采用“存储程序”工作方式<br>	<br><span class="hljs-comment">## 数据的表示</span><br>	**定点数的表示<br>		<span class="hljs-comment">#进位计数制</span><br>		<span class="hljs-comment">#定点数的二进制编码</span><br>			*原码、补码、移码表示<br>		<span class="hljs-comment">#定点整数的表示</span><br>			*无符号整数、带符号整数<br>	**浮点数格式和表示范围<br>	**浮点数的规格化<br>	**IEEE754浮点数标准<br>		<span class="hljs-comment">#单精度浮点数、双精度浮点数</span><br>		<span class="hljs-comment">#特殊数的表示形式</span><br>		<br>-------------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 数据表示</span><br>	**补码特性 - 模运算<br>	<br>	<br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 存储器层次结构</span><br>	**存储器分类：<br>		<span class="hljs-comment">#按工作性质</span><br>			*随机存取存储器[RAM]<br>				- 每个单元读写的时间一样，且与各单元所在的位置无关。如：内存<br>			*顺序存取存储器[SAM]<br>				- 数据按顺序读入或写出，存取时间长短与信息所在位置有关。如：磁带<br>			*直接存取存储器[DAM]<br>				- 直接定位到读写存储块，在读写数据时按顺序进行。如：磁盘<br>			*相联存储器[CAM]<br>				- 按内容检索到存储位置进行读写。如：快表<br>		<span class="hljs-comment">#按存储介质</span><br>			*半导体存储器<br>			*磁表面存储器<br>			*光存储器<br>		<span class="hljs-comment">#按信息的可更改性</span><br>			*只读存储器<br>			*读写存储器<br>		<span class="hljs-comment">#按断电后信息的可保存性分类</span><br>			*非易失性存储器<br>			*易失性存储器<br>		<span class="hljs-comment">#按功能/容量/速度/位置分类</span><br>			*寄存器<br>			*高速缓存<br>			*内存<br>			*外存<br>			<br><span class="hljs-comment">## 外存与内存的比较</span><br>	**速度：外存速度慢，内存速度快<br>	**成本：外存成本低，容量大；内存成本高，容量小<br>	**连接：外存不与CPU直接连接；内存直接与CPU连接<br>	**易失性：外存属于非易失性存储器，内存是易失性存储器<br>	<br><span class="hljs-comment">## 主存的性能指标：</span><br>	**存储容量<br>	**存储时间<br>	**存储周期<br>	**存储带宽<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 局部性原理：</span><br>	在较短的时间内，程序产生的地址往往集中在一个很小的范围内，这种现象被称为程序访问的局部性：空间局部性、时间局部性<br>	**原因：指令按序存放，地址连续，循环程序段或子程序段重复执行。 - 数据连续存放，数组元素重复，按序访问。<br>	<br>	**为什么引入Cache会加快访存速度？<br>		<span class="hljs-comment">#在CPU和主存之间设置一个快速小容量的存储器，其中总是存放最活跃的程序和数据，由于程序访问局部性的特征，大多数情况下，CPU能直接从整个高速缓存中取得指令和数据，而不必访问主存。</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## Cache</span><br>	Cache是一种小容量高速缓冲存储器，它由SRAM组成。<br>	Cache直接制作在CPU芯片内，速度几乎与CPU一样快。<br>	程序运行时，CPU使用的一部分数据/指令会预先成批拷贝在Cache中，Cache的内容是主存中部分内容的映像。<br>	当CPU需要从内存读写数据或者指令时，先检查Cache，如果有就直接从Cache中读取，而不用访问主存。<br><br><span class="hljs-comment">## Cache的实现</span><br>	*如何分块？<br>	*主存和Cache如何映射？<br>	*Cache已满时怎么办？<br>	*写数据时怎样保证Cache和MM的一致性？<br>	*如何根据主存地址访问到Cache中的数据？<br>	<br>[E:\home\shadow\hziee\2-COCP\docx\9-PT_PPT\第七章 层次结构存储系统.ppt&#123;P57&#125;]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>组成原理</tag>
       </tags>
   </entry>
   <entry>
@@ -6518,544 +7098,6 @@
       <tags>
         <tag>词汇爆破</tag>
         <tag>第一次测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R054-考研单词L7</title>
-    <url>/2021/01/10/R054-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL7/</url>
-    <content><![CDATA[<h4 id="Never-quit"><a href="#Never-quit" class="headerlink" title="Never quit"></a>Never quit</h4><hr>
-<blockquote>
-<p>Just do it.</p>
-</blockquote>
-<hr>
-<table>
-<thead>
-<tr>
-<th>intervene</th>
-<th></th>
-<th>clutch</th>
-<th></th>
-<th>tar</th>
-<th></th>
-<th>grind</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>vacuum</td>
-<td></td>
-<td>hostess</td>
-<td></td>
-<td>quote</td>
-<td></td>
-<td>recycle</td>
-<td></td>
-</tr>
-<tr>
-<td>ancient</td>
-<td></td>
-<td>wrist</td>
-<td></td>
-<td>distill</td>
-<td></td>
-<td>vessel</td>
-<td></td>
-</tr>
-<tr>
-<td>literacy</td>
-<td></td>
-<td>temperament</td>
-<td></td>
-<td>await</td>
-<td></td>
-<td>representative</td>
-<td></td>
-</tr>
-<tr>
-<td>module</td>
-<td></td>
-<td>economic</td>
-<td></td>
-<td>harsh</td>
-<td></td>
-<td>detain</td>
-<td></td>
-</tr>
-<tr>
-<td>swear</td>
-<td></td>
-<td>mate</td>
-<td></td>
-<td>ambitious</td>
-<td></td>
-<td>literary</td>
-<td></td>
-</tr>
-<tr>
-<td>sensitive</td>
-<td></td>
-<td>curl</td>
-<td></td>
-<td>betray</td>
-<td></td>
-<td>setback</td>
-<td></td>
-</tr>
-<tr>
-<td>domestic</td>
-<td></td>
-<td>pastime</td>
-<td></td>
-<td>drawback</td>
-<td></td>
-<td>moreover</td>
-<td></td>
-</tr>
-<tr>
-<td>brand</td>
-<td></td>
-<td>disappear</td>
-<td></td>
-<td>revise</td>
-<td></td>
-<td>cannon</td>
-<td></td>
-</tr>
-<tr>
-<td>speculate</td>
-<td></td>
-<td>prototype</td>
-<td></td>
-<td>norm</td>
-<td></td>
-<td>hormone</td>
-<td></td>
-</tr>
-<tr>
-<td>persecute</td>
-<td></td>
-<td>pact</td>
-<td></td>
-<td>psychiatry</td>
-<td></td>
-<td>petroleum</td>
-<td></td>
-</tr>
-<tr>
-<td>numb</td>
-<td></td>
-<td>wander</td>
-<td></td>
-<td>compulsory</td>
-<td></td>
-<td>revolt</td>
-<td></td>
-</tr>
-<tr>
-<td>slice</td>
-<td></td>
-<td>campus</td>
-<td></td>
-<td>thirst</td>
-<td></td>
-<td>disclose</td>
-<td></td>
-</tr>
-<tr>
-<td>undergo</td>
-<td></td>
-<td>compartment</td>
-<td></td>
-<td>migrate</td>
-<td></td>
-<td>hawk</td>
-<td></td>
-</tr>
-<tr>
-<td>thunder</td>
-<td></td>
-<td>comic</td>
-<td></td>
-<td>absence</td>
-<td></td>
-<td>amid</td>
-<td></td>
-</tr>
-<tr>
-<td>atmosphere</td>
-<td></td>
-<td>imaginative</td>
-<td></td>
-<td>error</td>
-<td></td>
-<td>membership</td>
-<td></td>
-</tr>
-<tr>
-<td>tiresome</td>
-<td></td>
-<td>spectrum</td>
-<td></td>
-<td>bound</td>
-<td></td>
-<td>perfume</td>
-<td></td>
-</tr>
-<tr>
-<td>extinguish</td>
-<td></td>
-<td>inland</td>
-<td></td>
-<td>withdraw</td>
-<td></td>
-<td>expedition</td>
-<td></td>
-</tr>
-<tr>
-<td>canal</td>
-<td></td>
-<td>dash</td>
-<td></td>
-<td>selfish</td>
-<td></td>
-<td>sparkle</td>
-<td></td>
-</tr>
-<tr>
-<td>intact</td>
-<td></td>
-<td>symmetry</td>
-<td></td>
-<td>casualty</td>
-<td></td>
-<td>celebrity</td>
-<td></td>
-</tr>
-<tr>
-<td>revenge</td>
-<td></td>
-<td>bail</td>
-<td></td>
-<td>blunder</td>
-<td></td>
-<td>yawn</td>
-<td></td>
-</tr>
-<tr>
-<td>gas</td>
-<td></td>
-<td>instability</td>
-<td></td>
-<td>incentive</td>
-<td></td>
-<td>overhead</td>
-<td></td>
-</tr>
-<tr>
-<td>lean</td>
-<td></td>
-<td>hay</td>
-<td></td>
-<td>mold</td>
-<td></td>
-<td>sketch</td>
-<td></td>
-</tr>
-<tr>
-<td>engine</td>
-<td></td>
-<td>embassy</td>
-<td></td>
-<td>drift</td>
-<td></td>
-<td>drag</td>
-<td></td>
-</tr>
-<tr>
-<td>conjunction</td>
-<td></td>
-<td>besides</td>
-<td></td>
-<td>spacious</td>
-<td></td>
-<td>relativity</td>
-<td></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>英语单词</tag>
-        <tag>考研英语</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R055-考研单词L8</title>
-    <url>/2021/01/11/R055-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL8/</url>
-    <content><![CDATA[<h4 id="where-there-is-a-will-there-is-a-way"><a href="#where-there-is-a-will-there-is-a-way" class="headerlink" title="where there is a will, there is a way."></a>where there is a will, there is a way.</h4><hr>
-<table>
-<thead>
-<tr>
-<th>parade</th>
-<th></th>
-<th>mill</th>
-<th></th>
-<th>climax</th>
-<th></th>
-<th>slam</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>performance</td>
-<td></td>
-<td>hurl</td>
-<td></td>
-<td>mud</td>
-<td></td>
-<td>flap</td>
-<td></td>
-</tr>
-<tr>
-<td>cherry</td>
-<td></td>
-<td>shatter</td>
-<td></td>
-<td>enrich</td>
-<td></td>
-<td>deserve</td>
-<td></td>
-</tr>
-<tr>
-<td>timber</td>
-<td></td>
-<td>clarity</td>
-<td></td>
-<td>velocity</td>
-<td></td>
-<td>levy</td>
-<td></td>
-</tr>
-<tr>
-<td>blaze</td>
-<td></td>
-<td>dispose</td>
-<td></td>
-<td>loyalty</td>
-<td></td>
-<td>plural</td>
-<td></td>
-</tr>
-<tr>
-<td>disable</td>
-<td></td>
-<td>hemisphere</td>
-<td></td>
-<td>authority</td>
-<td></td>
-<td>former</td>
-<td></td>
-</tr>
-<tr>
-<td>guitar</td>
-<td></td>
-<td>profound</td>
-<td></td>
-<td>gram</td>
-<td></td>
-<td>quantitative</td>
-<td></td>
-</tr>
-<tr>
-<td>conservation</td>
-<td></td>
-<td>source</td>
-<td></td>
-<td>hunt</td>
-<td></td>
-<td>erroneous</td>
-<td></td>
-</tr>
-<tr>
-<td>invalid</td>
-<td></td>
-<td>restrict</td>
-<td></td>
-<td>balcony</td>
-<td></td>
-<td>privilege</td>
-<td></td>
-</tr>
-<tr>
-<td>intimate</td>
-<td></td>
-<td>formal</td>
-<td></td>
-<td>complex</td>
-<td></td>
-<td>astronomy</td>
-<td></td>
-</tr>
-<tr>
-<td>vulnerable</td>
-<td></td>
-<td>deem</td>
-<td></td>
-<td>restless</td>
-<td></td>
-<td>cassette</td>
-<td></td>
-</tr>
-<tr>
-<td>collective</td>
-<td></td>
-<td>twist</td>
-<td></td>
-<td>publication</td>
-<td></td>
-<td>gene</td>
-<td></td>
-</tr>
-<tr>
-<td>predict</td>
-<td></td>
-<td>constitution</td>
-<td></td>
-<td>herb</td>
-<td></td>
-<td>deficit</td>
-<td></td>
-</tr>
-<tr>
-<td>scholar</td>
-<td></td>
-<td>qualitative</td>
-<td></td>
-<td>glamour</td>
-<td></td>
-<td>obstacle</td>
-<td></td>
-</tr>
-<tr>
-<td>cliff</td>
-<td></td>
-<td>reservoir</td>
-<td></td>
-<td>laser</td>
-<td></td>
-<td>coarse</td>
-<td></td>
-</tr>
-<tr>
-<td>academy</td>
-<td></td>
-<td>absorb</td>
-<td></td>
-<td>skilled</td>
-<td></td>
-<td>digest</td>
-<td></td>
-</tr>
-<tr>
-<td>illusion</td>
-<td></td>
-<td>shutter</td>
-<td></td>
-<td>mainteance</td>
-<td></td>
-<td>leak</td>
-<td></td>
-</tr>
-<tr>
-<td>sore</td>
-<td></td>
-<td>staff</td>
-<td></td>
-<td>cab</td>
-<td></td>
-<td>backward</td>
-<td></td>
-</tr>
-<tr>
-<td>porfolio</td>
-<td></td>
-<td>retention</td>
-<td></td>
-<td>allocate</td>
-<td></td>
-<td>pedal</td>
-<td></td>
-</tr>
-<tr>
-<td>dose</td>
-<td></td>
-<td>radiant</td>
-<td></td>
-<td>ashamed</td>
-<td></td>
-<td>stream</td>
-<td></td>
-</tr>
-<tr>
-<td>chart</td>
-<td></td>
-<td>briefcase</td>
-<td></td>
-<td>series</td>
-<td></td>
-<td>communication</td>
-<td></td>
-</tr>
-<tr>
-<td>deposit</td>
-<td></td>
-<td>lavatory</td>
-<td></td>
-<td>rib</td>
-<td></td>
-<td>galaxy</td>
-<td></td>
-</tr>
-<tr>
-<td>grape</td>
-<td></td>
-<td>resemble</td>
-<td></td>
-<td>stern</td>
-<td></td>
-<td>warehouse</td>
-<td></td>
-</tr>
-<tr>
-<td>displacement</td>
-<td></td>
-<td>necklace</td>
-<td></td>
-<td>demonstrate</td>
-<td></td>
-<td>scissors</td>
-<td></td>
-</tr>
-<tr>
-<td>obscure</td>
-<td></td>
-<td>moist</td>
-<td></td>
-<td>mechanical</td>
-<td></td>
-<td>skim</td>
-<td></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>英语单词</tag>
-        <tag>考研英语</tag>
       </tags>
   </entry>
 </search>

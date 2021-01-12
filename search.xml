@@ -125,6 +125,28 @@
       </tags>
   </entry>
   <entry>
+    <title>I003-我学到了什么</title>
+    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
+    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
+<blockquote>
+<p>回收多年的学习生涯，在看看当前的自己：</p>
+<p>不会写作</p>
+<p>不会阅读</p>
+<p>不会演讲</p>
+<p>不会语言</p>
+<p>那么这么多年我们在学习什么呢？</p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>深度思考</tag>
+        <tag>我在做什么</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>I002-伟大的实践-个人经历管理系统</title>
     <url>/2021/01/06/I002-%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AE%9E%E8%B7%B5-%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h4 id="个人管理系统"><a href="#个人管理系统" class="headerlink" title="个人管理系统"></a>个人管理系统</h4><hr>
@@ -155,45 +177,6 @@
         <tag>个人管理系统</tag>
         <tag>项目设计</tag>
         <tag>项目管理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>I004-全球积木竞赛</title>
-    <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
-    <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="积木竞赛"><a href="#积木竞赛" class="headerlink" title="积木竞赛"></a>积木竞赛</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 因为我从搭建积木的过程中，体会到了耐性的具体体现。同时在某一个步骤中观察也能够筛选识别出这人是怎样的人。</span><br><br><span class="hljs-comment">## 是否已经存在有组织性的大型积木搭建竞赛？[可能要耗时一周？或者一个月？或者一年？]</span><br><br><span class="hljs-comment">## 如果没有，那么我是否可以考虑自己创办一个？或者 利用我所掌握的专业知识，做一个虚拟的、VR版本或者其他版本的---在线积木搭建竞赛？</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>积木竞赛</tag>
-        <tag>耐心与毅力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>I003-我学到了什么</title>
-    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
-    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
-<blockquote>
-<p>回收多年的学习生涯，在看看当前的自己：</p>
-<p>不会写作</p>
-<p>不会阅读</p>
-<p>不会演讲</p>
-<p>不会语言</p>
-<p>那么这么多年我们在学习什么呢？</p>
-</blockquote>
-<hr>
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>深度思考</tag>
-        <tag>我在做什么</tag>
       </tags>
   </entry>
   <entry>
@@ -243,6 +226,23 @@
       <tags>
         <tag>数学建模</tag>
         <tag>数模资料</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>I004-全球积木竞赛</title>
+    <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
+    <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="积木竞赛"><a href="#积木竞赛" class="headerlink" title="积木竞赛"></a>积木竞赛</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 因为我从搭建积木的过程中，体会到了耐性的具体体现。同时在某一个步骤中观察也能够筛选识别出这人是怎样的人。</span><br><br><span class="hljs-comment">## 是否已经存在有组织性的大型积木搭建竞赛？[可能要耗时一周？或者一个月？或者一年？]</span><br><br><span class="hljs-comment">## 如果没有，那么我是否可以考虑自己创办一个？或者 利用我所掌握的专业知识，做一个虚拟的、VR版本或者其他版本的---在线积木搭建竞赛？</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>积木竞赛</tag>
+        <tag>耐心与毅力</tag>
       </tags>
   </entry>
   <entry>
@@ -438,6 +438,24 @@
       </tags>
   </entry>
   <entry>
+    <title>R005</title>
+    <url>/2020/12/16/R005/</url>
+    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>考研安排</tag>
+        <tag>思维导图</tag>
+        <tag>考研索引</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R006</title>
     <url>/2020/12/16/R006/</url>
     <content><![CDATA[<h4 id="实验模块"><a href="#实验模块" class="headerlink" title="实验模块"></a>实验模块</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## ROM<br><br>## RAM<br><br>## GPRs<br><br>## ALU<br></code></pre></td></tr></table></figure>
@@ -454,24 +472,6 @@
         <tag>RI-CPU</tag>
         <tag>计算机组成原理</tag>
         <tag>MIPS指令实现</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R005</title>
-    <url>/2020/12/16/R005/</url>
-    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>考研安排</tag>
-        <tag>思维导图</tag>
-        <tag>考研索引</tag>
       </tags>
   </entry>
   <entry>
@@ -737,6 +737,14 @@
       </tags>
   </entry>
   <entry>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
     <title>R015-17级实习分享会</title>
     <url>/2020/12/27/R015/</url>
     <content><![CDATA[<h4 id="17级实习经验分享"><a href="#17级实习经验分享" class="headerlink" title="17级实习经验分享"></a>17级实习经验分享</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 张晨</span><br>	**临场改PPT<br>	**<br>	<br>	**求职过程<br>		<span class="hljs-comment">#领英找内推</span><br>		<span class="hljs-comment">#放链接-最好是个人博客</span><br>		<span class="hljs-comment">#包装自己 -- 合理 -- 简历</span><br>		<span class="hljs-comment">#乐于分享 - 表达方法 - 表达自己</span><br>			**你的能力体现、<br>	**学习过程<br>		<span class="hljs-comment">#剑指Offer</span><br>		<span class="hljs-comment">#Leetcode</span><br>		<span class="hljs-comment">#自学能力</span><br>		<span class="hljs-comment">#Pendo - todolist</span><br>		<br>	**求职经验<br>		*项目中承担的角色<br>		*实现<br>		*主要负责<br>		**擅长什么类型<br>		**为什么对这个方向感兴趣？<br>		<br>		*interview.huihut.com<br>		<br>	**看公司的年报，去了解公司<br>	<br>	**逻辑分析- 金字塔模型 - 第一点、第二点、第三点<br>	<br>	**岗位匹配度<br>	<br>	<span class="hljs-comment">#一定要早一点去实习</span><br>	<br></code></pre></td></tr></table></figure>
@@ -751,14 +759,6 @@
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 江飞翔</span><br>	<span class="hljs-comment">#求职经历</span><br>		**简历<br>			<span class="hljs-comment">#实习经历</span><br>			<span class="hljs-comment">#项目经历</span><br>			<span class="hljs-comment">#荣誉奖项</span><br>			<span class="hljs-comment">#写博客</span><br>		**面试经验<br>			<span class="hljs-comment">#注意时间分配</span><br>			<span class="hljs-comment">#大量投简历</span><br>			<span class="hljs-comment">#春招一定要去试试</span><br>		**算法题<br>		**面试<br>	<span class="hljs-comment">#</span><br>	<br>	<span class="hljs-comment">#</span><br><br></code></pre></td></tr></table></figure>
 
 ]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016/</url>
-    <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
@@ -3012,6 +3012,71 @@
       </tags>
   </entry>
   <entry>
+    <title>Dec-18-QT</title>
+    <url>/2020/12/18/R043-Dec-18-QT/</url>
+    <content><![CDATA[<h4 id="项目分析"><a href="#项目分析" class="headerlink" title="项目分析"></a>项目分析</h4><blockquote>
+<p>第一次阅读作业要求，重点在于代码的规范性，界面设计的简洁优雅。难点在于视频处理，大部分时间应该会花在和视频处理相关的点。基本功能之前的几次作业已经实现，只要把前几次的代码优化、规范即可。界面图标需要自己设计</p>
+</blockquote>
+<hr>
+<h4 id="界面设计阶段"><a href="#界面设计阶段" class="headerlink" title="界面设计阶段"></a>界面设计阶段</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 双窗口设计，左侧预留视频处理侧边栏-上方预留图片处理界面<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## 基本功能介绍[图片]</span><br>	**缩放<span class="hljs-regexp">/翻转/</span>旋转<br>	**亮度<span class="hljs-regexp">/色温/</span>相框<br>	**均值滤波<br>	**灰度处理<span class="hljs-regexp">/边缘检测/</span>二值化<span class="hljs-regexp">/腐蚀/</span><br>	**I18N<br>	**关于<br>	**图片保存<span class="hljs-regexp">/另存/</span>撤销上一步<span class="hljs-regexp">/撤销全部/</span>关闭图片/退出软件<br>	**<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="此处留白"><a href="#此处留白" class="headerlink" title="此处留白"></a>此处留白</h4><figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">这里用于之后介绍项目<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<h4 id="开发记录"><a href="#开发记录" class="headerlink" title="开发记录"></a>开发记录</h4><figure class="highlight c++"><table><tr><td class="code"><pre><code class="hljs c++">&gt; $$<span class="hljs-number">1</span>-项目结构调整：<br>&gt; 为了更加清晰的展示代码，对项目的结构进行分类调整<br>&gt; *首先在项目根目录新建分类的文件夹，如：res, mainwindow, tools<br>&gt; *然后修改 `项目名.pro` 文件，添加引用目录<br>---------------------------------------------------------<br>INCLUDEPATH += ./ \<br>    dialog/ \<br>    tools/  \<br>    mainwindow/<br><br>SOURCES += \<br>    mainwindow/mainwindow.cpp  \<br>    main.cpp<br><br>HEADERS += \<br>        mainwindow/mainwindow.h    \<br><br>FORMS    += mainwindow/mainwindow.ui \<br>---------------------------------------------------------<br>    <br>&gt; $$<span class="hljs-number">1</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$2-设计制作图标<br>&gt; [LINK] - [https:&#x2F;&#x2F;www.iconfont.cn&#x2F;collections&#x2F;detail?spm&#x3D;a313x.7781069.1998910419.dc64b3430&amp;cid&#x3D;12507]<br>&gt; [生成ICON] - [http:&#x2F;&#x2F;www.ico51.cn&#x2F;]<br>&gt; $$2-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$3-UI实现<br>&gt; ERROR: 四月花了半小时添加图标，离奇的事件发生了：还剩最后一个图标没有添加-四月去下载，添加后 - 资源文件突然离奇失踪 - 之前的图标都还在<br>&gt; 在进行高危操作之前一定要备份！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>&gt; CNMLGB, WHAT THE FUCKING HELL WRONG WITH QT?<br><br>&gt; $$3-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **1-重写QGraphicsView实现图像的缩放<br>&gt;  **2-回顾槽函数、界面初始化设置：未打开图片时禁用所有按钮<br>&gt;  **3-设置tool bar: ui-&gt;toolBar_File-&gt;addAction(ui-&gt;doOpen);[toolBar_file是ui文件中toolbar的名字]<br>&gt;  **4-打开图片[]<br>在QGraphicsView的坐标系统中Scene的原点并是不hi顶点而是中心点，与窗口的坐标系统不一致。<br>[LINK] - [https://blog.csdn.net/fadbgfnbxb/article/details/88777835]<br><br><span class="hljs-comment">#  **因为已经重写了graphicview，此时鼠标缩放事件已经可以使用</span><br><br><span class="hljs-comment">#  **图片打开结束 注意图片的自适应和缩放[scale之前的qMax / qMin]</span><br><br><br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **5-关闭图片 - 添加按钮禁用状态<br>&gt;  **<br><span class="hljs-comment">#  **Q1: ConstImage错误</span><br>&gt;  **A1: BUG已修复 - - 缺少对ConstImage的赋值 -- 打开时<br>&gt;<br>&gt;  **6-灰度处理<br>&gt;  **7-边缘检测<br>&gt;  **8-亮度调节<br>&gt;  **9-冷暖色调<br>&gt;  **10-添加相框<br>&gt;  **11-二值图像<br>&gt;  **12-图片旋转<br>&gt;  **13-马赛克 	-- Mosaic FINISH<br>&gt;  **14-About对话框<br>&gt;  **15-Make donation<br>&gt;  **16-国际化<br>&gt;  **17-跨平台<br>&gt;  **18-视频处理<br>&gt;  **WELL DONE!<br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<blockquote>
+<p>待完成：</p>
+<p>**国际化</p>
+<p>**About对话窗口</p>
+</blockquote>
+<hr>
+<hr>
+<h4 id="视频处理阶段"><a href="#视频处理阶段" class="headerlink" title="视频处理阶段"></a>视频处理阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">**计划使用Opencv<br><span class="hljs-comment"># 进入安装编译阶段</span><br>&gt; [LINK] - https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows<br>&gt; [LINK] - <br>&gt; <span class="hljs-comment">##重装QT-5.9</span><br>&gt; <span class="hljs-comment">##临时移除git的mingw - [C:\Program Files\Git\mingw64\bin]</span><br>&gt; <span class="hljs-comment">##放弃使用Opencv</span><br>&gt; <span class="hljs-comment">##恢复git的mingw</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">##使用QMediaPlayer + QAbstractVideoSurface，获取视频的每一帧，转化成QImage处理</span><br>&gt; [link] - [https:<span class="hljs-regexp">//</span>blog.csdn.net<span class="hljs-regexp">/jxbinwd/</span>article<span class="hljs-regexp">/details/</span><span class="hljs-number">81034339</span>]<br>&gt; E:\shadowworkspace.github.io\source\_posts<br>&gt; [LINK] - https:<span class="hljs-regexp">//</span>download.qt.io<span class="hljs-regexp">/official_releases/</span>qt/<br><br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##改VLC</span><br><span class="hljs-variable">$WDNMD</span><br>-------------------------------------------------------------------------<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##回归QMediaPlayer+QAbstractVideoSurface</span><br>-------------------------------------------------------------------------<br>&gt; LINK - [https://blog.csdn.net/jxbinwd/article/details/81034339]<br>&gt; 补充功能：<br>&gt; **13-马赛克 	-- Mosaic FINISH<br>&gt; **14-About对话框<br>&gt; **15-Make donation<br>&gt; **16-国际化<br>&gt; **17-跨平台 <br>		<span class="hljs-comment">## [LINK] - [https://www.jianshu.com/p/9cc55a2c4e87]</span><br>        <span class="hljs-comment">## https://blog.csdn.net/qq_38204986/article/details/86934603</span><br>        <span class="hljs-comment">## 会遇到一个 ld 重复定义的方法，是因为把文件copy出来到一个目录时，没有删除原来的文件夹，注意修改原文件中的引用还有生成的.pro文件配置</span><br>        <span class="hljs-comment">## glib --》 这个错误要复制后面丢失的库查询，根据提示 find出来，然后手动复制到对应目录    </span><br>&gt; **18-视频处理<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##视频处理问题：</span><br>	**处理速度太慢，考虑使用多线程<br>	**没有保存<br>	**<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>产品设计</tag>
+        <tag>QT</tag>
+        <tag>万法归一</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R042-考研单词L5</title>
     <url>/2021/01/07/R042-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL5/</url>
     <content><![CDATA[<h4 id="书籍音频资料下载"><a href="#书籍音频资料下载" class="headerlink" title="书籍音频资料下载"></a>书籍音频资料下载</h4><hr>
@@ -3288,71 +3353,6 @@
         <tag>英语单词</tag>
         <tag>考研英语</tag>
         <tag>新东方词汇书籍音频下载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Dec-18-QT</title>
-    <url>/2020/12/18/R043-Dec-18-QT/</url>
-    <content><![CDATA[<h4 id="项目分析"><a href="#项目分析" class="headerlink" title="项目分析"></a>项目分析</h4><blockquote>
-<p>第一次阅读作业要求，重点在于代码的规范性，界面设计的简洁优雅。难点在于视频处理，大部分时间应该会花在和视频处理相关的点。基本功能之前的几次作业已经实现，只要把前几次的代码优化、规范即可。界面图标需要自己设计</p>
-</blockquote>
-<hr>
-<h4 id="界面设计阶段"><a href="#界面设计阶段" class="headerlink" title="界面设计阶段"></a>界面设计阶段</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 双窗口设计，左侧预留视频处理侧边栏-上方预留图片处理界面<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## 基本功能介绍[图片]</span><br>	**缩放<span class="hljs-regexp">/翻转/</span>旋转<br>	**亮度<span class="hljs-regexp">/色温/</span>相框<br>	**均值滤波<br>	**灰度处理<span class="hljs-regexp">/边缘检测/</span>二值化<span class="hljs-regexp">/腐蚀/</span><br>	**I18N<br>	**关于<br>	**图片保存<span class="hljs-regexp">/另存/</span>撤销上一步<span class="hljs-regexp">/撤销全部/</span>关闭图片/退出软件<br>	**<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="此处留白"><a href="#此处留白" class="headerlink" title="此处留白"></a>此处留白</h4><figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">这里用于之后介绍项目<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-<h4 id="开发记录"><a href="#开发记录" class="headerlink" title="开发记录"></a>开发记录</h4><figure class="highlight c++"><table><tr><td class="code"><pre><code class="hljs c++">&gt; $$<span class="hljs-number">1</span>-项目结构调整：<br>&gt; 为了更加清晰的展示代码，对项目的结构进行分类调整<br>&gt; *首先在项目根目录新建分类的文件夹，如：res, mainwindow, tools<br>&gt; *然后修改 `项目名.pro` 文件，添加引用目录<br>---------------------------------------------------------<br>INCLUDEPATH += ./ \<br>    dialog/ \<br>    tools/  \<br>    mainwindow/<br><br>SOURCES += \<br>    mainwindow/mainwindow.cpp  \<br>    main.cpp<br><br>HEADERS += \<br>        mainwindow/mainwindow.h    \<br><br>FORMS    += mainwindow/mainwindow.ui \<br>---------------------------------------------------------<br>    <br>&gt; $$<span class="hljs-number">1</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$2-设计制作图标<br>&gt; [LINK] - [https:&#x2F;&#x2F;www.iconfont.cn&#x2F;collections&#x2F;detail?spm&#x3D;a313x.7781069.1998910419.dc64b3430&amp;cid&#x3D;12507]<br>&gt; [生成ICON] - [http:&#x2F;&#x2F;www.ico51.cn&#x2F;]<br>&gt; $$2-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$3-UI实现<br>&gt; ERROR: 四月花了半小时添加图标，离奇的事件发生了：还剩最后一个图标没有添加-四月去下载，添加后 - 资源文件突然离奇失踪 - 之前的图标都还在<br>&gt; 在进行高危操作之前一定要备份！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>&gt; CNMLGB, WHAT THE FUCKING HELL WRONG WITH QT?<br><br>&gt; $$3-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **1-重写QGraphicsView实现图像的缩放<br>&gt;  **2-回顾槽函数、界面初始化设置：未打开图片时禁用所有按钮<br>&gt;  **3-设置tool bar: ui-&gt;toolBar_File-&gt;addAction(ui-&gt;doOpen);[toolBar_file是ui文件中toolbar的名字]<br>&gt;  **4-打开图片[]<br>在QGraphicsView的坐标系统中Scene的原点并是不hi顶点而是中心点，与窗口的坐标系统不一致。<br>[LINK] - [https://blog.csdn.net/fadbgfnbxb/article/details/88777835]<br><br><span class="hljs-comment">#  **因为已经重写了graphicview，此时鼠标缩放事件已经可以使用</span><br><br><span class="hljs-comment">#  **图片打开结束 注意图片的自适应和缩放[scale之前的qMax / qMin]</span><br><br><br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **5-关闭图片 - 添加按钮禁用状态<br>&gt;  **<br><span class="hljs-comment">#  **Q1: ConstImage错误</span><br>&gt;  **A1: BUG已修复 - - 缺少对ConstImage的赋值 -- 打开时<br>&gt;<br>&gt;  **6-灰度处理<br>&gt;  **7-边缘检测<br>&gt;  **8-亮度调节<br>&gt;  **9-冷暖色调<br>&gt;  **10-添加相框<br>&gt;  **11-二值图像<br>&gt;  **12-图片旋转<br>&gt;  **13-马赛克 	-- Mosaic FINISH<br>&gt;  **14-About对话框<br>&gt;  **15-Make donation<br>&gt;  **16-国际化<br>&gt;  **17-跨平台<br>&gt;  **18-视频处理<br>&gt;  **WELL DONE!<br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<blockquote>
-<p>待完成：</p>
-<p>**国际化</p>
-<p>**About对话窗口</p>
-</blockquote>
-<hr>
-<hr>
-<h4 id="视频处理阶段"><a href="#视频处理阶段" class="headerlink" title="视频处理阶段"></a>视频处理阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">**计划使用Opencv<br><span class="hljs-comment"># 进入安装编译阶段</span><br>&gt; [LINK] - https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows<br>&gt; [LINK] - <br>&gt; <span class="hljs-comment">##重装QT-5.9</span><br>&gt; <span class="hljs-comment">##临时移除git的mingw - [C:\Program Files\Git\mingw64\bin]</span><br>&gt; <span class="hljs-comment">##放弃使用Opencv</span><br>&gt; <span class="hljs-comment">##恢复git的mingw</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">##使用QMediaPlayer + QAbstractVideoSurface，获取视频的每一帧，转化成QImage处理</span><br>&gt; [link] - [https:<span class="hljs-regexp">//</span>blog.csdn.net<span class="hljs-regexp">/jxbinwd/</span>article<span class="hljs-regexp">/details/</span><span class="hljs-number">81034339</span>]<br>&gt; E:\shadowworkspace.github.io\source\_posts<br>&gt; [LINK] - https:<span class="hljs-regexp">//</span>download.qt.io<span class="hljs-regexp">/official_releases/</span>qt/<br><br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##改VLC</span><br><span class="hljs-variable">$WDNMD</span><br>-------------------------------------------------------------------------<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##回归QMediaPlayer+QAbstractVideoSurface</span><br>-------------------------------------------------------------------------<br>&gt; LINK - [https://blog.csdn.net/jxbinwd/article/details/81034339]<br>&gt; 补充功能：<br>&gt; **13-马赛克 	-- Mosaic FINISH<br>&gt; **14-About对话框<br>&gt; **15-Make donation<br>&gt; **16-国际化<br>&gt; **17-跨平台 <br>		<span class="hljs-comment">## [LINK] - [https://www.jianshu.com/p/9cc55a2c4e87]</span><br>        <span class="hljs-comment">## https://blog.csdn.net/qq_38204986/article/details/86934603</span><br>        <span class="hljs-comment">## 会遇到一个 ld 重复定义的方法，是因为把文件copy出来到一个目录时，没有删除原来的文件夹，注意修改原文件中的引用还有生成的.pro文件配置</span><br>        <span class="hljs-comment">## glib --》 这个错误要复制后面丢失的库查询，根据提示 find出来，然后手动复制到对应目录    </span><br>&gt; **18-视频处理<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##视频处理问题：</span><br>	**处理速度太慢，考虑使用多线程<br>	**没有保存<br>	**<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>产品设计</tag>
-        <tag>QT</tag>
-        <tag>万法归一</tag>
       </tags>
   </entry>
   <entry>
@@ -4408,6 +4408,276 @@
       <tags>
         <tag>计科专业书单</tag>
         <tag>书籍下载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R058-考研单词L9</title>
+    <url>/2021/01/12/R058-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL9/</url>
+    <content><![CDATA[<h4 id="GO-AHEAD"><a href="#GO-AHEAD" class="headerlink" title="GO AHEAD"></a>GO AHEAD</h4><blockquote>
+<p>A certain amount of care or pain or trouble is necessary for every man at all times. A ship without ballast is unstable and will not go straight.</p>
+</blockquote>
+<hr>
+<table>
+<thead>
+<tr>
+<th>misfortune</th>
+<th></th>
+<th>explode</th>
+<th></th>
+<th>pant</th>
+<th></th>
+<th>indication</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>landlord</td>
+<td></td>
+<td>friction</td>
+<td></td>
+<td>appreiciate</td>
+<td></td>
+<td>extensive</td>
+<td></td>
+</tr>
+<tr>
+<td>means</td>
+<td></td>
+<td>loosen</td>
+<td></td>
+<td>wit</td>
+<td></td>
+<td>procedure</td>
+<td></td>
+</tr>
+<tr>
+<td>pilgrim</td>
+<td></td>
+<td>accurate</td>
+<td></td>
+<td>contract</td>
+<td></td>
+<td>dazzle</td>
+<td></td>
+</tr>
+<tr>
+<td>esteem</td>
+<td></td>
+<td>surplus</td>
+<td></td>
+<td>dim</td>
+<td></td>
+<td>curriculum</td>
+<td></td>
+</tr>
+<tr>
+<td>humid</td>
+<td></td>
+<td>doze</td>
+<td></td>
+<td>hardship</td>
+<td></td>
+<td>fantasy</td>
+<td></td>
+</tr>
+<tr>
+<td>kindergarten</td>
+<td></td>
+<td>moisture</td>
+<td></td>
+<td>residence</td>
+<td></td>
+<td>expertize</td>
+<td></td>
+</tr>
+<tr>
+<td>ally</td>
+<td></td>
+<td>initial</td>
+<td></td>
+<td>inspect</td>
+<td></td>
+<td>mild</td>
+<td></td>
+</tr>
+<tr>
+<td>rouse</td>
+<td></td>
+<td>poverty</td>
+<td></td>
+<td>heel</td>
+<td></td>
+<td>fade</td>
+<td></td>
+</tr>
+<tr>
+<td>theory</td>
+<td></td>
+<td>width</td>
+<td></td>
+<td>package</td>
+<td></td>
+<td>intuition</td>
+<td></td>
+</tr>
+<tr>
+<td>manufacture</td>
+<td></td>
+<td>siren</td>
+<td></td>
+<td>unedergraduate</td>
+<td></td>
+<td>evil</td>
+<td></td>
+</tr>
+<tr>
+<td>detach</td>
+<td></td>
+<td>contanminate</td>
+<td></td>
+<td>rim</td>
+<td></td>
+<td>fraud</td>
+<td></td>
+</tr>
+<tr>
+<td>adminitstration</td>
+<td></td>
+<td>emit</td>
+<td></td>
+<td>accord</td>
+<td></td>
+<td>illustration</td>
+<td></td>
+</tr>
+<tr>
+<td>inherit</td>
+<td></td>
+<td>clasp</td>
+<td></td>
+<td>signature</td>
+<td></td>
+<td>advent</td>
+<td></td>
+</tr>
+<tr>
+<td>justify</td>
+<td></td>
+<td>Thanksgiving</td>
+<td></td>
+<td>trace</td>
+<td></td>
+<td>aural</td>
+<td></td>
+</tr>
+<tr>
+<td>phenomenon</td>
+<td></td>
+<td>bias</td>
+<td></td>
+<td>transparent</td>
+<td></td>
+<td>fame</td>
+<td></td>
+</tr>
+<tr>
+<td>shortage</td>
+<td></td>
+<td>curious</td>
+<td></td>
+<td>meditation</td>
+<td></td>
+<td>harden</td>
+<td></td>
+</tr>
+<tr>
+<td>insult</td>
+<td></td>
+<td>emphasise</td>
+<td></td>
+<td>statement</td>
+<td></td>
+<td>shuttle</td>
+<td></td>
+</tr>
+<tr>
+<td>orientation</td>
+<td></td>
+<td>bibliography</td>
+<td></td>
+<td>beneath</td>
+<td></td>
+<td>intermittent</td>
+<td></td>
+</tr>
+<tr>
+<td>guidance</td>
+<td></td>
+<td>inward</td>
+<td></td>
+<td>substitute</td>
+<td></td>
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>schedule</td>
+<td></td>
+<td>stocking</td>
+<td></td>
+<td>typist</td>
+<td></td>
+<td>medal</td>
+<td></td>
+</tr>
+<tr>
+<td>vein</td>
+<td></td>
+<td>folk</td>
+<td></td>
+<td>bureau</td>
+<td></td>
+<td>wealthy</td>
+<td></td>
+</tr>
+<tr>
+<td>jury</td>
+<td></td>
+<td>tribute</td>
+<td></td>
+<td>compute</td>
+<td></td>
+<td>reproduce</td>
+<td></td>
+</tr>
+<tr>
+<td>void</td>
+<td></td>
+<td>exquisite</td>
+<td></td>
+<td>whistle</td>
+<td></td>
+<td>flour</td>
+<td></td>
+</tr>
+<tr>
+<td>offspring</td>
+<td></td>
+<td>senator</td>
+<td></td>
+<td>irony</td>
+<td></td>
+<td>leadership</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
       </tags>
   </entry>
   <entry>

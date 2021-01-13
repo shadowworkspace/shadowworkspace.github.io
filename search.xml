@@ -246,19 +246,6 @@
       </tags>
   </entry>
   <entry>
-    <title>OpenCV</title>
-    <url>/2020/12/20/OpenCV/</url>
-    <content><![CDATA[<h4 id="QT使用Opencv"><a href="#QT使用Opencv" class="headerlink" title="QT使用Opencv"></a>QT使用Opencv</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## </span><br>	**<span class="hljs-number">1</span>-下载Opencv源码<br>	**<span class="hljs-number">2</span>-下载Cmake安装<br>	**<span class="hljs-number">3</span>- ERROR：QT添加组件 --&gt; 放弃<br>	<br>**link<br>	**https:<span class="hljs-regexp">//</span>cmake.org<span class="hljs-regexp">/download/</span><br>	**https:<span class="hljs-regexp">//</span>opencv.org<span class="hljs-regexp">/releases/</span><br>	**https:<span class="hljs-regexp">//</span>baijiahao.baidu.com/s?id=<span class="hljs-number">1662883232064729369</span>&amp;wfr=spider&amp;<span class="hljs-keyword">for</span>=pc&amp;qq-pf-to=pcqq.c2c<br>	<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>QT实践</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>P001-算法的有穷性</title>
     <url>/2021/01/01/P001-%E7%AE%97%E6%B3%95%E7%9A%84%E6%9C%89%E7%A9%B7%E6%80%A7/</url>
     <content><![CDATA[<h4 id="算法的有穷性"><a href="#算法的有穷性" class="headerlink" title="算法的有穷性"></a>算法的有穷性</h4><hr>
@@ -274,6 +261,19 @@
         <tag>DSA</tag>
         <tag>hailstone</tag>
         <tag>algorithm</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>OpenCV</title>
+    <url>/2020/12/20/OpenCV/</url>
+    <content><![CDATA[<h4 id="QT使用Opencv"><a href="#QT使用Opencv" class="headerlink" title="QT使用Opencv"></a>QT使用Opencv</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## </span><br>	**<span class="hljs-number">1</span>-下载Opencv源码<br>	**<span class="hljs-number">2</span>-下载Cmake安装<br>	**<span class="hljs-number">3</span>- ERROR：QT添加组件 --&gt; 放弃<br>	<br>**link<br>	**https:<span class="hljs-regexp">//</span>cmake.org<span class="hljs-regexp">/download/</span><br>	**https:<span class="hljs-regexp">//</span>opencv.org<span class="hljs-regexp">/releases/</span><br>	**https:<span class="hljs-regexp">//</span>baijiahao.baidu.com/s?id=<span class="hljs-number">1662883232064729369</span>&amp;wfr=spider&amp;<span class="hljs-keyword">for</span>=pc&amp;qq-pf-to=pcqq.c2c<br>	<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>QT实践</tag>
       </tags>
   </entry>
   <entry>
@@ -321,6 +321,19 @@
       </tags>
   </entry>
   <entry>
+    <title>R001</title>
+    <url>/2020/12/14/R001/</url>
+    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
     <title>R000-文章命名规范</title>
     <url>/2021/01/01/R000/</url>
     <content><![CDATA[<h4 id="规范是为了更加高效"><a href="#规范是为了更加高效" class="headerlink" title="规范是为了更加高效"></a>规范是为了更加高效</h4><hr>
@@ -364,19 +377,6 @@
         <tag>文章标签规范</tag>
         <tag>文章命名规范</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>R001</title>
-    <url>/2020/12/14/R001/</url>
-    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
   </entry>
   <entry>
     <title>R002</title>
@@ -456,6 +456,21 @@
       </tags>
   </entry>
   <entry>
+    <title>R007</title>
+    <url>/2020/12/16/R007/</url>
+    <content><![CDATA[<h4 id=""><a href="#" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>www.mi.com<span class="hljs-regexp">/miwifimini 		/</span><span class="hljs-regexp">/ MI</span><br></code></pre></td></tr></table></figure>
+
+<h4 id="-1"><a href="#-1" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">VLC									<span class="hljs-regexp">//</span> QT视频处理方案<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>MI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R006</title>
     <url>/2020/12/16/R006/</url>
     <content><![CDATA[<h4 id="实验模块"><a href="#实验模块" class="headerlink" title="实验模块"></a>实验模块</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## ROM<br><br>## RAM<br><br>## GPRs<br><br>## ALU<br></code></pre></td></tr></table></figure>
@@ -472,21 +487,6 @@
         <tag>RI-CPU</tag>
         <tag>计算机组成原理</tag>
         <tag>MIPS指令实现</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R007</title>
-    <url>/2020/12/16/R007/</url>
-    <content><![CDATA[<h4 id=""><a href="#" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>www.mi.com<span class="hljs-regexp">/miwifimini 		/</span><span class="hljs-regexp">/ MI</span><br></code></pre></td></tr></table></figure>
-
-<h4 id="-1"><a href="#-1" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">VLC									<span class="hljs-regexp">//</span> QT视频处理方案<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>MI</tag>
       </tags>
   </entry>
   <entry>
@@ -700,6 +700,25 @@
       </categories>
   </entry>
   <entry>
+    <title>R015-17级实习分享会</title>
+    <url>/2020/12/27/R015/</url>
+    <content><![CDATA[<h4 id="17级实习经验分享"><a href="#17级实习经验分享" class="headerlink" title="17级实习经验分享"></a>17级实习经验分享</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 张晨</span><br>	**临场改PPT<br>	**<br>	<br>	**求职过程<br>		<span class="hljs-comment">#领英找内推</span><br>		<span class="hljs-comment">#放链接-最好是个人博客</span><br>		<span class="hljs-comment">#包装自己 -- 合理 -- 简历</span><br>		<span class="hljs-comment">#乐于分享 - 表达方法 - 表达自己</span><br>			**你的能力体现、<br>	**学习过程<br>		<span class="hljs-comment">#剑指Offer</span><br>		<span class="hljs-comment">#Leetcode</span><br>		<span class="hljs-comment">#自学能力</span><br>		<span class="hljs-comment">#Pendo - todolist</span><br>		<br>	**求职经验<br>		*项目中承担的角色<br>		*实现<br>		*主要负责<br>		**擅长什么类型<br>		**为什么对这个方向感兴趣？<br>		<br>		*interview.huihut.com<br>		<br>	**看公司的年报，去了解公司<br>	<br>	**逻辑分析- 金字塔模型 - 第一点、第二点、第三点<br>	<br>	**岗位匹配度<br>	<br>	<span class="hljs-comment">#一定要早一点去实习</span><br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 蒋柯</span><br>	**夏令营 - 谷歌、微软、字节、华为、西山居<br>	**海投<br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 易永豪</span><br>	**入职前<br>		该学的课程学好<br>			<span class="hljs-comment">#数据结构</span><br>			<span class="hljs-comment">#基础语言</span><br>			<span class="hljs-comment">#计算机网络</span><br>				TCP - UDP<br>			<span class="hljs-comment">#计算机组成</span><br>				<br>			<span class="hljs-comment">#操作系统</span><br>				单线程 - 多线程<br>		有规划的生活<br>        	**把时间利用最大化<br>        	<span class="hljs-comment">#交际</span><br>        		<br>        	<span class="hljs-comment">#学习 </span><br>        		-跟社会人交流，了解不足<br>        	<span class="hljs-comment">#工作</span><br>        		如何高效的协同工作？<br>        		<br>        		--面试前加好友：大公司的HR<br>        		--<br>        		--<br>	**入职后<br>		<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 江飞翔</span><br>	<span class="hljs-comment">#求职经历</span><br>		**简历<br>			<span class="hljs-comment">#实习经历</span><br>			<span class="hljs-comment">#项目经历</span><br>			<span class="hljs-comment">#荣誉奖项</span><br>			<span class="hljs-comment">#写博客</span><br>		**面试经验<br>			<span class="hljs-comment">#注意时间分配</span><br>			<span class="hljs-comment">#大量投简历</span><br>			<span class="hljs-comment">#春招一定要去试试</span><br>		**算法题<br>		**面试<br>	<span class="hljs-comment">#</span><br>	<br>	<span class="hljs-comment">#</span><br><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
     <title>R014-马原分享笔记</title>
     <url>/2020/12/26/R014/</url>
     <content><![CDATA[<h4 id="提纲"><a href="#提纲" class="headerlink" title="提纲"></a>提纲</h4><p>​        大家早上好，今天我分享的主体是垄断资本主义，根据国际管理，我们的分享会综合理论与实践相结合的方式，贯彻实践是检验真理的唯一标准重要思想，来分析垄断与垄断企业案例。</p>
@@ -734,92 +753,6 @@
       </categories>
       <tags>
         <tag>马克思主义基本原理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R015-17级实习分享会</title>
-    <url>/2020/12/27/R015/</url>
-    <content><![CDATA[<h4 id="17级实习经验分享"><a href="#17级实习经验分享" class="headerlink" title="17级实习经验分享"></a>17级实习经验分享</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 张晨</span><br>	**临场改PPT<br>	**<br>	<br>	**求职过程<br>		<span class="hljs-comment">#领英找内推</span><br>		<span class="hljs-comment">#放链接-最好是个人博客</span><br>		<span class="hljs-comment">#包装自己 -- 合理 -- 简历</span><br>		<span class="hljs-comment">#乐于分享 - 表达方法 - 表达自己</span><br>			**你的能力体现、<br>	**学习过程<br>		<span class="hljs-comment">#剑指Offer</span><br>		<span class="hljs-comment">#Leetcode</span><br>		<span class="hljs-comment">#自学能力</span><br>		<span class="hljs-comment">#Pendo - todolist</span><br>		<br>	**求职经验<br>		*项目中承担的角色<br>		*实现<br>		*主要负责<br>		**擅长什么类型<br>		**为什么对这个方向感兴趣？<br>		<br>		*interview.huihut.com<br>		<br>	**看公司的年报，去了解公司<br>	<br>	**逻辑分析- 金字塔模型 - 第一点、第二点、第三点<br>	<br>	**岗位匹配度<br>	<br>	<span class="hljs-comment">#一定要早一点去实习</span><br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 蒋柯</span><br>	**夏令营 - 谷歌、微软、字节、华为、西山居<br>	**海投<br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 易永豪</span><br>	**入职前<br>		该学的课程学好<br>			<span class="hljs-comment">#数据结构</span><br>			<span class="hljs-comment">#基础语言</span><br>			<span class="hljs-comment">#计算机网络</span><br>				TCP - UDP<br>			<span class="hljs-comment">#计算机组成</span><br>				<br>			<span class="hljs-comment">#操作系统</span><br>				单线程 - 多线程<br>		有规划的生活<br>        	**把时间利用最大化<br>        	<span class="hljs-comment">#交际</span><br>        		<br>        	<span class="hljs-comment">#学习 </span><br>        		-跟社会人交流，了解不足<br>        	<span class="hljs-comment">#工作</span><br>        		如何高效的协同工作？<br>        		<br>        		--面试前加好友：大公司的HR<br>        		--<br>        		--<br>	**入职后<br>		<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 江飞翔</span><br>	<span class="hljs-comment">#求职经历</span><br>		**简历<br>			<span class="hljs-comment">#实习经历</span><br>			<span class="hljs-comment">#项目经历</span><br>			<span class="hljs-comment">#荣誉奖项</span><br>			<span class="hljs-comment">#写博客</span><br>		**面试经验<br>			<span class="hljs-comment">#注意时间分配</span><br>			<span class="hljs-comment">#大量投简历</span><br>			<span class="hljs-comment">#春招一定要去试试</span><br>		**算法题<br>		**面试<br>	<span class="hljs-comment">#</span><br>	<br>	<span class="hljs-comment">#</span><br><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R017-NULL</title>
-    <url>/2020/12/27/R017/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R020-linux kernel</title>
-    <url>/2020/12/28/R020/</url>
-    <content><![CDATA[<h4 id="实验简介"><a href="#实验简介" class="headerlink" title="实验简介"></a>实验简介</h4><p>通过系统调用、进程调度、完成变量等方式实现多对多通信的模拟</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><br></code></pre></td></tr></table></figure>
-
-<h4 id="Cmder"><a href="#Cmder" class="headerlink" title="Cmder"></a>Cmder</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#不错的终端工具</span><br></code></pre></td></tr></table></figure>
-
-<h4 id="linux内核源码下载"><a href="#linux内核源码下载" class="headerlink" title="linux内核源码下载"></a>linux内核源码下载</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#附上度盘链接</span><br>https://pan.baidu.com/s/1b4D28fCVRsE5m6QEzvROfQ<br>密码：2333<br></code></pre></td></tr></table></figure>
-
-<h4 id="编译准备"><a href="#编译准备" class="headerlink" title="编译准备"></a>编译准备</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 安装必要的环境</span><br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install flex<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install bison<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libncurses-dev<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install pkg-config<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libglade2-dev<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libssl-dev<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libelf-dev<br></code></pre></td></tr></table></figure>
-
-<h4 id="编译配置"><a href="#编译配置" class="headerlink" title="编译配置"></a>编译配置</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**</span><br></code></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-<hr>
-<h4 id="切入重点："><a href="#切入重点：" class="headerlink" title="切入重点："></a>切入重点：</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**多对多进程间通信的实现</span><br><br><span class="hljs-comment">#**拓扑结构</span><br><br><span class="hljs-comment">#**参考资料</span><br><br><span class="hljs-comment">#**实现问题记录</span><br><br><span class="hljs-comment">#**问题解决策略</span><br><br>[LINK]-http://www.pudn.com/Download/item/id/3134446.html<br><br><span class="hljs-comment">#**子系统开启ssh</span><br>https://blog.csdn.net/zhouzme/article/details/81087837<br><span class="hljs-comment">#**教学课件</span><br>http://i.mooc.chaoxing.com/space/index?t=1609151033652<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>linux kernel</tag>
       </tags>
   </entry>
   <entry>
@@ -942,6 +875,73 @@
       </categories>
   </entry>
   <entry>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>R017-NULL</title>
+    <url>/2020/12/27/R017/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>R020-linux kernel</title>
+    <url>/2020/12/28/R020/</url>
+    <content><![CDATA[<h4 id="实验简介"><a href="#实验简介" class="headerlink" title="实验简介"></a>实验简介</h4><p>通过系统调用、进程调度、完成变量等方式实现多对多通信的模拟</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><br></code></pre></td></tr></table></figure>
+
+<h4 id="Cmder"><a href="#Cmder" class="headerlink" title="Cmder"></a>Cmder</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#不错的终端工具</span><br></code></pre></td></tr></table></figure>
+
+<h4 id="linux内核源码下载"><a href="#linux内核源码下载" class="headerlink" title="linux内核源码下载"></a>linux内核源码下载</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#附上度盘链接</span><br>https://pan.baidu.com/s/1b4D28fCVRsE5m6QEzvROfQ<br>密码：2333<br></code></pre></td></tr></table></figure>
+
+<h4 id="编译准备"><a href="#编译准备" class="headerlink" title="编译准备"></a>编译准备</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 安装必要的环境</span><br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install flex<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install bison<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libncurses-dev<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install pkg-config<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libglade2-dev<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libssl-dev<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libelf-dev<br></code></pre></td></tr></table></figure>
+
+<h4 id="编译配置"><a href="#编译配置" class="headerlink" title="编译配置"></a>编译配置</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**</span><br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+<hr>
+<h4 id="切入重点："><a href="#切入重点：" class="headerlink" title="切入重点："></a>切入重点：</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**多对多进程间通信的实现</span><br><br><span class="hljs-comment">#**拓扑结构</span><br><br><span class="hljs-comment">#**参考资料</span><br><br><span class="hljs-comment">#**实现问题记录</span><br><br><span class="hljs-comment">#**问题解决策略</span><br><br>[LINK]-http://www.pudn.com/Download/item/id/3134446.html<br><br><span class="hljs-comment">#**子系统开启ssh</span><br>https://blog.csdn.net/zhouzme/article/details/81087837<br><span class="hljs-comment">#**教学课件</span><br>http://i.mooc.chaoxing.com/space/index?t=1609151033652<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>linux kernel</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R023-圣经阅读记录</title>
     <url>/2020/12/28/R023/</url>
     <content><![CDATA[<h4 id="亚伯拉罕"><a href="#亚伯拉罕" class="headerlink" title="亚伯拉罕"></a>亚伯拉罕</h4><hr>
@@ -1045,39 +1045,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R026-门徒训练第三课</title>
-    <url>/2020/12/30/R026/</url>
-    <content><![CDATA[<h4 id="为什么要建立稳定的灵修生活"><a href="#为什么要建立稳定的灵修生活" class="headerlink" title="为什么要建立稳定的灵修生活"></a>为什么要建立稳定的灵修生活</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 四件事情：</span><br>	A-为何建立稳定的灵修生活如此重要<br>		**是神儿女们绝不可忽视的拳脚功夫<br>			若不深耕，如何结实？--神一生都在建造我们<br>			当地震、海啸来临之时，一眼就看出哪些树、哪些房屋的根基是深厚的<br>		**生命软弱、跟神关系疏远的原因：<br>			-当今门徒训练-普遍的现象：肤浅、不够深。很多人的生命并没有被改变<br>			很关键的原因就是没有每一天过一个稳定的灵修生活<br>			目的：生命被改变、跟神的关系被改变、与主更亲近、生活更得胜<br>		**是当今时代众教会普遍的危机<br>			好像神家得不到供应，缺少生命-根基问题：没有稳定的灵修生活<br>			<br>		**圣经中的榜样-尤其是主耶稣自己，经常退到野地、海边、或山上去祷告<br>			约瑟在大饥荒之前，就是一直在积蓄粮食：我们的灵修、生活的一切都是在积蓄粮食，<br>			当你里面真正有生命的时候，神会把有需要的人带来。<br>			路德，拾穗。在波阿斯的田里，每一天拾穗就够我们所用<br>			与神亲密且持续的关系<br>			<br>	<span class="hljs-comment">## 我们务要认识耶和华，竭力追求认识祂。祂出现确如晨光；祂必临到我们想甘露，像滋润田地的春雨。 何 6:3</span><br>	<br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="竭力追求认识祂"><a href="#竭力追求认识祂" class="headerlink" title="竭力追求认识祂"></a>竭力追求认识祂</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 光和雨都是生命成长所必须要的，[在竭力上不够，所以光和雨缺乏导致生长的不好]</span><br>	我们务必要认识耶和华，竭力追求认识他。祂出现确如晨光；祂必临到我们像甘雨，像滋润田地的春雨。<br></code></pre></td></tr></table></figure>
-
-<h4 id="培养好习惯的重要"><a href="#培养好习惯的重要" class="headerlink" title="培养好习惯的重要"></a>培养好习惯的重要</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第二件重要的事情</span><br>	B-培养好习惯的重要性<br>			什么是习惯：很自然的、重复在做的<br>			习惯带来累积性的影响<br>			坏习惯-害你<br>			好习惯-不断成长的祝福，<br>		**得享累积且不住增长的果效，使人终生受益无穷。<br>			[加拉太书 6:7] 人种的是什么，收的就是什么<br>			培养好习惯，收祝福：懂得感恩，看到别人的好习惯、长处、可取之处、获得祝福<br>			荣耀神、祝福人、又祝福自己<br>			我们今天收到的就是自己种下的<br>			[林后 9:6] 少种的少收，多种的多收，这话是真的。[这句话太重要了，所以强调]<br>			所以我们的灵修，有人交差了事，五分钟觉得我良心平安，我今天晨更了。有的人，只要有机会，就跟主建立更亲近的关系<br>			竭力往前，都要进步[我可以凡事长进]-要越来越长进<br>			[诗篇：我所得的，你为我持守]<br>		**建立稳定的灵修生活，是最值得培养的好习惯之一。<br>			从最基本的拳脚，先把稳定的灵修生活建立起来<br>			[提前 4:8-9] 操练身体，益处还少；唯独敬虔，凡事都有益处，因有今生和来生的应许。这话是可信的，是十分可佩服的。<br></code></pre></td></tr></table></figure>
-
-<h4 id="建立稳定灵修生活的挑战"><a href="#建立稳定灵修生活的挑战" class="headerlink" title="建立稳定灵修生活的挑战"></a>建立稳定灵修生活的挑战</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第三件重要的事情</span><br>	C-建立稳定灵修生活的挑战<br>		---稳行在高处<br>		建立稳定灵修生活-<br>		*但以理的榜样<br>		[但 6:10] 但以理知道这禁令盖了玉玺，就到了自己家里（他楼上的窗户开向耶路撒冷）一日三次，双膝跪在他神面前，祷告感谢，与素常一样<br>		**稳的挑战 - [与素常一样] ---很大的挑战<br>		**行的挑战 - 一日三次 --- 开始、具体、可行、持续<br>		**高的挑战 - 跪在他神面前 --- 最重要、最难<br>        	不能够持续：在灵修里碰不到主、去圣经里、去生活里找亮光，但是光是不需要去寻找的<br>        	最被我们忽略的地方-仇敌使我们被蒙蔽<br>        	在灵修中遇见神、在神的同在中灵修[读经读的很过瘾，但是不见得碰到神]<br>        	灵修不只是一件事、不只是一个习惯、不只是一个lifestyle<br>        	: 常常在灵修中遇见神，在神的同在中灵修<br>        	圣经研读：遇见说话的神<br>        	祷告：人与神在圣灵中的相会与相交<br>        		*一疏忽就会在人的境界里灵修、祷告<br>        		读经之路：[以赛亚书 55:3]<br>                <br>                *三分钟到五分钟[尽心尽力 - 遇见主]<br>                什么时候我们等候祂，祂就必施恩于我们 - 每一次回来，祂都在等候我们<br>                *让我们的生命被改变<br>                <br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="属灵同伴的重要"><a href="#属灵同伴的重要" class="headerlink" title="属灵同伴的重要"></a>属灵同伴的重要</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第四件重要的事情</span><br>	D-属灵同伴的重要<br>		[箴言 27:17] 铁磨铁，磨出刃来，朋友相感也是如此<br>		*打磨成器 - <br>		增加对方的价值、提高对方的功用，脱离粗糙的情景<br>		[提 2:22] 你们要逃避少年人的私欲，同那清心祷告主的人追求公义、信德、仁爱、和平。 <br>		我们的朋友如何，那是非常重要的事情<br>		[传道书 4:9-12] 两个人总比一个人好……<br>		&amp;故事：碳火-火红的碳于与潮湿的碳<br>		**保罗的榜样<br>		[林后 8:23] 论到提多，他是我的同伴，一同为你们劳碌的。<br>		保罗的谦卑<br>		care主、基督、神的旨意，同伴的重要<br>		&amp;故事：谁的南瓜大？当大家一起来追求突破的时候，--就会引发质变<br></code></pre></td></tr></table></figure>
-
-<h4 id="稳行在高处"><a href="#稳行在高处" class="headerlink" title="稳行在高处"></a>稳行在高处</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">具体、可行<br>到高的境界<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>新人门徒训练N103</tag>
-        <tag>建立稳定的灵修生活</tag>
-        <tag>稳行在高处</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R025-组成原理实验分配</title>
     <url>/2020/12/30/R025/</url>
     <content><![CDATA[<h4 id="任务分配"><a href="#任务分配" class="headerlink" title="任务分配"></a>任务分配</h4><hr>
@@ -1147,6 +1114,39 @@
       <tags>
         <tag>计算机组成原理</tag>
         <tag>实验报告</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R026-门徒训练第三课</title>
+    <url>/2020/12/30/R026/</url>
+    <content><![CDATA[<h4 id="为什么要建立稳定的灵修生活"><a href="#为什么要建立稳定的灵修生活" class="headerlink" title="为什么要建立稳定的灵修生活"></a>为什么要建立稳定的灵修生活</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 四件事情：</span><br>	A-为何建立稳定的灵修生活如此重要<br>		**是神儿女们绝不可忽视的拳脚功夫<br>			若不深耕，如何结实？--神一生都在建造我们<br>			当地震、海啸来临之时，一眼就看出哪些树、哪些房屋的根基是深厚的<br>		**生命软弱、跟神关系疏远的原因：<br>			-当今门徒训练-普遍的现象：肤浅、不够深。很多人的生命并没有被改变<br>			很关键的原因就是没有每一天过一个稳定的灵修生活<br>			目的：生命被改变、跟神的关系被改变、与主更亲近、生活更得胜<br>		**是当今时代众教会普遍的危机<br>			好像神家得不到供应，缺少生命-根基问题：没有稳定的灵修生活<br>			<br>		**圣经中的榜样-尤其是主耶稣自己，经常退到野地、海边、或山上去祷告<br>			约瑟在大饥荒之前，就是一直在积蓄粮食：我们的灵修、生活的一切都是在积蓄粮食，<br>			当你里面真正有生命的时候，神会把有需要的人带来。<br>			路德，拾穗。在波阿斯的田里，每一天拾穗就够我们所用<br>			与神亲密且持续的关系<br>			<br>	<span class="hljs-comment">## 我们务要认识耶和华，竭力追求认识祂。祂出现确如晨光；祂必临到我们想甘露，像滋润田地的春雨。 何 6:3</span><br>	<br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="竭力追求认识祂"><a href="#竭力追求认识祂" class="headerlink" title="竭力追求认识祂"></a>竭力追求认识祂</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 光和雨都是生命成长所必须要的，[在竭力上不够，所以光和雨缺乏导致生长的不好]</span><br>	我们务必要认识耶和华，竭力追求认识他。祂出现确如晨光；祂必临到我们像甘雨，像滋润田地的春雨。<br></code></pre></td></tr></table></figure>
+
+<h4 id="培养好习惯的重要"><a href="#培养好习惯的重要" class="headerlink" title="培养好习惯的重要"></a>培养好习惯的重要</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第二件重要的事情</span><br>	B-培养好习惯的重要性<br>			什么是习惯：很自然的、重复在做的<br>			习惯带来累积性的影响<br>			坏习惯-害你<br>			好习惯-不断成长的祝福，<br>		**得享累积且不住增长的果效，使人终生受益无穷。<br>			[加拉太书 6:7] 人种的是什么，收的就是什么<br>			培养好习惯，收祝福：懂得感恩，看到别人的好习惯、长处、可取之处、获得祝福<br>			荣耀神、祝福人、又祝福自己<br>			我们今天收到的就是自己种下的<br>			[林后 9:6] 少种的少收，多种的多收，这话是真的。[这句话太重要了，所以强调]<br>			所以我们的灵修，有人交差了事，五分钟觉得我良心平安，我今天晨更了。有的人，只要有机会，就跟主建立更亲近的关系<br>			竭力往前，都要进步[我可以凡事长进]-要越来越长进<br>			[诗篇：我所得的，你为我持守]<br>		**建立稳定的灵修生活，是最值得培养的好习惯之一。<br>			从最基本的拳脚，先把稳定的灵修生活建立起来<br>			[提前 4:8-9] 操练身体，益处还少；唯独敬虔，凡事都有益处，因有今生和来生的应许。这话是可信的，是十分可佩服的。<br></code></pre></td></tr></table></figure>
+
+<h4 id="建立稳定灵修生活的挑战"><a href="#建立稳定灵修生活的挑战" class="headerlink" title="建立稳定灵修生活的挑战"></a>建立稳定灵修生活的挑战</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第三件重要的事情</span><br>	C-建立稳定灵修生活的挑战<br>		---稳行在高处<br>		建立稳定灵修生活-<br>		*但以理的榜样<br>		[但 6:10] 但以理知道这禁令盖了玉玺，就到了自己家里（他楼上的窗户开向耶路撒冷）一日三次，双膝跪在他神面前，祷告感谢，与素常一样<br>		**稳的挑战 - [与素常一样] ---很大的挑战<br>		**行的挑战 - 一日三次 --- 开始、具体、可行、持续<br>		**高的挑战 - 跪在他神面前 --- 最重要、最难<br>        	不能够持续：在灵修里碰不到主、去圣经里、去生活里找亮光，但是光是不需要去寻找的<br>        	最被我们忽略的地方-仇敌使我们被蒙蔽<br>        	在灵修中遇见神、在神的同在中灵修[读经读的很过瘾，但是不见得碰到神]<br>        	灵修不只是一件事、不只是一个习惯、不只是一个lifestyle<br>        	: 常常在灵修中遇见神，在神的同在中灵修<br>        	圣经研读：遇见说话的神<br>        	祷告：人与神在圣灵中的相会与相交<br>        		*一疏忽就会在人的境界里灵修、祷告<br>        		读经之路：[以赛亚书 55:3]<br>                <br>                *三分钟到五分钟[尽心尽力 - 遇见主]<br>                什么时候我们等候祂，祂就必施恩于我们 - 每一次回来，祂都在等候我们<br>                *让我们的生命被改变<br>                <br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="属灵同伴的重要"><a href="#属灵同伴的重要" class="headerlink" title="属灵同伴的重要"></a>属灵同伴的重要</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第四件重要的事情</span><br>	D-属灵同伴的重要<br>		[箴言 27:17] 铁磨铁，磨出刃来，朋友相感也是如此<br>		*打磨成器 - <br>		增加对方的价值、提高对方的功用，脱离粗糙的情景<br>		[提 2:22] 你们要逃避少年人的私欲，同那清心祷告主的人追求公义、信德、仁爱、和平。 <br>		我们的朋友如何，那是非常重要的事情<br>		[传道书 4:9-12] 两个人总比一个人好……<br>		&amp;故事：碳火-火红的碳于与潮湿的碳<br>		**保罗的榜样<br>		[林后 8:23] 论到提多，他是我的同伴，一同为你们劳碌的。<br>		保罗的谦卑<br>		care主、基督、神的旨意，同伴的重要<br>		&amp;故事：谁的南瓜大？当大家一起来追求突破的时候，--就会引发质变<br></code></pre></td></tr></table></figure>
+
+<h4 id="稳行在高处"><a href="#稳行在高处" class="headerlink" title="稳行在高处"></a>稳行在高处</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">具体、可行<br>到高的境界<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>新人门徒训练N103</tag>
+        <tag>建立稳定的灵修生活</tag>
+        <tag>稳行在高处</tag>
       </tags>
   </entry>
   <entry>
@@ -2075,6 +2075,21 @@
       </tags>
   </entry>
   <entry>
+    <title>R035-人工智能-初级踩坑</title>
+    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
+    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>入门资料</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R034-md图标收藏</title>
     <url>/2021/01/04/R034/</url>
     <content><![CDATA[<h4 id="四月图标收藏栏"><a href="#四月图标收藏栏" class="headerlink" title="四月图标收藏栏"></a>四月图标收藏栏</h4><p>:fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis:</p>
@@ -2091,21 +2106,6 @@
         <tag>图案模板</tag>
         <tag>图标线条</tag>
         <tag>图形设计</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R035-人工智能-初级踩坑</title>
-    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
-    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>入门资料</tag>
       </tags>
   </entry>
   <entry>
@@ -2131,6 +2131,14 @@
         <tag>项目分析</tag>
         <tag>会议大纲</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>R038-NULL</title>
+    <url>/2021/01/05/R038/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
   </entry>
   <entry>
     <title>R037-考研单词L3</title>
@@ -2402,29 +2410,6 @@
       <tags>
         <tag>英语单词</tag>
         <tag>考研英语</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R038-NULL</title>
-    <url>/2021/01/05/R038/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R039-HZIEE-CS-STACK-初期会议</title>
-    <url>/2021/01/06/R039-HZIEE-CS-STACK-%E5%88%9D%E6%9C%9F%E4%BC%9A%E8%AE%AE/</url>
-    <content><![CDATA[<h4 id="会议目的"><a href="#会议目的" class="headerlink" title="会议目的"></a>会议目的</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 团队成员素查</span><br>	** 认为自己没有时间继续做这个项目，可退出<br>	** 认为做这个项目毫无意义，对自己没有帮助，可退出<br>	** 没有任何理由，可推出<br>	<br><span class="hljs-comment">## 回顾之前做了什么</span><br><span class="hljs-comment">## 传达下一步做什么</span><br>	** <br><span class="hljs-comment">## 下一个项目做什么</span><br>	** <br>	** <br>	** 应用到我们当前的项目：CS-STACK，添加金币经验等级管理<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>团队管理</tag>
-        <tag>HZIEE资料共享项目</tag>
       </tags>
   </entry>
   <entry>
@@ -2974,6 +2959,21 @@
       </tags>
   </entry>
   <entry>
+    <title>R039-HZIEE-CS-STACK-初期会议</title>
+    <url>/2021/01/06/R039-HZIEE-CS-STACK-%E5%88%9D%E6%9C%9F%E4%BC%9A%E8%AE%AE/</url>
+    <content><![CDATA[<h4 id="会议目的"><a href="#会议目的" class="headerlink" title="会议目的"></a>会议目的</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 团队成员素查</span><br>	** 认为自己没有时间继续做这个项目，可退出<br>	** 认为做这个项目毫无意义，对自己没有帮助，可退出<br>	** 没有任何理由，可推出<br>	<br><span class="hljs-comment">## 回顾之前做了什么</span><br><span class="hljs-comment">## 传达下一步做什么</span><br>	** <br><span class="hljs-comment">## 下一个项目做什么</span><br>	** <br>	** <br>	** 应用到我们当前的项目：CS-STACK，添加金币经验等级管理<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>团队管理</tag>
+        <tag>HZIEE资料共享项目</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R041-软件工程考点梳理</title>
     <url>/2021/01/06/R041-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
     <content><![CDATA[<h4 id="核心内容"><a href="#核心内容" class="headerlink" title="核心内容"></a>核心内容</h4><blockquote>
@@ -3356,21 +3356,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R045-Visio绘制流程图</title>
-    <url>/2021/01/07/R045-Visio%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B%E5%9B%BE/</url>
-    <content><![CDATA[<h4 id="流程图绘制神器"><a href="#流程图绘制神器" class="headerlink" title="流程图绘制神器"></a>流程图绘制神器</h4><blockquote>
-<p>Visio</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>流程图绘制工具</tag>
-        <tag>Visio</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R044-信工计网复习提纲</title>
     <url>/2021/01/07/R044-%E4%BF%A1%E5%B7%A5%E8%AE%A1%E7%BD%91%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2/</url>
     <content><![CDATA[<p>计算机网络复习提纲</p>
@@ -3441,6 +3426,21 @@
       </categories>
       <tags>
         <tag>计网复习知识梳理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R045-Visio绘制流程图</title>
+    <url>/2021/01/07/R045-Visio%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B%E5%9B%BE/</url>
+    <content><![CDATA[<h4 id="流程图绘制神器"><a href="#流程图绘制神器" class="headerlink" title="流程图绘制神器"></a>流程图绘制神器</h4><blockquote>
+<p>Visio</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>流程图绘制工具</tag>
+        <tag>Visio</tag>
       </tags>
   </entry>
   <entry>
@@ -4347,7 +4347,7 @@
     <content><![CDATA[<h4 id="简答题："><a href="#简答题：" class="headerlink" title="简答题："></a>简答题：</h4><hr>
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 计算机系统的基本组成：</span><br>	计算机系统包括 硬件系统和软件系统，其中，硬件系统包括：运算器、控制器、存储器、输入设备和输出设备五大基本部件。 软件系统分为系统软件和应用软件两大类。 系统软件用包括操作系统、计算机语言处理程序、服务性程序、数据库管理系统和网络软件等。<br>	<br><span class="hljs-comment">## 计算机性能指标：</span><br>	CPI-Cycles Per Instruction<br>	**性能的定义：一般用程序的响应时间或系统的吞吐率表示机器或系统的整体性能。<br>	**CPU的性能测量[用户程序的CPU时间]；一般把程序的响应时间分成CPU时间和等待时间，CPU时间又分成用户CPU时间和系统CPU时间。 -略[详情参考：E:\home\shadow\hziee\2-COCP\docx\9-PT_PPT\第一章 计算机系统概述.ppt&#123;P93&#125;]<br><br><span class="hljs-comment">## 系统的层次结构：[硬件与软件的交界处] 跨越计算机系统-硬件逻辑单元</span><br>	<br><span class="hljs-comment">## 冯-诺伊曼结构的特点：</span><br>	**1. 由运算器、控制器、存储器、输入设备和输出设备五大基本部件组成<br>	**2. 基本部件功能：<br>		*存储器不仅能存放数据，而且也能存放指令，形式上两者没有区别，但计算机应能区分数据还是指令；<br>		*控制器应能自动执行指令；<br>		*运算器应能进行加减乘除四种基本算术运算，并且也能进行一些逻辑运算和附加运算。<br>		*输入设备和输出设备用于操作人员和主机进行通信。<br>	**3. 内部以二进制形式表示指令和数据。每条指令由操作码和地址码两部分组成。操作码指出操作类型，地址码指出操作数的地址。由一串指令组成程序。<br>	**4. 采用“存储程序”工作方式<br>	<br>		<br>	<br><span class="hljs-comment">## 存储器的层次结构：</span><br>	|     存取时间     |        名称           |           典型容量      |<br>			1ns				寄存器							&lt;1KB<br>			2ns				高速缓存						4MB<br>			10ns			主存储器[RAM&amp;ROM]				500MB-4GB<br>			<br>			10ms			辅助存储器[硬盘]			  	40-500G<br>			10s				海量后备存储器[磁带库/光盘等]  	10-100TB<br><br><span class="hljs-comment">## 存储器的组成单元：</span><br>	** 六管静态MOS管存储元件<br>	** 单管动态MOS管存储单元<br><br>	<span class="hljs-comment">#组成：存储器是由存储体、地址寄存器、地址译码驱动电路、读/写控制逻辑、数据寄存器、读写驱动器等六个部分组成</span><br>	**存储体是存储器的核心，是存储单元的集合体<br>	**地址寄存器用于存放CPU访问存储单元的地址，经译码驱动后指向相应的存储单元。<br>	**地址译码器将地址总线输入的地址码转换成与其对应的译码输出线上的高电平或低电平信号，以表示选中了某一单元，并由驱动器提供驱动电流去驱动相应的读/写电路，完成对被选中单元的读/写操作。<br>	**4. 器用以完成对被选中单元中各位的读/写操作，包括读出放大器、写入电路和读/写控制电路。<br>	**5. 用于暂时存放从存储单元读出的数据，或从CPU输出I/O端口输入的要写入存储器的数据。<br>	**6. 逻辑接收来自CPU的启动、片选、读/写及清除命令，经控制电路综合处理后，发出一组时序信号来控制存储器<br><br><br><span class="hljs-comment">## 存储器的性能指标：</span><br>	** 容量<br>	** 价格<br>	** 速度<br> 	<span class="hljs-comment">##主存的性能指标：存储容量、存取时间、存储周期</span><br> 	<br><span class="hljs-comment">## SRAM和DRAM的主要异同点： SRAM 			DRAM</span><br>	** 使用的MOS管  : SRAM使用的MOS管多，DRAM使用的MOS管少<br>	** 功耗与集成度  : 	功耗高，集成度低	功耗低，集成度高<br>	** 是否需要刷新  : 	   否				是<br>	** 读写速度      : 		快				 慢<br>----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 指令包括哪几个部分？各表示什么含义？举例说明</span><br>	** 包括操作码和地址码。操作码是该指令主要完成的操作。地址码是用来寻找执行指令所需要的操作数。如：指令MOV AL,[SI+1000H]<br>	<br><span class="hljs-comment">## 局部性原理：</span><br>	在较短的时间内，程序产生的地址往往集中在一个很小的范围内，这种现象被称为程序访问的局部性：空间局部性、时间局部性<br>	**原因：指令按序存放，地址连续，循环程序段或子程序段重复执行。 - 数据连续存放，数组元素重复，按序访问。<br>	<br>	**为什么引入Cache会加快访存速度？<br>		<span class="hljs-comment">#在CPU和主存之间设置一个快速小容量的存储器，其中总是存放最活跃的程序和数据，由于程序访问局部性的特征，大多数情况下，CPU能直接从整个高速缓存中取得指令和数据，而不必访问主存。</span><br><br><span class="hljs-comment">## Cache的工作原理</span><br>	cache是一种小容量高速缓冲存储器，由快速的SRAM组成，直接制作在CPU芯片内，速度几乎与CPU一样快。在CPU和主存之间设置cache，总是把主存中频饭访问的活跃程序和数据块复制到cache中。由于程序访问的局部性，CPU几乎总能从cache中取得指令和数据，而不必访问主存。<br>	为便于cache和主存间交换信息，cache和主存空间都被划分为相等的区域。主存中的区域称为块（主存块），它是cache和主存之间信息交换的单位；cache中存放的一个主存块的区域称为行或槽。因此，主存块大小等于cache行中数据区小。<br>	[https://zhuanlan.zhihu.com/p/102293437?utm_source=qq]<br><br><br><span class="hljs-comment">## cache的替换算法</span><br>	** 先进先出算法FIFO<br>	** 最近最少用算法LRU<br>	** 最不经常用算法LFU<br>	** 随机替换算法<br>	<br>------------------------------------------------------------------------------<br><span class="hljs-comment">## cache行与主存块之间的映射方式</span><br>	**直接映射<br>		直接映射也叫模映射，其映射关系如下：<br>		cache行号 = 主存块号 mod cache行数<br>		主存地址被划分为三段： | 标记  |  cache行号[也称行索引] | 块内地址 |<br>		<br>		<br>		**计算：<br>			1-把cache容量转为 X行*Y字[或字节]/行<br>			2-主存的每X块和cache的Y行一一对应，所以可以将主存的每个X块看成一个块群[组]，因而可以得到主存的地址空间划分: M 字[或字节] = N 块 * Y 字[或字节]/块 = t * c * b	  M 字[字节] = &#123;T块群 * C块/块群 * B字[字节]/块&#125; TAG COLUMN BLOCKADDR<br>		<br>	**全相联映射<br>		<br>	**组相联映射<br>		<br>		<br>		主存地址被划分为三段： | 标记  |  cache组号[也称组索引] | 块内地址 |<br><br>		<br><br><br><br><br><br><br><br><br><br>------------------------------------------------------------------------------<br><span class="hljs-comment">## 字拓展</span><br><br><span class="hljs-comment">## 位拓展</span><br><br><span class="hljs-comment">## 字位同时拓展</span><br><br><br><br><br>------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 控制器的组成：</span><br>	**控制器主要包含指令译码器，其输入的是指令操作码OP，输出的是控制信号。<br>	**1. 程序计数器<br>	**2. 指令寄存器<br>	**3. 指令译码器<br>	**4. 操作控制信号形成部件<br>	**5. 时序信号产生器<br>	**6. 地址寄存器<br>    **7. 数据寄存器<br>	<br>	<br>	<br><span class="hljs-comment">## 浮点数的格式化表示与范围</span><br>	<br>	<br><br><span class="hljs-comment">## CISC 与 RISC的特点区别</span><br>	**1、指令系统<br>　　 CISC<br>　　 计算机的指令系统比较丰富，有专用指令来完成特定的功能。因此，处理特殊任务效率较高。<br>　　 RISC<br>　　 设计者把主要精力放在那些经常使用的指令上，尽量使它们具有简单高效的特色。对不常用的功能，常通过组合指令来完成。因此，在RISC 机器上实现特殊功能时，效率可能较低。但可以利用流水技术和超标量技术加以改进和弥补。<br><br><br><br><span class="hljs-comment">## 数据的表示</span><br>	**定点数的表示<br>		<span class="hljs-comment">#进位计数制</span><br>		<span class="hljs-comment">#定点数的二进制编码</span><br>			*原码、补码、移码表示<br>		<span class="hljs-comment">#定点整数的表示</span><br>			*无符号整数、带符号整数<br>	**浮点数格式和表示范围<br>	**浮点数的规格化<br>	**IEEE754浮点数标准<br>		<span class="hljs-comment">#单精度浮点数、双精度浮点数</span><br>		<span class="hljs-comment">#特殊数的表示形式</span><br>		<br>------------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
 
-<hr>
+<h5 id="CISC与RISC的对比"><a href="#CISC与RISC的对比" class="headerlink" title="CISC与RISC的对比"></a>CISC与RISC的对比</h5><hr>
 <table>
 <thead>
 <tr>
@@ -4421,6 +4421,57 @@
 <td>利于</td>
 <td></td>
 <td>利于</td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<h4 id="cache映射"><a href="#cache映射" class="headerlink" title="cache映射"></a>cache映射</h4><hr>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>全相联映射</th>
+<th></th>
+<th>直接映射</th>
+<th></th>
+<th>组相联映射</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cache利用率</td>
+<td>高</td>
+<td></td>
+<td>低</td>
+<td></td>
+<td>两者之间</td>
+<td></td>
+</tr>
+<tr>
+<td>块冲突率</td>
+<td>低</td>
+<td></td>
+<td>高</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>淘汰算法</td>
+<td>复杂</td>
+<td></td>
+<td>简单</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>应用场合</td>
+<td>小容量cache</td>
+<td></td>
+<td>大容量cache</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody></table>

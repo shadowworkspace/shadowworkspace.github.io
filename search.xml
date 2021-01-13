@@ -158,23 +158,6 @@
       </tags>
   </entry>
   <entry>
-    <title>I004-全球积木竞赛</title>
-    <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
-    <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="积木竞赛"><a href="#积木竞赛" class="headerlink" title="积木竞赛"></a>积木竞赛</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 因为我从搭建积木的过程中，体会到了耐性的具体体现。同时在某一个步骤中观察也能够筛选识别出这人是怎样的人。</span><br><br><span class="hljs-comment">## 是否已经存在有组织性的大型积木搭建竞赛？[可能要耗时一周？或者一个月？或者一年？]</span><br><br><span class="hljs-comment">## 如果没有，那么我是否可以考虑自己创办一个？或者 利用我所掌握的专业知识，做一个虚拟的、VR版本或者其他版本的---在线积木搭建竞赛？</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>积木竞赛</tag>
-        <tag>耐心与毅力</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>I003-我学到了什么</title>
     <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
     <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
@@ -197,6 +180,23 @@
       </tags>
   </entry>
   <entry>
+    <title>I004-全球积木竞赛</title>
+    <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
+    <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="积木竞赛"><a href="#积木竞赛" class="headerlink" title="积木竞赛"></a>积木竞赛</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 因为我从搭建积木的过程中，体会到了耐性的具体体现。同时在某一个步骤中观察也能够筛选识别出这人是怎样的人。</span><br><br><span class="hljs-comment">## 是否已经存在有组织性的大型积木搭建竞赛？[可能要耗时一周？或者一个月？或者一年？]</span><br><br><span class="hljs-comment">## 如果没有，那么我是否可以考虑自己创办一个？或者 利用我所掌握的专业知识，做一个虚拟的、VR版本或者其他版本的---在线积木搭建竞赛？</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>积木竞赛</tag>
+        <tag>耐心与毅力</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>I005-高速缓存与调度算法</title>
     <url>/2021/01/11/I005-%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E4%B8%8E%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[<h4 id="高速缓存"><a href="#高速缓存" class="headerlink" title="高速缓存"></a>高速缓存</h4><hr>
@@ -213,6 +213,19 @@
         <tag>缓存与调度</tag>
         <tag>专业知识的应用</tag>
         <tag>知行合一</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>OpenCV</title>
+    <url>/2020/12/20/OpenCV/</url>
+    <content><![CDATA[<h4 id="QT使用Opencv"><a href="#QT使用Opencv" class="headerlink" title="QT使用Opencv"></a>QT使用Opencv</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## </span><br>	**<span class="hljs-number">1</span>-下载Opencv源码<br>	**<span class="hljs-number">2</span>-下载Cmake安装<br>	**<span class="hljs-number">3</span>- ERROR：QT添加组件 --&gt; 放弃<br>	<br>**link<br>	**https:<span class="hljs-regexp">//</span>cmake.org<span class="hljs-regexp">/download/</span><br>	**https:<span class="hljs-regexp">//</span>opencv.org<span class="hljs-regexp">/releases/</span><br>	**https:<span class="hljs-regexp">//</span>baijiahao.baidu.com/s?id=<span class="hljs-number">1662883232064729369</span>&amp;wfr=spider&amp;<span class="hljs-keyword">for</span>=pc&amp;qq-pf-to=pcqq.c2c<br>	<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>QT实践</tag>
       </tags>
   </entry>
   <entry>
@@ -264,36 +277,6 @@
       </tags>
   </entry>
   <entry>
-    <title>OpenCV</title>
-    <url>/2020/12/20/OpenCV/</url>
-    <content><![CDATA[<h4 id="QT使用Opencv"><a href="#QT使用Opencv" class="headerlink" title="QT使用Opencv"></a>QT使用Opencv</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## </span><br>	**<span class="hljs-number">1</span>-下载Opencv源码<br>	**<span class="hljs-number">2</span>-下载Cmake安装<br>	**<span class="hljs-number">3</span>- ERROR：QT添加组件 --&gt; 放弃<br>	<br>**link<br>	**https:<span class="hljs-regexp">//</span>cmake.org<span class="hljs-regexp">/download/</span><br>	**https:<span class="hljs-regexp">//</span>opencv.org<span class="hljs-regexp">/releases/</span><br>	**https:<span class="hljs-regexp">//</span>baijiahao.baidu.com/s?id=<span class="hljs-number">1662883232064729369</span>&amp;wfr=spider&amp;<span class="hljs-keyword">for</span>=pc&amp;qq-pf-to=pcqq.c2c<br>	<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>QT实践</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>P002-高等数学-奇谈</title>
-    <url>/2021/01/04/P002-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E5%A5%87%E8%B0%88/</url>
-    <content><![CDATA[<h4 id="关于积分的思考"><a href="#关于积分的思考" class="headerlink" title="关于积分的思考"></a>关于积分的思考</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 求导</span><br>	** 求导数的过程就是降维打击的过程：<br>		<span class="hljs-comment">#从空间到平面 --&gt; 从平面到直线 --&gt; 从直线到基点 --&gt; 从点到虚无</span><br>		<br>	** 积分的过程就是量变引起质变，并且受到统计支配：<br>		<span class="hljs-comment">#从一个点恢复到一条线，这个过程可能被随机扭曲：直线变成了曲线</span><br>		<span class="hljs-comment">#从一条直线恢复到一个平面，被扭曲，平面变成了曲面</span><br>		<span class="hljs-comment">#从一个平面恢复到一个空间几何体，被扭曲，成为了奇怪的几何体[扭曲的过程是随机的，但是表现出统计学规律]</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>专业学习</category>
-        <category>高等数学</category>
-      </categories>
-      <tags>
-        <tag>空间几何</tag>
-        <tag>导数与积分</tag>
-        <tag>奇异思想</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>P003-人工智能-图像检测</title>
     <url>/2021/01/05/P003-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%9B%BE%E5%83%8F%E6%A3%80%E6%B5%8B/</url>
     <content><![CDATA[<h4 id="NULL"><a href="#NULL" class="headerlink" title="NULL"></a>NULL</h4><hr>
@@ -319,19 +302,6 @@
         <tag>鱼脸识别</tag>
         <tag>WIN10镜像</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>R001</title>
-    <url>/2020/12/14/R001/</url>
-    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
   </entry>
   <entry>
     <title>R000-文章命名规范</title>
@@ -377,6 +347,36 @@
         <tag>文章标签规范</tag>
         <tag>文章命名规范</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>P002-高等数学-奇谈</title>
+    <url>/2021/01/04/P002-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E5%A5%87%E8%B0%88/</url>
+    <content><![CDATA[<h4 id="关于积分的思考"><a href="#关于积分的思考" class="headerlink" title="关于积分的思考"></a>关于积分的思考</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 求导</span><br>	** 求导数的过程就是降维打击的过程：<br>		<span class="hljs-comment">#从空间到平面 --&gt; 从平面到直线 --&gt; 从直线到基点 --&gt; 从点到虚无</span><br>		<br>	** 积分的过程就是量变引起质变，并且受到统计支配：<br>		<span class="hljs-comment">#从一个点恢复到一条线，这个过程可能被随机扭曲：直线变成了曲线</span><br>		<span class="hljs-comment">#从一条直线恢复到一个平面，被扭曲，平面变成了曲面</span><br>		<span class="hljs-comment">#从一个平面恢复到一个空间几何体，被扭曲，成为了奇怪的几何体[扭曲的过程是随机的，但是表现出统计学规律]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>专业学习</category>
+        <category>高等数学</category>
+      </categories>
+      <tags>
+        <tag>空间几何</tag>
+        <tag>导数与积分</tag>
+        <tag>奇异思想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R001</title>
+    <url>/2020/12/14/R001/</url>
+    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
   </entry>
   <entry>
     <title>R002</title>
@@ -438,6 +438,25 @@
       </tags>
   </entry>
   <entry>
+    <title>R006</title>
+    <url>/2020/12/16/R006/</url>
+    <content><![CDATA[<h4 id="实验模块"><a href="#实验模块" class="headerlink" title="实验模块"></a>实验模块</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## ROM<br><br>## RAM<br><br>## GPRs<br><br>## ALU<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 区分R型指令与I型指令<br><br>## 添加位拓展、数据选择器时，注意兼顾R型指令与I型指令<br><br>## 时钟频率的问题：<br>	**对数据存储器的时钟要求：需要在ALU运算前读出数据<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>RI-CPU</tag>
+        <tag>计算机组成原理</tag>
+        <tag>MIPS指令实现</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R005</title>
     <url>/2020/12/16/R005/</url>
     <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
@@ -468,25 +487,6 @@
       </categories>
       <tags>
         <tag>MI</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R006</title>
-    <url>/2020/12/16/R006/</url>
-    <content><![CDATA[<h4 id="实验模块"><a href="#实验模块" class="headerlink" title="实验模块"></a>实验模块</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## ROM<br><br>## RAM<br><br>## GPRs<br><br>## ALU<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 区分R型指令与I型指令<br><br>## 添加位拓展、数据选择器时，注意兼顾R型指令与I型指令<br><br>## 时钟频率的问题：<br>	**对数据存储器的时钟要求：需要在ALU运算前读出数据<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>RI-CPU</tag>
-        <tag>计算机组成原理</tag>
-        <tag>MIPS指令实现</tag>
       </tags>
   </entry>
   <entry>
@@ -700,25 +700,6 @@
       </categories>
   </entry>
   <entry>
-    <title>R015-17级实习分享会</title>
-    <url>/2020/12/27/R015/</url>
-    <content><![CDATA[<h4 id="17级实习经验分享"><a href="#17级实习经验分享" class="headerlink" title="17级实习经验分享"></a>17级实习经验分享</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 张晨</span><br>	**临场改PPT<br>	**<br>	<br>	**求职过程<br>		<span class="hljs-comment">#领英找内推</span><br>		<span class="hljs-comment">#放链接-最好是个人博客</span><br>		<span class="hljs-comment">#包装自己 -- 合理 -- 简历</span><br>		<span class="hljs-comment">#乐于分享 - 表达方法 - 表达自己</span><br>			**你的能力体现、<br>	**学习过程<br>		<span class="hljs-comment">#剑指Offer</span><br>		<span class="hljs-comment">#Leetcode</span><br>		<span class="hljs-comment">#自学能力</span><br>		<span class="hljs-comment">#Pendo - todolist</span><br>		<br>	**求职经验<br>		*项目中承担的角色<br>		*实现<br>		*主要负责<br>		**擅长什么类型<br>		**为什么对这个方向感兴趣？<br>		<br>		*interview.huihut.com<br>		<br>	**看公司的年报，去了解公司<br>	<br>	**逻辑分析- 金字塔模型 - 第一点、第二点、第三点<br>	<br>	**岗位匹配度<br>	<br>	<span class="hljs-comment">#一定要早一点去实习</span><br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 蒋柯</span><br>	**夏令营 - 谷歌、微软、字节、华为、西山居<br>	**海投<br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 易永豪</span><br>	**入职前<br>		该学的课程学好<br>			<span class="hljs-comment">#数据结构</span><br>			<span class="hljs-comment">#基础语言</span><br>			<span class="hljs-comment">#计算机网络</span><br>				TCP - UDP<br>			<span class="hljs-comment">#计算机组成</span><br>				<br>			<span class="hljs-comment">#操作系统</span><br>				单线程 - 多线程<br>		有规划的生活<br>        	**把时间利用最大化<br>        	<span class="hljs-comment">#交际</span><br>        		<br>        	<span class="hljs-comment">#学习 </span><br>        		-跟社会人交流，了解不足<br>        	<span class="hljs-comment">#工作</span><br>        		如何高效的协同工作？<br>        		<br>        		--面试前加好友：大公司的HR<br>        		--<br>        		--<br>	**入职后<br>		<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 江飞翔</span><br>	<span class="hljs-comment">#求职经历</span><br>		**简历<br>			<span class="hljs-comment">#实习经历</span><br>			<span class="hljs-comment">#项目经历</span><br>			<span class="hljs-comment">#荣誉奖项</span><br>			<span class="hljs-comment">#写博客</span><br>		**面试经验<br>			<span class="hljs-comment">#注意时间分配</span><br>			<span class="hljs-comment">#大量投简历</span><br>			<span class="hljs-comment">#春招一定要去试试</span><br>		**算法题<br>		**面试<br>	<span class="hljs-comment">#</span><br>	<br>	<span class="hljs-comment">#</span><br><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
     <title>R014-马原分享笔记</title>
     <url>/2020/12/26/R014/</url>
     <content><![CDATA[<h4 id="提纲"><a href="#提纲" class="headerlink" title="提纲"></a>提纲</h4><p>​        大家早上好，今天我分享的主体是垄断资本主义，根据国际管理，我们的分享会综合理论与实践相结合的方式，贯彻实践是检验真理的唯一标准重要思想，来分析垄断与垄断企业案例。</p>
@@ -753,6 +734,92 @@
       </categories>
       <tags>
         <tag>马克思主义基本原理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R015-17级实习分享会</title>
+    <url>/2020/12/27/R015/</url>
+    <content><![CDATA[<h4 id="17级实习经验分享"><a href="#17级实习经验分享" class="headerlink" title="17级实习经验分享"></a>17级实习经验分享</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 张晨</span><br>	**临场改PPT<br>	**<br>	<br>	**求职过程<br>		<span class="hljs-comment">#领英找内推</span><br>		<span class="hljs-comment">#放链接-最好是个人博客</span><br>		<span class="hljs-comment">#包装自己 -- 合理 -- 简历</span><br>		<span class="hljs-comment">#乐于分享 - 表达方法 - 表达自己</span><br>			**你的能力体现、<br>	**学习过程<br>		<span class="hljs-comment">#剑指Offer</span><br>		<span class="hljs-comment">#Leetcode</span><br>		<span class="hljs-comment">#自学能力</span><br>		<span class="hljs-comment">#Pendo - todolist</span><br>		<br>	**求职经验<br>		*项目中承担的角色<br>		*实现<br>		*主要负责<br>		**擅长什么类型<br>		**为什么对这个方向感兴趣？<br>		<br>		*interview.huihut.com<br>		<br>	**看公司的年报，去了解公司<br>	<br>	**逻辑分析- 金字塔模型 - 第一点、第二点、第三点<br>	<br>	**岗位匹配度<br>	<br>	<span class="hljs-comment">#一定要早一点去实习</span><br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 蒋柯</span><br>	**夏令营 - 谷歌、微软、字节、华为、西山居<br>	**海投<br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 易永豪</span><br>	**入职前<br>		该学的课程学好<br>			<span class="hljs-comment">#数据结构</span><br>			<span class="hljs-comment">#基础语言</span><br>			<span class="hljs-comment">#计算机网络</span><br>				TCP - UDP<br>			<span class="hljs-comment">#计算机组成</span><br>				<br>			<span class="hljs-comment">#操作系统</span><br>				单线程 - 多线程<br>		有规划的生活<br>        	**把时间利用最大化<br>        	<span class="hljs-comment">#交际</span><br>        		<br>        	<span class="hljs-comment">#学习 </span><br>        		-跟社会人交流，了解不足<br>        	<span class="hljs-comment">#工作</span><br>        		如何高效的协同工作？<br>        		<br>        		--面试前加好友：大公司的HR<br>        		--<br>        		--<br>	**入职后<br>		<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 江飞翔</span><br>	<span class="hljs-comment">#求职经历</span><br>		**简历<br>			<span class="hljs-comment">#实习经历</span><br>			<span class="hljs-comment">#项目经历</span><br>			<span class="hljs-comment">#荣誉奖项</span><br>			<span class="hljs-comment">#写博客</span><br>		**面试经验<br>			<span class="hljs-comment">#注意时间分配</span><br>			<span class="hljs-comment">#大量投简历</span><br>			<span class="hljs-comment">#春招一定要去试试</span><br>		**算法题<br>		**面试<br>	<span class="hljs-comment">#</span><br>	<br>	<span class="hljs-comment">#</span><br><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>R017-NULL</title>
+    <url>/2020/12/27/R017/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>R020-linux kernel</title>
+    <url>/2020/12/28/R020/</url>
+    <content><![CDATA[<h4 id="实验简介"><a href="#实验简介" class="headerlink" title="实验简介"></a>实验简介</h4><p>通过系统调用、进程调度、完成变量等方式实现多对多通信的模拟</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><br></code></pre></td></tr></table></figure>
+
+<h4 id="Cmder"><a href="#Cmder" class="headerlink" title="Cmder"></a>Cmder</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#不错的终端工具</span><br></code></pre></td></tr></table></figure>
+
+<h4 id="linux内核源码下载"><a href="#linux内核源码下载" class="headerlink" title="linux内核源码下载"></a>linux内核源码下载</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#附上度盘链接</span><br>https://pan.baidu.com/s/1b4D28fCVRsE5m6QEzvROfQ<br>密码：2333<br></code></pre></td></tr></table></figure>
+
+<h4 id="编译准备"><a href="#编译准备" class="headerlink" title="编译准备"></a>编译准备</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 安装必要的环境</span><br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install flex<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install bison<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libncurses-dev<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install pkg-config<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libglade2-dev<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libssl-dev<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libelf-dev<br></code></pre></td></tr></table></figure>
+
+<h4 id="编译配置"><a href="#编译配置" class="headerlink" title="编译配置"></a>编译配置</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**</span><br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+<hr>
+<h4 id="切入重点："><a href="#切入重点：" class="headerlink" title="切入重点："></a>切入重点：</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**多对多进程间通信的实现</span><br><br><span class="hljs-comment">#**拓扑结构</span><br><br><span class="hljs-comment">#**参考资料</span><br><br><span class="hljs-comment">#**实现问题记录</span><br><br><span class="hljs-comment">#**问题解决策略</span><br><br>[LINK]-http://www.pudn.com/Download/item/id/3134446.html<br><br><span class="hljs-comment">#**子系统开启ssh</span><br>https://blog.csdn.net/zhouzme/article/details/81087837<br><span class="hljs-comment">#**教学课件</span><br>http://i.mooc.chaoxing.com/space/index?t=1609151033652<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>linux kernel</tag>
       </tags>
   </entry>
   <entry>
@@ -873,73 +940,6 @@
       <categories>
         <category>日常记录</category>
       </categories>
-  </entry>
-  <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R017-NULL</title>
-    <url>/2020/12/27/R017/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R020-linux kernel</title>
-    <url>/2020/12/28/R020/</url>
-    <content><![CDATA[<h4 id="实验简介"><a href="#实验简介" class="headerlink" title="实验简介"></a>实验简介</h4><p>通过系统调用、进程调度、完成变量等方式实现多对多通信的模拟</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><br></code></pre></td></tr></table></figure>
-
-<h4 id="Cmder"><a href="#Cmder" class="headerlink" title="Cmder"></a>Cmder</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#不错的终端工具</span><br></code></pre></td></tr></table></figure>
-
-<h4 id="linux内核源码下载"><a href="#linux内核源码下载" class="headerlink" title="linux内核源码下载"></a>linux内核源码下载</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#附上度盘链接</span><br>https://pan.baidu.com/s/1b4D28fCVRsE5m6QEzvROfQ<br>密码：2333<br></code></pre></td></tr></table></figure>
-
-<h4 id="编译准备"><a href="#编译准备" class="headerlink" title="编译准备"></a>编译准备</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 安装必要的环境</span><br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install flex<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install bison<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libncurses-dev<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install pkg-config<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libglade2-dev<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libssl-dev<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libelf-dev<br></code></pre></td></tr></table></figure>
-
-<h4 id="编译配置"><a href="#编译配置" class="headerlink" title="编译配置"></a>编译配置</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**</span><br></code></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-<hr>
-<h4 id="切入重点："><a href="#切入重点：" class="headerlink" title="切入重点："></a>切入重点：</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**多对多进程间通信的实现</span><br><br><span class="hljs-comment">#**拓扑结构</span><br><br><span class="hljs-comment">#**参考资料</span><br><br><span class="hljs-comment">#**实现问题记录</span><br><br><span class="hljs-comment">#**问题解决策略</span><br><br>[LINK]-http://www.pudn.com/Download/item/id/3134446.html<br><br><span class="hljs-comment">#**子系统开启ssh</span><br>https://blog.csdn.net/zhouzme/article/details/81087837<br><span class="hljs-comment">#**教学课件</span><br>http://i.mooc.chaoxing.com/space/index?t=1609151033652<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>linux kernel</tag>
-      </tags>
   </entry>
   <entry>
     <title>R023-圣经阅读记录</title>
@@ -1181,6 +1181,76 @@
         <tag>912考研笔记</tag>
         <tag>考研规划</tag>
         <tag>考研资料</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R029-个人项目经验规划</title>
+    <url>/2021/01/01/R029/</url>
+    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cser如何面对复试</td>
+<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
+</tr>
+<tr>
+<td>大数据工程师该会什么</td>
+<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
+</tr>
+<tr>
+<td>清华大学计科培养方案</td>
+<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
+</tr>
+<tr>
+<td>20计算机经验帖</td>
+<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
+</tr>
+<tr>
+<td>一位学姐的912分享</td>
+<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>数据结构邓俊辉</td>
+<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
+<table>
+<thead>
+<tr>
+<th>数据机构[学堂在线]</th>
+<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>考研英语词根词缀</td>
+<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>数学建模</tag>
+        <tag>912考研资料索引专刊</tag>
+        <tag>个人项目规划参考</tag>
+        <tag>大数据工程</tag>
       </tags>
   </entry>
   <entry>
@@ -1458,76 +1528,6 @@
         <tag>英语单词</tag>
         <tag>词根词缀记忆</tag>
         <tag>真题单词提取</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R029-个人项目经验规划</title>
-    <url>/2021/01/01/R029/</url>
-    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
-<table>
-<thead>
-<tr>
-<th>名称</th>
-<th>链接</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Cser如何面对复试</td>
-<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
-</tr>
-<tr>
-<td>大数据工程师该会什么</td>
-<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
-</tr>
-<tr>
-<td>清华大学计科培养方案</td>
-<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
-</tr>
-<tr>
-<td>20计算机经验帖</td>
-<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
-</tr>
-<tr>
-<td>一位学姐的912分享</td>
-<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>数据结构邓俊辉</td>
-<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<hr>
-<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
-<table>
-<thead>
-<tr>
-<th>数据机构[学堂在线]</th>
-<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>考研英语词根词缀</td>
-<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>数学建模</tag>
-        <tag>912考研资料索引专刊</tag>
-        <tag>个人项目规划参考</tag>
-        <tag>大数据工程</tag>
       </tags>
   </entry>
   <entry>
@@ -2133,14 +2133,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R038-NULL</title>
-    <url>/2021/01/05/R038/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
     <title>R037-考研单词L3</title>
     <url>/2021/01/06/R037-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D-L2/</url>
     <content><![CDATA[<h4 id="知行合一"><a href="#知行合一" class="headerlink" title="知行合一"></a>知行合一</h4><hr>
@@ -2410,6 +2402,29 @@
       <tags>
         <tag>英语单词</tag>
         <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R038-NULL</title>
+    <url>/2021/01/05/R038/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>R039-HZIEE-CS-STACK-初期会议</title>
+    <url>/2021/01/06/R039-HZIEE-CS-STACK-%E5%88%9D%E6%9C%9F%E4%BC%9A%E8%AE%AE/</url>
+    <content><![CDATA[<h4 id="会议目的"><a href="#会议目的" class="headerlink" title="会议目的"></a>会议目的</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 团队成员素查</span><br>	** 认为自己没有时间继续做这个项目，可退出<br>	** 认为做这个项目毫无意义，对自己没有帮助，可退出<br>	** 没有任何理由，可推出<br>	<br><span class="hljs-comment">## 回顾之前做了什么</span><br><span class="hljs-comment">## 传达下一步做什么</span><br>	** <br><span class="hljs-comment">## 下一个项目做什么</span><br>	** <br>	** <br>	** 应用到我们当前的项目：CS-STACK，添加金币经验等级管理<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>团队管理</tag>
+        <tag>HZIEE资料共享项目</tag>
       </tags>
   </entry>
   <entry>
@@ -2956,21 +2971,6 @@
       <tags>
         <tag>马克思主义基本原理概论</tag>
         <tag>马原考点梳理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R039-HZIEE-CS-STACK-初期会议</title>
-    <url>/2021/01/06/R039-HZIEE-CS-STACK-%E5%88%9D%E6%9C%9F%E4%BC%9A%E8%AE%AE/</url>
-    <content><![CDATA[<h4 id="会议目的"><a href="#会议目的" class="headerlink" title="会议目的"></a>会议目的</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 团队成员素查</span><br>	** 认为自己没有时间继续做这个项目，可退出<br>	** 认为做这个项目毫无意义，对自己没有帮助，可退出<br>	** 没有任何理由，可推出<br>	<br><span class="hljs-comment">## 回顾之前做了什么</span><br><span class="hljs-comment">## 传达下一步做什么</span><br>	** <br><span class="hljs-comment">## 下一个项目做什么</span><br>	** <br>	** <br>	** 应用到我们当前的项目：CS-STACK，添加金币经验等级管理<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>团队管理</tag>
-        <tag>HZIEE资料共享项目</tag>
       </tags>
   </entry>
   <entry>
@@ -4345,7 +4345,7 @@
     <title>R056-组成原理复习专栏</title>
     <url>/2021/01/11/R056-%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%A4%8D%E4%B9%A0%E4%B8%93%E6%A0%8F/</url>
     <content><![CDATA[<h4 id="简答题："><a href="#简答题：" class="headerlink" title="简答题："></a>简答题：</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 计算机系统的基本组成：</span><br>	计算机系统包括 硬件系统和软件系统，其中，硬件系统包括：运算器、控制器、存储器、输入设备和输出设备五大基本部件。 软件系统分为系统软件和应用软件两大类。 系统软件用包括操作系统、计算机语言处理程序、服务性程序、数据库管理系统和网络软件等。<br>	<br><span class="hljs-comment">## 计算机性能指标：</span><br>	CPI-Cycles Per Instruction<br>	**性能的定义：一般用程序的响应时间或系统的吞吐率表示机器或系统的整体性能。<br>	**CPU的性能测量[用户程序的CPU时间]；一般把程序的响应时间分成CPU时间和等待时间，CPU时间又分成用户CPU时间和系统CPU时间。 -略[详情参考：E:\home\shadow\hziee\2-COCP\docx\9-PT_PPT\第一章 计算机系统概述.ppt&#123;P93&#125;]<br><br><span class="hljs-comment">## 系统的层次结构：[硬件与软件的交界处] 跨越计算机系统-硬件逻辑单元</span><br>	<br><span class="hljs-comment">## 冯-诺伊曼结构的特点：</span><br>	**1. 由运算器、控制器、存储器、输入设备和输出设备五大基本部件组成<br>	**2. 基本部件功能：<br>		*存储器不仅能存放数据，而且也能存放指令，形式上两者没有区别，但计算机应能区分数据还是指令；<br>		*控制器应能自动执行指令；<br>		*运算器应能进行加减乘除四种基本算术运算，并且也能进行一些逻辑运算和附加运算。<br>		*输入设备和输出设备用于操作人员和主机进行通信。<br>	**3. 内部以二进制形式表示指令和数据。每条指令由操作码和地址码两部分组成。操作码指出操作类型，地址码指出操作数的地址。由一串指令组成程序。<br>	**4. 采用“存储程序”工作方式<br>	<br>		<br>	<br><span class="hljs-comment">## 存储器的层次结构：</span><br>	|     存取时间     |        名称           |           典型容量      |<br>			1ns				寄存器							&lt;1KB<br>			2ns				高速缓存						4MB<br>			10ns			主存储器[RAM&amp;ROM]				500MB-4GB<br>			<br>			10ms			辅助存储器[硬盘]			  	40-500G<br>			10s				海量后备存储器[磁带库/光盘等]  	10-100TB<br><br><span class="hljs-comment">## 存储器的组成单元：</span><br>	** 六管静态MOS管存储元件<br>	** 单管动态MOS管存储单元<br><br>	<span class="hljs-comment">#组成：存储器是由存储体、地址寄存器、地址译码驱动电路、读/写控制逻辑、数据寄存器、读写驱动器等六个部分组成</span><br>	**存储体是存储器的核心，是存储单元的集合体<br>	**地址寄存器用于存放CPU访问存储单元的地址，经译码驱动后指向相应的存储单元。<br>	**地址译码器将地址总线输入的地址码转换成与其对应的译码输出线上的高电平或低电平信号，以表示选中了某一单元，并由驱动器提供驱动电流去驱动相应的读/写电路，完成对被选中单元的读/写操作。<br>	**4. 器用以完成对被选中单元中各位的读/写操作，包括读出放大器、写入电路和读/写控制电路。<br>	**5. 用于暂时存放从存储单元读出的数据，或从CPU输出I/O端口输入的要写入存储器的数据。<br>	**6. 逻辑接收来自CPU的启动、片选、读/写及清除命令，经控制电路综合处理后，发出一组时序信号来控制存储器<br><br><br><span class="hljs-comment">## 存储器的性能指标：</span><br>	** 容量<br>	** 价格<br>	** 速度<br> 	<span class="hljs-comment">##主存的性能指标：存储容量、存取时间、存储周期</span><br> 	<br><span class="hljs-comment">## SRAM和DRAM的主要异同点： SRAM 			DRAM</span><br>	** 使用的MOS管  : SRAM使用的MOS管多，DRAM使用的MOS管少<br>	** 功耗与集成度  : 	功耗高，集成度低	功耗低，集成度高<br>	** 是否需要刷新  : 	   否				是<br>	** 读写速度      : 		快				 慢<br>----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 指令包括哪几个部分？各表示什么含义？举例说明</span><br>	** 包括操作码和地址码。操作码是该指令主要完成的操作。地址码是用来寻找执行指令所需要的操作数。如：指令MOV AL,[SI+1000H]<br>	<br><span class="hljs-comment">## 局部性原理：</span><br>	在较短的时间内，程序产生的地址往往集中在一个很小的范围内，这种现象被称为程序访问的局部性：空间局部性、时间局部性<br>	**原因：指令按序存放，地址连续，循环程序段或子程序段重复执行。 - 数据连续存放，数组元素重复，按序访问。<br>	<br>	**为什么引入Cache会加快访存速度？<br>		<span class="hljs-comment">#在CPU和主存之间设置一个快速小容量的存储器，其中总是存放最活跃的程序和数据，由于程序访问局部性的特征，大多数情况下，CPU能直接从整个高速缓存中取得指令和数据，而不必访问主存。</span><br><br><span class="hljs-comment">## Cache的工作原理</span><br>	cache是一种小容量高速缓冲存储器，由快速的SRAM组成，直接制作在CPU芯片内，速度几乎与CPU一样快。在CPU和主存之间设置cache，总是把主存中频饭访问的活跃程序和数据块复制到cache中。由于程序访问的局部性，CPU几乎总能从cache中取得指令和数据，而不必访问主存。<br>	为便于cache和主存间交换信息，cache和主存空间都被划分为相等的区域。主存中的区域称为块（主存块），它是cache和主存之间信息交换的单位；cache中存放的一个主存块的区域称为行或槽。因此，主存块大小等于cache行中数据区小。<br>	[https://zhuanlan.zhihu.com/p/102293437?utm_source=qq]<br><br><br><span class="hljs-comment">## cache的替换算法</span><br>	** 先进先出算法FIFO<br>	** 最近最少用算法LRU<br>	** 最不经常用算法LFU<br>	** 随机替换算法<br>	<br>------------------------------------------------------------------------------<br><span class="hljs-comment">## cache行与主存块之间的映射方式</span><br>	**直接映射<br>		直接映射也叫模映射，其映射关系如下：<br>		cache行号 = 主存块号 mod cache行数<br>		主存地址被划分为三段： | 标记  |  cache行号[也称行索引] | 块内地址 |<br>		<br>		<br>		**计算：<br>			1-把cache容量转为 X行*Y字[或字节]/行<br>			2-主存的每X块和cache的Y行一一对应，所以可以将主存的每个X块看成一个块群[组]，因而可以得到主存的地址空间划分: M 字[或字节] = N 块 * Y 字[或字节]/块 = t * c * b	  M 字[字节] = &#123;T块群 * C块/块群 * B字[字节]/块&#125; TAG COLUMN BLOCKADDR<br>		<br>	**全相联映射<br>		<br>	**组相联映射<br>		<br>		<br>		主存地址被划分为三段： | 标记  |  cache组号[也称组索引] | 块内地址 |<br><br>		<br><br><br><br><br><br><br><br><br><br>------------------------------------------------------------------------------<br><span class="hljs-comment">## 字拓展</span><br><br><span class="hljs-comment">## 位拓展</span><br><br><span class="hljs-comment">## 字位同时拓展</span><br><br><br><br><br>------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 控制器的组成：</span><br>	**控制器主要包含指令译码器，其输入的是指令操作码OP，输出的是控制信号。<br>	**1. 程序计数器<br>	**2. 指令寄存器<br>	**3. 指令译码器<br>	**4. 操作控制信号形成部件<br>	**5. 时序信号产生器<br>	**6. 地址寄存器<br>    **7. 数据寄存器<br>	<br>	<br>	<br><span class="hljs-comment">## 浮点数的格式化表示与范围</span><br>	<br>	<br><br><span class="hljs-comment">## CISC 与 RISC的特点区别</span><br>	**1、指令系统<br>　　 CISC<br>　　 计算机的指令系统比较丰富，有专用指令来完成特定的功能。因此，处理特殊任务效率较高。<br>　　 RISC<br>　　 设计者把主要精力放在那些经常使用的指令上，尽量使它们具有简单高效的特色。对不常用的功能，常通过组合指令来完成。因此，在RISC 机器上实现特殊功能时，效率可能较低。但可以利用流水技术和超标量技术加以改进和弥补。<br><br><br><br><span class="hljs-comment">## 数据的表示</span><br>	**定点数的表示<br>		<span class="hljs-comment">#进位计数制</span><br>		<span class="hljs-comment">#定点数的二进制编码</span><br>			*原码、补码、移码表示<br>		<span class="hljs-comment">#定点整数的表示</span><br>			*无符号整数、带符号整数<br>	**浮点数格式和表示范围<br>	**浮点数的规格化<br>	**IEEE754浮点数标准<br>		<span class="hljs-comment">#单精度浮点数、双精度浮点数</span><br>		<span class="hljs-comment">#特殊数的表示形式</span><br>		<br>------------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 计算机系统的基本组成：</span><br>	计算机系统包括 硬件系统和软件系统，其中，硬件系统包括：运算器、控制器、存储器、输入设备和输出设备五大基本部件。 软件系统分为系统软件和应用软件两大类。 系统软件用包括操作系统、计算机语言处理程序、服务性程序、数据库管理系统和网络软件等。<br>	<br><span class="hljs-comment">## 计算机性能指标：</span><br>	CPI-Cycles Per Instruction<br>	**性能的定义：一般用程序的响应时间或系统的吞吐率表示机器或系统的整体性能。<br>	**CPU的性能测量[用户程序的CPU时间]；一般把程序的响应时间分成CPU时间和等待时间，CPU时间又分成用户CPU时间和系统CPU时间。 -略[详情参考：E:\home\shadow\hziee\2-COCP\docx\9-PT_PPT\第一章 计算机系统概述.ppt&#123;P93&#125;]<br><br><span class="hljs-comment">## 系统的层次结构：[硬件与软件的交界处] 跨越计算机系统-硬件逻辑单元</span><br>	<br><span class="hljs-comment">## 冯-诺伊曼结构的特点：</span><br>	**1. 由运算器、控制器、存储器、输入设备和输出设备五大基本部件组成<br>	**2. 基本部件功能：<br>		*存储器不仅能存放数据，而且也能存放指令，形式上两者没有区别，但计算机应能区分数据还是指令；<br>		*控制器应能自动执行指令；<br>		*运算器应能进行加减乘除四种基本算术运算，并且也能进行一些逻辑运算和附加运算。<br>		*输入设备和输出设备用于操作人员和主机进行通信。<br>	**3. 内部以二进制形式表示指令和数据。每条指令由操作码和地址码两部分组成。操作码指出操作类型，地址码指出操作数的地址。由一串指令组成程序。<br>	**4. 采用“存储程序”工作方式<br>	<br>		<br>	<br><span class="hljs-comment">## 存储器的层次结构：</span><br>	|     存取时间     |        名称           |           典型容量      |<br>			1ns				寄存器							&lt;1KB<br>			2ns				高速缓存						4MB<br>			10ns			主存储器[RAM&amp;ROM]				500MB-4GB<br>			<br>			10ms			辅助存储器[硬盘]			  	40-500G<br>			10s				海量后备存储器[磁带库/光盘等]  	10-100TB<br><br><span class="hljs-comment">## 存储器的组成单元：</span><br>	** 六管静态MOS管存储元件<br>	** 单管动态MOS管存储单元<br><br>	<span class="hljs-comment">#组成：存储器是由存储体、地址寄存器、地址译码驱动电路、读/写控制逻辑、数据寄存器、读写驱动器等六个部分组成</span><br>	**存储体是存储器的核心，是存储单元的集合体<br>	**地址寄存器用于存放CPU访问存储单元的地址，经译码驱动后指向相应的存储单元。<br>	**地址译码器将地址总线输入的地址码转换成与其对应的译码输出线上的高电平或低电平信号，以表示选中了某一单元，并由驱动器提供驱动电流去驱动相应的读/写电路，完成对被选中单元的读/写操作。<br>	**4. 器用以完成对被选中单元中各位的读/写操作，包括读出放大器、写入电路和读/写控制电路。<br>	**5. 用于暂时存放从存储单元读出的数据，或从CPU输出I/O端口输入的要写入存储器的数据。<br>	**6. 逻辑接收来自CPU的启动、片选、读/写及清除命令，经控制电路综合处理后，发出一组时序信号来控制存储器<br><br><br><span class="hljs-comment">## 存储器的性能指标：</span><br>	** 容量<br>	** 价格<br>	** 速度<br> 	<span class="hljs-comment">##主存的性能指标：存储容量、存取时间、存储周期</span><br> 	<br><span class="hljs-comment">## SRAM和DRAM的主要异同点： SRAM 			DRAM</span><br>	** 使用的MOS管  : SRAM使用的MOS管多，DRAM使用的MOS管少<br>	** 功耗与集成度  : 	功耗高，集成度低	功耗低，集成度高<br>	** 是否需要刷新  : 	   否				是<br>	** 读写速度      : 		快				 慢<br>----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 指令包括哪几个部分？各表示什么含义？举例说明</span><br>	** 包括操作码和地址码。操作码是该指令主要完成的操作。地址码是用来寻找执行指令所需要的操作数。如：指令MOV AL,[SI+1000H]<br>	<br><span class="hljs-comment">## 局部性原理：</span><br>	在较短的时间内，程序产生的地址往往集中在一个很小的范围内，这种现象被称为程序访问的局部性：空间局部性、时间局部性<br>	**原因：指令按序存放，地址连续，循环程序段或子程序段重复执行。 - 数据连续存放，数组元素重复，按序访问。<br>	<br>	**为什么引入Cache会加快访存速度？<br>		<span class="hljs-comment">#在CPU和主存之间设置一个快速小容量的存储器，其中总是存放最活跃的程序和数据，由于程序访问局部性的特征，大多数情况下，CPU能直接从整个高速缓存中取得指令和数据，而不必访问主存。</span><br><br><span class="hljs-comment">## Cache的工作原理</span><br>	cache是一种小容量高速缓冲存储器，由快速的SRAM组成，直接制作在CPU芯片内，速度几乎与CPU一样快。在CPU和主存之间设置cache，总是把主存中频饭访问的活跃程序和数据块复制到cache中。由于程序访问的局部性，CPU几乎总能从cache中取得指令和数据，而不必访问主存。<br>	为便于cache和主存间交换信息，cache和主存空间都被划分为相等的区域。主存中的区域称为块（主存块），它是cache和主存之间信息交换的单位；cache中存放的一个主存块的区域称为行或槽。因此，主存块大小等于cache行中数据区小。<br>	[https://zhuanlan.zhihu.com/p/102293437?utm_source=qq]<br><br><br><span class="hljs-comment">## cache的替换算法</span><br>	** 先进先出算法FIFO<br>	** 最近最少用算法LRU<br>	** 最不经常用算法LFU<br>	** 随机替换算法<br>	<br>------------------------------------------------------------------------------<br><span class="hljs-comment">## cache行与主存块之间的映射方式</span><br>	**直接映射<br>		直接映射也叫模映射，其映射关系如下：<br>		cache行号 = 主存块号 mod cache行数<br>		<span class="hljs-comment">## 主存地址被划分为三段： | 标记  |  cache行号[也称行索引] | 块内地址 |</span><br>		<br>		<br>		**计算：<br>			1-把cache容量转为 X行*Y字[或字节]/行<br>			2-主存的每X块和cache的Y行一一对应，所以可以将主存的每个X块看成一个块群[组]，因而可以得到主存的地址空间划分: M 字[或字节] = N 块 * Y 字[或字节]/块 = t * c * b	  M 字[字节] = &#123;T块群 * C块/块群 * B字[字节]/块&#125; TAG COLUMN BLOCKADDR<br>		<br>	**全相联映射<br>		<br>	**组相联映射<br>		<br>		<br>		<span class="hljs-comment">## 主存地址被划分为三段： | 标记  |  cache组号[也称组索引] | 块内地址 |</span><br>		<span class="hljs-comment">## Cache组号=主存块号 mod Cache组数</span><br>		<br><br><br><br><br><br><br><br><br><br>------------------------------------------------------------------------------<br><span class="hljs-comment">## 字拓展</span><br><br><span class="hljs-comment">## 位拓展</span><br><br><span class="hljs-comment">## 字位同时拓展</span><br><br><br><br><br>------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 控制器的组成：</span><br>	**控制器主要包含指令译码器，其输入的是指令操作码OP，输出的是控制信号。<br>	**1. 程序计数器<br>	**2. 指令寄存器<br>	**3. 指令译码器<br>	**4. 操作控制信号形成部件<br>	**5. 时序信号产生器<br>	**6. 地址寄存器<br>    **7. 数据寄存器<br>	<br>	<br>	<br><span class="hljs-comment">## 浮点数的格式化表示与范围</span><br><br>		<br>------------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
 
 <h5 id="CISC与RISC的对比"><a href="#CISC与RISC的对比" class="headerlink" title="CISC与RISC的对比"></a>CISC与RISC的对比</h5><hr>
 <table>
@@ -4499,42 +4499,11 @@
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 补码的表示范围</span><br><br><span class="hljs-comment">## 补码运算的溢出判断</span><br><br><span class="hljs-comment">## 操作数的寻址方式和速度</span><br><br><span class="hljs-comment">## 机器周期的计算</span><br>	**[https://zhuanlan.zhihu.com/p/90829922]<br>	**完成一个基本操作所需要的时间称为机器周期。通常用内存中读取一个指令字的最短时间来规定CPU周期<br>	<br><span class="hljs-comment">## 寻址范围</span><br>	**存储容量的 位 数除以 机器字长，单位是G/M/K [不是GB/MB/KB]<br>	如机器字长为32位，存储容量是4MB，则寻址范围是: 4*1024*1024*8 / 32 = 1M<br><span class="hljs-comment">## 机器字长</span><br>	**机器字长：CPU一次能处理数据的位数，通常与CPU的寄存器位数有关<br><span class="hljs-comment">## Cache</span><br><br><br>-----------------------------------------------------------------------------<br><span class="hljs-comment">## 机器指令与微指令</span><br>一、概念不同<br>1、机器指令：机器指令是CPU能直接识别并执行的指令。<br>2、微指令：是指在机器的一个CPU周期中，一组实现一定操作功能的微命令的组合，描述微操作的语句。<br>二、表现格式不同<br>1、机器指令：表现形式是二进制编码。<br>2、微指令：格式分为水平型微指令和垂直型微指令。<br>三、原理不同<br>1、机器指令：机器指令通常由操作码和操作数两部分组成，操作码指出该指令所要完成的操作，即指令的功能，操作数指出参与运算的对象，以及运算结果所存放的位置等。<br>2、微指令：一条机器指令的功能是若干条微指令组成的序列来实现的，即一条机器指令所完成的操作分成若干条微指令来完成，由微指令进行解释和执行，这个微指令序列通常叫做微程序。微指令的编译方法是决定微指令格式的主要因素。<br>四、联系<br>1、一条机器指令对应一个微程序，这个微程序是由若干条微指令构成的。因此，一条机器指令的功能是若干条微指令组成的序列来实现的。简而言之，一条机器指令所完成的操作划分成若干条微指令来完成，由微指令进行解释和执行。<br>2、从指令与微指令，程序与微程序，地址与微地址的一一对应关系上看，前者与内存储器有关，而后者与控制存储器有关，与此相关也有相对应的硬设备。<br>3、一条机器指令对应4个CPU周期，每个CPU周期就对于一条微指令。<br>[https://blog.csdn.net/deniece1/article/details/101782720]<br>-----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 存储周期</span><br>	存储周期，是指主存储器两次启动操作之间需要的最小时间间隔，也称之为主存储器周期时间<br></code></pre></td></tr></table></figure>
 
 <hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## RISC与CISC的区别</span><br>	**RISC的控制器多采用硬布线方式，以期更快的执行速度，而CISC控制器绝大多数为微程序控制器<br>	**<br>	<br><span class="hljs-comment">## 多体交叉存储器</span><br>	**提高存储器带宽的原因：能进行存储器并行操作<br>	**在不提高存储器效率、不扩展数据通路位数的前提下，通过存储芯片的交叉组织，提高cpu单位时间内访问的数据量，从而缓解快速的cpu与慢速的主存之间的速度差异<br>	<br><span class="hljs-comment">## 汉字库中存放的是汉字的字模</span><br>	<br>	<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## RISC与CISC的区别</span><br>	**RISC的控制器多采用硬布线方式，以期更快的执行速度，而CISC控制器绝大多数为微程序控制器<br>	**<br>	<br><span class="hljs-comment">## 多体交叉存储器</span><br>	**提高存储器带宽的原因：能进行存储器并行操作<br>	**在不提高存储器效率、不扩展数据通路位数的前提下，通过存储芯片的交叉组织，提高cpu单位时间内访问的数据量，从而缓解快速的cpu与慢速的主存之间的速度差异<br>	<br><span class="hljs-comment">## 汉字库中存放的是汉字的字模</span><br>	<br>	<br>	<br>	<br><span class="hljs-comment">## CISC 与 RISC的特点区别</span><br>	**1、指令系统<br>　　 CISC<br>　　 计算机的指令系统比较丰富，有专用指令来完成特定的功能。因此，处理特殊任务效率较高。<br>　　 RISC<br>　　 设计者把主要精力放在那些经常使用的指令上，尽量使它们具有简单高效的特色。对不常用的功能，常通过组合指令来完成。因此，在RISC 机器上实现特殊功能时，效率可能较低。但可以利用流水技术和超标量技术加以改进和弥补。<br><br><br><br><span class="hljs-comment">## 数据的表示</span><br>	**定点数的表示<br>		<span class="hljs-comment">#进位计数制</span><br>		<span class="hljs-comment">#定点数的二进制编码</span><br>			*原码、补码、移码表示<br>		<span class="hljs-comment">#定点整数的表示</span><br>			*无符号整数、带符号整数<br>	**浮点数格式和表示范围<br>	**浮点数的规格化<br>	**IEEE754浮点数标准<br>		<span class="hljs-comment">#单精度浮点数、双精度浮点数</span><br>		<span class="hljs-comment">#特殊数的表示形式</span><br></code></pre></td></tr></table></figure>
 
 ]]></content>
       <tags>
         <tag>组成原理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R057-马克思主义概论复习专栏</title>
-    <url>/2021/01/12/R057-%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E6%A6%82%E8%AE%BA%E5%A4%8D%E4%B9%A0%E4%B8%93%E6%A0%8F/</url>
-    <content><![CDATA[<h4 id="世界的物质性及其发展规律"><a href="#世界的物质性及其发展规律" class="headerlink" title="世界的物质性及其发展规律"></a>世界的物质性及其发展规律</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
-<h4 id="实践与认识及其发展规律"><a href="#实践与认识及其发展规律" class="headerlink" title="实践与认识及其发展规律"></a>实践与认识及其发展规律</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
-
-<h4 id="人类社会及其发展规律"><a href="#人类社会及其发展规律" class="headerlink" title="人类社会及其发展规律"></a>人类社会及其发展规律</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
-
-<h4 id="资本主义的本质及规律"><a href="#资本主义的本质及规律" class="headerlink" title="资本主义的本质及规律"></a>资本主义的本质及规律</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="资本主义的发展及趋势"><a href="#资本主义的发展及趋势" class="headerlink" title="资本主义的发展及趋势"></a>资本主义的发展及趋势</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
-
-<h4 id="社会主义的发展及其规律"><a href="#社会主义的发展及其规律" class="headerlink" title="社会主义的发展及其规律"></a>社会主义的发展及其规律</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="共产主义崇高理想及其最终实现"><a href="#共产主义崇高理想及其最终实现" class="headerlink" title="共产主义崇高理想及其最终实现"></a>共产主义崇高理想及其最终实现</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 资料引用</span><br>- [https://wenku.baidu.com/view/21cb6d39f121dd36a22d8273.html]<br>- [https://wenku.baidu.com/view/51d7051974c66137ee06eff9aef8941ea76e4b6a.html]<br>- []<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>马克思主义基本原理概论</tag>
-        <tag>马原复习专栏</tag>
       </tags>
   </entry>
   <entry>
@@ -4812,6 +4781,37 @@
       </tags>
   </entry>
   <entry>
+    <title>R057-马克思主义概论复习专栏</title>
+    <url>/2021/01/12/R057-%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E6%A6%82%E8%AE%BA%E5%A4%8D%E4%B9%A0%E4%B8%93%E6%A0%8F/</url>
+    <content><![CDATA[<h4 id="世界的物质性及其发展规律"><a href="#世界的物质性及其发展规律" class="headerlink" title="世界的物质性及其发展规律"></a>世界的物质性及其发展规律</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+<h4 id="实践与认识及其发展规律"><a href="#实践与认识及其发展规律" class="headerlink" title="实践与认识及其发展规律"></a>实践与认识及其发展规律</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+
+<h4 id="人类社会及其发展规律"><a href="#人类社会及其发展规律" class="headerlink" title="人类社会及其发展规律"></a>人类社会及其发展规律</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+
+<h4 id="资本主义的本质及规律"><a href="#资本主义的本质及规律" class="headerlink" title="资本主义的本质及规律"></a>资本主义的本质及规律</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="资本主义的发展及趋势"><a href="#资本主义的发展及趋势" class="headerlink" title="资本主义的发展及趋势"></a>资本主义的发展及趋势</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+
+<h4 id="社会主义的发展及其规律"><a href="#社会主义的发展及其规律" class="headerlink" title="社会主义的发展及其规律"></a>社会主义的发展及其规律</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="共产主义崇高理想及其最终实现"><a href="#共产主义崇高理想及其最终实现" class="headerlink" title="共产主义崇高理想及其最终实现"></a>共产主义崇高理想及其最终实现</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 资料引用</span><br>- [https://wenku.baidu.com/view/21cb6d39f121dd36a22d8273.html]<br>- [https://wenku.baidu.com/view/51d7051974c66137ee06eff9aef8941ea76e4b6a.html]<br>- []<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>马克思主义基本原理概论</tag>
+        <tag>马原复习专栏</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>T001-专业书单</title>
     <url>/2021/01/06/T001-%E4%B8%93%E4%B8%9A%E4%B9%A6%E5%8D%95/</url>
     <content><![CDATA[<h4 id="良心出品"><a href="#良心出品" class="headerlink" title="良心出品"></a>良心出品</h4><hr>
@@ -4824,6 +4824,24 @@
       <tags>
         <tag>计科专业书单</tag>
         <tag>书籍下载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>T002-关于大学的学习</title>
+    <url>/2021/01/13/T002-%E5%85%B3%E4%BA%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<h4 id="又一次经历这种糟糕的体验"><a href="#又一次经历这种糟糕的体验" class="headerlink" title="又一次经历这种糟糕的体验"></a>又一次经历这种糟糕的体验</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 现在的处境</span><br>	也就是说，你花了三年的时间，还没有搞明白大学该怎样学习或者说，该怎样独立的学习<br>	这种感觉真的他妈的糟糕透顶<br>	你看着这一本本教材，试图强行理解作者在说什么，但是尝试了很多次之后你就习得性无助<br>	你打开教学视频，听了一遍发现自己好像懂了，然后又回来看教材，再次发现还是不知道作者在表达什么，所以究竟是哪里出了问题？？？？<br>	明天考试，今天晚上20:15分你看着以往的试卷题目陷入了沉思，为什么从开学就注定不可避免地事情会停留到三个月后，也就是考试前一天晚上才发现自己三个月以来所做的事情可能是出了很大的问题？<br>	<br>	同样的，是否要等到研究生入学考试前一天晚上你猜发现，从现在就注定不可避免的事情为什么会停留到考试前一天晚上才醒悟过来，然后后悔，然后重蹈覆辙？？？？？<br>	这是耶和华我神给我的提醒。<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="唯一的选择"><a href="#唯一的选择" class="headerlink" title="唯一的选择"></a>唯一的选择</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 无论在你清醒还是迷糊的时候一刻不停的学习，这是唯一的出路</span><br>	** 高等数学<br>	** 考研英语<br>	** 数据结构<br>	** 算法应用<br>	<br>------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 只有拿出该有的态度，你才能到达你该达到的高度</span><br>	从此刻起，像恶疯的狼，一刻不停，为了下一个等级的入场券而努力。<br>	<br>	<br><span class="hljs-comment">## 人是很抗造的</span><br>	如同叠被子一般，日复一日，终有痕迹。<br>	<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>暴怒情绪</tag>
+        <tag>无能为力</tag>
+        <tag>FUCK THE WORLD</tag>
       </tags>
   </entry>
   <entry>

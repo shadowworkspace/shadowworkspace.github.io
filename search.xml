@@ -197,6 +197,18 @@
       </tags>
   </entry>
   <entry>
+    <title>I006-伟大的艺术家都是疯子</title>
+    <url>/2021/01/13/I006-%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%83%BD%E6%98%AF%E7%96%AF%E5%AD%90/</url>
+    <content><![CDATA[<h4 id="何故退出"><a href="#何故退出" class="headerlink" title="何故退出"></a>何故退出</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将你在这一门课程上的愤怒完整的转化成另一门课的动力</span><br>	伟大的艺术家都是疯子<br>	例如：因为考试的内容习题练习导致我非常的愤怒，所以将愤怒转化成单词背诵的动力。<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>艺术家与疯子</tag>
+        <tag>在绝望中寻找希望</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>I005-高速缓存与调度算法</title>
     <url>/2021/01/11/I005-%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E4%B8%8E%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[<h4 id="高速缓存"><a href="#高速缓存" class="headerlink" title="高速缓存"></a>高速缓存</h4><hr>
@@ -277,6 +289,23 @@
       </tags>
   </entry>
   <entry>
+    <title>P002-高等数学-奇谈</title>
+    <url>/2021/01/04/P002-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E5%A5%87%E8%B0%88/</url>
+    <content><![CDATA[<h4 id="关于积分的思考"><a href="#关于积分的思考" class="headerlink" title="关于积分的思考"></a>关于积分的思考</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 求导</span><br>	** 求导数的过程就是降维打击的过程：<br>		<span class="hljs-comment">#从空间到平面 --&gt; 从平面到直线 --&gt; 从直线到基点 --&gt; 从点到虚无</span><br>		<br>	** 积分的过程就是量变引起质变，并且受到统计支配：<br>		<span class="hljs-comment">#从一个点恢复到一条线，这个过程可能被随机扭曲：直线变成了曲线</span><br>		<span class="hljs-comment">#从一条直线恢复到一个平面，被扭曲，平面变成了曲面</span><br>		<span class="hljs-comment">#从一个平面恢复到一个空间几何体，被扭曲，成为了奇怪的几何体[扭曲的过程是随机的，但是表现出统计学规律]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>专业学习</category>
+        <category>高等数学</category>
+      </categories>
+      <tags>
+        <tag>空间几何</tag>
+        <tag>导数与积分</tag>
+        <tag>奇异思想</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>P003-人工智能-图像检测</title>
     <url>/2021/01/05/P003-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%9B%BE%E5%83%8F%E6%A3%80%E6%B5%8B/</url>
     <content><![CDATA[<h4 id="NULL"><a href="#NULL" class="headerlink" title="NULL"></a>NULL</h4><hr>
@@ -346,23 +375,6 @@
       <tags>
         <tag>文章标签规范</tag>
         <tag>文章命名规范</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>P002-高等数学-奇谈</title>
-    <url>/2021/01/04/P002-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E5%A5%87%E8%B0%88/</url>
-    <content><![CDATA[<h4 id="关于积分的思考"><a href="#关于积分的思考" class="headerlink" title="关于积分的思考"></a>关于积分的思考</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 求导</span><br>	** 求导数的过程就是降维打击的过程：<br>		<span class="hljs-comment">#从空间到平面 --&gt; 从平面到直线 --&gt; 从直线到基点 --&gt; 从点到虚无</span><br>		<br>	** 积分的过程就是量变引起质变，并且受到统计支配：<br>		<span class="hljs-comment">#从一个点恢复到一条线，这个过程可能被随机扭曲：直线变成了曲线</span><br>		<span class="hljs-comment">#从一条直线恢复到一个平面，被扭曲，平面变成了曲面</span><br>		<span class="hljs-comment">#从一个平面恢复到一个空间几何体，被扭曲，成为了奇怪的几何体[扭曲的过程是随机的，但是表现出统计学规律]</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>专业学习</category>
-        <category>高等数学</category>
-      </categories>
-      <tags>
-        <tag>空间几何</tag>
-        <tag>导数与积分</tag>
-        <tag>奇异思想</tag>
       </tags>
   </entry>
   <entry>
@@ -438,6 +450,24 @@
       </tags>
   </entry>
   <entry>
+    <title>R005</title>
+    <url>/2020/12/16/R005/</url>
+    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>考研安排</tag>
+        <tag>思维导图</tag>
+        <tag>考研索引</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R006</title>
     <url>/2020/12/16/R006/</url>
     <content><![CDATA[<h4 id="实验模块"><a href="#实验模块" class="headerlink" title="实验模块"></a>实验模块</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## ROM<br><br>## RAM<br><br>## GPRs<br><br>## ALU<br></code></pre></td></tr></table></figure>
@@ -454,24 +484,6 @@
         <tag>RI-CPU</tag>
         <tag>计算机组成原理</tag>
         <tag>MIPS指令实现</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R005</title>
-    <url>/2020/12/16/R005/</url>
-    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>考研安排</tag>
-        <tag>思维导图</tag>
-        <tag>考研索引</tag>
       </tags>
   </entry>
   <entry>
@@ -617,20 +629,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R011</title>
-    <url>/2020/12/18/R011/</url>
-    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>演讲的艺术</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R012-软工知识点梳理</title>
     <url>/2020/12/23/R012/</url>
     <content><![CDATA[<h4 id="软工知识点梳理"><a href="#软工知识点梳理" class="headerlink" title="软工知识点梳理"></a>软工知识点梳理</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 梳理了考试和学习的重点</span><br>	**<br>	**<br><br><span class="hljs-comment">## 分析著名的缺乏测试项目</span><br>	** 爱国者导弹防御系统<br>	** 温州动车事故[2011]<br>	** <br><br><span class="hljs-comment">## 从敏捷软件开发到项目管理、从软件测试到DevOps</span><br>	**是否安装软件测试工具<br>	**是否开始学习DevOps<br><br><span class="hljs-comment">## 灵感的来源：</span><br>	** 元素周期表<br>	** 全世界、所有大学、所有专业的培养计划<br>	** 对人类社会产生重大深远影响的书籍<br>	<br><span class="hljs-comment">## 软工资料地址</span><br>	**[LINK] - [http://124.160.107.91:10001/SoftEng/SitePages/Home.aspx]<br>	**ID: SEI\189051042<br>	**PW: 189051042@hdu.com<br>	<br><br></code></pre></td></tr></table></figure>
@@ -643,6 +641,20 @@
         <tag>软件工程</tag>
         <tag>Xmind</tag>
         <tag>灵感</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R011</title>
+    <url>/2020/12/18/R011/</url>
+    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>演讲的艺术</tag>
       </tags>
   </entry>
   <entry>
@@ -737,6 +749,14 @@
       </tags>
   </entry>
   <entry>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
     <title>R015-17级实习分享会</title>
     <url>/2020/12/27/R015/</url>
     <content><![CDATA[<h4 id="17级实习经验分享"><a href="#17级实习经验分享" class="headerlink" title="17级实习经验分享"></a>17级实习经验分享</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 张晨</span><br>	**临场改PPT<br>	**<br>	<br>	**求职过程<br>		<span class="hljs-comment">#领英找内推</span><br>		<span class="hljs-comment">#放链接-最好是个人博客</span><br>		<span class="hljs-comment">#包装自己 -- 合理 -- 简历</span><br>		<span class="hljs-comment">#乐于分享 - 表达方法 - 表达自己</span><br>			**你的能力体现、<br>	**学习过程<br>		<span class="hljs-comment">#剑指Offer</span><br>		<span class="hljs-comment">#Leetcode</span><br>		<span class="hljs-comment">#自学能力</span><br>		<span class="hljs-comment">#Pendo - todolist</span><br>		<br>	**求职经验<br>		*项目中承担的角色<br>		*实现<br>		*主要负责<br>		**擅长什么类型<br>		**为什么对这个方向感兴趣？<br>		<br>		*interview.huihut.com<br>		<br>	**看公司的年报，去了解公司<br>	<br>	**逻辑分析- 金字塔模型 - 第一点、第二点、第三点<br>	<br>	**岗位匹配度<br>	<br>	<span class="hljs-comment">#一定要早一点去实习</span><br>	<br></code></pre></td></tr></table></figure>
@@ -751,14 +771,6 @@
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 江飞翔</span><br>	<span class="hljs-comment">#求职经历</span><br>		**简历<br>			<span class="hljs-comment">#实习经历</span><br>			<span class="hljs-comment">#项目经历</span><br>			<span class="hljs-comment">#荣誉奖项</span><br>			<span class="hljs-comment">#写博客</span><br>		**面试经验<br>			<span class="hljs-comment">#注意时间分配</span><br>			<span class="hljs-comment">#大量投简历</span><br>			<span class="hljs-comment">#春招一定要去试试</span><br>		**算法题<br>		**面试<br>	<span class="hljs-comment">#</span><br>	<br>	<span class="hljs-comment">#</span><br><br></code></pre></td></tr></table></figure>
 
 ]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016/</url>
-    <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
@@ -1184,76 +1196,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R029-个人项目经验规划</title>
-    <url>/2021/01/01/R029/</url>
-    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
-<table>
-<thead>
-<tr>
-<th>名称</th>
-<th>链接</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Cser如何面对复试</td>
-<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
-</tr>
-<tr>
-<td>大数据工程师该会什么</td>
-<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
-</tr>
-<tr>
-<td>清华大学计科培养方案</td>
-<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
-</tr>
-<tr>
-<td>20计算机经验帖</td>
-<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
-</tr>
-<tr>
-<td>一位学姐的912分享</td>
-<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>数据结构邓俊辉</td>
-<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<hr>
-<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
-<table>
-<thead>
-<tr>
-<th>数据机构[学堂在线]</th>
-<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>考研英语词根词缀</td>
-<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>数学建模</tag>
-        <tag>912考研资料索引专刊</tag>
-        <tag>个人项目规划参考</tag>
-        <tag>大数据工程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R028-考研单词记录L0</title>
     <url>/2021/01/01/R028/</url>
     <content><![CDATA[<h4 id="开始战斗"><a href="#开始战斗" class="headerlink" title="开始战斗"></a>开始战斗</h4><hr>
@@ -1528,6 +1470,76 @@
         <tag>英语单词</tag>
         <tag>词根词缀记忆</tag>
         <tag>真题单词提取</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R029-个人项目经验规划</title>
+    <url>/2021/01/01/R029/</url>
+    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cser如何面对复试</td>
+<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
+</tr>
+<tr>
+<td>大数据工程师该会什么</td>
+<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
+</tr>
+<tr>
+<td>清华大学计科培养方案</td>
+<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
+</tr>
+<tr>
+<td>20计算机经验帖</td>
+<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
+</tr>
+<tr>
+<td>一位学姐的912分享</td>
+<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>数据结构邓俊辉</td>
+<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
+<table>
+<thead>
+<tr>
+<th>数据机构[学堂在线]</th>
+<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>考研英语词根词缀</td>
+<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>数学建模</tag>
+        <tag>912考研资料索引专刊</tag>
+        <tag>个人项目规划参考</tag>
+        <tag>大数据工程</tag>
       </tags>
   </entry>
   <entry>
@@ -4809,6 +4821,276 @@
       <tags>
         <tag>马克思主义基本原理概论</tag>
         <tag>马原复习专栏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R059-考研单词L10</title>
+    <url>/2021/01/13/R059-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL10/</url>
+    <content><![CDATA[<h4 id="就算是死亡也无法打败我"><a href="#就算是死亡也无法打败我" class="headerlink" title="就算是死亡也无法打败我"></a>就算是死亡也无法打败我</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<table>
+<thead>
+<tr>
+<th>cosmic</th>
+<th></th>
+<th>agent</th>
+<th></th>
+<th>robust</th>
+<th></th>
+<th>wrench</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>motel</td>
+<td></td>
+<td>transfer</td>
+<td></td>
+<td>stake</td>
+<td></td>
+<td>massacre</td>
+<td></td>
+</tr>
+<tr>
+<td>apartment</td>
+<td></td>
+<td>outlook</td>
+<td></td>
+<td>vanish</td>
+<td></td>
+<td>conclude</td>
+<td></td>
+</tr>
+<tr>
+<td>remain</td>
+<td></td>
+<td>deceit</td>
+<td></td>
+<td>centimeter</td>
+<td></td>
+<td>intricate</td>
+<td></td>
+</tr>
+<tr>
+<td>surgery</td>
+<td></td>
+<td>irrigate</td>
+<td></td>
+<td>sudden</td>
+<td></td>
+<td>futile</td>
+<td></td>
+</tr>
+<tr>
+<td>mob</td>
+<td></td>
+<td>grease</td>
+<td></td>
+<td>surrender</td>
+<td></td>
+<td>typical</td>
+<td></td>
+</tr>
+<tr>
+<td>stereotype</td>
+<td></td>
+<td>pistol</td>
+<td></td>
+<td>endurance</td>
+<td></td>
+<td>regulation</td>
+<td></td>
+</tr>
+<tr>
+<td>software</td>
+<td></td>
+<td>ski</td>
+<td></td>
+<td>jolly</td>
+<td></td>
+<td>condense</td>
+<td></td>
+</tr>
+<tr>
+<td>vocation</td>
+<td></td>
+<td>reverse</td>
+<td></td>
+<td>stripe</td>
+<td></td>
+<td>clumsy</td>
+<td></td>
+</tr>
+<tr>
+<td>petition</td>
+<td></td>
+<td>jungle</td>
+<td></td>
+<td>forehead</td>
+<td></td>
+<td>fascinate</td>
+<td></td>
+</tr>
+<tr>
+<td>infect</td>
+<td></td>
+<td>definition</td>
+<td></td>
+<td>accomplish</td>
+<td></td>
+<td>capture</td>
+<td></td>
+</tr>
+<tr>
+<td>slope</td>
+<td></td>
+<td>curiosity</td>
+<td></td>
+<td>bloody</td>
+<td></td>
+<td>focus</td>
+<td></td>
+</tr>
+<tr>
+<td>dye</td>
+<td></td>
+<td>earthquake</td>
+<td></td>
+<td>piston</td>
+<td></td>
+<td>concept</td>
+<td></td>
+</tr>
+<tr>
+<td>skull</td>
+<td></td>
+<td>devil</td>
+<td></td>
+<td>verbal</td>
+<td></td>
+<td>injure</td>
+<td></td>
+</tr>
+<tr>
+<td>accordingly</td>
+<td></td>
+<td>escort</td>
+<td></td>
+<td>submit</td>
+<td></td>
+<td>spray</td>
+<td></td>
+</tr>
+<tr>
+<td>herd</td>
+<td></td>
+<td>vital</td>
+<td></td>
+<td>rally</td>
+<td></td>
+<td>property</td>
+<td></td>
+</tr>
+<tr>
+<td>stride</td>
+<td></td>
+<td>purse</td>
+<td></td>
+<td>thigh</td>
+<td></td>
+<td>lofty</td>
+<td></td>
+</tr>
+<tr>
+<td>impose</td>
+<td></td>
+<td>associate</td>
+<td></td>
+<td>rotary</td>
+<td></td>
+<td>staple</td>
+<td></td>
+</tr>
+<tr>
+<td>discourage</td>
+<td></td>
+<td>inference</td>
+<td></td>
+<td>division</td>
+<td></td>
+<td>domain</td>
+<td></td>
+</tr>
+<tr>
+<td>penalty</td>
+<td></td>
+<td>fragment</td>
+<td></td>
+<td>mobile</td>
+<td></td>
+<td>desolate</td>
+<td></td>
+</tr>
+<tr>
+<td>charity</td>
+<td></td>
+<td>flesh</td>
+<td></td>
+<td>switch</td>
+<td></td>
+<td>coach</td>
+<td></td>
+</tr>
+<tr>
+<td>translation</td>
+<td></td>
+<td>embed</td>
+<td></td>
+<td>mixture</td>
+<td></td>
+<td>console</td>
+<td></td>
+</tr>
+<tr>
+<td>rabbit</td>
+<td></td>
+<td>token</td>
+<td></td>
+<td>passerby</td>
+<td></td>
+<td>ruthless</td>
+<td></td>
+</tr>
+<tr>
+<td>fatigued</td>
+<td></td>
+<td>swamp</td>
+<td></td>
+<td>imperative</td>
+<td></td>
+<td>skip</td>
+<td></td>
+</tr>
+<tr>
+<td>crack</td>
+<td></td>
+<td>feat</td>
+<td></td>
+<td>canteen</td>
+<td></td>
+<td>stability</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
       </tags>
   </entry>
   <entry>

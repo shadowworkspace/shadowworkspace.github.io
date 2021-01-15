@@ -180,6 +180,23 @@
       </tags>
   </entry>
   <entry>
+    <title>I004-全球积木竞赛</title>
+    <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
+    <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="积木竞赛"><a href="#积木竞赛" class="headerlink" title="积木竞赛"></a>积木竞赛</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 因为我从搭建积木的过程中，体会到了耐性的具体体现。同时在某一个步骤中观察也能够筛选识别出这人是怎样的人。</span><br><br><span class="hljs-comment">## 是否已经存在有组织性的大型积木搭建竞赛？[可能要耗时一周？或者一个月？或者一年？]</span><br><br><span class="hljs-comment">## 如果没有，那么我是否可以考虑自己创办一个？或者 利用我所掌握的专业知识，做一个虚拟的、VR版本或者其他版本的---在线积木搭建竞赛？</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>积木竞赛</tag>
+        <tag>耐心与毅力</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>I005-高速缓存与调度算法</title>
     <url>/2021/01/11/I005-%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E4%B8%8E%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[<h4 id="高速缓存"><a href="#高速缓存" class="headerlink" title="高速缓存"></a>高速缓存</h4><hr>
@@ -211,20 +228,67 @@
       </tags>
   </entry>
   <entry>
-    <title>I004-全球积木竞赛</title>
-    <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
-    <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
+    <title>K001-考研经验专栏</title>
+    <url>/2021/01/15/K001-%E8%80%83%E7%A0%94%E7%BB%8F%E9%AA%8C%E4%B8%93%E6%A0%8F/</url>
+    <content><![CDATA[<h4 id="巨人的肩膀"><a href="#巨人的肩膀" class="headerlink" title="巨人的肩膀"></a>巨人的肩膀</h4><hr>
+<blockquote>
+<p>与优秀者同行，才是高效生活的正解</p>
+</blockquote>
+<hr>
+<h4 id="考研时间表-1-15-12-15"><a href="#考研时间表-1-15-12-15" class="headerlink" title="考研时间表[1.15~12.15]"></a>考研时间表[1.15~12.15]</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 三大阶段</span><br>	总结前辈们的经验，大致可以将考研时间划分为三个阶段。**1. 基础准备阶段[1.16~3.15] **2. 核心关键阶段[3.16~9.15] **3. 浴血奋战阶段[9.16~12.15] <br>	其中时间的使用核心问题是 [有效时间]，并且总体遵循2/8定律。 决定性因素是数学[对于数一：高数、概率论、线性代数]，基础因素是英语[只要下功夫就能学好]，进阶因素是专业课，无关因素是政治。<br>	对于数学和专业课，最致命的点是能否形成自己的知识体系。<br></code></pre></td></tr></table></figure>
 
 <hr>
-<h4 id="积木竞赛"><a href="#积木竞赛" class="headerlink" title="积木竞赛"></a>积木竞赛</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 因为我从搭建积木的过程中，体会到了耐性的具体体现。同时在某一个步骤中观察也能够筛选识别出这人是怎样的人。</span><br><br><span class="hljs-comment">## 是否已经存在有组织性的大型积木搭建竞赛？[可能要耗时一周？或者一个月？或者一年？]</span><br><br><span class="hljs-comment">## 如果没有，那么我是否可以考虑自己创办一个？或者 利用我所掌握的专业知识，做一个虚拟的、VR版本或者其他版本的---在线积木搭建竞赛？</span><br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 复试线：</span><br>	**1. 报考学硕<br>	350:学硕面试线<br>	334:专硕面试线<br>	<br>	**2. 报考专硕<br>	310: 复试线<br>	<br>	复试录取比例:200%<br></code></pre></td></tr></table></figure>
 
+<hr>
+<h4 id="环境篇"><a href="#环境篇" class="headerlink" title="环境篇"></a>环境篇</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 安静的学习环境</span><br>	**环境<br>	**尽可能少的后顾之忧<br>	**研友<br>	**同伴的影响<br></code></pre></td></tr></table></figure>
+
+<h4 id="分值分布"><a href="#分值分布" class="headerlink" title="分值分布"></a>分值分布</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 数据结构是大头</span><br>	**数据结构[70]<br>		题型：判断+选择+证明/简答+算法伪代码<br>	**操作系统[30]<br>		题型：判断+选择+填空(ucore实验)+计算题[存储]<br>	**组成原理[30]<br>		题型：判断+选择+填空+计算题[MIPS, PIPELINE]<br>	**计算机网络[20]<br>		题型：选择+计算题(网络层)<br></code></pre></td></tr></table></figure>
+
+<h4 id="关于数学"><a href="#关于数学" class="headerlink" title="关于数学"></a>关于数学</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 多思考为什么，章、节、篇之间的联系</span><br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 单词</span><br><br><span class="hljs-comment">## 长难句</span><br><br><span class="hljs-comment">## 阅读技法</span><br>	**逻辑结构、关键词<br></code></pre></td></tr></table></figure>
+
+
+
+<hr>
+<h4 id="方法论"><a href="#方法论" class="headerlink" title="方法论"></a>方法论</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 有效时间</span><br>	**保证8小时以上的有效时间<br>	**二八定律<br>	**《风雨考研路》<br>	**信心：坚持的、长久的努力<br>	**&gt; 在努力中淬炼人格<br>	  &gt; 在奋斗中享受快乐<br>	  &gt; 在辛劳中塑造尊严<br>	  &gt; 在坚持中超越自我<br>	 <br>	**考研数学-张宇老师<br>	**考研是一个很好玩的事情，自我的提高 -- 一份付出、一份收获<br>	**考研段子<br>	**离线与专注<br>	**数学做题<br>	**英语背诵<br>	<br>	**专业课：从概念开始打好基础，建立自己的知识体系，然后找题去做，再找找前辈的经验<br>	<br>	**考研帮、考研狗之家、风雨考研路。<br>	**正确的方法家家相似，错误的方法各有不同。不要瞎搞，跟能成事的人一起做。把正确的时间花在正确的事情上。<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 反常识的能力</span><br>	**1. 二八定律<br>		**重要的事和紧急的事先做哪个？<br>	**2. 专心致志<br>		**静下心来攻克难题<br>	**3. 考研数学必须动手做题<br>		**无他，唯手熟尔：实实在在的动脑子去想，动手去做。缺一不可，开始会很慢<br>		<br>	**4. 考研英语背单词<br>		**单词重要性是80%<br>		**第一轮可能要一个月背单词，第二轮就只要一两周，第三轮就是几天---最后如鱼得水，出入自然。<br>	**5. 把握政治的选择题<br>		**把书读厚又读薄<br></code></pre></td></tr></table></figure>
+
+<h4 id="考研原则"><a href="#考研原则" class="headerlink" title="考研原则"></a>考研原则</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 提早行动</span><br>	暑假重点是数学和专业课，兼顾英语和政治<br>	时间比：5：3：1：1<br>	正常情况下是每天都不能完成任务，但是只要把重要的事情往前推进了，那就是成功的。<br>	<br><span class="hljs-comment">## 规律作息</span><br>	<br><span class="hljs-comment">## 数学要聚焦重点，快速推进</span><br>	**暑假是攻克数学的黄金时间[70：20：10 - 数学 - 专业课 - 英语]<br>	<br><span class="hljs-comment">## 英语阅读-把握大局</span><br><br><span class="hljs-comment">## 建立政治知识框架</span><br>	<br>	<br>**老和尚与小和尚的故事：<br>	**得道之前做什么？砍柴、挑水、生火<br>	**得道之前后什么？砍柴、挑水、生火<br>		做的一样，想的不同<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<h5 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h5><hr>
+<blockquote>
+<p><a href="https://www.bilibili.com/video/BV1o5411x75V?from=search&amp;seid=12419442934099449589">https://www.bilibili.com/video/BV1o5411x75V?from=search&amp;seid=12419442934099449589</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://www.bilibili.com/video/BV1t441157Wy/?spm_id_from=333.788.recommend_more_video.0">https://www.bilibili.com/video/BV1t441157Wy/?spm_id_from=333.788.recommend_more_video.0</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://www.bilibili.com/video/BV1gT4y1j7ik/?spm_id_from=333.788.recommend_more_video.0">https://www.bilibili.com/video/BV1gT4y1j7ik/?spm_id_from=333.788.recommend_more_video.0</a></p>
+</blockquote>
 ]]></content>
       <categories>
-        <category>突发灵感</category>
+        <category>考研攻略</category>
       </categories>
       <tags>
-        <tag>积木竞赛</tag>
-        <tag>耐心与毅力</tag>
+        <tag>时间安排</tag>
+        <tag>考研经验</tag>
       </tags>
   </entry>
   <entry>
@@ -271,23 +335,6 @@
       </tags>
   </entry>
   <entry>
-    <title>P002-高等数学-奇谈</title>
-    <url>/2021/01/04/P002-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E5%A5%87%E8%B0%88/</url>
-    <content><![CDATA[<h4 id="关于积分的思考"><a href="#关于积分的思考" class="headerlink" title="关于积分的思考"></a>关于积分的思考</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 求导</span><br>	** 求导数的过程就是降维打击的过程：<br>		<span class="hljs-comment">#从空间到平面 --&gt; 从平面到直线 --&gt; 从直线到基点 --&gt; 从点到虚无</span><br>		<br>	** 积分的过程就是量变引起质变，并且受到统计支配：<br>		<span class="hljs-comment">#从一个点恢复到一条线，这个过程可能被随机扭曲：直线变成了曲线</span><br>		<span class="hljs-comment">#从一条直线恢复到一个平面，被扭曲，平面变成了曲面</span><br>		<span class="hljs-comment">#从一个平面恢复到一个空间几何体，被扭曲，成为了奇怪的几何体[扭曲的过程是随机的，但是表现出统计学规律]</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>专业学习</category>
-        <category>高等数学</category>
-      </categories>
-      <tags>
-        <tag>空间几何</tag>
-        <tag>导数与积分</tag>
-        <tag>奇异思想</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>P001-算法的有穷性</title>
     <url>/2021/01/01/P001-%E7%AE%97%E6%B3%95%E7%9A%84%E6%9C%89%E7%A9%B7%E6%80%A7/</url>
     <content><![CDATA[<h4 id="算法的有穷性"><a href="#算法的有穷性" class="headerlink" title="算法的有穷性"></a>算法的有穷性</h4><hr>
@@ -303,6 +350,23 @@
         <tag>DSA</tag>
         <tag>hailstone</tag>
         <tag>algorithm</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>P002-高等数学-奇谈</title>
+    <url>/2021/01/04/P002-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E5%A5%87%E8%B0%88/</url>
+    <content><![CDATA[<h4 id="关于积分的思考"><a href="#关于积分的思考" class="headerlink" title="关于积分的思考"></a>关于积分的思考</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 求导</span><br>	** 求导数的过程就是降维打击的过程：<br>		<span class="hljs-comment">#从空间到平面 --&gt; 从平面到直线 --&gt; 从直线到基点 --&gt; 从点到虚无</span><br>		<br>	** 积分的过程就是量变引起质变，并且受到统计支配：<br>		<span class="hljs-comment">#从一个点恢复到一条线，这个过程可能被随机扭曲：直线变成了曲线</span><br>		<span class="hljs-comment">#从一条直线恢复到一个平面，被扭曲，平面变成了曲面</span><br>		<span class="hljs-comment">#从一个平面恢复到一个空间几何体，被扭曲，成为了奇怪的几何体[扭曲的过程是随机的，但是表现出统计学规律]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>专业学习</category>
+        <category>高等数学</category>
+      </categories>
+      <tags>
+        <tag>空间几何</tag>
+        <tag>导数与积分</tag>
+        <tag>奇异思想</tag>
       </tags>
   </entry>
   <entry>
@@ -331,6 +395,19 @@
         <tag>鱼脸识别</tag>
         <tag>WIN10镜像</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>R001</title>
+    <url>/2020/12/14/R001/</url>
+    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
   </entry>
   <entry>
     <title>R000-文章命名规范</title>
@@ -376,19 +453,6 @@
         <tag>文章标签规范</tag>
         <tag>文章命名规范</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>R001</title>
-    <url>/2020/12/14/R001/</url>
-    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
   </entry>
   <entry>
     <title>R002</title>
@@ -768,16 +832,16 @@
       </categories>
   </entry>
   <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016/</url>
+    <title>R017-NULL</title>
+    <url>/2020/12/27/R017/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
   </entry>
   <entry>
-    <title>R017-NULL</title>
-    <url>/2020/12/27/R017/</url>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
@@ -2967,24 +3031,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R041-软件工程考点梳理</title>
-    <url>/2021/01/06/R041-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
-    <content><![CDATA[<h4 id="核心内容"><a href="#核心内容" class="headerlink" title="核心内容"></a>核心内容</h4><blockquote>
-<p>软件工程的重点内容是SCRUM</p>
-</blockquote>
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 意义不大的参考</span><br>[https://wenku.baidu.com/view/2c6d4a3681eb6294dd88d0d233d4b14e84243e35.html]<br><br><span class="hljs-comment">## SCRUM</span><br>[https://zhuanlan.zhihu.com/p/49048186]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>软件工程考点梳理</tag>
-        <tag>CMMI</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R040-马原考点梳理</title>
     <url>/2021/01/06/R040-%E9%A9%AC%E5%8E%9F%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
     <content><![CDATA[<h4 id="引用资料"><a href="#引用资料" class="headerlink" title="引用资料"></a>引用资料</h4><hr>
@@ -3001,6 +3047,24 @@
       <tags>
         <tag>马克思主义基本原理概论</tag>
         <tag>马原考点梳理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R041-软件工程考点梳理</title>
+    <url>/2021/01/06/R041-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
+    <content><![CDATA[<h4 id="核心内容"><a href="#核心内容" class="headerlink" title="核心内容"></a>核心内容</h4><blockquote>
+<p>软件工程的重点内容是SCRUM</p>
+</blockquote>
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 意义不大的参考</span><br>[https://wenku.baidu.com/view/2c6d4a3681eb6294dd88d0d233d4b14e84243e35.html]<br><br><span class="hljs-comment">## SCRUM</span><br>[https://zhuanlan.zhihu.com/p/49048186]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>软件工程考点梳理</tag>
+        <tag>CMMI</tag>
       </tags>
   </entry>
   <entry>
@@ -5488,6 +5552,26 @@
         <tag>英语单词</tag>
         <tag>考研英语</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>R063-毛中特备考专栏</title>
+    <url>/2021/01/15/R063-%E6%AF%9B%E4%B8%AD%E7%89%B9%E5%A4%87%E8%80%83%E4%B8%93%E6%A0%8F/</url>
+    <content><![CDATA[<h4 id="厚德载物"><a href="#厚德载物" class="headerlink" title="厚德载物"></a>厚德载物</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## HEADLINE</span><br><span class="hljs-comment">## 邓小平的改革开放理论&#123;10点&#125;  -- 重点[第六点][P97]</span><br><span class="hljs-comment">## 改革开放的意义？为什么说改革开放是决定中国命运的关键抉择？[**引用页]</span><br>	**小渔村<br>	**从当时落后的现状到今天的辉煌<br>	[总体布局中的	*四个全面P249]<br><span class="hljs-comment">## 2018年，改革开放40周年，习近平发表讲话： 要用改革开放的眼光看待改革开放 [如何理解？]</span><br>	**要用改革开放的眼光去看待改革开放<br><span class="hljs-comment">## [P182] 习近平新时代 社会主义思想 八个明确</span><br>	**<br><span class="hljs-comment">## 马克思主义中国化的[第三节 P189]</span><br>	**马克思主义中国化的最新成果，为什么说是最新成果？<br>		<span class="hljs-comment">#开辟了…………新境界[课外收集资料补充]</span><br><span class="hljs-comment">## 五位一体的总布局[P207]</span><br>	**经济<br>	**政治<br>	**文化<br>	**社会建设 [重点把握社会建设] - 提高保障和改善民生水平 - 为什么要加快改善民生民主的社会建设？？<br>		<span class="hljs-comment">#第一段-提高保障和改善民生水平[补充课外的内容]</span><br>		<span class="hljs-comment">#如何推进社会建设？ 第一、第二、P233</span><br>	**生态文明建设<br><span class="hljs-comment">## 国际关系：[P287]</span><br>		**全面深化改革[4个全面]<br>		**全面依法治国、全面建成小康社会 ***[重点把握全面深化改革 P249]<br>		**收集资料		<br><span class="hljs-comment">## 中国特色大国外交</span><br>		**坚持和平发展[大发展、大变革]**很重要[P283-287]<br>	<span class="hljs-comment">#推动建立新型国际关系</span><br>		**如何推动建立新型国际关系?[P286]<br>	<span class="hljs-comment">#构建人类命运共同体 思想的内涵[重点]</span><br>		**P289-292<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 马克思主义中国化的新成果[补充]</span><br>	马克思主义中国化最新成果是：<br>中国特色社会主义理论体系，就是包括邓小平理论、“三个代表”重要思想已经科学发展观等重大战略思想在内的科学理论体系。<br>详解：<br>1.高举中国特色社会主义伟大旗帜；2.是新时期我们党庄严的政治宣言；3.是历史的选择、人民的选择；4.必须坚定不移地走中国特色社会主义道路；5.必须坚定不移地坚持和发展中国特色社会主义理论体系；6.坚持立党为公、执政为民；7.坚持以人为本；8.树立和落实科学发展观；9.坚持用科学发展观统领经济社会发展全局；10.建设社会主义新农村；11.建设创新型国家；12.推动建设和谐世界13.切实加强党的执政能力建设；14.牢固树立社会主义荣辱观；15.全面加强干部作风建设；16.始终保持党的先进性。<br>马克思主义中国化就是将马克思主义基本原理同中国具体实际相结合，不断形成具有中国特色的马克思主义理论成果的过程。<br>具体地说，就是把马克思主义基本原理同中国革命、建设和改革的实践结合起来，同中国的优秀历史传统和优秀文化结合起来，既坚持马克思主义，又发展马克思主义。<br>一是马克思主义在指导中国革命、建设和改革的实践中实现具体化。二是把中国革命、建设和改革的实践经验和历史经验上升为马克思理论。三是把马克思主义植根于中国的优秀文化之中。<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 邓小平的改革开放理论</span><br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 改革开放的意义是什么？</span><br>	1、改革开放标志着我们党重新确立了马克思主义的思想路线、政治路线、组织路线，标志着中国共产党人在新的时代条件下的伟大觉醒，显示了我们党顺应时代潮流和人民愿望、勇敢开辟建设社会主义新路的坚强决心。<br>	2、改革开放是决定当代中国命运的关键抉择，是发展中国特色社会主义、实现中华民族伟大复兴的必由之路；只有社会主义才能救中国，只有改革开放才能发展中国、发展社会主义、发展马克思主义；改革开放符合党心民心、顺应时代潮流，<br>	3、改革开放开辟了中国特色社会主义道路，形成了中国特色社会主义理论体系。 30年来，我们党的全部理论和全部实践，归结起来就是创造性地探索和回答了什么是马克思主义、怎样对待马克思主义，什么是社会主义、怎样建设社会主义，建设什么样的党、怎样建设党，实现什么样的发展、怎样发展等重大理论和实际问题。30年的历史经验归结到一点，就是把马克思主义基本原理同中国具体实际相结合，走自己的路，建设中国特色社会主义。<br>	4、经过改革开放30年的不懈奋斗，胜利实现了现代化建设“三步走”战略的前两步战略目标，正在向第三步战略目标阔步前进。30年的伟大成就，为我们党、我们国家、我们人民继续前进奠定了坚实基础。<br><br><span class="hljs-comment">## 为什么说改革开放是决定中国命运的关键抉择？</span><br>	邓小平同志曾经指出：“改革的性质同过去的革命一样，也是为了扫除发展社会生产力的障碍，使中国摆脱贫穷落后的状态。从这个意义上说，改革也可以叫革命性的变革。”改革是全面改革，是在坚持社会主义基本制度前提下，自觉调整生产关系和上层建筑的各个方面和环节，以适应初级阶段生产力发展水平和实现现代化的历史要求。在社会主义初级阶段国情下发展中国特色社会主义，是前无古人的伟大创举，必须围绕发展社会生产力这个根本任务，把改革开放作为发展中国特色社会主义的强大动力。新时期29年来，我国综合国力大幅度跃升、人民生活总体上达到小康水平、社会长期保持安定团结、国际地位和影响力显著增强的事实雄辩地证明，改革开放是决定当代中国命运的关键抉择，是发展中国特色社会主义、实现中华民族伟大复兴的必由之路。<br>	改革是社会主义制度的自我完善，是社会主义社会发展的必然要求，是中华民族实现复兴的强大而持久的动力源。当然，改革并不是改变社会主义制度，而是在坚持基本制度下对某些具体体制如经济体制的改变。我国的经济体制最初是模仿苏联模式建立的，这种体制在历史上虽然发挥过重要作用，但随着实践的发展，已到了非改革不可的地步。29年的改革开放，就是对原有的旧经济体制的不断改革，目的在于不断解放和发展生产力。<br>没有改革开放，就没有今天发展的大好局面。党的十一届三中全会以来我们党提出的理论、路线和制定的一系列方针政策，最鲜明的特征就是改革开放。改革开放极大地解放和发展了社会生产力，冲破了束缚生产力发展的体制障碍，推动了社会主义市场经济体制的初步建立，形成了对外开放的全新格局。在社会主义条件下发展市场经济，是前无古人的伟大创举，是中国共产党人在创造性地发展马克思主义理论的进程中作出的历史性贡献。<br>要在新的实践中坚持和发展中国特色社会主义，就必须坚持改革开放；只有坚持改革开放，才能不断开创中国特色社会主义事业新局面。全面贯彻落实科学发展观，在新的历史起点上继续推进社会主义现代化建设，说到底要靠深化改革、扩大开放。要毫不动摇地坚持改革方向，坚定改革的决心和信心，提高改革决策的科学性，增强改革措施的协调性，不断完善社会主义市场经济体制，为贯彻落实科学发展观提供体制和机制保障，为经济社会发展提供强大动力。<br>	改革开放是我们党在新的时代条件下带领人民进行的新的伟大革命。站在新的历史起点上回顾走过的历程，我们深切地感受到，新时期最鲜明的特点是改革开放，新时期最显著的成就是快速发展，新时期最突出的标志是与时俱进。29年来，无论遇到什么复杂局面，无论遇到什么风险考验，我们党都始终引领改革开放的航船沿着正确方向破浪前进，一个面向现代化、面向世界、面向未来的社会主义中国巍然屹立在世界东方。<br>改革开放是中国走向繁荣富强的必由之路，是中国特色社会主义发展前进的成功之路。社会主义要保持强大的生命力，就必须通过改革不断完善自己。在社会主义现代化建设中，不断推进和深化改革，用改革的办法解决阻碍经济社会发展的体制性、机制性问题，努力形成与社会主义初级阶段基本国情相适应的比较成熟、比较定型的制度，是社会主义充满生机和活力的重要保证。不推进改革开放，不仅不能取得新的成就，而且已经取得的成就也难以保持，更谈不上继续推进我们的事业。我们必须按照党的基本理论、基本路线、基本纲领、基本经验，牢固树立社会主义改革和发展的基本观点，不断增强支持改革开放、深化改革开放的自觉性和坚定性。<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何理解 “要用改革开放的眼光看待改革开放”？</span><br>	如何看待改革开放，怎样推进改革开放？这是新时代改革开放再出发必须回答的一个基本问题。<br>　　“要掌握辩证唯物主义和历史唯物主义的方法论，以改革开放的眼光看待改革开放，充分认识新形势下改革开放的时代性、体系性、全局性问题，在更高起点、更高层次、更高目标上推进改革开放。”习近平总书记在广东考察时明确提出的这一新论断新要求，对于我们更充分、更深刻地认识和把握改革开放，更加坚定、更加自觉地推进改革开放，具有十分重要的意义。<br>　　唯物辩证法是认识世界和改造世界的根本方法。40年众志成城，40年砥砺奋进，40年春风化雨。改革开放之所以极大解放和发展了中国社会生产力，一个重要原因就在于，我们始终坚持辩证唯物主义和历史唯物主义的方法论，以此正确把握我们的最大国情、最大实际，深刻认识世情国情党情，坚定不移把改革开放推向前进，让中国特色社会主义展现出强大生命力。40年来，我们既“摸着石头过河”又加强顶层设计，不断研究新情况、解决新问题、总结新经验；我们坚持解放思想、实事求是，实现解放思想和改革开放相互激荡、观念创新和实践探索相互促进；我们勇于自我革命、自我革新，不断革除阻碍发展的体制机制弊端。特别是党的十八大以来，从认识论、方法论到价值论，从总目标、大方向到动力源，正是以改革认识论和方法论的不断创新为支撑，一系列重大改革开放举措陆续出台，解决了许多长期想解决而没有解决的难题，办成了许多过去想办而没有办成的大事，推动中国特色社会主义进入新时代。<br>　　以改革开放的眼光看待改革开放，就要充分认识新形势下改革开放的时代性、体系性、全局性问题。40年改革开放给人们提供了许多弥足珍贵的启示，其中重要的一条就是，一个国家、一个民族要振兴，就必须在历史前进的逻辑中前进、在时代发展的潮流中发展。习近平总书记明确指出，“进入新时代，国际国内形势发生广泛而深刻的变化，改革发展面临着新形势新任务新挑战”。从改革看，我们推进改革的复杂程度、敏感程度、艰巨程度不亚于40年前；从开放看，单边主义、保护主义愈演愈烈，开放还是封闭，前进还是后退，人类面临着新的重大抉择。唯有准确把握我国不同发展阶段的新变化新特点，积极应对世界大发展大变革大调整带来的新挑战新问题，勇于变革、勇于创新，永不僵化、永不停滞，才能以新作为开创新局面，让改革开放始终成为推动中国发展进步、为人类作出新贡献的动力源泉。<br>　　以改革开放的眼光看待改革开放，就要在更高起点、更高层次、更高目标上推进改革开放。改革往往都是从易到难。进入攻坚期、深水区，最重要的是迎难而上、攻坚克难。党的十八大以来，以习近平同志为核心的党中央坚定不移全面深化改革，敢于向顽瘴痼疾开刀，勇于突破利益固化藩篱，落实新发展理念，建设现代化经济体系，推动形成了更高层次改革开放新格局。在这次考察中，从强调“深化改革开放、推动经济高质量发展”，到要求“把创新发展主动权牢牢掌握在自己手中”，再到提出“认真总结改革开放40年成功经验，提升改革开放质量和水平”，习近平总书记的一系列重要论断，充分展现了我们党在新的历史起点上把改革开放不断推向深入的坚定意志。<br>　　改革开放只有进行时没有完成时。40年来，从农村到城市，从经济体制改革到全面深化改革，中国人民用双手书写了国家和民族发展的壮丽史诗。在40年的时间节点上瞻望未来，以改革开放的眼光看待改革开放，我们一定能让改革开放始终契合历史逻辑、顺应时代潮流，为中国的发展注入不竭动力。<br></code></pre></td></tr></table></figure>
+
+]]></content>
   </entry>
   <entry>
     <title>T001-专业书单</title>

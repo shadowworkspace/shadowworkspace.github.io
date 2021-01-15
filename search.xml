@@ -180,23 +180,6 @@
       </tags>
   </entry>
   <entry>
-    <title>I004-全球积木竞赛</title>
-    <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
-    <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="积木竞赛"><a href="#积木竞赛" class="headerlink" title="积木竞赛"></a>积木竞赛</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 因为我从搭建积木的过程中，体会到了耐性的具体体现。同时在某一个步骤中观察也能够筛选识别出这人是怎样的人。</span><br><br><span class="hljs-comment">## 是否已经存在有组织性的大型积木搭建竞赛？[可能要耗时一周？或者一个月？或者一年？]</span><br><br><span class="hljs-comment">## 如果没有，那么我是否可以考虑自己创办一个？或者 利用我所掌握的专业知识，做一个虚拟的、VR版本或者其他版本的---在线积木搭建竞赛？</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>积木竞赛</tag>
-        <tag>耐心与毅力</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>I005-高速缓存与调度算法</title>
     <url>/2021/01/11/I005-%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E4%B8%8E%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[<h4 id="高速缓存"><a href="#高速缓存" class="headerlink" title="高速缓存"></a>高速缓存</h4><hr>
@@ -225,6 +208,23 @@
       <tags>
         <tag>艺术家与疯子</tag>
         <tag>在绝望中寻找希望</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>I004-全球积木竞赛</title>
+    <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
+    <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="积木竞赛"><a href="#积木竞赛" class="headerlink" title="积木竞赛"></a>积木竞赛</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 因为我从搭建积木的过程中，体会到了耐性的具体体现。同时在某一个步骤中观察也能够筛选识别出这人是怎样的人。</span><br><br><span class="hljs-comment">## 是否已经存在有组织性的大型积木搭建竞赛？[可能要耗时一周？或者一个月？或者一年？]</span><br><br><span class="hljs-comment">## 如果没有，那么我是否可以考虑自己创办一个？或者 利用我所掌握的专业知识，做一个虚拟的、VR版本或者其他版本的---在线积木搭建竞赛？</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>积木竞赛</tag>
+        <tag>耐心与毅力</tag>
       </tags>
   </entry>
   <entry>
@@ -271,6 +271,23 @@
       </tags>
   </entry>
   <entry>
+    <title>P002-高等数学-奇谈</title>
+    <url>/2021/01/04/P002-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E5%A5%87%E8%B0%88/</url>
+    <content><![CDATA[<h4 id="关于积分的思考"><a href="#关于积分的思考" class="headerlink" title="关于积分的思考"></a>关于积分的思考</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 求导</span><br>	** 求导数的过程就是降维打击的过程：<br>		<span class="hljs-comment">#从空间到平面 --&gt; 从平面到直线 --&gt; 从直线到基点 --&gt; 从点到虚无</span><br>		<br>	** 积分的过程就是量变引起质变，并且受到统计支配：<br>		<span class="hljs-comment">#从一个点恢复到一条线，这个过程可能被随机扭曲：直线变成了曲线</span><br>		<span class="hljs-comment">#从一条直线恢复到一个平面，被扭曲，平面变成了曲面</span><br>		<span class="hljs-comment">#从一个平面恢复到一个空间几何体，被扭曲，成为了奇怪的几何体[扭曲的过程是随机的，但是表现出统计学规律]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>专业学习</category>
+        <category>高等数学</category>
+      </categories>
+      <tags>
+        <tag>空间几何</tag>
+        <tag>导数与积分</tag>
+        <tag>奇异思想</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>P001-算法的有穷性</title>
     <url>/2021/01/01/P001-%E7%AE%97%E6%B3%95%E7%9A%84%E6%9C%89%E7%A9%B7%E6%80%A7/</url>
     <content><![CDATA[<h4 id="算法的有穷性"><a href="#算法的有穷性" class="headerlink" title="算法的有穷性"></a>算法的有穷性</h4><hr>
@@ -286,23 +303,6 @@
         <tag>DSA</tag>
         <tag>hailstone</tag>
         <tag>algorithm</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>P002-高等数学-奇谈</title>
-    <url>/2021/01/04/P002-%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E5%A5%87%E8%B0%88/</url>
-    <content><![CDATA[<h4 id="关于积分的思考"><a href="#关于积分的思考" class="headerlink" title="关于积分的思考"></a>关于积分的思考</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 求导</span><br>	** 求导数的过程就是降维打击的过程：<br>		<span class="hljs-comment">#从空间到平面 --&gt; 从平面到直线 --&gt; 从直线到基点 --&gt; 从点到虚无</span><br>		<br>	** 积分的过程就是量变引起质变，并且受到统计支配：<br>		<span class="hljs-comment">#从一个点恢复到一条线，这个过程可能被随机扭曲：直线变成了曲线</span><br>		<span class="hljs-comment">#从一条直线恢复到一个平面，被扭曲，平面变成了曲面</span><br>		<span class="hljs-comment">#从一个平面恢复到一个空间几何体，被扭曲，成为了奇怪的几何体[扭曲的过程是随机的，但是表现出统计学规律]</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>专业学习</category>
-        <category>高等数学</category>
-      </categories>
-      <tags>
-        <tag>空间几何</tag>
-        <tag>导数与积分</tag>
-        <tag>奇异思想</tag>
       </tags>
   </entry>
   <entry>
@@ -468,21 +468,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R007</title>
-    <url>/2020/12/16/R007/</url>
-    <content><![CDATA[<h4 id=""><a href="#" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>www.mi.com<span class="hljs-regexp">/miwifimini 		/</span><span class="hljs-regexp">/ MI</span><br></code></pre></td></tr></table></figure>
-
-<h4 id="-1"><a href="#-1" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">VLC									<span class="hljs-regexp">//</span> QT视频处理方案<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>MI</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R006</title>
     <url>/2020/12/16/R006/</url>
     <content><![CDATA[<h4 id="实验模块"><a href="#实验模块" class="headerlink" title="实验模块"></a>实验模块</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## ROM<br><br>## RAM<br><br>## GPRs<br><br>## ALU<br></code></pre></td></tr></table></figure>
@@ -499,6 +484,21 @@
         <tag>RI-CPU</tag>
         <tag>计算机组成原理</tag>
         <tag>MIPS指令实现</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R007</title>
+    <url>/2020/12/16/R007/</url>
+    <content><![CDATA[<h4 id=""><a href="#" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>www.mi.com<span class="hljs-regexp">/miwifimini 		/</span><span class="hljs-regexp">/ MI</span><br></code></pre></td></tr></table></figure>
+
+<h4 id="-1"><a href="#-1" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">VLC									<span class="hljs-regexp">//</span> QT视频处理方案<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>MI</tag>
       </tags>
   </entry>
   <entry>
@@ -1129,6 +1129,73 @@
       </tags>
   </entry>
   <entry>
+    <title>R026-门徒训练第三课</title>
+    <url>/2020/12/30/R026/</url>
+    <content><![CDATA[<h4 id="为什么要建立稳定的灵修生活"><a href="#为什么要建立稳定的灵修生活" class="headerlink" title="为什么要建立稳定的灵修生活"></a>为什么要建立稳定的灵修生活</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 四件事情：</span><br>	A-为何建立稳定的灵修生活如此重要<br>		**是神儿女们绝不可忽视的拳脚功夫<br>			若不深耕，如何结实？--神一生都在建造我们<br>			当地震、海啸来临之时，一眼就看出哪些树、哪些房屋的根基是深厚的<br>		**生命软弱、跟神关系疏远的原因：<br>			-当今门徒训练-普遍的现象：肤浅、不够深。很多人的生命并没有被改变<br>			很关键的原因就是没有每一天过一个稳定的灵修生活<br>			目的：生命被改变、跟神的关系被改变、与主更亲近、生活更得胜<br>		**是当今时代众教会普遍的危机<br>			好像神家得不到供应，缺少生命-根基问题：没有稳定的灵修生活<br>			<br>		**圣经中的榜样-尤其是主耶稣自己，经常退到野地、海边、或山上去祷告<br>			约瑟在大饥荒之前，就是一直在积蓄粮食：我们的灵修、生活的一切都是在积蓄粮食，<br>			当你里面真正有生命的时候，神会把有需要的人带来。<br>			路德，拾穗。在波阿斯的田里，每一天拾穗就够我们所用<br>			与神亲密且持续的关系<br>			<br>	<span class="hljs-comment">## 我们务要认识耶和华，竭力追求认识祂。祂出现确如晨光；祂必临到我们想甘露，像滋润田地的春雨。 何 6:3</span><br>	<br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="竭力追求认识祂"><a href="#竭力追求认识祂" class="headerlink" title="竭力追求认识祂"></a>竭力追求认识祂</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 光和雨都是生命成长所必须要的，[在竭力上不够，所以光和雨缺乏导致生长的不好]</span><br>	我们务必要认识耶和华，竭力追求认识他。祂出现确如晨光；祂必临到我们像甘雨，像滋润田地的春雨。<br></code></pre></td></tr></table></figure>
+
+<h4 id="培养好习惯的重要"><a href="#培养好习惯的重要" class="headerlink" title="培养好习惯的重要"></a>培养好习惯的重要</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第二件重要的事情</span><br>	B-培养好习惯的重要性<br>			什么是习惯：很自然的、重复在做的<br>			习惯带来累积性的影响<br>			坏习惯-害你<br>			好习惯-不断成长的祝福，<br>		**得享累积且不住增长的果效，使人终生受益无穷。<br>			[加拉太书 6:7] 人种的是什么，收的就是什么<br>			培养好习惯，收祝福：懂得感恩，看到别人的好习惯、长处、可取之处、获得祝福<br>			荣耀神、祝福人、又祝福自己<br>			我们今天收到的就是自己种下的<br>			[林后 9:6] 少种的少收，多种的多收，这话是真的。[这句话太重要了，所以强调]<br>			所以我们的灵修，有人交差了事，五分钟觉得我良心平安，我今天晨更了。有的人，只要有机会，就跟主建立更亲近的关系<br>			竭力往前，都要进步[我可以凡事长进]-要越来越长进<br>			[诗篇：我所得的，你为我持守]<br>		**建立稳定的灵修生活，是最值得培养的好习惯之一。<br>			从最基本的拳脚，先把稳定的灵修生活建立起来<br>			[提前 4:8-9] 操练身体，益处还少；唯独敬虔，凡事都有益处，因有今生和来生的应许。这话是可信的，是十分可佩服的。<br></code></pre></td></tr></table></figure>
+
+<h4 id="建立稳定灵修生活的挑战"><a href="#建立稳定灵修生活的挑战" class="headerlink" title="建立稳定灵修生活的挑战"></a>建立稳定灵修生活的挑战</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第三件重要的事情</span><br>	C-建立稳定灵修生活的挑战<br>		---稳行在高处<br>		建立稳定灵修生活-<br>		*但以理的榜样<br>		[但 6:10] 但以理知道这禁令盖了玉玺，就到了自己家里（他楼上的窗户开向耶路撒冷）一日三次，双膝跪在他神面前，祷告感谢，与素常一样<br>		**稳的挑战 - [与素常一样] ---很大的挑战<br>		**行的挑战 - 一日三次 --- 开始、具体、可行、持续<br>		**高的挑战 - 跪在他神面前 --- 最重要、最难<br>        	不能够持续：在灵修里碰不到主、去圣经里、去生活里找亮光，但是光是不需要去寻找的<br>        	最被我们忽略的地方-仇敌使我们被蒙蔽<br>        	在灵修中遇见神、在神的同在中灵修[读经读的很过瘾，但是不见得碰到神]<br>        	灵修不只是一件事、不只是一个习惯、不只是一个lifestyle<br>        	: 常常在灵修中遇见神，在神的同在中灵修<br>        	圣经研读：遇见说话的神<br>        	祷告：人与神在圣灵中的相会与相交<br>        		*一疏忽就会在人的境界里灵修、祷告<br>        		读经之路：[以赛亚书 55:3]<br>                <br>                *三分钟到五分钟[尽心尽力 - 遇见主]<br>                什么时候我们等候祂，祂就必施恩于我们 - 每一次回来，祂都在等候我们<br>                *让我们的生命被改变<br>                <br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="属灵同伴的重要"><a href="#属灵同伴的重要" class="headerlink" title="属灵同伴的重要"></a>属灵同伴的重要</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第四件重要的事情</span><br>	D-属灵同伴的重要<br>		[箴言 27:17] 铁磨铁，磨出刃来，朋友相感也是如此<br>		*打磨成器 - <br>		增加对方的价值、提高对方的功用，脱离粗糙的情景<br>		[提 2:22] 你们要逃避少年人的私欲，同那清心祷告主的人追求公义、信德、仁爱、和平。 <br>		我们的朋友如何，那是非常重要的事情<br>		[传道书 4:9-12] 两个人总比一个人好……<br>		&amp;故事：碳火-火红的碳于与潮湿的碳<br>		**保罗的榜样<br>		[林后 8:23] 论到提多，他是我的同伴，一同为你们劳碌的。<br>		保罗的谦卑<br>		care主、基督、神的旨意，同伴的重要<br>		&amp;故事：谁的南瓜大？当大家一起来追求突破的时候，--就会引发质变<br></code></pre></td></tr></table></figure>
+
+<h4 id="稳行在高处"><a href="#稳行在高处" class="headerlink" title="稳行在高处"></a>稳行在高处</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">具体、可行<br>到高的境界<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>新人门徒训练N103</tag>
+        <tag>建立稳定的灵修生活</tag>
+        <tag>稳行在高处</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R027-912考研笔记</title>
+    <url>/2020/12/31/R027/</url>
+    <content><![CDATA[<h4 id="这是一条不归路"><a href="#这是一条不归路" class="headerlink" title="这是一条不归路"></a>这是一条不归路</h4><blockquote>
+<p>除了胜利，我们无路可走。</p>
+</blockquote>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么要考研？</span><br>	**低风险，高回报<br>	**对自己基础技能的检测与夯实<br>	**离自己的梦想更进一步[更优质的资源，更稳定、持续的正能量流、积累学习更多的知识]<br>	**荣耀神，为了之后有更好的能力传扬神的道<br></code></pre></td></tr></table></figure>
+
+<h4 id="初级阶段"><a href="#初级阶段" class="headerlink" title="初级阶段"></a>初级阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一栋房子最重要的部分是设计图纸，是整栋房子的灵魂核心</span><br>	**轮回-金字塔模型：<br>		*快速、广泛的初始化[竭尽所能的快速、高效率记录] - 起步阶段一定要快速、高效率[高频率的重复]<br>		*美和艺术重点不是表面所看到的东西[看到的东西通常不重要]<br>		*思维和逻辑以及精神上的美才是价值所在<br><br><span class="hljs-comment">## 时间：上一届考研的结束，就是自己考研的开始</span><br>	**或者说，从决定考研的任何时候就已经开始<br>	<br><span class="hljs-comment">## 准备：认真研读前辈们的经验与分享、心得，如果有机会最好能够和已经上岸或者已经经历过考试的学长学姐前辈们亲自交流、学习经验</span><br>	**记录下所阅读、收集、观看的 所有 资料的整理、链接、心得[非常重要]<br>	**初步描绘自己的一年备考计划，重点放在计划的初级阶段[备考时间段的前1-2个月] * 取长补短，结合上一步的资料<br>	**有不断修正计划的意识和行动 <br>	<br><span class="hljs-comment">## 挑战：稳行在高处</span><br>	**像素常一样<br>	**将窗户向耶路撒冷打开<br>	**跪在我神的面前<br>	<br><span class="hljs-comment">## 细节：--为了能够高效率完成预期任务</span><br>	**全程离线状态：手机关机、电脑飞行<br>	**为了能够离线，首先要准备好一周所需要的资料<br>	**为了应对离线产生的问题，要有一个突发事件记录表，有突发事件或者灵感或者问题时，详细记录到事件表--&gt;专门的时间段来处理<br>	**为了能够有效回溯，全程产生的任何资料都应该被记录[思维上的、物质上的、引用的、虚无的、乱七八糟的、everything]<br>	<br>	[*完整的记录一年的考研时间-为之后的战斗做好准备]<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="fallen-leaf"><a href="#fallen-leaf" class="headerlink" title=":fallen_leaf:"></a>:fallen_leaf:</h2><hr>
+<h5 id="数学策略"><a href="#数学策略" class="headerlink" title="数学策略"></a>数学策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 轮回金字塔 - 高频度重复 - 渐进深入</span><br>	**基础的熟练度<br>	<br>	**<br>	<br>	**<br></code></pre></td></tr></table></figure>
+
+<h5 id="英语策略"><a href="#英语策略" class="headerlink" title="英语策略"></a>英语策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 高频度重复</span><br>	**单词<br>		$利用艾宾浩斯遗忘曲线-[高频重复]<br>	**阅读<br>	<br>	**翻译<br>	<br>	**写作<br></code></pre></td></tr></table></figure>
+
+<h5 id="专业课策略"><a href="#专业课策略" class="headerlink" title="专业课策略"></a>专业课策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 数据结构</span><br>	**<br>	<br><span class="hljs-comment">## 操作系统</span><br>	**<br>	<br><span class="hljs-comment">## 组成原理</span><br>	**<br>	<br><span class="hljs-comment">## 计算机网络</span><br>	**<br>	<br></code></pre></td></tr></table></figure>
+
+<h5 id="政治策略"><a href="#政治策略" class="headerlink" title="政治策略"></a>政治策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+
+<h5 id="个人经历策略"><a href="#个人经历策略" class="headerlink" title="个人经历策略"></a>个人经历策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## *方向A - 人工智能、机器学习</span><br>	***从现在开始整理博客、收集记录学习资料、论文创作、科研入门级训练<br>	<br><span class="hljs-comment">## *方向B - 操作系统</span><br>	***同上，并且要做出能够看得见的东西，最好是能够用得上的东西<br>	<br><span class="hljs-comment">## *个人经历的包装</span><br>	**科研经历<br>		**论文阅读<br>		**论文整理<br>		**论文撰写<br>		<br>	**竞赛经历	<br>		**操作系统开发项目<br>		**人工智能开发项目<br>		**机器学习开发项目<br>		<br>	**成长经历<br>		**阅读经历<br>		**感情经历<br>		**信仰经历<br>		<br><span class="hljs-comment">## *查找相关的导师信息，如果可以能够取得联系最好</span><br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="bamboo-bamboo-bamboo-bamboo-bamboo"><a href="#bamboo-bamboo-bamboo-bamboo-bamboo" class="headerlink" title=":bamboo: :bamboo: :bamboo: :bamboo::bamboo:"></a>:bamboo: :bamboo: :bamboo: :bamboo::bamboo:</h2><hr>
+<h4 id="中期阶段"><a href="#中期阶段" class="headerlink" title="中期阶段"></a>中期阶段</h4><h4 id="后期阶段"><a href="#后期阶段" class="headerlink" title="后期阶段"></a>后期阶段</h4>]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>912考研笔记</tag>
+        <tag>考研规划</tag>
+        <tag>考研资料</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R028-考研单词记录L0</title>
     <url>/2021/01/01/R028/</url>
     <content><![CDATA[<h4 id="开始战斗"><a href="#开始战斗" class="headerlink" title="开始战斗"></a>开始战斗</h4><hr>
@@ -1406,73 +1473,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R026-门徒训练第三课</title>
-    <url>/2020/12/30/R026/</url>
-    <content><![CDATA[<h4 id="为什么要建立稳定的灵修生活"><a href="#为什么要建立稳定的灵修生活" class="headerlink" title="为什么要建立稳定的灵修生活"></a>为什么要建立稳定的灵修生活</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 四件事情：</span><br>	A-为何建立稳定的灵修生活如此重要<br>		**是神儿女们绝不可忽视的拳脚功夫<br>			若不深耕，如何结实？--神一生都在建造我们<br>			当地震、海啸来临之时，一眼就看出哪些树、哪些房屋的根基是深厚的<br>		**生命软弱、跟神关系疏远的原因：<br>			-当今门徒训练-普遍的现象：肤浅、不够深。很多人的生命并没有被改变<br>			很关键的原因就是没有每一天过一个稳定的灵修生活<br>			目的：生命被改变、跟神的关系被改变、与主更亲近、生活更得胜<br>		**是当今时代众教会普遍的危机<br>			好像神家得不到供应，缺少生命-根基问题：没有稳定的灵修生活<br>			<br>		**圣经中的榜样-尤其是主耶稣自己，经常退到野地、海边、或山上去祷告<br>			约瑟在大饥荒之前，就是一直在积蓄粮食：我们的灵修、生活的一切都是在积蓄粮食，<br>			当你里面真正有生命的时候，神会把有需要的人带来。<br>			路德，拾穗。在波阿斯的田里，每一天拾穗就够我们所用<br>			与神亲密且持续的关系<br>			<br>	<span class="hljs-comment">## 我们务要认识耶和华，竭力追求认识祂。祂出现确如晨光；祂必临到我们想甘露，像滋润田地的春雨。 何 6:3</span><br>	<br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="竭力追求认识祂"><a href="#竭力追求认识祂" class="headerlink" title="竭力追求认识祂"></a>竭力追求认识祂</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 光和雨都是生命成长所必须要的，[在竭力上不够，所以光和雨缺乏导致生长的不好]</span><br>	我们务必要认识耶和华，竭力追求认识他。祂出现确如晨光；祂必临到我们像甘雨，像滋润田地的春雨。<br></code></pre></td></tr></table></figure>
-
-<h4 id="培养好习惯的重要"><a href="#培养好习惯的重要" class="headerlink" title="培养好习惯的重要"></a>培养好习惯的重要</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第二件重要的事情</span><br>	B-培养好习惯的重要性<br>			什么是习惯：很自然的、重复在做的<br>			习惯带来累积性的影响<br>			坏习惯-害你<br>			好习惯-不断成长的祝福，<br>		**得享累积且不住增长的果效，使人终生受益无穷。<br>			[加拉太书 6:7] 人种的是什么，收的就是什么<br>			培养好习惯，收祝福：懂得感恩，看到别人的好习惯、长处、可取之处、获得祝福<br>			荣耀神、祝福人、又祝福自己<br>			我们今天收到的就是自己种下的<br>			[林后 9:6] 少种的少收，多种的多收，这话是真的。[这句话太重要了，所以强调]<br>			所以我们的灵修，有人交差了事，五分钟觉得我良心平安，我今天晨更了。有的人，只要有机会，就跟主建立更亲近的关系<br>			竭力往前，都要进步[我可以凡事长进]-要越来越长进<br>			[诗篇：我所得的，你为我持守]<br>		**建立稳定的灵修生活，是最值得培养的好习惯之一。<br>			从最基本的拳脚，先把稳定的灵修生活建立起来<br>			[提前 4:8-9] 操练身体，益处还少；唯独敬虔，凡事都有益处，因有今生和来生的应许。这话是可信的，是十分可佩服的。<br></code></pre></td></tr></table></figure>
-
-<h4 id="建立稳定灵修生活的挑战"><a href="#建立稳定灵修生活的挑战" class="headerlink" title="建立稳定灵修生活的挑战"></a>建立稳定灵修生活的挑战</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第三件重要的事情</span><br>	C-建立稳定灵修生活的挑战<br>		---稳行在高处<br>		建立稳定灵修生活-<br>		*但以理的榜样<br>		[但 6:10] 但以理知道这禁令盖了玉玺，就到了自己家里（他楼上的窗户开向耶路撒冷）一日三次，双膝跪在他神面前，祷告感谢，与素常一样<br>		**稳的挑战 - [与素常一样] ---很大的挑战<br>		**行的挑战 - 一日三次 --- 开始、具体、可行、持续<br>		**高的挑战 - 跪在他神面前 --- 最重要、最难<br>        	不能够持续：在灵修里碰不到主、去圣经里、去生活里找亮光，但是光是不需要去寻找的<br>        	最被我们忽略的地方-仇敌使我们被蒙蔽<br>        	在灵修中遇见神、在神的同在中灵修[读经读的很过瘾，但是不见得碰到神]<br>        	灵修不只是一件事、不只是一个习惯、不只是一个lifestyle<br>        	: 常常在灵修中遇见神，在神的同在中灵修<br>        	圣经研读：遇见说话的神<br>        	祷告：人与神在圣灵中的相会与相交<br>        		*一疏忽就会在人的境界里灵修、祷告<br>        		读经之路：[以赛亚书 55:3]<br>                <br>                *三分钟到五分钟[尽心尽力 - 遇见主]<br>                什么时候我们等候祂，祂就必施恩于我们 - 每一次回来，祂都在等候我们<br>                *让我们的生命被改变<br>                <br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="属灵同伴的重要"><a href="#属灵同伴的重要" class="headerlink" title="属灵同伴的重要"></a>属灵同伴的重要</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第四件重要的事情</span><br>	D-属灵同伴的重要<br>		[箴言 27:17] 铁磨铁，磨出刃来，朋友相感也是如此<br>		*打磨成器 - <br>		增加对方的价值、提高对方的功用，脱离粗糙的情景<br>		[提 2:22] 你们要逃避少年人的私欲，同那清心祷告主的人追求公义、信德、仁爱、和平。 <br>		我们的朋友如何，那是非常重要的事情<br>		[传道书 4:9-12] 两个人总比一个人好……<br>		&amp;故事：碳火-火红的碳于与潮湿的碳<br>		**保罗的榜样<br>		[林后 8:23] 论到提多，他是我的同伴，一同为你们劳碌的。<br>		保罗的谦卑<br>		care主、基督、神的旨意，同伴的重要<br>		&amp;故事：谁的南瓜大？当大家一起来追求突破的时候，--就会引发质变<br></code></pre></td></tr></table></figure>
-
-<h4 id="稳行在高处"><a href="#稳行在高处" class="headerlink" title="稳行在高处"></a>稳行在高处</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">具体、可行<br>到高的境界<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>新人门徒训练N103</tag>
-        <tag>建立稳定的灵修生活</tag>
-        <tag>稳行在高处</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R027-912考研笔记</title>
-    <url>/2020/12/31/R027/</url>
-    <content><![CDATA[<h4 id="这是一条不归路"><a href="#这是一条不归路" class="headerlink" title="这是一条不归路"></a>这是一条不归路</h4><blockquote>
-<p>除了胜利，我们无路可走。</p>
-</blockquote>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么要考研？</span><br>	**低风险，高回报<br>	**对自己基础技能的检测与夯实<br>	**离自己的梦想更进一步[更优质的资源，更稳定、持续的正能量流、积累学习更多的知识]<br>	**荣耀神，为了之后有更好的能力传扬神的道<br></code></pre></td></tr></table></figure>
-
-<h4 id="初级阶段"><a href="#初级阶段" class="headerlink" title="初级阶段"></a>初级阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一栋房子最重要的部分是设计图纸，是整栋房子的灵魂核心</span><br>	**轮回-金字塔模型：<br>		*快速、广泛的初始化[竭尽所能的快速、高效率记录] - 起步阶段一定要快速、高效率[高频率的重复]<br>		*美和艺术重点不是表面所看到的东西[看到的东西通常不重要]<br>		*思维和逻辑以及精神上的美才是价值所在<br><br><span class="hljs-comment">## 时间：上一届考研的结束，就是自己考研的开始</span><br>	**或者说，从决定考研的任何时候就已经开始<br>	<br><span class="hljs-comment">## 准备：认真研读前辈们的经验与分享、心得，如果有机会最好能够和已经上岸或者已经经历过考试的学长学姐前辈们亲自交流、学习经验</span><br>	**记录下所阅读、收集、观看的 所有 资料的整理、链接、心得[非常重要]<br>	**初步描绘自己的一年备考计划，重点放在计划的初级阶段[备考时间段的前1-2个月] * 取长补短，结合上一步的资料<br>	**有不断修正计划的意识和行动 <br>	<br><span class="hljs-comment">## 挑战：稳行在高处</span><br>	**像素常一样<br>	**将窗户向耶路撒冷打开<br>	**跪在我神的面前<br>	<br><span class="hljs-comment">## 细节：--为了能够高效率完成预期任务</span><br>	**全程离线状态：手机关机、电脑飞行<br>	**为了能够离线，首先要准备好一周所需要的资料<br>	**为了应对离线产生的问题，要有一个突发事件记录表，有突发事件或者灵感或者问题时，详细记录到事件表--&gt;专门的时间段来处理<br>	**为了能够有效回溯，全程产生的任何资料都应该被记录[思维上的、物质上的、引用的、虚无的、乱七八糟的、everything]<br>	<br>	[*完整的记录一年的考研时间-为之后的战斗做好准备]<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h2 id="fallen-leaf"><a href="#fallen-leaf" class="headerlink" title=":fallen_leaf:"></a>:fallen_leaf:</h2><hr>
-<h5 id="数学策略"><a href="#数学策略" class="headerlink" title="数学策略"></a>数学策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 轮回金字塔 - 高频度重复 - 渐进深入</span><br>	**基础的熟练度<br>	<br>	**<br>	<br>	**<br></code></pre></td></tr></table></figure>
-
-<h5 id="英语策略"><a href="#英语策略" class="headerlink" title="英语策略"></a>英语策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 高频度重复</span><br>	**单词<br>		$利用艾宾浩斯遗忘曲线-[高频重复]<br>	**阅读<br>	<br>	**翻译<br>	<br>	**写作<br></code></pre></td></tr></table></figure>
-
-<h5 id="专业课策略"><a href="#专业课策略" class="headerlink" title="专业课策略"></a>专业课策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 数据结构</span><br>	**<br>	<br><span class="hljs-comment">## 操作系统</span><br>	**<br>	<br><span class="hljs-comment">## 组成原理</span><br>	**<br>	<br><span class="hljs-comment">## 计算机网络</span><br>	**<br>	<br></code></pre></td></tr></table></figure>
-
-<h5 id="政治策略"><a href="#政治策略" class="headerlink" title="政治策略"></a>政治策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
-
-<h5 id="个人经历策略"><a href="#个人经历策略" class="headerlink" title="个人经历策略"></a>个人经历策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## *方向A - 人工智能、机器学习</span><br>	***从现在开始整理博客、收集记录学习资料、论文创作、科研入门级训练<br>	<br><span class="hljs-comment">## *方向B - 操作系统</span><br>	***同上，并且要做出能够看得见的东西，最好是能够用得上的东西<br>	<br><span class="hljs-comment">## *个人经历的包装</span><br>	**科研经历<br>		**论文阅读<br>		**论文整理<br>		**论文撰写<br>		<br>	**竞赛经历	<br>		**操作系统开发项目<br>		**人工智能开发项目<br>		**机器学习开发项目<br>		<br>	**成长经历<br>		**阅读经历<br>		**感情经历<br>		**信仰经历<br>		<br><span class="hljs-comment">## *查找相关的导师信息，如果可以能够取得联系最好</span><br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h2 id="bamboo-bamboo-bamboo-bamboo-bamboo"><a href="#bamboo-bamboo-bamboo-bamboo-bamboo" class="headerlink" title=":bamboo: :bamboo: :bamboo: :bamboo::bamboo:"></a>:bamboo: :bamboo: :bamboo: :bamboo::bamboo:</h2><hr>
-<h4 id="中期阶段"><a href="#中期阶段" class="headerlink" title="中期阶段"></a>中期阶段</h4><h4 id="后期阶段"><a href="#后期阶段" class="headerlink" title="后期阶段"></a>后期阶段</h4>]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>912考研笔记</tag>
-        <tag>考研规划</tag>
-        <tag>考研资料</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R029-个人项目经验规划</title>
     <url>/2021/01/01/R029/</url>
     <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
@@ -1595,226 +1595,6 @@
         <tag>假期安排</tag>
         <tag>产品设计</tag>
         <tag>团队管理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R033-考研单词L2</title>
-    <url>/2021/01/03/R033/</url>
-    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
-
-<hr>
-<table>
-<thead>
-<tr>
-<th>supersensitive</th>
-<th></th>
-<th>profess</th>
-<th></th>
-<th>precocious</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>supercharge</td>
-<td></td>
-<td>prodigious</td>
-<td></td>
-<td>predict</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudo</td>
-<td></td>
-<td>proclivity</td>
-<td></td>
-<td>predisposition</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudonym</td>
-<td></td>
-<td>procure</td>
-<td></td>
-<td>preoccupation</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudoscience</td>
-<td></td>
-<td>prominent</td>
-<td></td>
-<td>prescient</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudograph</td>
-<td></td>
-<td>prosecute</td>
-<td></td>
-<td>prerogative</td>
-<td></td>
-</tr>
-<tr>
-<td>pro-American</td>
-<td></td>
-<td>prospect</td>
-<td></td>
-<td>postage</td>
-<td></td>
-</tr>
-<tr>
-<td>proslavery</td>
-<td></td>
-<td>provident</td>
-<td></td>
-<td>postoffice</td>
-<td></td>
-</tr>
-<tr>
-<td>proabortionist</td>
-<td></td>
-<td>provoke</td>
-<td></td>
-<td>postcard</td>
-<td></td>
-</tr>
-<tr>
-<td>procrastinate</td>
-<td></td>
-<td>preschool</td>
-<td></td>
-<td>postal</td>
-<td></td>
-</tr>
-<tr>
-<td>procreate</td>
-<td></td>
-<td>prehistory</td>
-<td></td>
-<td>postwar</td>
-<td></td>
-</tr>
-<tr>
-<td>profligate</td>
-<td></td>
-<td>prefix</td>
-<td></td>
-<td>postpone</td>
-<td></td>
-</tr>
-<tr>
-<td>proliferate</td>
-<td></td>
-<td>preposition</td>
-<td></td>
-<td>postgraduate</td>
-<td></td>
-</tr>
-<tr>
-<td>profit</td>
-<td></td>
-<td>prepay</td>
-<td></td>
-<td>postface</td>
-<td></td>
-</tr>
-<tr>
-<td>profuse</td>
-<td></td>
-<td>prebuilt</td>
-<td></td>
-<td>posterior</td>
-<td></td>
-</tr>
-<tr>
-<td>prolific</td>
-<td></td>
-<td>preamble</td>
-<td></td>
-<td>polyandry</td>
-<td></td>
-</tr>
-<tr>
-<td>prosperous</td>
-<td></td>
-<td>precaution</td>
-<td></td>
-<td>polyglot</td>
-<td></td>
-</tr>
-<tr>
-<td>progress</td>
-<td></td>
-<td>precede</td>
-<td></td>
-<td>polyfunctional</td>
-<td></td>
-</tr>
-<tr>
-<td>project</td>
-<td></td>
-<td>precedent</td>
-<td></td>
-<td>perigon</td>
-<td></td>
-</tr>
-<tr>
-<td>prologue</td>
-<td></td>
-<td>precept</td>
-<td></td>
-<td>perimeter</td>
-<td></td>
-</tr>
-<tr>
-<td>promote</td>
-<td></td>
-<td>precinct</td>
-<td></td>
-<td>periphery</td>
-<td></td>
-</tr>
-<tr>
-<td>protrude</td>
-<td></td>
-<td>precipice</td>
-<td></td>
-<td>perfidy</td>
-<td></td>
-</tr>
-<tr>
-<td>propel</td>
-<td></td>
-<td>precipitation</td>
-<td></td>
-<td>perjury</td>
-<td></td>
-</tr>
-<tr>
-<td>proficient</td>
-<td></td>
-<td>precise</td>
-<td></td>
-<td>perfunctory</td>
-<td></td>
-</tr>
-<tr>
-<td>profile</td>
-<td></td>
-<td>preclude</td>
-<td></td>
-<td>perpetrate</td>
-<td></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>英语单词</tag>
-        <tag>考研英语</tag>
       </tags>
   </entry>
   <entry>
@@ -2087,6 +1867,241 @@
       </tags>
   </entry>
   <entry>
+    <title>R033-考研单词L2</title>
+    <url>/2021/01/03/R033/</url>
+    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
+
+<hr>
+<table>
+<thead>
+<tr>
+<th>supersensitive</th>
+<th></th>
+<th>profess</th>
+<th></th>
+<th>precocious</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>supercharge</td>
+<td></td>
+<td>prodigious</td>
+<td></td>
+<td>predict</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudo</td>
+<td></td>
+<td>proclivity</td>
+<td></td>
+<td>predisposition</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudonym</td>
+<td></td>
+<td>procure</td>
+<td></td>
+<td>preoccupation</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudoscience</td>
+<td></td>
+<td>prominent</td>
+<td></td>
+<td>prescient</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudograph</td>
+<td></td>
+<td>prosecute</td>
+<td></td>
+<td>prerogative</td>
+<td></td>
+</tr>
+<tr>
+<td>pro-American</td>
+<td></td>
+<td>prospect</td>
+<td></td>
+<td>postage</td>
+<td></td>
+</tr>
+<tr>
+<td>proslavery</td>
+<td></td>
+<td>provident</td>
+<td></td>
+<td>postoffice</td>
+<td></td>
+</tr>
+<tr>
+<td>proabortionist</td>
+<td></td>
+<td>provoke</td>
+<td></td>
+<td>postcard</td>
+<td></td>
+</tr>
+<tr>
+<td>procrastinate</td>
+<td></td>
+<td>preschool</td>
+<td></td>
+<td>postal</td>
+<td></td>
+</tr>
+<tr>
+<td>procreate</td>
+<td></td>
+<td>prehistory</td>
+<td></td>
+<td>postwar</td>
+<td></td>
+</tr>
+<tr>
+<td>profligate</td>
+<td></td>
+<td>prefix</td>
+<td></td>
+<td>postpone</td>
+<td></td>
+</tr>
+<tr>
+<td>proliferate</td>
+<td></td>
+<td>preposition</td>
+<td></td>
+<td>postgraduate</td>
+<td></td>
+</tr>
+<tr>
+<td>profit</td>
+<td></td>
+<td>prepay</td>
+<td></td>
+<td>postface</td>
+<td></td>
+</tr>
+<tr>
+<td>profuse</td>
+<td></td>
+<td>prebuilt</td>
+<td></td>
+<td>posterior</td>
+<td></td>
+</tr>
+<tr>
+<td>prolific</td>
+<td></td>
+<td>preamble</td>
+<td></td>
+<td>polyandry</td>
+<td></td>
+</tr>
+<tr>
+<td>prosperous</td>
+<td></td>
+<td>precaution</td>
+<td></td>
+<td>polyglot</td>
+<td></td>
+</tr>
+<tr>
+<td>progress</td>
+<td></td>
+<td>precede</td>
+<td></td>
+<td>polyfunctional</td>
+<td></td>
+</tr>
+<tr>
+<td>project</td>
+<td></td>
+<td>precedent</td>
+<td></td>
+<td>perigon</td>
+<td></td>
+</tr>
+<tr>
+<td>prologue</td>
+<td></td>
+<td>precept</td>
+<td></td>
+<td>perimeter</td>
+<td></td>
+</tr>
+<tr>
+<td>promote</td>
+<td></td>
+<td>precinct</td>
+<td></td>
+<td>periphery</td>
+<td></td>
+</tr>
+<tr>
+<td>protrude</td>
+<td></td>
+<td>precipice</td>
+<td></td>
+<td>perfidy</td>
+<td></td>
+</tr>
+<tr>
+<td>propel</td>
+<td></td>
+<td>precipitation</td>
+<td></td>
+<td>perjury</td>
+<td></td>
+</tr>
+<tr>
+<td>proficient</td>
+<td></td>
+<td>precise</td>
+<td></td>
+<td>perfunctory</td>
+<td></td>
+</tr>
+<tr>
+<td>profile</td>
+<td></td>
+<td>preclude</td>
+<td></td>
+<td>perpetrate</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R035-人工智能-初级踩坑</title>
+    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
+    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>入门资料</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R034-md图标收藏</title>
     <url>/2021/01/04/R034/</url>
     <content><![CDATA[<h4 id="四月图标收藏栏"><a href="#四月图标收藏栏" class="headerlink" title="四月图标收藏栏"></a>四月图标收藏栏</h4><p>:fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis:</p>
@@ -2103,21 +2118,6 @@
         <tag>图案模板</tag>
         <tag>图标线条</tag>
         <tag>图形设计</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R035-人工智能-初级踩坑</title>
-    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
-    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>入门资料</tag>
       </tags>
   </entry>
   <entry>
@@ -2967,6 +2967,24 @@
       </tags>
   </entry>
   <entry>
+    <title>R041-软件工程考点梳理</title>
+    <url>/2021/01/06/R041-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
+    <content><![CDATA[<h4 id="核心内容"><a href="#核心内容" class="headerlink" title="核心内容"></a>核心内容</h4><blockquote>
+<p>软件工程的重点内容是SCRUM</p>
+</blockquote>
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 意义不大的参考</span><br>[https://wenku.baidu.com/view/2c6d4a3681eb6294dd88d0d233d4b14e84243e35.html]<br><br><span class="hljs-comment">## SCRUM</span><br>[https://zhuanlan.zhihu.com/p/49048186]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>软件工程考点梳理</tag>
+        <tag>CMMI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R040-马原考点梳理</title>
     <url>/2021/01/06/R040-%E9%A9%AC%E5%8E%9F%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
     <content><![CDATA[<h4 id="引用资料"><a href="#引用资料" class="headerlink" title="引用资料"></a>引用资料</h4><hr>
@@ -2983,24 +3001,6 @@
       <tags>
         <tag>马克思主义基本原理概论</tag>
         <tag>马原考点梳理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R041-软件工程考点梳理</title>
-    <url>/2021/01/06/R041-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
-    <content><![CDATA[<h4 id="核心内容"><a href="#核心内容" class="headerlink" title="核心内容"></a>核心内容</h4><blockquote>
-<p>软件工程的重点内容是SCRUM</p>
-</blockquote>
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 意义不大的参考</span><br>[https://wenku.baidu.com/view/2c6d4a3681eb6294dd88d0d233d4b14e84243e35.html]<br><br><span class="hljs-comment">## SCRUM</span><br>[https://zhuanlan.zhihu.com/p/49048186]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>软件工程考点梳理</tag>
-        <tag>CMMI</tag>
       </tags>
   </entry>
   <entry>
@@ -3771,18 +3771,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R052-关于语言学习与思维局限</title>
-    <url>/2021/01/09/R052-%E5%85%B3%E4%BA%8E%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%80%9D%E7%BB%B4%E5%B1%80%E9%99%90/</url>
-    <content><![CDATA[<h4 id="为什么要多学习几门语言"><a href="#为什么要多学习几门语言" class="headerlink" title="为什么要多学习几门语言"></a>为什么要多学习几门语言</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 不同的语言几乎代表了思维方式本质上的不同</span><br>	**这也就意味着，掌握不同的语言的同时有可能掌握不同的思维方式，这对解决问题能力的提升是有极大好处的<br>	**文字是一种思维病毒，能够不知不觉的改变人的想法和思维<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>语言学习</tag>
-        <tag>思维局限</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R051-应试的规律</title>
     <url>/2021/01/09/R051-%E5%BA%94%E8%AF%95%E7%9A%84%E8%A7%84%E5%BE%8B/</url>
     <content><![CDATA[<h4 id="愚钝的重复"><a href="#愚钝的重复" class="headerlink" title="愚钝的重复"></a>愚钝的重复</h4><hr>
@@ -3792,6 +3780,18 @@
       <tags>
         <tag>考试经历</tag>
         <tag>学习总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R052-关于语言学习与思维局限</title>
+    <url>/2021/01/09/R052-%E5%85%B3%E4%BA%8E%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%80%9D%E7%BB%B4%E5%B1%80%E9%99%90/</url>
+    <content><![CDATA[<h4 id="为什么要多学习几门语言"><a href="#为什么要多学习几门语言" class="headerlink" title="为什么要多学习几门语言"></a>为什么要多学习几门语言</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 不同的语言几乎代表了思维方式本质上的不同</span><br>	**这也就意味着，掌握不同的语言的同时有可能掌握不同的思维方式，这对解决问题能力的提升是有极大好处的<br>	**文字是一种思维病毒，能够不知不觉的改变人的想法和思维<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>语言学习</tag>
+        <tag>思维局限</tag>
       </tags>
   </entry>
   <entry>
@@ -5207,6 +5207,276 @@
 <td>avert</td>
 <td></td>
 <td>throat</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R062-考研单词L12</title>
+    <url>/2021/01/15/R062-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL12/</url>
+    <content><![CDATA[<h4 id="自强不息"><a href="#自强不息" class="headerlink" title="自强不息"></a>自强不息</h4><blockquote>
+<p>Strength alone knows conflict, weakness is below even defeat, and is born vanquished.</p>
+</blockquote>
+<hr>
+<table>
+<thead>
+<tr>
+<th>prevail</th>
+<th></th>
+<th>suite</th>
+<th></th>
+<th>glove</th>
+<th></th>
+<th>recorder</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>transform</td>
+<td></td>
+<td>inferior</td>
+<td></td>
+<td>foundation</td>
+<td></td>
+<td>watt</td>
+<td></td>
+</tr>
+<tr>
+<td>amount</td>
+<td></td>
+<td>coordinate</td>
+<td></td>
+<td>embarrass</td>
+<td></td>
+<td>criticise</td>
+<td></td>
+</tr>
+<tr>
+<td>author</td>
+<td></td>
+<td>underground</td>
+<td></td>
+<td>jar</td>
+<td></td>
+<td>dump</td>
+<td></td>
+</tr>
+<tr>
+<td>cop</td>
+<td></td>
+<td>bounce</td>
+<td></td>
+<td>approve</td>
+<td></td>
+<td>assurance</td>
+<td></td>
+</tr>
+<tr>
+<td>enlighten</td>
+<td></td>
+<td>realm</td>
+<td></td>
+<td>novel</td>
+<td></td>
+<td>metropolitan</td>
+<td></td>
+</tr>
+<tr>
+<td>nuisance</td>
+<td></td>
+<td>bug</td>
+<td></td>
+<td>involve</td>
+<td></td>
+<td>lubricate</td>
+<td></td>
+</tr>
+<tr>
+<td>claw</td>
+<td></td>
+<td>undermine</td>
+<td></td>
+<td>emperor</td>
+<td></td>
+<td>blush</td>
+<td></td>
+</tr>
+<tr>
+<td>discount</td>
+<td></td>
+<td>organise</td>
+<td></td>
+<td>cathedral</td>
+<td></td>
+<td>cupboard</td>
+<td></td>
+</tr>
+<tr>
+<td>issue</td>
+<td></td>
+<td>evidance</td>
+<td></td>
+<td>analogy</td>
+<td></td>
+<td>nightmare</td>
+<td></td>
+</tr>
+<tr>
+<td>replace</td>
+<td></td>
+<td>cardinal</td>
+<td></td>
+<td>texture</td>
+<td></td>
+<td>database</td>
+<td></td>
+</tr>
+<tr>
+<td>consistent</td>
+<td></td>
+<td>costly</td>
+<td></td>
+<td>resist</td>
+<td></td>
+<td>compress</td>
+<td></td>
+</tr>
+<tr>
+<td>veil</td>
+<td></td>
+<td>priest</td>
+<td></td>
+<td>illegal</td>
+<td></td>
+<td>favorable</td>
+<td></td>
+</tr>
+<tr>
+<td>constrive</td>
+<td></td>
+<td>route</td>
+<td></td>
+<td>administer</td>
+<td></td>
+<td>loose</td>
+<td></td>
+</tr>
+<tr>
+<td>judicial</td>
+<td></td>
+<td>lantern</td>
+<td></td>
+<td>elaborate</td>
+<td></td>
+<td>ornament</td>
+<td></td>
+</tr>
+<tr>
+<td>tramp</td>
+<td></td>
+<td>log</td>
+<td></td>
+<td>deaf</td>
+<td></td>
+<td>overlap</td>
+<td></td>
+</tr>
+<tr>
+<td>sin</td>
+<td></td>
+<td>concession</td>
+<td></td>
+<td>hint</td>
+<td></td>
+<td>senate</td>
+<td></td>
+</tr>
+<tr>
+<td>legal</td>
+<td></td>
+<td>excitement</td>
+<td></td>
+<td>bronze</td>
+<td></td>
+<td>taboo</td>
+<td></td>
+</tr>
+<tr>
+<td>saving</td>
+<td></td>
+<td>eclipse</td>
+<td></td>
+<td>scrape</td>
+<td></td>
+<td>weary</td>
+<td></td>
+</tr>
+<tr>
+<td>erosion</td>
+<td></td>
+<td>loop</td>
+<td></td>
+<td>missionary</td>
+<td></td>
+<td>genre</td>
+<td></td>
+</tr>
+<tr>
+<td>pat</td>
+<td></td>
+<td>fridge</td>
+<td></td>
+<td>illustrate</td>
+<td></td>
+<td>industrial</td>
+<td></td>
+</tr>
+<tr>
+<td>versus</td>
+<td></td>
+<td>roar</td>
+<td></td>
+<td>being</td>
+<td></td>
+<td>spectacular</td>
+<td></td>
+</tr>
+<tr>
+<td>fasten</td>
+<td></td>
+<td>ultalviolet</td>
+<td></td>
+<td>quest</td>
+<td></td>
+<td>scar</td>
+<td></td>
+</tr>
+<tr>
+<td>learned</td>
+<td></td>
+<td>abdomen</td>
+<td></td>
+<td>Catholic</td>
+<td></td>
+<td>sympathise</td>
+<td></td>
+</tr>
+<tr>
+<td>perplex</td>
+<td></td>
+<td>memorandum</td>
+<td></td>
+<td>convey</td>
+<td></td>
+<td>refresh</td>
 <td></td>
 </tr>
 </tbody></table>

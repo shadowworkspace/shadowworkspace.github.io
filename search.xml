@@ -54,6 +54,33 @@
       </tags>
   </entry>
   <entry>
+    <title>I001-战争军事</title>
+    <url>/2021/01/04/I001-%E6%88%98%E4%BA%89%E5%86%9B%E4%BA%8B/</url>
+    <content><![CDATA[<h4 id="克隆另一个自己"><a href="#克隆另一个自己" class="headerlink" title="克隆另一个自己"></a>克隆另一个自己</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如今的我已经接近了曾经的梦想</span><br>	** 初步入门了这个庞大科学的门槛<br>	** 初步掌握了一些基础的学习方法和技巧<br>	** 基础知识仍然不够牢固<br>	<br><span class="hljs-comment">## 需要的知识</span><br>	** 数学分析<br>	** 概率论与统计学<br>	** 过硬的英语实力[英国\美国博士生词汇量水平]<br>	** 操作系统设计、研发、应用能力<br>	** 人工智能<br>	** 数据分析<br>	** 机器学习<br>	** [硬件的使用]<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="实现道路"><a href="#实现道路" class="headerlink" title="实现道路"></a>实现道路</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 从简单到复杂</span><br>	** 先从最基本的个人经历管理系统做起<br>	** 同时打好基础功夫：专业技能、管理能力、准确表达能力、个人素养<br>	** 然后掌握操作系统及其应用<br>	<br>	<br></code></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>杀戮武器</tag>
+        <tag>战争军事</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>B004-暗时间</title>
+    <url>/2021/01/16/B004-%E6%9A%97%E6%97%B6%E9%97%B4/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>B003-在痛苦的世界尽力而为</title>
     <url>/2021/01/07/B003-%E5%9C%A8%E7%97%9B%E8%8B%A6%E7%9A%84%E4%B8%96%E7%95%8C%E5%B0%BD%E5%8A%9B%E8%80%8C%E4%B8%BA/</url>
     <content><![CDATA[<h4 id="作者简介"><a href="#作者简介" class="headerlink" title="作者简介"></a>作者简介</h4><p>俞敏洪，新东方创始人。三次高考，北大毕业，本科三年级患肺结核降级。</p>
@@ -100,28 +127,6 @@
         <tag>阅读笔记</tag>
         <tag>在痛苦的世界尽力而为</tag>
         <tag>俞敏洪</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>I001-战争军事</title>
-    <url>/2021/01/04/I001-%E6%88%98%E4%BA%89%E5%86%9B%E4%BA%8B/</url>
-    <content><![CDATA[<h4 id="克隆另一个自己"><a href="#克隆另一个自己" class="headerlink" title="克隆另一个自己"></a>克隆另一个自己</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如今的我已经接近了曾经的梦想</span><br>	** 初步入门了这个庞大科学的门槛<br>	** 初步掌握了一些基础的学习方法和技巧<br>	** 基础知识仍然不够牢固<br>	<br><span class="hljs-comment">## 需要的知识</span><br>	** 数学分析<br>	** 概率论与统计学<br>	** 过硬的英语实力[英国\美国博士生词汇量水平]<br>	** 操作系统设计、研发、应用能力<br>	** 人工智能<br>	** 数据分析<br>	** 机器学习<br>	** [硬件的使用]<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="实现道路"><a href="#实现道路" class="headerlink" title="实现道路"></a>实现道路</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 从简单到复杂</span><br>	** 先从最基本的个人经历管理系统做起<br>	** 同时打好基础功夫：专业技能、管理能力、准确表达能力、个人素养<br>	** 然后掌握操作系统及其应用<br>	<br>	<br></code></pre></td></tr></table></figure>
-
-
-
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>杀戮武器</tag>
-        <tag>战争军事</tag>
       </tags>
   </entry>
   <entry>
@@ -496,24 +501,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R005</title>
-    <url>/2020/12/16/R005/</url>
-    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>考研安排</tag>
-        <tag>思维导图</tag>
-        <tag>考研索引</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R004</title>
     <url>/2020/12/15/R004/</url>
     <content><![CDATA[<h4 id="机遇与挑战"><a href="#机遇与挑战" class="headerlink" title="机遇与挑战"></a>机遇与挑战</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 国家的机遇与挑战<br><span class="hljs-comment">	*历史潮流</span><br><span class="hljs-comment">	*马克思理论</span><br><span class="hljs-comment">	*变化与发展</span><br><br>## 个人的机遇与挑战<br><br><span class="hljs-comment">	*旁征博引</span><br><span class="hljs-comment">	*古今中外</span><br><span class="hljs-comment">	*排比设问</span><br>	<br>	--------------<br><span class="hljs-comment">	*认识与实践</span><br><span class="hljs-comment">	*认识世界与改造世界</span><br>	---------------<br></code></pre></td></tr></table></figure>
@@ -529,6 +516,24 @@
         <tag>形势与政策</tag>
         <tag>百年大变局之下大学生的思考</tag>
         <tag>写作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R005</title>
+    <url>/2020/12/16/R005/</url>
+    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>考研安排</tag>
+        <tag>思维导图</tag>
+        <tag>考研索引</tag>
       </tags>
   </entry>
   <entry>
@@ -832,16 +837,16 @@
       </categories>
   </entry>
   <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016/</url>
+    <title>R017-NULL</title>
+    <url>/2020/12/27/R017/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
   </entry>
   <entry>
-    <title>R017-NULL</title>
-    <url>/2020/12/27/R017/</url>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
@@ -1537,281 +1542,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R030-自动化发布文章更新</title>
-    <url>/2021/01/01/R030/</url>
-    <content><![CDATA[<h4 id="不断趋于完美"><a href="#不断趋于完美" class="headerlink" title="不断趋于完美"></a>不断趋于完美</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 加入新的功能</span><br>	**创建文章时只需要输入类型，不需要指定具体编号<br>	**能够自动提取参数并且加入到tag<br>	**能够自动追加整体经验值<br>	**能够自动判断段位增量<br></code></pre></td></tr></table></figure>
-
-<p><code>3.14159.........</code></p>
-<p>:fallen_leaf:</p>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>自动化构建</tag>
-        <tag>系统维护</tag>
-        <tag>商业化潜力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R031-假期项目安排</title>
-    <url>/2021/01/03/R031/</url>
-    <content><![CDATA[<h4 id="一个大胆的计划"><a href="#一个大胆的计划" class="headerlink" title="一个大胆的计划"></a>一个大胆的计划</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 设计艺术品，美在逻辑中</span><br>	** 如何设计一个完美的艺术品是非常考验专业素养、世界观、审美观、价值观的<br>	** <br>	<br><span class="hljs-comment">## 做什么？</span><br>	** 一个个人管理系统：经历管理，让用户看见自己的成长与变化 - 认清楚这个世界<br>	** 经历当中包含了很多信息-将这些信息提取分类出来：这是一个只用于回顾，然后帮助用户提高工作效率的系统。<br>	** 基础功能：用户创建一篇文章，自动加入文章配置[文章标题、背景图片]，写作结束后提取出关键字作为文章标签，根据文章回顾次数动态分配文章经验[经验用于段位和等级的增长]<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="团队的组建"><a href="#团队的组建" class="headerlink" title="团队的组建"></a>团队的组建</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一个团队的用人标准不是智商有多高，而是能对团队产生多少贡献</span><br>	** 最好属于成就导向，有源源不断的动力，如果不是，那么就引导他成为成就导向型<br>	** 服从管理，服从是军人的天职，也是团队高效协作的必要条件<br>	** 能够分清楚事情的轻重缓急，不会因为杂念阻碍核心任务的跟进<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="假期更新hziee-cs-stack"><a href="#假期更新hziee-cs-stack" class="headerlink" title="假期更新hziee_cs_stack"></a>假期更新hziee_cs_stack</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将一年级上册和三年级上册的大部份资料整理发布</span><br>	** 养成好的习惯<br>	** 不懂就写，写清楚了问题就解决了<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="产品设计"><a href="#产品设计" class="headerlink" title="产品设计"></a>产品设计</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 这里可能要设计更多的专业知识</span><br>	** 比如 美术、音乐、地理、历史、生物、数学、物理、化学、神学等等<br>	** 当然更多的是应该分析成功产品的设计案例，多维度研究分析、最好能够复盘<br>	<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="整理自己的大学经历"><a href="#整理自己的大学经历" class="headerlink" title="整理自己的大学经历"></a>整理自己的大学经历</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 个人学习情况的总结绘制</span><br>	** 专业课程<br>	** 习惯培养<br>	** 思维方式<br>	** 神学入门<br>	<br><span class="hljs-comment">## 个人成就的总结绘制</span><br>	** 准确表达<br>	** 领导能力<br>    ** 荣誉经历<br>    ** 写作能力<br>	<br><span class="hljs-comment">## 个人愿景的总结绘制</span><br>	** 数据分析<br>	** 人工智能<br>	** 操作系统<br>	** 数学建模<br>	** VR公司、产品<br>	** 艺术家<br></code></pre></td></tr></table></figure>
-
-
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>假期安排</tag>
-        <tag>产品设计</tag>
-        <tag>团队管理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R033-考研单词L2</title>
-    <url>/2021/01/03/R033/</url>
-    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
-
-<hr>
-<table>
-<thead>
-<tr>
-<th>supersensitive</th>
-<th></th>
-<th>profess</th>
-<th></th>
-<th>precocious</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>supercharge</td>
-<td></td>
-<td>prodigious</td>
-<td></td>
-<td>predict</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudo</td>
-<td></td>
-<td>proclivity</td>
-<td></td>
-<td>predisposition</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudonym</td>
-<td></td>
-<td>procure</td>
-<td></td>
-<td>preoccupation</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudoscience</td>
-<td></td>
-<td>prominent</td>
-<td></td>
-<td>prescient</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudograph</td>
-<td></td>
-<td>prosecute</td>
-<td></td>
-<td>prerogative</td>
-<td></td>
-</tr>
-<tr>
-<td>pro-American</td>
-<td></td>
-<td>prospect</td>
-<td></td>
-<td>postage</td>
-<td></td>
-</tr>
-<tr>
-<td>proslavery</td>
-<td></td>
-<td>provident</td>
-<td></td>
-<td>postoffice</td>
-<td></td>
-</tr>
-<tr>
-<td>proabortionist</td>
-<td></td>
-<td>provoke</td>
-<td></td>
-<td>postcard</td>
-<td></td>
-</tr>
-<tr>
-<td>procrastinate</td>
-<td></td>
-<td>preschool</td>
-<td></td>
-<td>postal</td>
-<td></td>
-</tr>
-<tr>
-<td>procreate</td>
-<td></td>
-<td>prehistory</td>
-<td></td>
-<td>postwar</td>
-<td></td>
-</tr>
-<tr>
-<td>profligate</td>
-<td></td>
-<td>prefix</td>
-<td></td>
-<td>postpone</td>
-<td></td>
-</tr>
-<tr>
-<td>proliferate</td>
-<td></td>
-<td>preposition</td>
-<td></td>
-<td>postgraduate</td>
-<td></td>
-</tr>
-<tr>
-<td>profit</td>
-<td></td>
-<td>prepay</td>
-<td></td>
-<td>postface</td>
-<td></td>
-</tr>
-<tr>
-<td>profuse</td>
-<td></td>
-<td>prebuilt</td>
-<td></td>
-<td>posterior</td>
-<td></td>
-</tr>
-<tr>
-<td>prolific</td>
-<td></td>
-<td>preamble</td>
-<td></td>
-<td>polyandry</td>
-<td></td>
-</tr>
-<tr>
-<td>prosperous</td>
-<td></td>
-<td>precaution</td>
-<td></td>
-<td>polyglot</td>
-<td></td>
-</tr>
-<tr>
-<td>progress</td>
-<td></td>
-<td>precede</td>
-<td></td>
-<td>polyfunctional</td>
-<td></td>
-</tr>
-<tr>
-<td>project</td>
-<td></td>
-<td>precedent</td>
-<td></td>
-<td>perigon</td>
-<td></td>
-</tr>
-<tr>
-<td>prologue</td>
-<td></td>
-<td>precept</td>
-<td></td>
-<td>perimeter</td>
-<td></td>
-</tr>
-<tr>
-<td>promote</td>
-<td></td>
-<td>precinct</td>
-<td></td>
-<td>periphery</td>
-<td></td>
-</tr>
-<tr>
-<td>protrude</td>
-<td></td>
-<td>precipice</td>
-<td></td>
-<td>perfidy</td>
-<td></td>
-</tr>
-<tr>
-<td>propel</td>
-<td></td>
-<td>precipitation</td>
-<td></td>
-<td>perjury</td>
-<td></td>
-</tr>
-<tr>
-<td>proficient</td>
-<td></td>
-<td>precise</td>
-<td></td>
-<td>perfunctory</td>
-<td></td>
-</tr>
-<tr>
-<td>profile</td>
-<td></td>
-<td>preclude</td>
-<td></td>
-<td>perpetrate</td>
-<td></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>英语单词</tag>
-        <tag>考研英语</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R029-个人项目经验规划</title>
     <url>/2021/01/01/R029/</url>
     <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
@@ -1879,6 +1609,61 @@
         <tag>912考研资料索引专刊</tag>
         <tag>个人项目规划参考</tag>
         <tag>大数据工程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R030-自动化发布文章更新</title>
+    <url>/2021/01/01/R030/</url>
+    <content><![CDATA[<h4 id="不断趋于完美"><a href="#不断趋于完美" class="headerlink" title="不断趋于完美"></a>不断趋于完美</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 加入新的功能</span><br>	**创建文章时只需要输入类型，不需要指定具体编号<br>	**能够自动提取参数并且加入到tag<br>	**能够自动追加整体经验值<br>	**能够自动判断段位增量<br></code></pre></td></tr></table></figure>
+
+<p><code>3.14159.........</code></p>
+<p>:fallen_leaf:</p>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>自动化构建</tag>
+        <tag>系统维护</tag>
+        <tag>商业化潜力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R031-假期项目安排</title>
+    <url>/2021/01/03/R031/</url>
+    <content><![CDATA[<h4 id="一个大胆的计划"><a href="#一个大胆的计划" class="headerlink" title="一个大胆的计划"></a>一个大胆的计划</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 设计艺术品，美在逻辑中</span><br>	** 如何设计一个完美的艺术品是非常考验专业素养、世界观、审美观、价值观的<br>	** <br>	<br><span class="hljs-comment">## 做什么？</span><br>	** 一个个人管理系统：经历管理，让用户看见自己的成长与变化 - 认清楚这个世界<br>	** 经历当中包含了很多信息-将这些信息提取分类出来：这是一个只用于回顾，然后帮助用户提高工作效率的系统。<br>	** 基础功能：用户创建一篇文章，自动加入文章配置[文章标题、背景图片]，写作结束后提取出关键字作为文章标签，根据文章回顾次数动态分配文章经验[经验用于段位和等级的增长]<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="团队的组建"><a href="#团队的组建" class="headerlink" title="团队的组建"></a>团队的组建</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一个团队的用人标准不是智商有多高，而是能对团队产生多少贡献</span><br>	** 最好属于成就导向，有源源不断的动力，如果不是，那么就引导他成为成就导向型<br>	** 服从管理，服从是军人的天职，也是团队高效协作的必要条件<br>	** 能够分清楚事情的轻重缓急，不会因为杂念阻碍核心任务的跟进<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="假期更新hziee-cs-stack"><a href="#假期更新hziee-cs-stack" class="headerlink" title="假期更新hziee_cs_stack"></a>假期更新hziee_cs_stack</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将一年级上册和三年级上册的大部份资料整理发布</span><br>	** 养成好的习惯<br>	** 不懂就写，写清楚了问题就解决了<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="产品设计"><a href="#产品设计" class="headerlink" title="产品设计"></a>产品设计</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 这里可能要设计更多的专业知识</span><br>	** 比如 美术、音乐、地理、历史、生物、数学、物理、化学、神学等等<br>	** 当然更多的是应该分析成功产品的设计案例，多维度研究分析、最好能够复盘<br>	<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="整理自己的大学经历"><a href="#整理自己的大学经历" class="headerlink" title="整理自己的大学经历"></a>整理自己的大学经历</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 个人学习情况的总结绘制</span><br>	** 专业课程<br>	** 习惯培养<br>	** 思维方式<br>	** 神学入门<br>	<br><span class="hljs-comment">## 个人成就的总结绘制</span><br>	** 准确表达<br>	** 领导能力<br>    ** 荣誉经历<br>    ** 写作能力<br>	<br><span class="hljs-comment">## 个人愿景的总结绘制</span><br>	** 数据分析<br>	** 人工智能<br>	** 操作系统<br>	** 数学建模<br>	** VR公司、产品<br>	** 艺术家<br></code></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>假期安排</tag>
+        <tag>产品设计</tag>
+        <tag>团队管理</tag>
       </tags>
   </entry>
   <entry>
@@ -2151,6 +1936,226 @@
       </tags>
   </entry>
   <entry>
+    <title>R033-考研单词L2</title>
+    <url>/2021/01/03/R033/</url>
+    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
+
+<hr>
+<table>
+<thead>
+<tr>
+<th>supersensitive</th>
+<th></th>
+<th>profess</th>
+<th></th>
+<th>precocious</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>supercharge</td>
+<td></td>
+<td>prodigious</td>
+<td></td>
+<td>predict</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudo</td>
+<td></td>
+<td>proclivity</td>
+<td></td>
+<td>predisposition</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudonym</td>
+<td></td>
+<td>procure</td>
+<td></td>
+<td>preoccupation</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudoscience</td>
+<td></td>
+<td>prominent</td>
+<td></td>
+<td>prescient</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudograph</td>
+<td></td>
+<td>prosecute</td>
+<td></td>
+<td>prerogative</td>
+<td></td>
+</tr>
+<tr>
+<td>pro-American</td>
+<td></td>
+<td>prospect</td>
+<td></td>
+<td>postage</td>
+<td></td>
+</tr>
+<tr>
+<td>proslavery</td>
+<td></td>
+<td>provident</td>
+<td></td>
+<td>postoffice</td>
+<td></td>
+</tr>
+<tr>
+<td>proabortionist</td>
+<td></td>
+<td>provoke</td>
+<td></td>
+<td>postcard</td>
+<td></td>
+</tr>
+<tr>
+<td>procrastinate</td>
+<td></td>
+<td>preschool</td>
+<td></td>
+<td>postal</td>
+<td></td>
+</tr>
+<tr>
+<td>procreate</td>
+<td></td>
+<td>prehistory</td>
+<td></td>
+<td>postwar</td>
+<td></td>
+</tr>
+<tr>
+<td>profligate</td>
+<td></td>
+<td>prefix</td>
+<td></td>
+<td>postpone</td>
+<td></td>
+</tr>
+<tr>
+<td>proliferate</td>
+<td></td>
+<td>preposition</td>
+<td></td>
+<td>postgraduate</td>
+<td></td>
+</tr>
+<tr>
+<td>profit</td>
+<td></td>
+<td>prepay</td>
+<td></td>
+<td>postface</td>
+<td></td>
+</tr>
+<tr>
+<td>profuse</td>
+<td></td>
+<td>prebuilt</td>
+<td></td>
+<td>posterior</td>
+<td></td>
+</tr>
+<tr>
+<td>prolific</td>
+<td></td>
+<td>preamble</td>
+<td></td>
+<td>polyandry</td>
+<td></td>
+</tr>
+<tr>
+<td>prosperous</td>
+<td></td>
+<td>precaution</td>
+<td></td>
+<td>polyglot</td>
+<td></td>
+</tr>
+<tr>
+<td>progress</td>
+<td></td>
+<td>precede</td>
+<td></td>
+<td>polyfunctional</td>
+<td></td>
+</tr>
+<tr>
+<td>project</td>
+<td></td>
+<td>precedent</td>
+<td></td>
+<td>perigon</td>
+<td></td>
+</tr>
+<tr>
+<td>prologue</td>
+<td></td>
+<td>precept</td>
+<td></td>
+<td>perimeter</td>
+<td></td>
+</tr>
+<tr>
+<td>promote</td>
+<td></td>
+<td>precinct</td>
+<td></td>
+<td>periphery</td>
+<td></td>
+</tr>
+<tr>
+<td>protrude</td>
+<td></td>
+<td>precipice</td>
+<td></td>
+<td>perfidy</td>
+<td></td>
+</tr>
+<tr>
+<td>propel</td>
+<td></td>
+<td>precipitation</td>
+<td></td>
+<td>perjury</td>
+<td></td>
+</tr>
+<tr>
+<td>proficient</td>
+<td></td>
+<td>precise</td>
+<td></td>
+<td>perfunctory</td>
+<td></td>
+</tr>
+<tr>
+<td>profile</td>
+<td></td>
+<td>preclude</td>
+<td></td>
+<td>perpetrate</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R035-人工智能-初级踩坑</title>
     <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
     <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
@@ -2163,6 +2168,25 @@
       <tags>
         <tag>人工智能</tag>
         <tag>入门资料</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R034-md图标收藏</title>
+    <url>/2021/01/04/R034/</url>
+    <content><![CDATA[<h4 id="四月图标收藏栏"><a href="#四月图标收藏栏" class="headerlink" title="四月图标收藏栏"></a>四月图标收藏栏</h4><p>:fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis:</p>
+<hr>
+<p>:maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf:</p>
+<hr>
+<p>:fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp:</p>
+<hr>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>图案模板</tag>
+        <tag>图标线条</tag>
+        <tag>图形设计</tag>
       </tags>
   </entry>
   <entry>
@@ -2187,48 +2211,6 @@
         <tag>HZIEE-CS-STACK</tag>
         <tag>项目分析</tag>
         <tag>会议大纲</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R034-md图标收藏</title>
-    <url>/2021/01/04/R034/</url>
-    <content><![CDATA[<h4 id="四月图标收藏栏"><a href="#四月图标收藏栏" class="headerlink" title="四月图标收藏栏"></a>四月图标收藏栏</h4><p>:fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis:</p>
-<hr>
-<p>:maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf:</p>
-<hr>
-<p>:fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp::fried_shrimp:</p>
-<hr>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>图案模板</tag>
-        <tag>图标线条</tag>
-        <tag>图形设计</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R038-NULL</title>
-    <url>/2021/01/05/R038/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R039-HZIEE-CS-STACK-初期会议</title>
-    <url>/2021/01/06/R039-HZIEE-CS-STACK-%E5%88%9D%E6%9C%9F%E4%BC%9A%E8%AE%AE/</url>
-    <content><![CDATA[<h4 id="会议目的"><a href="#会议目的" class="headerlink" title="会议目的"></a>会议目的</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 团队成员素查</span><br>	** 认为自己没有时间继续做这个项目，可退出<br>	** 认为做这个项目毫无意义，对自己没有帮助，可退出<br>	** 没有任何理由，可推出<br>	<br><span class="hljs-comment">## 回顾之前做了什么</span><br><span class="hljs-comment">## 传达下一步做什么</span><br>	** <br><span class="hljs-comment">## 下一个项目做什么</span><br>	** <br>	** <br>	** 应用到我们当前的项目：CS-STACK，添加金币经验等级管理<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>团队管理</tag>
-        <tag>HZIEE资料共享项目</tag>
       </tags>
   </entry>
   <entry>
@@ -2501,6 +2483,29 @@
       <tags>
         <tag>英语单词</tag>
         <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R038-NULL</title>
+    <url>/2021/01/05/R038/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>R039-HZIEE-CS-STACK-初期会议</title>
+    <url>/2021/01/06/R039-HZIEE-CS-STACK-%E5%88%9D%E6%9C%9F%E4%BC%9A%E8%AE%AE/</url>
+    <content><![CDATA[<h4 id="会议目的"><a href="#会议目的" class="headerlink" title="会议目的"></a>会议目的</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 团队成员素查</span><br>	** 认为自己没有时间继续做这个项目，可退出<br>	** 认为做这个项目毫无意义，对自己没有帮助，可退出<br>	** 没有任何理由，可推出<br>	<br><span class="hljs-comment">## 回顾之前做了什么</span><br><span class="hljs-comment">## 传达下一步做什么</span><br>	** <br><span class="hljs-comment">## 下一个项目做什么</span><br>	** <br>	** <br>	** 应用到我们当前的项目：CS-STACK，添加金币经验等级管理<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>团队管理</tag>
+        <tag>HZIEE资料共享项目</tag>
       </tags>
   </entry>
   <entry>
@@ -5556,6 +5561,31 @@
 ]]></content>
   </entry>
   <entry>
+    <title>R064-期末讲座与分享</title>
+    <url>/2021/01/16/R064-%E6%9C%9F%E6%9C%AB%E8%AE%B2%E5%BA%A7%E4%B8%8E%E5%88%86%E4%BA%AB/</url>
+    <content><![CDATA[<hr>
+<h5 id="NOTE"><a href="#NOTE" class="headerlink" title="NOTE"></a>NOTE</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># mistakes were made, but not by me</span><br><span class="hljs-comment"># 对于人类来说，一件很可怕的事：忘记</span><br><br>---<br><span class="hljs-comment"># 想讲为什么要培养一个好的习惯，具体案例为[写博客]，讲座流程</span><br><br>---<br>FIND NEXT<br>[https://www.douban.com/doulist/46003/]<br></code></pre></td></tr></table></figure>
+
+<h5 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h5><p>[暗时间]</p>
+<p>[决策与判断]</p>
+<p>[怪诞行为学]</p>
+<p>[错不在我]</p>
+<p>[社会性动物]</p>
+<p>[明天存储更多]</p>
+<p>[与众不同的心理学]</p>
+<p>[找寻逝去的自我]</p>
+<p>[乔布斯传]</p>
+<p>[爱因斯坦传]</p>
+<p>[硅谷钢铁侠]</p>
+<p>[狼图腾]</p>
+<p>[鞋狗]</p>
+<p>[褚时健传]</p>
+<p>[大学之路]</p>
+<p>[浪潮之巅]</p>
+<p>[文明之光]</p>
+]]></content>
+  </entry>
+  <entry>
     <title>R064-考研单词L13</title>
     <url>/2021/01/16/R064-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL13/</url>
     <content><![CDATA[<h4 id="苦难是屈辱还是财富"><a href="#苦难是屈辱还是财富" class="headerlink" title="苦难是屈辱还是财富"></a>苦难是屈辱还是财富</h4><blockquote>
@@ -6947,21 +6977,35 @@
       </tags>
   </entry>
   <entry>
-    <title>T002-关于大学的学习</title>
-    <url>/2021/01/13/T002-%E5%85%B3%E4%BA%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<h4 id="又一次经历这种糟糕的体验"><a href="#又一次经历这种糟糕的体验" class="headerlink" title="又一次经历这种糟糕的体验"></a>又一次经历这种糟糕的体验</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 现在的处境</span><br>	也就是说，你花了三年的时间，还没有搞明白大学该怎样学习或者说，该怎样独立的学习<br>	这种感觉真的他妈的糟糕透顶<br>	你看着这一本本教材，试图强行理解作者在说什么，但是尝试了很多次之后你就习得性无助<br>	你打开教学视频，听了一遍发现自己好像懂了，然后又回来看教材，再次发现还是不知道作者在表达什么，所以究竟是哪里出了问题？？？？<br>	明天考试，今天晚上20:15分你看着以往的试卷题目陷入了沉思，为什么从开学就注定不可避免地事情会停留到三个月后，也就是考试前一天晚上才发现自己三个月以来所做的事情可能是出了很大的问题？<br>	<br>	同样的，是否要等到研究生入学考试前一天晚上你猜发现，从现在就注定不可避免的事情为什么会停留到考试前一天晚上才醒悟过来，然后后悔，然后重蹈覆辙？？？？？<br>	这是耶和华我神给我的提醒。<br></code></pre></td></tr></table></figure>
+    <title>R055-门徒训练N104</title>
+    <url>/2021/01/10/R066-%E9%97%A8%E5%BE%92%E8%AE%AD%E7%BB%83N104/</url>
+    <content><![CDATA[<h4 id="门训课程N104"><a href="#门训课程N104" class="headerlink" title="门训课程N104"></a>门训课程N104</h4><hr>
+<h5 id="课前回顾"><a href="#课前回顾" class="headerlink" title="课前回顾"></a>课前回顾</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 建立稳定的灵修生活</span><br>	**稳行在高处<br>		<span class="hljs-comment">#圣经中所有的行都是向高处</span><br>		<span class="hljs-comment">#整个灵修的目的是让我们认识神，让我们遇见神</span><br>		<br></code></pre></td></tr></table></figure>
 
+<h5 id="读经的生活"><a href="#读经的生活" class="headerlink" title="读经的生活"></a>读经的生活</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 最基本的灵修</span><br>	**1. 读经<br>	**2. 祷告<br></code></pre></td></tr></table></figure>
 
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## A-为什么读圣经如此重要？</span><br><br>	&gt; 圣经都是神所默示的，于教训、督责、使人归正、教导人学义都是有益的，叫属神的人得以完全，预备行各样的善事。[提后3:16-17]<br><br>	圣经的每一句话都是神吹气的，读经一定给我们带来益处，我们都可以借着读经被改变。在神的手中，成为合用的器皿。<br>	<br>	**a. 是生命之粮[太4:4] - [约6:63] - [彼前2:2] - [耶15:16]<br>	<br>	&gt; 人活着不单是靠食物，<br>	&gt; 你的言语是我心中的欢喜快乐<br>	<br>	**b. 认识主和明白神旨意的途径 [约5:39-40] [罗15:4]<br>	<br>	&gt; <br>	<br>	**c. 是我们行路的亮光，是我们人生的智慧 [你的话是我脚的灯，是我路上的光。 诗篇-119]<br>	能使愚人有智慧。能越来越明白神的旨意。<br>	<br>	**d. 是生活的指南 [提后3:16]<br>	<br>	**e. 是教会建造的蓝图 [来8:5]<br>	今天的教会要建筑在神所启示的话语上。<br>	<br>	**f. 是属灵争战的武器<br>	这些都是我们生活的必不可少的。[食物、亮光、地图、指南等等]。有谁造房子不要蓝图呢？谁上战场不带着武器呢？<br>	既然圣经这么重要，为什么不好好读？<br>		<span class="hljs-comment">#看不懂、懒惰、爱世界</span><br>	<br>	<br></code></pre></td></tr></table></figure>
 
-<h4 id="唯一的选择"><a href="#唯一的选择" class="headerlink" title="唯一的选择"></a>唯一的选择</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 无论在你清醒还是迷糊的时候一刻不停的学习，这是唯一的出路</span><br>	** 高等数学<br>	** 考研英语<br>	** 数据结构<br>	** 算法应用<br>	<br>------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 只有拿出该有的态度，你才能到达你该达到的高度</span><br>	从此刻起，像恶疯的狼，一刻不停，为了下一个等级的入场券而努力。<br>	<br>	<br><span class="hljs-comment">## 人是很抗造的</span><br>	如同叠被子一般，日复一日，终有痕迹。<br>	<br></code></pre></td></tr></table></figure>
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## B-读经最重要的两件事</span><br>	**a. 要遇见说话的神<br>	**b. 要让主的话改变我们的生命，影响我们的生活	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 怎样读好圣经</span><br>	**以赛亚书55章2节<br>		让这些logo变成remind，默想-遇见说话的神-让圣经对我说-我侧耳而听 <br>	把自己的心预备好，感谢主。带着渴慕、带着期盼，求主对我们说话，让圣灵带领我们读神的话，听神的话。<br>	&gt; 诗篇19章<br>		[故事1]* 用手套举起圣经-用手举起圣经[把生命放进去，才能高举基督。而不是把圣经举起]。 是否记得昨天读什么？Y 只要你认真读主的话就一定会被改变。[故事2]* 竹篮打水[每一次让水冲洗篮子，它就变干净了]。我们都有各式各样的毛病，但是不要担心，我们可以慢慢改变。万丈高楼平地起，英雄何论出身低。[仆人在此静心听，对我说]。说不出来的温暖、好像有一团火、慢慢温暖我们。--记录下来，化成我们的祷告。<br>	**<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## C-从[太初有道] - 到 [道成肉身]</span><br>	**非常重要的一点<br>	<span class="hljs-comment">#神的话就是生命、就是灵。神的命令就是永生。是生命、是活的。[道 就是神]</span><br>	不要仅仅是遇见经文<br>	**a - 神的话不只是真理，神的话也是永远的生命，更是祂自己。<br>	<br>	**b - 神的话不只是生命，也是使命；我们不知要听道，更是要行道，这也是仇敌的最怕。<br>		这个道理要透过我们个人活出来。<br>		<br>		为什么读不好？就是很多人 - 在神的话语上，没有成为使命，在我们的生活上来改变我们[一定是行出来，改变我们 -- 行出来，改变我们的生命] <br>	要道成肉身-生命被改变，带来的祝福。<br>	行道很多人是靠“外功” - 靠着律法要求自己 <br>	最渴望的是生命里的得胜---------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## D-读经的人与读经之路 - 不只是方法要对，人更要对，态度也要对。</span><br>	**<br>		我们很自然的就是[告诉我怎么做]<br>		《读经之路》 --李渊如[姊妹]弟兄<br>		<span class="hljs-comment"># 怎样成为一个对的人？</span><br>		<br>	**a. 人要对： -每天 在灵里 渴慕地 用信而顺服的态度 认真地读<br>		<span class="hljs-comment"># 你可以今天活在试探中，但要用渴慕的心祷告</span><br>		如果不顺服，那么圣经就是关闭的。如果人对了，你打开圣经就像<span class="hljs-comment">#￥%……*&amp;洪流、光、烈火、平安喜乐</span><br>		<span class="hljs-comment"># 认真 - 笔记 - </span><br>		<br>	**b. 不该有的习惯：<br>		<span class="hljs-comment">#不要主观、断章取义；不要匆促、急躁；不要马虎、随便；不要好奇、钻牛角尖；不要懒散、一曝十寒。</span><br>		<br>	**c. 两种最基本且重要的读经方法：<br>		<span class="hljs-comment"># 生命读经 - 重在享受主，得生命，被喂养[建议每天至少15-30mins]</span><br>		精读-反复思想-遇见神<br>		<span class="hljs-comment"># 熟读圣经 - 重在熟悉主的话，掌握事实，全盘了解[建议：每天至少20-30mins]</span><br>		随身携带主的话，当用各样的智慧把神的话累积在心里。能够在各种场合[讲道、服侍]对症下药、一针见血的帮助别人。<br>		<br>		<span class="hljs-comment">##归纳读经法 - 谁写的、写给谁、背景、写的是什么、在哪里写</span><br>			**解释<br>			**<br>	**d. 解释圣经的基本原则<br>		透过基督这把钥匙，真正读出生命的信息。--<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## E-归纳读经法</span><br>	**三个阶段[释经学]<br>		观察<br>			who、whom、when、<span class="hljs-built_in">where</span>、what<br>		解释<br>			why、how<br>		应用<br>			so what<br>			<br>			读经、读卷、读池[圣灵、十字架、得胜等等专题 - 人物等]<br><br><br>读经的时候如果配上自己写的笔记，那是上好的<br></code></pre></td></tr></table></figure>
 
 ]]></content>
       <tags>
-        <tag>暴怒情绪</tag>
-        <tag>无能为力</tag>
-        <tag>FUCK THE WORLD</tag>
+        <tag>门徒训练</tag>
+        <tag>N104读经的生活</tag>
       </tags>
   </entry>
   <entry>
@@ -6977,6 +7021,24 @@
       <tags>
         <tag>计科专业书单</tag>
         <tag>书籍下载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>T002-关于大学的学习</title>
+    <url>/2021/01/13/T002-%E5%85%B3%E4%BA%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<h4 id="又一次经历这种糟糕的体验"><a href="#又一次经历这种糟糕的体验" class="headerlink" title="又一次经历这种糟糕的体验"></a>又一次经历这种糟糕的体验</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 现在的处境</span><br>	也就是说，你花了三年的时间，还没有搞明白大学该怎样学习或者说，该怎样独立的学习<br>	这种感觉真的他妈的糟糕透顶<br>	你看着这一本本教材，试图强行理解作者在说什么，但是尝试了很多次之后你就习得性无助<br>	你打开教学视频，听了一遍发现自己好像懂了，然后又回来看教材，再次发现还是不知道作者在表达什么，所以究竟是哪里出了问题？？？？<br>	明天考试，今天晚上20:15分你看着以往的试卷题目陷入了沉思，为什么从开学就注定不可避免地事情会停留到三个月后，也就是考试前一天晚上才发现自己三个月以来所做的事情可能是出了很大的问题？<br>	<br>	同样的，是否要等到研究生入学考试前一天晚上你猜发现，从现在就注定不可避免的事情为什么会停留到考试前一天晚上才醒悟过来，然后后悔，然后重蹈覆辙？？？？？<br>	这是耶和华我神给我的提醒。<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="唯一的选择"><a href="#唯一的选择" class="headerlink" title="唯一的选择"></a>唯一的选择</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 无论在你清醒还是迷糊的时候一刻不停的学习，这是唯一的出路</span><br>	** 高等数学<br>	** 考研英语<br>	** 数据结构<br>	** 算法应用<br>	<br>------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 只有拿出该有的态度，你才能到达你该达到的高度</span><br>	从此刻起，像恶疯的狼，一刻不停，为了下一个等级的入场券而努力。<br>	<br>	<br><span class="hljs-comment">## 人是很抗造的</span><br>	如同叠被子一般，日复一日，终有痕迹。<br>	<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>暴怒情绪</tag>
+        <tag>无能为力</tag>
+        <tag>FUCK THE WORLD</tag>
       </tags>
   </entry>
   <entry>

@@ -103,6 +103,28 @@
       </tags>
   </entry>
   <entry>
+    <title>I003-我学到了什么</title>
+    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
+    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
+<blockquote>
+<p>回收多年的学习生涯，在看看当前的自己：</p>
+<p>不会写作</p>
+<p>不会阅读</p>
+<p>不会演讲</p>
+<p>不会语言</p>
+<p>那么这么多年我们在学习什么呢？</p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>深度思考</tag>
+        <tag>我在做什么</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>I001-战争军事</title>
     <url>/2021/01/04/I001-%E6%88%98%E4%BA%89%E5%86%9B%E4%BA%8B/</url>
     <content><![CDATA[<h4 id="克隆另一个自己"><a href="#克隆另一个自己" class="headerlink" title="克隆另一个自己"></a>克隆另一个自己</h4><hr>
@@ -155,28 +177,6 @@
         <tag>个人管理系统</tag>
         <tag>项目设计</tag>
         <tag>项目管理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>I003-我学到了什么</title>
-    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
-    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
-<blockquote>
-<p>回收多年的学习生涯，在看看当前的自己：</p>
-<p>不会写作</p>
-<p>不会阅读</p>
-<p>不会演讲</p>
-<p>不会语言</p>
-<p>那么这么多年我们在学习什么呢？</p>
-</blockquote>
-<hr>
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>深度思考</tag>
-        <tag>我在做什么</tag>
       </tags>
   </entry>
   <entry>
@@ -482,6 +482,20 @@
       </tags>
   </entry>
   <entry>
+    <title>R003</title>
+    <url>/2020/12/15/R003/</url>
+    <content><![CDATA[<hr>
+<figure class="highlight csharp"><table><tr><td class="code"><pre><code class="hljs csharp"><span class="hljs-meta">## 如何让故事更加真实、可触摸？</span><br>	一位脾气暴躁的姐妹，有一天走在路上，突然不知道从什么地方飞过来一个马铃薯砸在她头上。她顿时火冒三丈，捡起马铃薯准备寻找元凶报仇，突然一个声音在她脑中想起：已经是门徒了，还是没有改变吗？<br>	她愤怒立刻消去，也不再寻找扔她的人了，转身拿起马铃薯，回到家中，把这个马铃薯切成碎片。然后种植在架子上。几个月之后，马铃薯一颗颗长出来了。等到见证之时，马铃薯可以送出去，又养成新的马铃薯。<br>	<br>	[<span class="hljs-meta">故事本身很简单，但是故事的寓意和提示深远悠长</span>]<br>	[<span class="hljs-meta">用行动赋予故事意义</span>]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>blub</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R004</title>
     <url>/2020/12/15/R004/</url>
     <content><![CDATA[<h4 id="机遇与挑战"><a href="#机遇与挑战" class="headerlink" title="机遇与挑战"></a>机遇与挑战</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 国家的机遇与挑战<br><span class="hljs-comment">	*历史潮流</span><br><span class="hljs-comment">	*马克思理论</span><br><span class="hljs-comment">	*变化与发展</span><br><br>## 个人的机遇与挑战<br><br><span class="hljs-comment">	*旁征博引</span><br><span class="hljs-comment">	*古今中外</span><br><span class="hljs-comment">	*排比设问</span><br>	<br>	--------------<br><span class="hljs-comment">	*认识与实践</span><br><span class="hljs-comment">	*认识世界与改造世界</span><br>	---------------<br></code></pre></td></tr></table></figure>
@@ -497,6 +511,24 @@
         <tag>形势与政策</tag>
         <tag>百年大变局之下大学生的思考</tag>
         <tag>写作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R005</title>
+    <url>/2020/12/16/R005/</url>
+    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>考研安排</tag>
+        <tag>思维导图</tag>
+        <tag>考研索引</tag>
       </tags>
   </entry>
   <entry>
@@ -519,24 +551,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R005</title>
-    <url>/2020/12/16/R005/</url>
-    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>考研安排</tag>
-        <tag>思维导图</tag>
-        <tag>考研索引</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R007</title>
     <url>/2020/12/16/R007/</url>
     <content><![CDATA[<h4 id=""><a href="#" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>www.mi.com<span class="hljs-regexp">/miwifimini 		/</span><span class="hljs-regexp">/ MI</span><br></code></pre></td></tr></table></figure>
@@ -549,103 +563,6 @@
       </categories>
       <tags>
         <tag>MI</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R003</title>
-    <url>/2020/12/15/R003/</url>
-    <content><![CDATA[<hr>
-<figure class="highlight csharp"><table><tr><td class="code"><pre><code class="hljs csharp"><span class="hljs-meta">## 如何让故事更加真实、可触摸？</span><br>	一位脾气暴躁的姐妹，有一天走在路上，突然不知道从什么地方飞过来一个马铃薯砸在她头上。她顿时火冒三丈，捡起马铃薯准备寻找元凶报仇，突然一个声音在她脑中想起：已经是门徒了，还是没有改变吗？<br>	她愤怒立刻消去，也不再寻找扔她的人了，转身拿起马铃薯，回到家中，把这个马铃薯切成碎片。然后种植在架子上。几个月之后，马铃薯一颗颗长出来了。等到见证之时，马铃薯可以送出去，又养成新的马铃薯。<br>	<br>	[<span class="hljs-meta">故事本身很简单，但是故事的寓意和提示深远悠长</span>]<br>	[<span class="hljs-meta">用行动赋予故事意义</span>]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>blub</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R009</title>
-    <url>/2020/12/17/R009/</url>
-    <content><![CDATA[<h4 id="提前准备"><a href="#提前准备" class="headerlink" title="提前准备"></a>提前准备</h4><figure class="highlight gams"><table><tr><td class="code"><pre><code class="hljs gams"><span class="hljs-comment">**企业管理的工具、方法</span><br><span class="hljs-comment">**财务、人力、研发</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>企业管理</tag>
-        <tag>未雨绸缪</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R011</title>
-    <url>/2020/12/18/R011/</url>
-    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>演讲的艺术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R010</title>
-    <url>/2020/12/17/R010/</url>
-    <content><![CDATA[<h4 id="项目说明"><a href="#项目说明" class="headerlink" title="项目说明"></a>项目说明</h4><blockquote>
-<p>四月决定记录下每一天发生的成长瞬间，学习笔记，突发灵感</p>
-<p>但是繁琐的创建文件步骤，让人头大，于是有了自动化脚本，就像下面</p>
-<figure class="highlight elixir"><table><tr><td class="code"><pre><code class="hljs elixir">---&gt; 使用python下载图片链接<br>---&gt; 使用sed提取出第一条图片链接<br>---&gt; 新建一篇文章[参数为文章名] - <span class="hljs-symbol">LIKE:</span> `create R001`<br>---&gt; 打开文章所在目录::或者-&gt; 打开新建的文章<br></code></pre></td></tr></table></figure>
-
-
-</blockquote>
-<p><code>打开指定目录或者软件</code></p>
-<figure class="highlight bat"><table><tr><td class="code"><pre><code class="hljs bat">@<span class="hljs-keyword">if</span> &quot;%<span class="hljs-number">1</span>&quot; == &quot;bat&quot; <span class="hljs-keyword">GOTO</span> BAT<br><br>:BAT<br><span class="hljs-built_in">start</span> E:\home\shadow\hziee\<span class="hljs-number">24</span>-Stack\works\<br></code></pre></td></tr></table></figure>
-
-<p><code>简单的使用hexo创建文章</code></p>
-<figure class="highlight bat"><table><tr><td class="code"><pre><code class="hljs bat"><span class="hljs-built_in">start</span> E:\shadowworkspace.github.io\source\_posts<br><span class="hljs-built_in">cd</span> /d &quot;E:\shadowworkspace.github.io\source\_posts&quot;<br>hexo new post %<span class="hljs-number">1</span><br>sed -i &#x27;<span class="hljs-number">4</span>i \    TOP&#x27; %<span class="hljs-number">1</span>.<span class="hljs-built_in">md</span><br></code></pre></td></tr></table></figure>
-
-<h4 id="进度追踪"><a href="#进度追踪" class="headerlink" title="进度追踪"></a>进度追踪</h4><blockquote>
-<p>创建的文章要有一个好看的封面，也要自动插入。今天的四月综合了网友们提供的python脚本，把wallheven的图片地址拿下来，通过sed和awk插入。</p>
-</blockquote>
-<hr>
-<p><code>爬取图片地址的脚本[可以直接下载到本地]</code>缺啥就安装啥[pip环境变量、request、bs4等]</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># coding=utf-8</span><br><span class="hljs-keyword">import</span> requests<br><span class="hljs-keyword">import</span> re<br><span class="hljs-keyword">import</span> time<br><span class="hljs-keyword">from</span> bs4 <span class="hljs-keyword">import</span> BeautifulSoup <br><br><br><span class="hljs-string">&#x27;&#x27;&#x27;</span><br><span class="hljs-string">总思路：</span><br><span class="hljs-string">0.在”https://wallhaven.cc/toplist“加“?page=页数”可进行翻页</span><br><span class="hljs-string">1.使用Chrome开发工具，发现在主页有两种图片的url，一个为缩略图可直接下载，一个为原图，需要进入下载。此次选择下载原图。</span><br><span class="hljs-string">2.观察网页源代码，原图url在&lt;a class=&quot;perview&quot;&gt;中，使用BeautifulSoup和正则表达式获取ID。</span><br><span class="hljs-string">3.获取ID后进入单图片页面，发现有3个带有&lt;img&gt;标签的片段，其中第三个片段的src为图片下载url。</span><br><span class="hljs-string">4.获取下载url后便可下载到制定文件夹中。</span><br><span class="hljs-string">&#x27;&#x27;&#x27;</span><br><br><span class="hljs-string">&#x27;&#x27;&#x27;</span><br><span class="hljs-string">函数说明：</span><br><span class="hljs-string">getPic_ID()：获取每张图的ID</span><br><span class="hljs-string">getPic_HTML()：获取每张图的url</span><br><span class="hljs-string">Download():根据url下载并保存图片</span><br><span class="hljs-string">&#x27;&#x27;&#x27;</span><br><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">getPic_ID</span>(<span class="hljs-params">pic_id, page, header</span>):</span><br>    url = <span class="hljs-string">&quot;https://wallhaven.cc/hot?page=&quot;</span>+<span class="hljs-built_in">str</span>(page) <br>    <br>    r = requests.get(url = url,headers = header,verify = <span class="hljs-literal">False</span>)<br>    soup = BeautifulSoup(r.text, <span class="hljs-string">&#x27;html.parser&#x27;</span>)<br>    <span class="hljs-keyword">for</span> tag <span class="hljs-keyword">in</span> soup.find_all(<span class="hljs-string">&quot;a&quot;</span>,class_=<span class="hljs-string">&quot;preview&quot;</span>):<br>        picURL = re.findall(<span class="hljs-string">&#x27;href=&quot;https://wallhaven.cc/w/(.*?)&quot;&#x27;</span>,<span class="hljs-built_in">str</span>(tag))<br>        pic_id.append(picURL[<span class="hljs-number">0</span>]) <span class="hljs-comment">#findall元素问列表，我们的目的是存储str类型的id</span><br>    print(pic_id)<br>    <span class="hljs-keyword">return</span> pic_id<br>    <br><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">getPic_HTML</span>(<span class="hljs-params">picHTML, pic_id, page, header</span>):</span><br>    <span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-built_in">len</span>(pic_id)):<br>        pic_url2=<span class="hljs-string">&#x27;https://wallhaven.cc/w/&#x27;</span>+pic_id[i]<br>        <span class="hljs-keyword">try</span>:<br>            r = requests.get(url = pic_url2, headers = header,verify = <span class="hljs-literal">False</span>)<br>            <span class="hljs-comment">#print(r.text)</span><br>            soup = BeautifulSoup(r.text, <span class="hljs-string">&#x27;html.parser&#x27;</span>)<br>            items = soup.find_all(<span class="hljs-string">&#x27;img&#x27;</span>)<br>            picHTML.append(items[<span class="hljs-number">2</span>].attrs[<span class="hljs-string">&#x27;src&#x27;</span>]) <span class="hljs-comment">#第3个&lt;img&gt;是可下载的url</span><br>            print(<span class="hljs-string">&quot;第&quot;</span>+<span class="hljs-built_in">str</span>(page)+<span class="hljs-string">&quot;页第&quot;</span>+<span class="hljs-built_in">str</span>(i)+<span class="hljs-string">&quot;张图片url获取成功&quot;</span>)<br>        <span class="hljs-keyword">except</span>:<br>            print(<span class="hljs-string">&quot;第&quot;</span>+<span class="hljs-built_in">str</span>(page)+<span class="hljs-string">&quot;页第&quot;</span>+<span class="hljs-built_in">str</span>(i)+<span class="hljs-string">&quot;张图片url获取失败&quot;</span>)<br>    <br>    <span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-built_in">len</span>(picHTML)):<br>        print(picHTML[i])<br>    <span class="hljs-keyword">return</span> picHTML<br><br><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">Download</span>(<span class="hljs-params">picHTML, page</span>):</span><br>    path = <span class="hljs-string">&#x27;E:/image/&#x27;</span> <span class="hljs-comment">#路径自行设定</span><br>    <span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-built_in">len</span>(picHTML)):<br>        html = picHTML[i]<br>        img_name = path + <span class="hljs-built_in">str</span>(page)+<span class="hljs-string">&quot;-&quot;</span>+<span class="hljs-built_in">str</span>(i)+<span class="hljs-string">&#x27;.png&#x27;</span> <span class="hljs-comment">#图片名称</span><br>        <span class="hljs-keyword">try</span>:<br>            data = requests.get(picHTML[i])<br>            <span class="hljs-keyword">with</span> <span class="hljs-built_in">open</span>(img_name, <span class="hljs-string">&#x27;wb&#x27;</span>) <span class="hljs-keyword">as</span> file:<br>                file.write(data.content)<br>                file.flush()<br>            print(<span class="hljs-string">&quot;第&quot;</span>+<span class="hljs-built_in">str</span>(page)+<span class="hljs-string">&quot;页第&quot;</span>+<span class="hljs-built_in">str</span>(i)+<span class="hljs-string">&quot;张图片下载完成&quot;</span>)<br>        <span class="hljs-keyword">except</span>:<br>            print(<span class="hljs-string">&quot;第&quot;</span>+<span class="hljs-built_in">str</span>(page)+<span class="hljs-string">&quot;页第&quot;</span>+<span class="hljs-built_in">str</span>(i)+<span class="hljs-string">&quot;张图片下载失败&quot;</span>)<br>    print(<span class="hljs-string">&quot;第&quot;</span>+<span class="hljs-built_in">str</span>(page)+<span class="hljs-string">&quot;页爬取完成&quot;</span>)<br>    <br><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">main</span>():</span><br>    header = &#123;<br>        <span class="hljs-string">&#x27;User-Agent&#x27;</span>: <span class="hljs-string">&#x27;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1&#x27;</span><br>        &#125;<br>    <span class="hljs-keyword">for</span> page <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">1</span>,<span class="hljs-number">6</span>):<span class="hljs-comment">#此为1~5页，自行设定</span><br>        pic_id = [] <span class="hljs-comment">#每张图片的id列表</span><br>        picHTML = [] <span class="hljs-comment">#每张图片的下载url列表</span><br>        getPic_ID(pic_id, page, header)<br>        getPic_HTML(picHTML, pic_id, page, header)<br><span class="hljs-comment">#        Download(picHTML, page)</span><br>    <br>main()<br><br><br></code></pre></td></tr></table></figure>
-
-<p><code>自动插入图片地址的实现</code></p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 首先准备好：</span><br>	**图片地址文件 [cover_src.database]<br>	**临时转移文件 [transor]<br>	**目标文件	  [target]<br>	<br><span class="hljs-comment">## 然后测试：</span><br>	ET: sed -i <span class="hljs-string">&#x27;2r ferryman&#x27;</span> b.html //将ferryman的内容追加到b.html第二行之后<br>	*将文件A的第一行取出并插入到文件C的第一行<br>	ET: sed -n 111,125p a.html &gt;&gt; ferryman //将a.html的111~125行输出至ferryman<br>	AN: sed -n 1,1p cover_src.database &gt;&gt; transor<br>	*删除文件A的第一行<br>	AN: sed -i <span class="hljs-string">&#x27;1d&#x27;</span> cover_src.database		<br>	<br>	*将文件C的内容追加到文件B的指定行<br>	<span class="hljs-comment">#// 见鬼，sed无法插入空文件 --&gt; 转化一下，插入之前添加内容，插入后删除:NICE</span><br>	AN: <span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;TOP&quot;</span> &gt;&gt; target<br>	AN: sed -i <span class="hljs-string">&#x27;1r transor&#x27;</span> target<br>	AN: sed -i <span class="hljs-string">&#x27;1d&#x27;</span> target<br>	<br>	<span class="hljs-comment"># 修正：在新建文章之前对文章头部模板更新</span><br>	<span class="hljs-comment"># 在每一行前插入：</span><br>	AN: sed -i <span class="hljs-string">&#x27;s/^/cover: &amp;/g&#x27;</span> cover_src.database<br>	<br>	<span class="hljs-comment">## Q1: 命令执行后自动退出</span><br>	<span class="hljs-comment">## A1: 使用延迟执行和并发执行解决冲突</span><br>	<br></code></pre></td></tr></table></figure>
-
-<h4 id="到达彼岸"><a href="#到达彼岸" class="headerlink" title="到达彼岸"></a>到达彼岸</h4><blockquote>
-<p>这不是终点，而是新的征程。站在巨人的肩膀上……</p>
-</blockquote>
-<p>项目涉及的所有文件：</p>
-<p><code>create.bat</code></p>
-<figure class="highlight bat"><table><tr><td class="code"><pre><code class="hljs bat">@<span class="hljs-built_in">echo</span> off<br><span class="hljs-built_in">start</span> delay.bat %<span class="hljs-number">1</span><br><span class="hljs-built_in">start</span> E:\shadowworkspace.github.io\source\_posts<br><span class="hljs-built_in">cd</span> /d &quot;E:\shadowworkspace.github.io\source\_posts&quot;<br>hexo new post %<span class="hljs-number">1</span><br></code></pre></td></tr></table></figure>
-
-<p><code>delay.bat</code></p>
-<figure class="highlight bat"><table><tr><td class="code"><pre><code class="hljs bat">@<span class="hljs-built_in">echo</span> off<br>::<span class="hljs-built_in">set</span> /p delay=please input delay:<br><span class="hljs-built_in">set</span> delay=<span class="hljs-number">3000</span><br><span class="hljs-built_in">set</span> TotalTime=<span class="hljs-number">0</span><br><span class="hljs-built_in">set</span> NowTime=<span class="hljs-variable">%time%</span><br>::读取起始时间，时间格式为：<span class="hljs-number">13</span>:<span class="hljs-number">01</span>:<span class="hljs-number">05</span>.<span class="hljs-number">95</span><br><span class="hljs-built_in">echo</span> <span class="hljs-built_in">start</span> <span class="hljs-built_in">time</span>: <span class="hljs-variable">%NowTime%</span><br>:delay_continue<br><span class="hljs-built_in">set</span> /a minute1=<span class="hljs-number">1</span><span class="hljs-variable">%NowTime:~3,2%</span>-<span class="hljs-number">100</span><br>::读取起始时间的分钟数<br><span class="hljs-built_in">set</span> /a second1=<span class="hljs-number">1</span><span class="hljs-variable">%NowTime:~-5,2%</span><span class="hljs-variable">%NowTime:~-2%</span><span class="hljs-number">0</span>-<span class="hljs-number">100000</span><br>::将起始时间的秒数转为毫秒<br><span class="hljs-built_in">set</span> NowTime=<span class="hljs-variable">%time%</span><br><span class="hljs-built_in">set</span> /a minute2=<span class="hljs-number">1</span><span class="hljs-variable">%NowTime:~3,2%</span>-<span class="hljs-number">100</span><br>:: 读取现在时间的分钟数<br><span class="hljs-built_in">set</span> /a second2=<span class="hljs-number">1</span><span class="hljs-variable">%NowTime:~-5,2%</span><span class="hljs-variable">%NowTime:~-2%</span><span class="hljs-number">0</span>-<span class="hljs-number">100000</span><br>::将现在时间的秒数转为毫秒<br><span class="hljs-built_in">set</span> /a TotalTime+=(<span class="hljs-variable">%minute2%</span>-<span class="hljs-variable">%minute1%</span>+<span class="hljs-number">60</span>)<span class="hljs-variable">%%6</span>0*<span class="hljs-number">60000</span>+<span class="hljs-variable">%second2%</span>-<span class="hljs-variable">%second1%</span><br><span class="hljs-keyword">if</span> <span class="hljs-variable">%TotalTime%</span> <span class="hljs-keyword">lss</span> <span class="hljs-variable">%delay%</span> <span class="hljs-keyword">goto</span> delay_continue<br><span class="hljs-built_in">echo</span> processing end：<span class="hljs-variable">%time%</span><br><span class="hljs-built_in">echo</span> want to delay: <span class="hljs-variable">%delay%</span>ms<br><span class="hljs-built_in">echo</span> real delay: <span class="hljs-variable">%TotalTime%</span>ms<br><br>::为了避免冲突选择延迟<span class="hljs-number">3</span>s<br>::-----------------------------------------------------------------------<br>::进入存放图片引用链接的文件夹，提取第一条记录[url]插入到新建的文章里<br><span class="hljs-built_in">cd</span> /d &quot;E:\shadowworkspace.github.io\source\_posts\source&quot;<br>true &gt; transor<br><span class="hljs-built_in">echo</span> &quot;TOP&quot; &gt;&gt; transor<br>sed -n <span class="hljs-number">1</span>,<span class="hljs-number">1</span>p cover_src.database &gt;&gt; transor<br><span class="hljs-built_in">echo</span> transor db done<br>sed -i &#x27;<span class="hljs-number">1</span>d&#x27; cover_src.database<br><span class="hljs-built_in">echo</span> delete csdb line <span class="hljs-number">1</span> done<br>sed -i &#x27;<span class="hljs-number">1</span>d&#x27; transor<br><span class="hljs-built_in">echo</span> delete transor <span class="hljs-number">1</span> done<br>sed -i &#x27;<span class="hljs-number">4</span>r transor&#x27; ..\%<span class="hljs-number">1</span>.<span class="hljs-built_in">md</span><br><span class="hljs-built_in">echo</span> insert target done<br>sed -i &#x27;<span class="hljs-number">1</span>d&#x27; transor<br><span class="hljs-built_in">echo</span> remove transor content done<br><br>::-----------------------------------------------------------------------<br>::那就直接使用typora打开新建的文章好了<br><span class="hljs-built_in">start</span> &quot;C:\Program Files\Typora\Typora.exe&quot; E:\shadowworkspace.github.io\source\_posts\%<span class="hljs-number">1</span>.<span class="hljs-built_in">md</span> <br><span class="hljs-keyword">exit</span><br></code></pre></td></tr></table></figure>
-
-<p><code>transor</code></p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><code class="hljs yaml"><span class="hljs-literal">NULL</span><br></code></pre></td></tr></table></figure>
-
-<p><code>cover_src.database</code></p>
-<figure class="highlight html"><table><tr><td class="code"><pre><code class="hljs html">cover: https://w.wallhaven.cc/full/9m/wallhaven-9m5kek.jpg<br>cover: https://w.wallhaven.cc/full/q2/wallhaven-q2dpyq.jpg<br>cover: https://w.wallhaven.cc/full/1k/wallhaven-1kjogg.jpg<br>cover: https://w.wallhaven.cc/full/8o/wallhaven-8oxp52.jpg<br></code></pre></td></tr></table></figure>
-
-<h4 id="项目小结"><a href="#项目小结" class="headerlink" title="项目小结"></a>项目小结</h4><blockquote>
-<p>项目其实并没有花费太多的时间，这次创作是我的bat编写还有sed的使用更上一层。Well done!</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>bat</tag>
-        <tag>sed</tag>
-        <tag>利刃计划</tag>
       </tags>
   </entry>
   <entry>
@@ -704,6 +621,89 @@
       <tags>
         <tag>计算机组成原理</tag>
         <tag>考试内容</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R009</title>
+    <url>/2020/12/17/R009/</url>
+    <content><![CDATA[<h4 id="提前准备"><a href="#提前准备" class="headerlink" title="提前准备"></a>提前准备</h4><figure class="highlight gams"><table><tr><td class="code"><pre><code class="hljs gams"><span class="hljs-comment">**企业管理的工具、方法</span><br><span class="hljs-comment">**财务、人力、研发</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>企业管理</tag>
+        <tag>未雨绸缪</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R010</title>
+    <url>/2020/12/17/R010/</url>
+    <content><![CDATA[<h4 id="项目说明"><a href="#项目说明" class="headerlink" title="项目说明"></a>项目说明</h4><blockquote>
+<p>四月决定记录下每一天发生的成长瞬间，学习笔记，突发灵感</p>
+<p>但是繁琐的创建文件步骤，让人头大，于是有了自动化脚本，就像下面</p>
+<figure class="highlight elixir"><table><tr><td class="code"><pre><code class="hljs elixir">---&gt; 使用python下载图片链接<br>---&gt; 使用sed提取出第一条图片链接<br>---&gt; 新建一篇文章[参数为文章名] - <span class="hljs-symbol">LIKE:</span> `create R001`<br>---&gt; 打开文章所在目录::或者-&gt; 打开新建的文章<br></code></pre></td></tr></table></figure>
+
+
+</blockquote>
+<p><code>打开指定目录或者软件</code></p>
+<figure class="highlight bat"><table><tr><td class="code"><pre><code class="hljs bat">@<span class="hljs-keyword">if</span> &quot;%<span class="hljs-number">1</span>&quot; == &quot;bat&quot; <span class="hljs-keyword">GOTO</span> BAT<br><br>:BAT<br><span class="hljs-built_in">start</span> E:\home\shadow\hziee\<span class="hljs-number">24</span>-Stack\works\<br></code></pre></td></tr></table></figure>
+
+<p><code>简单的使用hexo创建文章</code></p>
+<figure class="highlight bat"><table><tr><td class="code"><pre><code class="hljs bat"><span class="hljs-built_in">start</span> E:\shadowworkspace.github.io\source\_posts<br><span class="hljs-built_in">cd</span> /d &quot;E:\shadowworkspace.github.io\source\_posts&quot;<br>hexo new post %<span class="hljs-number">1</span><br>sed -i &#x27;<span class="hljs-number">4</span>i \    TOP&#x27; %<span class="hljs-number">1</span>.<span class="hljs-built_in">md</span><br></code></pre></td></tr></table></figure>
+
+<h4 id="进度追踪"><a href="#进度追踪" class="headerlink" title="进度追踪"></a>进度追踪</h4><blockquote>
+<p>创建的文章要有一个好看的封面，也要自动插入。今天的四月综合了网友们提供的python脚本，把wallheven的图片地址拿下来，通过sed和awk插入。</p>
+</blockquote>
+<hr>
+<p><code>爬取图片地址的脚本[可以直接下载到本地]</code>缺啥就安装啥[pip环境变量、request、bs4等]</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># coding=utf-8</span><br><span class="hljs-keyword">import</span> requests<br><span class="hljs-keyword">import</span> re<br><span class="hljs-keyword">import</span> time<br><span class="hljs-keyword">from</span> bs4 <span class="hljs-keyword">import</span> BeautifulSoup <br><br><br><span class="hljs-string">&#x27;&#x27;&#x27;</span><br><span class="hljs-string">总思路：</span><br><span class="hljs-string">0.在”https://wallhaven.cc/toplist“加“?page=页数”可进行翻页</span><br><span class="hljs-string">1.使用Chrome开发工具，发现在主页有两种图片的url，一个为缩略图可直接下载，一个为原图，需要进入下载。此次选择下载原图。</span><br><span class="hljs-string">2.观察网页源代码，原图url在&lt;a class=&quot;perview&quot;&gt;中，使用BeautifulSoup和正则表达式获取ID。</span><br><span class="hljs-string">3.获取ID后进入单图片页面，发现有3个带有&lt;img&gt;标签的片段，其中第三个片段的src为图片下载url。</span><br><span class="hljs-string">4.获取下载url后便可下载到制定文件夹中。</span><br><span class="hljs-string">&#x27;&#x27;&#x27;</span><br><br><span class="hljs-string">&#x27;&#x27;&#x27;</span><br><span class="hljs-string">函数说明：</span><br><span class="hljs-string">getPic_ID()：获取每张图的ID</span><br><span class="hljs-string">getPic_HTML()：获取每张图的url</span><br><span class="hljs-string">Download():根据url下载并保存图片</span><br><span class="hljs-string">&#x27;&#x27;&#x27;</span><br><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">getPic_ID</span>(<span class="hljs-params">pic_id, page, header</span>):</span><br>    url = <span class="hljs-string">&quot;https://wallhaven.cc/hot?page=&quot;</span>+<span class="hljs-built_in">str</span>(page) <br>    <br>    r = requests.get(url = url,headers = header,verify = <span class="hljs-literal">False</span>)<br>    soup = BeautifulSoup(r.text, <span class="hljs-string">&#x27;html.parser&#x27;</span>)<br>    <span class="hljs-keyword">for</span> tag <span class="hljs-keyword">in</span> soup.find_all(<span class="hljs-string">&quot;a&quot;</span>,class_=<span class="hljs-string">&quot;preview&quot;</span>):<br>        picURL = re.findall(<span class="hljs-string">&#x27;href=&quot;https://wallhaven.cc/w/(.*?)&quot;&#x27;</span>,<span class="hljs-built_in">str</span>(tag))<br>        pic_id.append(picURL[<span class="hljs-number">0</span>]) <span class="hljs-comment">#findall元素问列表，我们的目的是存储str类型的id</span><br>    print(pic_id)<br>    <span class="hljs-keyword">return</span> pic_id<br>    <br><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">getPic_HTML</span>(<span class="hljs-params">picHTML, pic_id, page, header</span>):</span><br>    <span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-built_in">len</span>(pic_id)):<br>        pic_url2=<span class="hljs-string">&#x27;https://wallhaven.cc/w/&#x27;</span>+pic_id[i]<br>        <span class="hljs-keyword">try</span>:<br>            r = requests.get(url = pic_url2, headers = header,verify = <span class="hljs-literal">False</span>)<br>            <span class="hljs-comment">#print(r.text)</span><br>            soup = BeautifulSoup(r.text, <span class="hljs-string">&#x27;html.parser&#x27;</span>)<br>            items = soup.find_all(<span class="hljs-string">&#x27;img&#x27;</span>)<br>            picHTML.append(items[<span class="hljs-number">2</span>].attrs[<span class="hljs-string">&#x27;src&#x27;</span>]) <span class="hljs-comment">#第3个&lt;img&gt;是可下载的url</span><br>            print(<span class="hljs-string">&quot;第&quot;</span>+<span class="hljs-built_in">str</span>(page)+<span class="hljs-string">&quot;页第&quot;</span>+<span class="hljs-built_in">str</span>(i)+<span class="hljs-string">&quot;张图片url获取成功&quot;</span>)<br>        <span class="hljs-keyword">except</span>:<br>            print(<span class="hljs-string">&quot;第&quot;</span>+<span class="hljs-built_in">str</span>(page)+<span class="hljs-string">&quot;页第&quot;</span>+<span class="hljs-built_in">str</span>(i)+<span class="hljs-string">&quot;张图片url获取失败&quot;</span>)<br>    <br>    <span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-built_in">len</span>(picHTML)):<br>        print(picHTML[i])<br>    <span class="hljs-keyword">return</span> picHTML<br><br><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">Download</span>(<span class="hljs-params">picHTML, page</span>):</span><br>    path = <span class="hljs-string">&#x27;E:/image/&#x27;</span> <span class="hljs-comment">#路径自行设定</span><br>    <span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-built_in">len</span>(picHTML)):<br>        html = picHTML[i]<br>        img_name = path + <span class="hljs-built_in">str</span>(page)+<span class="hljs-string">&quot;-&quot;</span>+<span class="hljs-built_in">str</span>(i)+<span class="hljs-string">&#x27;.png&#x27;</span> <span class="hljs-comment">#图片名称</span><br>        <span class="hljs-keyword">try</span>:<br>            data = requests.get(picHTML[i])<br>            <span class="hljs-keyword">with</span> <span class="hljs-built_in">open</span>(img_name, <span class="hljs-string">&#x27;wb&#x27;</span>) <span class="hljs-keyword">as</span> file:<br>                file.write(data.content)<br>                file.flush()<br>            print(<span class="hljs-string">&quot;第&quot;</span>+<span class="hljs-built_in">str</span>(page)+<span class="hljs-string">&quot;页第&quot;</span>+<span class="hljs-built_in">str</span>(i)+<span class="hljs-string">&quot;张图片下载完成&quot;</span>)<br>        <span class="hljs-keyword">except</span>:<br>            print(<span class="hljs-string">&quot;第&quot;</span>+<span class="hljs-built_in">str</span>(page)+<span class="hljs-string">&quot;页第&quot;</span>+<span class="hljs-built_in">str</span>(i)+<span class="hljs-string">&quot;张图片下载失败&quot;</span>)<br>    print(<span class="hljs-string">&quot;第&quot;</span>+<span class="hljs-built_in">str</span>(page)+<span class="hljs-string">&quot;页爬取完成&quot;</span>)<br>    <br><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">main</span>():</span><br>    header = &#123;<br>        <span class="hljs-string">&#x27;User-Agent&#x27;</span>: <span class="hljs-string">&#x27;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1&#x27;</span><br>        &#125;<br>    <span class="hljs-keyword">for</span> page <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">1</span>,<span class="hljs-number">6</span>):<span class="hljs-comment">#此为1~5页，自行设定</span><br>        pic_id = [] <span class="hljs-comment">#每张图片的id列表</span><br>        picHTML = [] <span class="hljs-comment">#每张图片的下载url列表</span><br>        getPic_ID(pic_id, page, header)<br>        getPic_HTML(picHTML, pic_id, page, header)<br><span class="hljs-comment">#        Download(picHTML, page)</span><br>    <br>main()<br><br><br></code></pre></td></tr></table></figure>
+
+<p><code>自动插入图片地址的实现</code></p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 首先准备好：</span><br>	**图片地址文件 [cover_src.database]<br>	**临时转移文件 [transor]<br>	**目标文件	  [target]<br>	<br><span class="hljs-comment">## 然后测试：</span><br>	ET: sed -i <span class="hljs-string">&#x27;2r ferryman&#x27;</span> b.html //将ferryman的内容追加到b.html第二行之后<br>	*将文件A的第一行取出并插入到文件C的第一行<br>	ET: sed -n 111,125p a.html &gt;&gt; ferryman //将a.html的111~125行输出至ferryman<br>	AN: sed -n 1,1p cover_src.database &gt;&gt; transor<br>	*删除文件A的第一行<br>	AN: sed -i <span class="hljs-string">&#x27;1d&#x27;</span> cover_src.database		<br>	<br>	*将文件C的内容追加到文件B的指定行<br>	<span class="hljs-comment">#// 见鬼，sed无法插入空文件 --&gt; 转化一下，插入之前添加内容，插入后删除:NICE</span><br>	AN: <span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;TOP&quot;</span> &gt;&gt; target<br>	AN: sed -i <span class="hljs-string">&#x27;1r transor&#x27;</span> target<br>	AN: sed -i <span class="hljs-string">&#x27;1d&#x27;</span> target<br>	<br>	<span class="hljs-comment"># 修正：在新建文章之前对文章头部模板更新</span><br>	<span class="hljs-comment"># 在每一行前插入：</span><br>	AN: sed -i <span class="hljs-string">&#x27;s/^/cover: &amp;/g&#x27;</span> cover_src.database<br>	<br>	<span class="hljs-comment">## Q1: 命令执行后自动退出</span><br>	<span class="hljs-comment">## A1: 使用延迟执行和并发执行解决冲突</span><br>	<br></code></pre></td></tr></table></figure>
+
+<h4 id="到达彼岸"><a href="#到达彼岸" class="headerlink" title="到达彼岸"></a>到达彼岸</h4><blockquote>
+<p>这不是终点，而是新的征程。站在巨人的肩膀上……</p>
+</blockquote>
+<p>项目涉及的所有文件：</p>
+<p><code>create.bat</code></p>
+<figure class="highlight bat"><table><tr><td class="code"><pre><code class="hljs bat">@<span class="hljs-built_in">echo</span> off<br><span class="hljs-built_in">start</span> delay.bat %<span class="hljs-number">1</span><br><span class="hljs-built_in">start</span> E:\shadowworkspace.github.io\source\_posts<br><span class="hljs-built_in">cd</span> /d &quot;E:\shadowworkspace.github.io\source\_posts&quot;<br>hexo new post %<span class="hljs-number">1</span><br></code></pre></td></tr></table></figure>
+
+<p><code>delay.bat</code></p>
+<figure class="highlight bat"><table><tr><td class="code"><pre><code class="hljs bat">@<span class="hljs-built_in">echo</span> off<br>::<span class="hljs-built_in">set</span> /p delay=please input delay:<br><span class="hljs-built_in">set</span> delay=<span class="hljs-number">3000</span><br><span class="hljs-built_in">set</span> TotalTime=<span class="hljs-number">0</span><br><span class="hljs-built_in">set</span> NowTime=<span class="hljs-variable">%time%</span><br>::读取起始时间，时间格式为：<span class="hljs-number">13</span>:<span class="hljs-number">01</span>:<span class="hljs-number">05</span>.<span class="hljs-number">95</span><br><span class="hljs-built_in">echo</span> <span class="hljs-built_in">start</span> <span class="hljs-built_in">time</span>: <span class="hljs-variable">%NowTime%</span><br>:delay_continue<br><span class="hljs-built_in">set</span> /a minute1=<span class="hljs-number">1</span><span class="hljs-variable">%NowTime:~3,2%</span>-<span class="hljs-number">100</span><br>::读取起始时间的分钟数<br><span class="hljs-built_in">set</span> /a second1=<span class="hljs-number">1</span><span class="hljs-variable">%NowTime:~-5,2%</span><span class="hljs-variable">%NowTime:~-2%</span><span class="hljs-number">0</span>-<span class="hljs-number">100000</span><br>::将起始时间的秒数转为毫秒<br><span class="hljs-built_in">set</span> NowTime=<span class="hljs-variable">%time%</span><br><span class="hljs-built_in">set</span> /a minute2=<span class="hljs-number">1</span><span class="hljs-variable">%NowTime:~3,2%</span>-<span class="hljs-number">100</span><br>:: 读取现在时间的分钟数<br><span class="hljs-built_in">set</span> /a second2=<span class="hljs-number">1</span><span class="hljs-variable">%NowTime:~-5,2%</span><span class="hljs-variable">%NowTime:~-2%</span><span class="hljs-number">0</span>-<span class="hljs-number">100000</span><br>::将现在时间的秒数转为毫秒<br><span class="hljs-built_in">set</span> /a TotalTime+=(<span class="hljs-variable">%minute2%</span>-<span class="hljs-variable">%minute1%</span>+<span class="hljs-number">60</span>)<span class="hljs-variable">%%6</span>0*<span class="hljs-number">60000</span>+<span class="hljs-variable">%second2%</span>-<span class="hljs-variable">%second1%</span><br><span class="hljs-keyword">if</span> <span class="hljs-variable">%TotalTime%</span> <span class="hljs-keyword">lss</span> <span class="hljs-variable">%delay%</span> <span class="hljs-keyword">goto</span> delay_continue<br><span class="hljs-built_in">echo</span> processing end：<span class="hljs-variable">%time%</span><br><span class="hljs-built_in">echo</span> want to delay: <span class="hljs-variable">%delay%</span>ms<br><span class="hljs-built_in">echo</span> real delay: <span class="hljs-variable">%TotalTime%</span>ms<br><br>::为了避免冲突选择延迟<span class="hljs-number">3</span>s<br>::-----------------------------------------------------------------------<br>::进入存放图片引用链接的文件夹，提取第一条记录[url]插入到新建的文章里<br><span class="hljs-built_in">cd</span> /d &quot;E:\shadowworkspace.github.io\source\_posts\source&quot;<br>true &gt; transor<br><span class="hljs-built_in">echo</span> &quot;TOP&quot; &gt;&gt; transor<br>sed -n <span class="hljs-number">1</span>,<span class="hljs-number">1</span>p cover_src.database &gt;&gt; transor<br><span class="hljs-built_in">echo</span> transor db done<br>sed -i &#x27;<span class="hljs-number">1</span>d&#x27; cover_src.database<br><span class="hljs-built_in">echo</span> delete csdb line <span class="hljs-number">1</span> done<br>sed -i &#x27;<span class="hljs-number">1</span>d&#x27; transor<br><span class="hljs-built_in">echo</span> delete transor <span class="hljs-number">1</span> done<br>sed -i &#x27;<span class="hljs-number">4</span>r transor&#x27; ..\%<span class="hljs-number">1</span>.<span class="hljs-built_in">md</span><br><span class="hljs-built_in">echo</span> insert target done<br>sed -i &#x27;<span class="hljs-number">1</span>d&#x27; transor<br><span class="hljs-built_in">echo</span> remove transor content done<br><br>::-----------------------------------------------------------------------<br>::那就直接使用typora打开新建的文章好了<br><span class="hljs-built_in">start</span> &quot;C:\Program Files\Typora\Typora.exe&quot; E:\shadowworkspace.github.io\source\_posts\%<span class="hljs-number">1</span>.<span class="hljs-built_in">md</span> <br><span class="hljs-keyword">exit</span><br></code></pre></td></tr></table></figure>
+
+<p><code>transor</code></p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><code class="hljs yaml"><span class="hljs-literal">NULL</span><br></code></pre></td></tr></table></figure>
+
+<p><code>cover_src.database</code></p>
+<figure class="highlight html"><table><tr><td class="code"><pre><code class="hljs html">cover: https://w.wallhaven.cc/full/9m/wallhaven-9m5kek.jpg<br>cover: https://w.wallhaven.cc/full/q2/wallhaven-q2dpyq.jpg<br>cover: https://w.wallhaven.cc/full/1k/wallhaven-1kjogg.jpg<br>cover: https://w.wallhaven.cc/full/8o/wallhaven-8oxp52.jpg<br></code></pre></td></tr></table></figure>
+
+<h4 id="项目小结"><a href="#项目小结" class="headerlink" title="项目小结"></a>项目小结</h4><blockquote>
+<p>项目其实并没有花费太多的时间，这次创作是我的bat编写还有sed的使用更上一层。Well done!</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>bat</tag>
+        <tag>sed</tag>
+        <tag>利刃计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R011</title>
+    <url>/2020/12/18/R011/</url>
+    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>演讲的艺术</tag>
       </tags>
   </entry>
   <entry>
@@ -830,6 +830,14 @@
       <tags>
         <tag>马克思主义基本原理</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
   </entry>
   <entry>
     <title>R017-NULL</title>
@@ -1010,14 +1018,6 @@
       </categories>
   </entry>
   <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
     <title>R023-圣经阅读记录</title>
     <url>/2020/12/28/R023/</url>
     <content><![CDATA[<h4 id="亚伯拉罕"><a href="#亚伯拉罕" class="headerlink" title="亚伯拉罕"></a>亚伯拉罕</h4><hr>
@@ -1118,6 +1118,78 @@
       <tags>
         <tag>linux kernel</tag>
         <tag>rpc</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R025-组成原理实验分配</title>
+    <url>/2020/12/30/R025/</url>
+    <content><![CDATA[<h4 id="任务分配"><a href="#任务分配" class="headerlink" title="任务分配"></a>任务分配</h4><hr>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>实验报告</th>
+<th>作者</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>实验一</td>
+<td>全加器设计</td>
+<td>邹桥东</td>
+</tr>
+<tr>
+<td>实验二</td>
+<td>超前进位加法器设计</td>
+<td>陈天宇</td>
+</tr>
+<tr>
+<td>实验三</td>
+<td>多功能ALU设计实验</td>
+<td>罗依蒙</td>
+</tr>
+<tr>
+<td>实验四</td>
+<td>寄存器堆设计实验</td>
+<td>袁震宏</td>
+</tr>
+<tr>
+<td>实验五</td>
+<td>存储器设计实验</td>
+<td>王焱琪</td>
+</tr>
+<tr>
+<td>实验六</td>
+<td>MIPS汇编器与模拟器实验</td>
+<td>王焱琪</td>
+</tr>
+<tr>
+<td>实验七</td>
+<td>取指令与指令译码实验</td>
+<td>袁震宏</td>
+</tr>
+<tr>
+<td>实验八</td>
+<td>实现R型指令的CPU设计实验</td>
+<td>罗依蒙</td>
+</tr>
+<tr>
+<td>实验九</td>
+<td>实现R-I型指令的CPU设计实验</td>
+<td>陈天宇</td>
+</tr>
+<tr>
+<td>实验十</td>
+<td>实现R-I-J型指令的CPU设计实验</td>
+<td>邹桥东</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>计算机组成原理</tag>
+        <tag>实验报告</tag>
       </tags>
   </entry>
   <entry>
@@ -1462,78 +1534,6 @@
         <tag>英语单词</tag>
         <tag>词根词缀记忆</tag>
         <tag>真题单词提取</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R025-组成原理实验分配</title>
-    <url>/2020/12/30/R025/</url>
-    <content><![CDATA[<h4 id="任务分配"><a href="#任务分配" class="headerlink" title="任务分配"></a>任务分配</h4><hr>
-<table>
-<thead>
-<tr>
-<th></th>
-<th>实验报告</th>
-<th>作者</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>实验一</td>
-<td>全加器设计</td>
-<td>邹桥东</td>
-</tr>
-<tr>
-<td>实验二</td>
-<td>超前进位加法器设计</td>
-<td>陈天宇</td>
-</tr>
-<tr>
-<td>实验三</td>
-<td>多功能ALU设计实验</td>
-<td>罗依蒙</td>
-</tr>
-<tr>
-<td>实验四</td>
-<td>寄存器堆设计实验</td>
-<td>袁震宏</td>
-</tr>
-<tr>
-<td>实验五</td>
-<td>存储器设计实验</td>
-<td>王焱琪</td>
-</tr>
-<tr>
-<td>实验六</td>
-<td>MIPS汇编器与模拟器实验</td>
-<td>王焱琪</td>
-</tr>
-<tr>
-<td>实验七</td>
-<td>取指令与指令译码实验</td>
-<td>袁震宏</td>
-</tr>
-<tr>
-<td>实验八</td>
-<td>实现R型指令的CPU设计实验</td>
-<td>罗依蒙</td>
-</tr>
-<tr>
-<td>实验九</td>
-<td>实现R-I型指令的CPU设计实验</td>
-<td>陈天宇</td>
-</tr>
-<tr>
-<td>实验十</td>
-<td>实现R-I-J型指令的CPU设计实验</td>
-<td>邹桥东</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>计算机组成原理</tag>
-        <tag>实验报告</tag>
       </tags>
   </entry>
   <entry>
@@ -2209,14 +2209,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R038-NULL</title>
-    <url>/2021/01/05/R038/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
     <title>R037-考研单词L3</title>
     <url>/2021/01/06/R037-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D-L2/</url>
     <content><![CDATA[<h4 id="知行合一"><a href="#知行合一" class="headerlink" title="知行合一"></a>知行合一</h4><hr>
@@ -2487,6 +2479,14 @@
         <tag>英语单词</tag>
         <tag>考研英语</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>R038-NULL</title>
+    <url>/2021/01/05/R038/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
   </entry>
   <entry>
     <title>R039-HZIEE-CS-STACK-初期会议</title>
@@ -3349,71 +3349,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Dec-18-QT</title>
-    <url>/2020/12/18/R043-Dec-18-QT/</url>
-    <content><![CDATA[<h4 id="项目分析"><a href="#项目分析" class="headerlink" title="项目分析"></a>项目分析</h4><blockquote>
-<p>第一次阅读作业要求，重点在于代码的规范性，界面设计的简洁优雅。难点在于视频处理，大部分时间应该会花在和视频处理相关的点。基本功能之前的几次作业已经实现，只要把前几次的代码优化、规范即可。界面图标需要自己设计</p>
-</blockquote>
-<hr>
-<h4 id="界面设计阶段"><a href="#界面设计阶段" class="headerlink" title="界面设计阶段"></a>界面设计阶段</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 双窗口设计，左侧预留视频处理侧边栏-上方预留图片处理界面<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## 基本功能介绍[图片]</span><br>	**缩放<span class="hljs-regexp">/翻转/</span>旋转<br>	**亮度<span class="hljs-regexp">/色温/</span>相框<br>	**均值滤波<br>	**灰度处理<span class="hljs-regexp">/边缘检测/</span>二值化<span class="hljs-regexp">/腐蚀/</span><br>	**I18N<br>	**关于<br>	**图片保存<span class="hljs-regexp">/另存/</span>撤销上一步<span class="hljs-regexp">/撤销全部/</span>关闭图片/退出软件<br>	**<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="此处留白"><a href="#此处留白" class="headerlink" title="此处留白"></a>此处留白</h4><figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">这里用于之后介绍项目<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-<h4 id="开发记录"><a href="#开发记录" class="headerlink" title="开发记录"></a>开发记录</h4><figure class="highlight c++"><table><tr><td class="code"><pre><code class="hljs c++">&gt; $$<span class="hljs-number">1</span>-项目结构调整：<br>&gt; 为了更加清晰的展示代码，对项目的结构进行分类调整<br>&gt; *首先在项目根目录新建分类的文件夹，如：res, mainwindow, tools<br>&gt; *然后修改 `项目名.pro` 文件，添加引用目录<br>---------------------------------------------------------<br>INCLUDEPATH += ./ \<br>    dialog/ \<br>    tools/  \<br>    mainwindow/<br><br>SOURCES += \<br>    mainwindow/mainwindow.cpp  \<br>    main.cpp<br><br>HEADERS += \<br>        mainwindow/mainwindow.h    \<br><br>FORMS    += mainwindow/mainwindow.ui \<br>---------------------------------------------------------<br>    <br>&gt; $$<span class="hljs-number">1</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$2-设计制作图标<br>&gt; [LINK] - [https:&#x2F;&#x2F;www.iconfont.cn&#x2F;collections&#x2F;detail?spm&#x3D;a313x.7781069.1998910419.dc64b3430&amp;cid&#x3D;12507]<br>&gt; [生成ICON] - [http:&#x2F;&#x2F;www.ico51.cn&#x2F;]<br>&gt; $$2-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$3-UI实现<br>&gt; ERROR: 四月花了半小时添加图标，离奇的事件发生了：还剩最后一个图标没有添加-四月去下载，添加后 - 资源文件突然离奇失踪 - 之前的图标都还在<br>&gt; 在进行高危操作之前一定要备份！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>&gt; CNMLGB, WHAT THE FUCKING HELL WRONG WITH QT?<br><br>&gt; $$3-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **1-重写QGraphicsView实现图像的缩放<br>&gt;  **2-回顾槽函数、界面初始化设置：未打开图片时禁用所有按钮<br>&gt;  **3-设置tool bar: ui-&gt;toolBar_File-&gt;addAction(ui-&gt;doOpen);[toolBar_file是ui文件中toolbar的名字]<br>&gt;  **4-打开图片[]<br>在QGraphicsView的坐标系统中Scene的原点并是不hi顶点而是中心点，与窗口的坐标系统不一致。<br>[LINK] - [https://blog.csdn.net/fadbgfnbxb/article/details/88777835]<br><br><span class="hljs-comment">#  **因为已经重写了graphicview，此时鼠标缩放事件已经可以使用</span><br><br><span class="hljs-comment">#  **图片打开结束 注意图片的自适应和缩放[scale之前的qMax / qMin]</span><br><br><br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **5-关闭图片 - 添加按钮禁用状态<br>&gt;  **<br><span class="hljs-comment">#  **Q1: ConstImage错误</span><br>&gt;  **A1: BUG已修复 - - 缺少对ConstImage的赋值 -- 打开时<br>&gt;<br>&gt;  **6-灰度处理<br>&gt;  **7-边缘检测<br>&gt;  **8-亮度调节<br>&gt;  **9-冷暖色调<br>&gt;  **10-添加相框<br>&gt;  **11-二值图像<br>&gt;  **12-图片旋转<br>&gt;  **13-马赛克 	-- Mosaic FINISH<br>&gt;  **14-About对话框<br>&gt;  **15-Make donation<br>&gt;  **16-国际化<br>&gt;  **17-跨平台<br>&gt;  **18-视频处理<br>&gt;  **WELL DONE!<br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<blockquote>
-<p>待完成：</p>
-<p>**国际化</p>
-<p>**About对话窗口</p>
-</blockquote>
-<hr>
-<hr>
-<h4 id="视频处理阶段"><a href="#视频处理阶段" class="headerlink" title="视频处理阶段"></a>视频处理阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">**计划使用Opencv<br><span class="hljs-comment"># 进入安装编译阶段</span><br>&gt; [LINK] - https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows<br>&gt; [LINK] - <br>&gt; <span class="hljs-comment">##重装QT-5.9</span><br>&gt; <span class="hljs-comment">##临时移除git的mingw - [C:\Program Files\Git\mingw64\bin]</span><br>&gt; <span class="hljs-comment">##放弃使用Opencv</span><br>&gt; <span class="hljs-comment">##恢复git的mingw</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">##使用QMediaPlayer + QAbstractVideoSurface，获取视频的每一帧，转化成QImage处理</span><br>&gt; [link] - [https:<span class="hljs-regexp">//</span>blog.csdn.net<span class="hljs-regexp">/jxbinwd/</span>article<span class="hljs-regexp">/details/</span><span class="hljs-number">81034339</span>]<br>&gt; E:\shadowworkspace.github.io\source\_posts<br>&gt; [LINK] - https:<span class="hljs-regexp">//</span>download.qt.io<span class="hljs-regexp">/official_releases/</span>qt/<br><br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##改VLC</span><br><span class="hljs-variable">$WDNMD</span><br>-------------------------------------------------------------------------<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##回归QMediaPlayer+QAbstractVideoSurface</span><br>-------------------------------------------------------------------------<br>&gt; LINK - [https://blog.csdn.net/jxbinwd/article/details/81034339]<br>&gt; 补充功能：<br>&gt; **13-马赛克 	-- Mosaic FINISH<br>&gt; **14-About对话框<br>&gt; **15-Make donation<br>&gt; **16-国际化<br>&gt; **17-跨平台 <br>		<span class="hljs-comment">## [LINK] - [https://www.jianshu.com/p/9cc55a2c4e87]</span><br>        <span class="hljs-comment">## https://blog.csdn.net/qq_38204986/article/details/86934603</span><br>        <span class="hljs-comment">## 会遇到一个 ld 重复定义的方法，是因为把文件copy出来到一个目录时，没有删除原来的文件夹，注意修改原文件中的引用还有生成的.pro文件配置</span><br>        <span class="hljs-comment">## glib --》 这个错误要复制后面丢失的库查询，根据提示 find出来，然后手动复制到对应目录    </span><br>&gt; **18-视频处理<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##视频处理问题：</span><br>	**处理速度太慢，考虑使用多线程<br>	**没有保存<br>	**<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>产品设计</tag>
-        <tag>QT</tag>
-        <tag>万法归一</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R044-信工计网复习提纲</title>
     <url>/2021/01/07/R044-%E4%BF%A1%E5%B7%A5%E8%AE%A1%E7%BD%91%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2/</url>
     <content><![CDATA[<p>计算机网络复习提纲</p>
@@ -3484,6 +3419,71 @@
       </categories>
       <tags>
         <tag>计网复习知识梳理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Dec-18-QT</title>
+    <url>/2020/12/18/R043-Dec-18-QT/</url>
+    <content><![CDATA[<h4 id="项目分析"><a href="#项目分析" class="headerlink" title="项目分析"></a>项目分析</h4><blockquote>
+<p>第一次阅读作业要求，重点在于代码的规范性，界面设计的简洁优雅。难点在于视频处理，大部分时间应该会花在和视频处理相关的点。基本功能之前的几次作业已经实现，只要把前几次的代码优化、规范即可。界面图标需要自己设计</p>
+</blockquote>
+<hr>
+<h4 id="界面设计阶段"><a href="#界面设计阶段" class="headerlink" title="界面设计阶段"></a>界面设计阶段</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 双窗口设计，左侧预留视频处理侧边栏-上方预留图片处理界面<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## 基本功能介绍[图片]</span><br>	**缩放<span class="hljs-regexp">/翻转/</span>旋转<br>	**亮度<span class="hljs-regexp">/色温/</span>相框<br>	**均值滤波<br>	**灰度处理<span class="hljs-regexp">/边缘检测/</span>二值化<span class="hljs-regexp">/腐蚀/</span><br>	**I18N<br>	**关于<br>	**图片保存<span class="hljs-regexp">/另存/</span>撤销上一步<span class="hljs-regexp">/撤销全部/</span>关闭图片/退出软件<br>	**<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="此处留白"><a href="#此处留白" class="headerlink" title="此处留白"></a>此处留白</h4><figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">这里用于之后介绍项目<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<h4 id="开发记录"><a href="#开发记录" class="headerlink" title="开发记录"></a>开发记录</h4><figure class="highlight c++"><table><tr><td class="code"><pre><code class="hljs c++">&gt; $$<span class="hljs-number">1</span>-项目结构调整：<br>&gt; 为了更加清晰的展示代码，对项目的结构进行分类调整<br>&gt; *首先在项目根目录新建分类的文件夹，如：res, mainwindow, tools<br>&gt; *然后修改 `项目名.pro` 文件，添加引用目录<br>---------------------------------------------------------<br>INCLUDEPATH += ./ \<br>    dialog/ \<br>    tools/  \<br>    mainwindow/<br><br>SOURCES += \<br>    mainwindow/mainwindow.cpp  \<br>    main.cpp<br><br>HEADERS += \<br>        mainwindow/mainwindow.h    \<br><br>FORMS    += mainwindow/mainwindow.ui \<br>---------------------------------------------------------<br>    <br>&gt; $$<span class="hljs-number">1</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$2-设计制作图标<br>&gt; [LINK] - [https:&#x2F;&#x2F;www.iconfont.cn&#x2F;collections&#x2F;detail?spm&#x3D;a313x.7781069.1998910419.dc64b3430&amp;cid&#x3D;12507]<br>&gt; [生成ICON] - [http:&#x2F;&#x2F;www.ico51.cn&#x2F;]<br>&gt; $$2-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$3-UI实现<br>&gt; ERROR: 四月花了半小时添加图标，离奇的事件发生了：还剩最后一个图标没有添加-四月去下载，添加后 - 资源文件突然离奇失踪 - 之前的图标都还在<br>&gt; 在进行高危操作之前一定要备份！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>&gt; CNMLGB, WHAT THE FUCKING HELL WRONG WITH QT?<br><br>&gt; $$3-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **1-重写QGraphicsView实现图像的缩放<br>&gt;  **2-回顾槽函数、界面初始化设置：未打开图片时禁用所有按钮<br>&gt;  **3-设置tool bar: ui-&gt;toolBar_File-&gt;addAction(ui-&gt;doOpen);[toolBar_file是ui文件中toolbar的名字]<br>&gt;  **4-打开图片[]<br>在QGraphicsView的坐标系统中Scene的原点并是不hi顶点而是中心点，与窗口的坐标系统不一致。<br>[LINK] - [https://blog.csdn.net/fadbgfnbxb/article/details/88777835]<br><br><span class="hljs-comment">#  **因为已经重写了graphicview，此时鼠标缩放事件已经可以使用</span><br><br><span class="hljs-comment">#  **图片打开结束 注意图片的自适应和缩放[scale之前的qMax / qMin]</span><br><br><br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **5-关闭图片 - 添加按钮禁用状态<br>&gt;  **<br><span class="hljs-comment">#  **Q1: ConstImage错误</span><br>&gt;  **A1: BUG已修复 - - 缺少对ConstImage的赋值 -- 打开时<br>&gt;<br>&gt;  **6-灰度处理<br>&gt;  **7-边缘检测<br>&gt;  **8-亮度调节<br>&gt;  **9-冷暖色调<br>&gt;  **10-添加相框<br>&gt;  **11-二值图像<br>&gt;  **12-图片旋转<br>&gt;  **13-马赛克 	-- Mosaic FINISH<br>&gt;  **14-About对话框<br>&gt;  **15-Make donation<br>&gt;  **16-国际化<br>&gt;  **17-跨平台<br>&gt;  **18-视频处理<br>&gt;  **WELL DONE!<br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<blockquote>
+<p>待完成：</p>
+<p>**国际化</p>
+<p>**About对话窗口</p>
+</blockquote>
+<hr>
+<hr>
+<h4 id="视频处理阶段"><a href="#视频处理阶段" class="headerlink" title="视频处理阶段"></a>视频处理阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">**计划使用Opencv<br><span class="hljs-comment"># 进入安装编译阶段</span><br>&gt; [LINK] - https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows<br>&gt; [LINK] - <br>&gt; <span class="hljs-comment">##重装QT-5.9</span><br>&gt; <span class="hljs-comment">##临时移除git的mingw - [C:\Program Files\Git\mingw64\bin]</span><br>&gt; <span class="hljs-comment">##放弃使用Opencv</span><br>&gt; <span class="hljs-comment">##恢复git的mingw</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">##使用QMediaPlayer + QAbstractVideoSurface，获取视频的每一帧，转化成QImage处理</span><br>&gt; [link] - [https:<span class="hljs-regexp">//</span>blog.csdn.net<span class="hljs-regexp">/jxbinwd/</span>article<span class="hljs-regexp">/details/</span><span class="hljs-number">81034339</span>]<br>&gt; E:\shadowworkspace.github.io\source\_posts<br>&gt; [LINK] - https:<span class="hljs-regexp">//</span>download.qt.io<span class="hljs-regexp">/official_releases/</span>qt/<br><br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##改VLC</span><br><span class="hljs-variable">$WDNMD</span><br>-------------------------------------------------------------------------<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##回归QMediaPlayer+QAbstractVideoSurface</span><br>-------------------------------------------------------------------------<br>&gt; LINK - [https://blog.csdn.net/jxbinwd/article/details/81034339]<br>&gt; 补充功能：<br>&gt; **13-马赛克 	-- Mosaic FINISH<br>&gt; **14-About对话框<br>&gt; **15-Make donation<br>&gt; **16-国际化<br>&gt; **17-跨平台 <br>		<span class="hljs-comment">## [LINK] - [https://www.jianshu.com/p/9cc55a2c4e87]</span><br>        <span class="hljs-comment">## https://blog.csdn.net/qq_38204986/article/details/86934603</span><br>        <span class="hljs-comment">## 会遇到一个 ld 重复定义的方法，是因为把文件copy出来到一个目录时，没有删除原来的文件夹，注意修改原文件中的引用还有生成的.pro文件配置</span><br>        <span class="hljs-comment">## glib --》 这个错误要复制后面丢失的库查询，根据提示 find出来，然后手动复制到对应目录    </span><br>&gt; **18-视频处理<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##视频处理问题：</span><br>	**处理速度太慢，考虑使用多线程<br>	**没有保存<br>	**<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>产品设计</tag>
+        <tag>QT</tag>
+        <tag>万法归一</tag>
       </tags>
   </entry>
   <entry>
@@ -3817,18 +3817,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R051-应试的规律</title>
-    <url>/2021/01/09/R051-%E5%BA%94%E8%AF%95%E7%9A%84%E8%A7%84%E5%BE%8B/</url>
-    <content><![CDATA[<h4 id="愚钝的重复"><a href="#愚钝的重复" class="headerlink" title="愚钝的重复"></a>愚钝的重复</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么考试考了一次又一次，却仍然不知道总结反思？</span><br>	**从学期开始，就有一件事是确定了的，那就是这门课程要考试，那么为什么不在学期的一开始就为了要考试的知识点做好准备[寻找模拟题、试卷、教材]<br>	<br><span class="hljs-comment">## 	</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>考试经历</tag>
-        <tag>学习总结</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R052-关于语言学习与思维局限</title>
     <url>/2021/01/09/R052-%E5%85%B3%E4%BA%8E%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%80%9D%E7%BB%B4%E5%B1%80%E9%99%90/</url>
     <content><![CDATA[<h4 id="为什么要多学习几门语言"><a href="#为什么要多学习几门语言" class="headerlink" title="为什么要多学习几门语言"></a>为什么要多学习几门语言</h4><hr>
@@ -3838,6 +3826,18 @@
       <tags>
         <tag>语言学习</tag>
         <tag>思维局限</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R051-应试的规律</title>
+    <url>/2021/01/09/R051-%E5%BA%94%E8%AF%95%E7%9A%84%E8%A7%84%E5%BE%8B/</url>
+    <content><![CDATA[<h4 id="愚钝的重复"><a href="#愚钝的重复" class="headerlink" title="愚钝的重复"></a>愚钝的重复</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么考试考了一次又一次，却仍然不知道总结反思？</span><br>	**从学期开始，就有一件事是确定了的，那就是这门课程要考试，那么为什么不在学期的一开始就为了要考试的知识点做好准备[寻找模拟题、试卷、教材]<br>	<br><span class="hljs-comment">## 	</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>考试经历</tag>
+        <tag>学习总结</tag>
       </tags>
   </entry>
   <entry>
@@ -5554,6 +5554,1397 @@
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何理解 “要用改革开放的眼光看待改革开放”？</span><br>	如何看待改革开放，怎样推进改革开放？这是新时代改革开放再出发必须回答的一个基本问题。<br>　　“要掌握辩证唯物主义和历史唯物主义的方法论，以改革开放的眼光看待改革开放，充分认识新形势下改革开放的时代性、体系性、全局性问题，在更高起点、更高层次、更高目标上推进改革开放。”习近平总书记在广东考察时明确提出的这一新论断新要求，对于我们更充分、更深刻地认识和把握改革开放，更加坚定、更加自觉地推进改革开放，具有十分重要的意义。<br>　　唯物辩证法是认识世界和改造世界的根本方法。40年众志成城，40年砥砺奋进，40年春风化雨。改革开放之所以极大解放和发展了中国社会生产力，一个重要原因就在于，我们始终坚持辩证唯物主义和历史唯物主义的方法论，以此正确把握我们的最大国情、最大实际，深刻认识世情国情党情，坚定不移把改革开放推向前进，让中国特色社会主义展现出强大生命力。40年来，我们既“摸着石头过河”又加强顶层设计，不断研究新情况、解决新问题、总结新经验；我们坚持解放思想、实事求是，实现解放思想和改革开放相互激荡、观念创新和实践探索相互促进；我们勇于自我革命、自我革新，不断革除阻碍发展的体制机制弊端。特别是党的十八大以来，从认识论、方法论到价值论，从总目标、大方向到动力源，正是以改革认识论和方法论的不断创新为支撑，一系列重大改革开放举措陆续出台，解决了许多长期想解决而没有解决的难题，办成了许多过去想办而没有办成的大事，推动中国特色社会主义进入新时代。<br>　　以改革开放的眼光看待改革开放，就要充分认识新形势下改革开放的时代性、体系性、全局性问题。40年改革开放给人们提供了许多弥足珍贵的启示，其中重要的一条就是，一个国家、一个民族要振兴，就必须在历史前进的逻辑中前进、在时代发展的潮流中发展。习近平总书记明确指出，“进入新时代，国际国内形势发生广泛而深刻的变化，改革发展面临着新形势新任务新挑战”。从改革看，我们推进改革的复杂程度、敏感程度、艰巨程度不亚于40年前；从开放看，单边主义、保护主义愈演愈烈，开放还是封闭，前进还是后退，人类面临着新的重大抉择。唯有准确把握我国不同发展阶段的新变化新特点，积极应对世界大发展大变革大调整带来的新挑战新问题，勇于变革、勇于创新，永不僵化、永不停滞，才能以新作为开创新局面，让改革开放始终成为推动中国发展进步、为人类作出新贡献的动力源泉。<br>　　以改革开放的眼光看待改革开放，就要在更高起点、更高层次、更高目标上推进改革开放。改革往往都是从易到难。进入攻坚期、深水区，最重要的是迎难而上、攻坚克难。党的十八大以来，以习近平同志为核心的党中央坚定不移全面深化改革，敢于向顽瘴痼疾开刀，勇于突破利益固化藩篱，落实新发展理念，建设现代化经济体系，推动形成了更高层次改革开放新格局。在这次考察中，从强调“深化改革开放、推动经济高质量发展”，到要求“把创新发展主动权牢牢掌握在自己手中”，再到提出“认真总结改革开放40年成功经验，提升改革开放质量和水平”，习近平总书记的一系列重要论断，充分展现了我们党在新的历史起点上把改革开放不断推向深入的坚定意志。<br>　　改革开放只有进行时没有完成时。40年来，从农村到城市，从经济体制改革到全面深化改革，中国人民用双手书写了国家和民族发展的壮丽史诗。在40年的时间节点上瞻望未来，以改革开放的眼光看待改革开放，我们一定能让改革开放始终契合历史逻辑、顺应时代潮流，为中国的发展注入不竭动力。<br></code></pre></td></tr></table></figure>
 
 ]]></content>
+  </entry>
+  <entry>
+    <title>R064-考研单词L13</title>
+    <url>/2021/01/16/R064-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL13/</url>
+    <content><![CDATA[<h4 id="苦难是屈辱还是财富"><a href="#苦难是屈辱还是财富" class="headerlink" title="苦难是屈辱还是财富"></a>苦难是屈辱还是财富</h4><blockquote>
+<p>当苦难战胜了你，它便成了屈辱；当你战胜了苦难，它便成了财富。</p>
+</blockquote>
+<hr>
+<table>
+<thead>
+<tr>
+<th>degenerate</th>
+<th></th>
+<th>literally</th>
+<th></th>
+<th>rage</th>
+<th></th>
+<th>composition</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>imitation</td>
+<td></td>
+<td>downward</td>
+<td></td>
+<td>select</td>
+<td></td>
+<td>emotion</td>
+<td></td>
+</tr>
+<tr>
+<td>persevere</td>
+<td></td>
+<td>frontier</td>
+<td></td>
+<td>obtain</td>
+<td></td>
+<td>hose</td>
+<td></td>
+</tr>
+<tr>
+<td>import</td>
+<td></td>
+<td>dusk</td>
+<td></td>
+<td>argue</td>
+<td></td>
+<td>deadline</td>
+<td></td>
+</tr>
+<tr>
+<td>instance</td>
+<td></td>
+<td>serial</td>
+<td></td>
+<td>troop</td>
+<td></td>
+<td>stimulate</td>
+<td></td>
+</tr>
+<tr>
+<td>affection</td>
+<td></td>
+<td>reward</td>
+<td></td>
+<td>notwithstanding</td>
+<td>competent</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>probable</td>
+<td></td>
+<td>garment</td>
+<td></td>
+<td>oak</td>
+<td></td>
+<td>republican</td>
+<td></td>
+</tr>
+<tr>
+<td>compromise</td>
+<td></td>
+<td>grope</td>
+<td></td>
+<td>sufficient</td>
+<td></td>
+<td>excess</td>
+<td></td>
+</tr>
+<tr>
+<td>export</td>
+<td></td>
+<td>candy</td>
+<td></td>
+<td>trim</td>
+<td></td>
+<td>collaborate</td>
+<td></td>
+</tr>
+<tr>
+<td>invaluable</td>
+<td></td>
+<td>thereafter</td>
+<td></td>
+<td>rebel</td>
+<td></td>
+<td>cluster</td>
+<td></td>
+</tr>
+<tr>
+<td>organic</td>
+<td></td>
+<td>knot</td>
+<td></td>
+<td>slum</td>
+<td></td>
+<td>stain</td>
+<td></td>
+</tr>
+<tr>
+<td>underlying</td>
+<td></td>
+<td>memo</td>
+<td></td>
+<td>defy</td>
+<td></td>
+<td>attract</td>
+<td></td>
+</tr>
+<tr>
+<td>maiden</td>
+<td></td>
+<td>interface</td>
+<td></td>
+<td>asset</td>
+<td></td>
+<td>reduction</td>
+<td></td>
+</tr>
+<tr>
+<td>gasoline</td>
+<td></td>
+<td>cordial</td>
+<td></td>
+<td>mask</td>
+<td></td>
+<td>satire</td>
+<td></td>
+</tr>
+<tr>
+<td>auction</td>
+<td></td>
+<td>stale</td>
+<td></td>
+<td>conference</td>
+<td></td>
+<td>sew</td>
+<td></td>
+</tr>
+<tr>
+<td>state</td>
+<td></td>
+<td>brim</td>
+<td></td>
+<td>powder</td>
+<td></td>
+<td>suspicious</td>
+<td></td>
+</tr>
+<tr>
+<td>Bible</td>
+<td></td>
+<td>portable</td>
+<td></td>
+<td>proclaim</td>
+<td></td>
+<td>surgeon</td>
+<td></td>
+</tr>
+<tr>
+<td>equivalent</td>
+<td></td>
+<td>region</td>
+<td></td>
+<td>setting</td>
+<td></td>
+<td>static</td>
+<td></td>
+</tr>
+<tr>
+<td>pretext</td>
+<td></td>
+<td>bubble</td>
+<td></td>
+<td>decorate</td>
+<td></td>
+<td>telescope</td>
+<td></td>
+</tr>
+<tr>
+<td>chess</td>
+<td></td>
+<td>certificate</td>
+<td></td>
+<td>supersonic</td>
+<td></td>
+<td>mushroom</td>
+<td></td>
+</tr>
+<tr>
+<td>eligible</td>
+<td></td>
+<td>imply</td>
+<td></td>
+<td>earnest</td>
+<td></td>
+<td>ego</td>
+<td></td>
+</tr>
+<tr>
+<td>liquor</td>
+<td></td>
+<td>hurricane</td>
+<td></td>
+<td>meditate</td>
+<td></td>
+<td>temper</td>
+<td></td>
+</tr>
+<tr>
+<td>hell</td>
+<td></td>
+<td>spontaneous</td>
+<td></td>
+<td>damp</td>
+<td></td>
+<td>ebb</td>
+<td></td>
+</tr>
+<tr>
+<td>lid</td>
+<td></td>
+<td>title</td>
+<td></td>
+<td>subsequent</td>
+<td></td>
+<td>bow</td>
+<td></td>
+</tr>
+<tr>
+<td>characteristic</td>
+<td></td>
+<td>dilemma</td>
+<td></td>
+<td>attractive</td>
+<td></td>
+<td>correspondent</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R065-词汇爆破第二组</title>
+    <url>/2021/01/16/R065-%E8%AF%8D%E6%B1%87%E7%88%86%E7%A0%B4%E7%AC%AC%E4%BA%8C%E7%BB%84/</url>
+    <content><![CDATA[<p>TOP</p>
+<hr>
+<table>
+<thead>
+<tr>
+<th>spin</th>
+<th></th>
+<th>inhabit</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>brutal</td>
+<td></td>
+<td>constant</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>howl</td>
+<td></td>
+<td>prosperity</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>network</td>
+<td></td>
+<td>siege</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>evident</td>
+<td></td>
+<td>handwriting</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td></td>
+<td>conduct</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>swan</td>
+<td></td>
+<td>lever</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>rigorous</td>
+<td></td>
+<td>blend</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>technology</td>
+<td></td>
+<td>crab</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>wax</td>
+<td></td>
+<td>ample</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pillow</td>
+<td></td>
+<td>urban</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>solidarity</td>
+<td></td>
+<td>preside</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>slaughter</td>
+<td></td>
+<td>psychology</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pit</td>
+<td></td>
+<td>rash</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>decay</td>
+<td></td>
+<td>radical</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pray</td>
+<td></td>
+<td>document</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>grand</td>
+<td></td>
+<td>inventory</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>booth</td>
+<td></td>
+<td>pillar</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>beware</td>
+<td></td>
+<td>harm</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>occasion</td>
+<td></td>
+<td>grip</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>numerous</td>
+<td></td>
+<td>antenna</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>element</td>
+<td></td>
+<td>sip</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>nursery</td>
+<td></td>
+<td>devise</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>worship</td>
+<td></td>
+<td>bold</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>dental</td>
+<td></td>
+<td>highly</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>dense</td>
+<td></td>
+<td>stadium</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>productivity</td>
+<td></td>
+<td>diffuse</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>valve</td>
+<td></td>
+<td>globe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>abuse</td>
+<td></td>
+<td>negligible</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>circular</td>
+<td></td>
+<td>mostly</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>classic</td>
+<td></td>
+<td>dine</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>revive</td>
+<td></td>
+<td>graph</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>disguise</td>
+<td></td>
+<td>tile</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>deny</td>
+<td></td>
+<td>gaol</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>huddle</td>
+<td></td>
+<td>segregate</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>cheat</td>
+<td></td>
+<td>spider</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>cellar</td>
+<td></td>
+<td>invasion</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>court</td>
+<td></td>
+<td>precedent</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>namely</td>
+<td></td>
+<td>critical</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>paw</td>
+<td></td>
+<td>excursion</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>undertake</td>
+<td></td>
+<td>commit</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>instrucmental</td>
+<td></td>
+<td>integrate</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>generate</td>
+<td></td>
+<td>message</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>threat</td>
+<td></td>
+<td>crash</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>nanual</td>
+<td></td>
+<td>environment</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>hamburger</td>
+<td></td>
+<td>cosy</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>converge</td>
+<td></td>
+<td>boundary</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>default</td>
+<td></td>
+<td>peep</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>fabulous</td>
+<td></td>
+<td>toast</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>graduate</td>
+<td></td>
+<td>conductor</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p>Antagonistic</p>
+<hr>
+<table>
+<thead>
+<tr>
+<th>label</th>
+<th></th>
+<th>dazzle</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>lag</td>
+<td></td>
+<td>deal</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>largely</td>
+<td></td>
+<td>dealer</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>lateral</td>
+<td></td>
+<td>debate</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>latter</td>
+<td></td>
+<td>decade</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>law</td>
+<td></td>
+<td>decide</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>magnitude</td>
+<td></td>
+<td>decision</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>magnify</td>
+<td></td>
+<td>decisive</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>magnificent</td>
+<td></td>
+<td>decorate</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>maintenance</td>
+<td></td>
+<td>economic</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>major</td>
+<td></td>
+<td>economical</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>majority</td>
+<td></td>
+<td>economics</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>make</td>
+<td></td>
+<td>economy</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>theme</td>
+<td></td>
+<td>educate</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>theory</td>
+<td></td>
+<td>education</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>theoretical</td>
+<td></td>
+<td>effect</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>therapy</td>
+<td></td>
+<td>effective</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>qualification</td>
+<td></td>
+<td>efficient</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>qualify</td>
+<td></td>
+<td>efficiency</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>quality</td>
+<td></td>
+<td>effort</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>qualitative</td>
+<td></td>
+<td>fabric</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>safeguard</td>
+<td></td>
+<td>fabricate</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>safety</td>
+<td></td>
+<td>face</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>savage</td>
+<td></td>
+<td>factor</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>save</td>
+<td></td>
+<td>fade</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>saving</td>
+<td></td>
+<td>fail</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>scale</td>
+<td></td>
+<td>failure</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>scene</td>
+<td></td>
+<td>fair</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>scenery</td>
+<td></td>
+<td>fairly</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pace</td>
+<td></td>
+<td>fall</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>panel</td>
+<td></td>
+<td>fan</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>panorama</td>
+<td></td>
+<td>fancy</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>abandon</td>
+<td></td>
+<td>facinate</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>abide</td>
+<td></td>
+<td>gain</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ability</td>
+<td></td>
+<td>gamble</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>able</td>
+<td></td>
+<td>gap</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>abnormal</td>
+<td></td>
+<td>gene</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>balance</td>
+<td></td>
+<td>general</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>base</td>
+<td></td>
+<td>generalize</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>basement</td>
+<td></td>
+<td>habit</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>basic</td>
+<td></td>
+<td>habitat</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>basis</td>
+<td></td>
+<td>hamper</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>calculate</td>
+<td></td>
+<td>handicap</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>call</td>
+<td></td>
+<td>shield</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>calm</td>
+<td></td>
+<td>shift</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>campaign</td>
+<td></td>
+<td>shoulder</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>candidate</td>
+<td></td>
+<td>show</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>data</td>
+<td></td>
+<td>shower</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>database</td>
+<td></td>
+<td>tow</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>date</td>
+<td></td>
+<td>towards</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <tags>
+        <tag>词汇爆破</tag>
+        <tag>第二次测试</tag>
+      </tags>
   </entry>
   <entry>
     <title>T001-专业书单</title>

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>B004-暗时间</title>
+    <url>/2021/01/16/B004-%E6%9A%97%E6%97%B6%E9%97%B4/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>B000-四月的书单</title>
     <url>/2021/01/06/B000-%E5%9B%9B%E6%9C%88%E7%9A%84%E4%B9%A6%E5%8D%95/</url>
     <content><![CDATA[<h4 id="万般皆下品，唯有读书高"><a href="#万般皆下品，唯有读书高" class="headerlink" title="万般皆下品，唯有读书高"></a>万般皆下品，唯有读书高</h4><hr>
@@ -54,33 +59,6 @@
       </tags>
   </entry>
   <entry>
-    <title>I001-战争军事</title>
-    <url>/2021/01/04/I001-%E6%88%98%E4%BA%89%E5%86%9B%E4%BA%8B/</url>
-    <content><![CDATA[<h4 id="克隆另一个自己"><a href="#克隆另一个自己" class="headerlink" title="克隆另一个自己"></a>克隆另一个自己</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如今的我已经接近了曾经的梦想</span><br>	** 初步入门了这个庞大科学的门槛<br>	** 初步掌握了一些基础的学习方法和技巧<br>	** 基础知识仍然不够牢固<br>	<br><span class="hljs-comment">## 需要的知识</span><br>	** 数学分析<br>	** 概率论与统计学<br>	** 过硬的英语实力[英国\美国博士生词汇量水平]<br>	** 操作系统设计、研发、应用能力<br>	** 人工智能<br>	** 数据分析<br>	** 机器学习<br>	** [硬件的使用]<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="实现道路"><a href="#实现道路" class="headerlink" title="实现道路"></a>实现道路</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 从简单到复杂</span><br>	** 先从最基本的个人经历管理系统做起<br>	** 同时打好基础功夫：专业技能、管理能力、准确表达能力、个人素养<br>	** 然后掌握操作系统及其应用<br>	<br>	<br></code></pre></td></tr></table></figure>
-
-
-
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>杀戮武器</tag>
-        <tag>战争军事</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>B004-暗时间</title>
-    <url>/2021/01/16/B004-%E6%9A%97%E6%97%B6%E9%97%B4/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>B003-在痛苦的世界尽力而为</title>
     <url>/2021/01/07/B003-%E5%9C%A8%E7%97%9B%E8%8B%A6%E7%9A%84%E4%B8%96%E7%95%8C%E5%B0%BD%E5%8A%9B%E8%80%8C%E4%B8%BA/</url>
     <content><![CDATA[<h4 id="作者简介"><a href="#作者简介" class="headerlink" title="作者简介"></a>作者简介</h4><p>俞敏洪，新东方创始人。三次高考，北大毕业，本科三年级患肺结核降级。</p>
@@ -130,6 +108,81 @@
       </tags>
   </entry>
   <entry>
+    <title>I001-战争军事</title>
+    <url>/2021/01/04/I001-%E6%88%98%E4%BA%89%E5%86%9B%E4%BA%8B/</url>
+    <content><![CDATA[<h4 id="克隆另一个自己"><a href="#克隆另一个自己" class="headerlink" title="克隆另一个自己"></a>克隆另一个自己</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如今的我已经接近了曾经的梦想</span><br>	** 初步入门了这个庞大科学的门槛<br>	** 初步掌握了一些基础的学习方法和技巧<br>	** 基础知识仍然不够牢固<br>	<br><span class="hljs-comment">## 需要的知识</span><br>	** 数学分析<br>	** 概率论与统计学<br>	** 过硬的英语实力[英国\美国博士生词汇量水平]<br>	** 操作系统设计、研发、应用能力<br>	** 人工智能<br>	** 数据分析<br>	** 机器学习<br>	** [硬件的使用]<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="实现道路"><a href="#实现道路" class="headerlink" title="实现道路"></a>实现道路</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 从简单到复杂</span><br>	** 先从最基本的个人经历管理系统做起<br>	** 同时打好基础功夫：专业技能、管理能力、准确表达能力、个人素养<br>	** 然后掌握操作系统及其应用<br>	<br>	<br></code></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>杀戮武器</tag>
+        <tag>战争军事</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>I003-我学到了什么</title>
+    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
+    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
+<blockquote>
+<p>回收多年的学习生涯，在看看当前的自己：</p>
+<p>不会写作</p>
+<p>不会阅读</p>
+<p>不会演讲</p>
+<p>不会语言</p>
+<p>那么这么多年我们在学习什么呢？</p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>深度思考</tag>
+        <tag>我在做什么</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>I005-高速缓存与调度算法</title>
+    <url>/2021/01/11/I005-%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E4%B8%8E%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/</url>
+    <content><![CDATA[<h4 id="高速缓存"><a href="#高速缓存" class="headerlink" title="高速缓存"></a>高速缓存</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将高速缓存应用到生活与工作中？</span><br>	**在工作学习的过程中建立索引，将索引添加只缓冲区[每次要使用到数据先从缓冲区当中查找]<br>	<span class="hljs-comment">##合理利用局部性原理，对计算机适用的方法，对个人生活也同样适用。</span><br>	<br>	**为每一天、每一周、每个月、每一年开辟一个高速缓冲区<br>		[因为会频繁的在短时间内用到，所以开辟一个缓冲区可以大大提高运行效率]<br>		例如：每天背单词重复的步骤：打开单词书、打开typora、新建文章记录、打开听力材料、打开excel记录-----&gt;能否考虑：我只要做核心的部分：记录背诵的单词--其他部分都不需要我亲自动手。自动完成[包括hexo的部署]<br>		<br>	**每一个重复的流程[多个步骤]，应该都可以由一条指令来完成  [而我只需要专注于最核心的事件]<br>	其他辅助的、必要的、简单重复的程序应该让计算机自己去做。<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将计算机科学中的一门门艺术与设计应用到产品与生活中？</span><br>	局部性原理<br>	高速缓存<br>	进程调度<br>	查找算法<br>	<br>	《计算机科学的艺术 与 -&gt; 生活》<br>	<br>	<br><span class="hljs-comment">## 拓展：如何将其他科学的艺术与设计应用到产品与生活当中？</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>缓存与调度</tag>
+        <tag>专业知识的应用</tag>
+        <tag>知行合一</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>I006-伟大的艺术家都是疯子</title>
+    <url>/2021/01/13/I006-%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%83%BD%E6%98%AF%E7%96%AF%E5%AD%90/</url>
+    <content><![CDATA[<h4 id="何故退出"><a href="#何故退出" class="headerlink" title="何故退出"></a>何故退出</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将你在这一门课程上的愤怒完整的转化成另一门课的动力</span><br>	伟大的艺术家都是疯子<br>	例如：因为考试的内容习题练习导致我非常的愤怒，所以将愤怒转化成单词背诵的动力。<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>艺术家与疯子</tag>
+        <tag>在绝望中寻找希望</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>I002-伟大的实践-个人经历管理系统</title>
     <url>/2021/01/06/I002-%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AE%9E%E8%B7%B5-%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h4 id="个人管理系统"><a href="#个人管理系统" class="headerlink" title="个人管理系统"></a>个人管理系统</h4><hr>
@@ -163,28 +216,6 @@
       </tags>
   </entry>
   <entry>
-    <title>I003-我学到了什么</title>
-    <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
-    <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
-<blockquote>
-<p>回收多年的学习生涯，在看看当前的自己：</p>
-<p>不会写作</p>
-<p>不会阅读</p>
-<p>不会演讲</p>
-<p>不会语言</p>
-<p>那么这么多年我们在学习什么呢？</p>
-</blockquote>
-<hr>
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>深度思考</tag>
-        <tag>我在做什么</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>I004-全球积木竞赛</title>
     <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
     <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
@@ -199,37 +230,6 @@
       <tags>
         <tag>积木竞赛</tag>
         <tag>耐心与毅力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>I005-高速缓存与调度算法</title>
-    <url>/2021/01/11/I005-%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E4%B8%8E%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/</url>
-    <content><![CDATA[<h4 id="高速缓存"><a href="#高速缓存" class="headerlink" title="高速缓存"></a>高速缓存</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将高速缓存应用到生活与工作中？</span><br>	**在工作学习的过程中建立索引，将索引添加只缓冲区[每次要使用到数据先从缓冲区当中查找]<br>	<span class="hljs-comment">##合理利用局部性原理，对计算机适用的方法，对个人生活也同样适用。</span><br>	<br>	**为每一天、每一周、每个月、每一年开辟一个高速缓冲区<br>		[因为会频繁的在短时间内用到，所以开辟一个缓冲区可以大大提高运行效率]<br>		例如：每天背单词重复的步骤：打开单词书、打开typora、新建文章记录、打开听力材料、打开excel记录-----&gt;能否考虑：我只要做核心的部分：记录背诵的单词--其他部分都不需要我亲自动手。自动完成[包括hexo的部署]<br>		<br>	**每一个重复的流程[多个步骤]，应该都可以由一条指令来完成  [而我只需要专注于最核心的事件]<br>	其他辅助的、必要的、简单重复的程序应该让计算机自己去做。<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将计算机科学中的一门门艺术与设计应用到产品与生活中？</span><br>	局部性原理<br>	高速缓存<br>	进程调度<br>	查找算法<br>	<br>	《计算机科学的艺术 与 -&gt; 生活》<br>	<br>	<br><span class="hljs-comment">## 拓展：如何将其他科学的艺术与设计应用到产品与生活当中？</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>缓存与调度</tag>
-        <tag>专业知识的应用</tag>
-        <tag>知行合一</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>I006-伟大的艺术家都是疯子</title>
-    <url>/2021/01/13/I006-%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%83%BD%E6%98%AF%E7%96%AF%E5%AD%90/</url>
-    <content><![CDATA[<h4 id="何故退出"><a href="#何故退出" class="headerlink" title="何故退出"></a>何故退出</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将你在这一门课程上的愤怒完整的转化成另一门课的动力</span><br>	伟大的艺术家都是疯子<br>	例如：因为考试的内容习题练习导致我非常的愤怒，所以将愤怒转化成单词背诵的动力。<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>艺术家与疯子</tag>
-        <tag>在绝望中寻找希望</tag>
       </tags>
   </entry>
   <entry>
@@ -297,6 +297,24 @@
       </tags>
   </entry>
   <entry>
+    <title>P001-算法的有穷性</title>
+    <url>/2021/01/01/P001-%E7%AE%97%E6%B3%95%E7%9A%84%E6%9C%89%E7%A9%B7%E6%80%A7/</url>
+    <content><![CDATA[<h4 id="算法的有穷性"><a href="#算法的有穷性" class="headerlink" title="算法的有穷性"></a>算法的有穷性</h4><hr>
+<figure class="highlight c"><table><tr><td class="code"><pre><code class="hljs c"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">hailstone</span><span class="hljs-params">( <span class="hljs-keyword">int</span> n )</span> </span>&#123;<br>    <span class="hljs-keyword">int</span> length = <span class="hljs-number">1</span>;<br>    <span class="hljs-keyword">while</span> ( <span class="hljs-number">1</span> &lt; n ) &#123; n % <span class="hljs-number">2</span> ? n = <span class="hljs-number">3</span>*n + <span class="hljs-number">1</span> : n /= <span class="hljs-number">2</span>; length++;&#125;<br>    <span class="hljs-keyword">return</span> length;<br>&#125;<br><br><span class="hljs-comment">// test.c</span><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    <span class="hljs-built_in">printf</span> ( <span class="hljs-string">&quot;%d\n&quot;</span>, hailstone(<span class="hljs-number">9</span>) );<br>    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure>
+
+
+]]></content>
+      <categories>
+        <category>专业学习</category>
+        <category>数据结构</category>
+      </categories>
+      <tags>
+        <tag>DSA</tag>
+        <tag>hailstone</tag>
+        <tag>algorithm</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>M001-数模资料</title>
     <url>/2021/01/01/M001-%E6%95%B0%E6%A8%A1%E8%B5%84%E6%96%99/</url>
     <content><![CDATA[<h4 id="为什么是数学建模？"><a href="#为什么是数学建模？" class="headerlink" title="为什么是数学建模？"></a>为什么是数学建模？</h4><hr>
@@ -337,24 +355,6 @@
       </categories>
       <tags>
         <tag>QT实践</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>P001-算法的有穷性</title>
-    <url>/2021/01/01/P001-%E7%AE%97%E6%B3%95%E7%9A%84%E6%9C%89%E7%A9%B7%E6%80%A7/</url>
-    <content><![CDATA[<h4 id="算法的有穷性"><a href="#算法的有穷性" class="headerlink" title="算法的有穷性"></a>算法的有穷性</h4><hr>
-<figure class="highlight c"><table><tr><td class="code"><pre><code class="hljs c"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">hailstone</span><span class="hljs-params">( <span class="hljs-keyword">int</span> n )</span> </span>&#123;<br>    <span class="hljs-keyword">int</span> length = <span class="hljs-number">1</span>;<br>    <span class="hljs-keyword">while</span> ( <span class="hljs-number">1</span> &lt; n ) &#123; n % <span class="hljs-number">2</span> ? n = <span class="hljs-number">3</span>*n + <span class="hljs-number">1</span> : n /= <span class="hljs-number">2</span>; length++;&#125;<br>    <span class="hljs-keyword">return</span> length;<br>&#125;<br><br><span class="hljs-comment">// test.c</span><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    <span class="hljs-built_in">printf</span> ( <span class="hljs-string">&quot;%d\n&quot;</span>, hailstone(<span class="hljs-number">9</span>) );<br>    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure>
-
-
-]]></content>
-      <categories>
-        <category>专业学习</category>
-        <category>数据结构</category>
-      </categories>
-      <tags>
-        <tag>DSA</tag>
-        <tag>hailstone</tag>
-        <tag>algorithm</tag>
       </tags>
   </entry>
   <entry>
@@ -447,46 +447,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R001</title>
-    <url>/2020/12/14/R001/</url>
-    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R002</title>
-    <url>/2020/12/15/R002/</url>
-    <content><![CDATA[<hr>
-<h4 id="听到更要行到"><a href="#听到更要行到" class="headerlink" title="听到更要行到"></a>听到更要行到</h4><figure class="highlight asciidoc"><table><tr><td class="code"><pre><code class="hljs asciidoc">## 不仅仅能够听到，也要在生活里行出来<br>&gt; 人生的标杆<br>&gt; 受造的价值<br>&gt; 应用到生活的每一个层面<br>--------------------------------------------<br>&gt; 要道成肉身，走出来<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">## 也许会碰到挫折，但不要会心，在同伴的协同下<br>&gt; $ 罗马书 8:28-30<br>&gt; 我们被神拣选，被祂称义，万事都在互相效力，叫称义的人得益处[如下，进入永恒]<br>&gt; 要把我们打磨成神儿子的形象<br>&gt; 我们是神手中的杰作<br>&gt; 神在祂心中的意念是一致的，即使表现得各不相同<br>&gt; 耶稣要率领众子进入神的荣耀，进入永恒 [是神永远旨意的完成]<br>&gt; 把我们磨成神儿子的形象 [是圣灵今天在我们身上工作的法则]<br>-------------------------------------------<br>&gt; 地上再多的苦，比起我们将来的荣耀，是不值一提的<br>&gt; [知道神的目的 - 善良、纯全、可喜悦的旨意]<br>&gt; 神拆毁我们、倒空我们、洁净我们、改变我们<br>&gt; 罗马数X:12节，不要效法这个世界<br>&gt; 要去查阅何为神善良、纯全、可喜悦的旨意<br>-------------------------------------------<br>&gt; 我们所有的遭遇，神在我们的身上都有美好的旨意，我们还有许多的未得之地<br>&gt; 愿我们心里也能彼此相爱，彼此扶持<br>&gt; 使万人成为神的门徒<br>&gt; [使万民成为主的门徒]<br>&gt; 门徒：学生、follower<br>&gt; <br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="如何成为耶稣基督的门徒"><a href="#如何成为耶稣基督的门徒" class="headerlink" title="如何成为耶稣基督的门徒"></a>如何成为耶稣基督的门徒</h4><figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell"><span class="hljs-meta">#</span><span class="bash"><span class="hljs-comment"># 有代价</span></span><br>	*路加福音 14:26,27 33<br>	*马太福音 10:27-38<br>	---------------------------------------<br><span class="hljs-meta">	#</span><span class="bash"><span class="hljs-comment"># 神要求我们的，就是神要给我们的</span></span><br>		** 主向我们要求圣洁，但是在我里头毫无良善<br>		** 当我们跟从主，就向圣洁靠近<br>		** 是什么让这些吸引我们的偶像失去颜色？  <br>		不要做违背神、违背主的关系[当世界与主的旨意冲突时，要爱主胜过世界]<br>		永远让主居首位<br>		** 如果你没有遭受逼迫，那是神特别的恩典。如果你遭受到逼迫，那是神更大的恩典<br>		<br><span class="hljs-meta">		#</span><span class="bash"><span class="hljs-comment"># 信耶稣一定有代价</span></span><br>	---------------------------------------<br>	<br><span class="hljs-meta">#</span><span class="bash"><span class="hljs-comment"># 要舍己</span></span><br>	*外面很多东西都可以放，唯独舍己 - 是最大的代价<br>	*最大的难处、最大的麻烦<br>	<br></code></pre></td></tr></table></figure>
-
-<h4 id="门徒的特点"><a href="#门徒的特点" class="headerlink" title="门徒的特点"></a>门徒的特点</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 你在马路上怎么样认出一个军人来？<br>	** 门徒的特点<br>	** 活在光中<br>	---------------------------------------<br>	<br>	---------------------------------------<br>	** 活在爱中<br>	---------------------------------------<br>		## 有相爱的心，不能在舌头上，总要在行为和诚实上<br>		## 积极的爱永远是纯全，永远是在建造<br>		<br>	** 活在生命里<br>	---------------------------------------<br>		## 你们多结果子<br>		## 生命不断的被改变 	[在江湖混太久了 - 所以一路上慢慢被改变]<br>		## 没有人跟随耶稣生命不被改变的<br>			** 伯大尼 - 拉撒路 - 许多人因为拉撒路就信了耶稣[从前我是瞎眼的，如今我得以看见] - [复活生命的明证]<br>			** 原味尚醇 - 马铃薯的见证[] - 暴躁的改变 [旷野的流浪]<br>			** 门徒生命一定被改变<br>	---------------------------------------<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="在基督的学校做门徒"><a href="#在基督的学校做门徒" class="headerlink" title="在基督的学校做门徒"></a>在基督的学校做门徒</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 门徒是在宇宙中最高的学府<br><span class="hljs-comment">	** 祂独自引导，并无它神</span><br><span class="hljs-comment">	** 引导、训练我们</span><br>	<br>	--------------------------------------<br><span class="hljs-comment">	** 施洗约翰：引起注意 -&gt; 把人带起来跟随耶稣</span><br><span class="hljs-comment">	** 圣灵在凡事上教导我们</span><br><span class="hljs-comment">	** 没有一件事是不能放到主的面前祷告的</span><br>	<br>## 加百列 文<br>   伍伽勒 武<br><span class="hljs-comment">   ** 神可以让万物互相效力，只为训练祂的门徒</span><br><span class="hljs-comment">   ** 基督是一切，又在一切之内 	[歌罗西书3:11]</span><br><span class="hljs-comment">   ** Make the most of every op</span><br><span class="hljs-comment">   ** Just like Jesus</span><br>   ---------------------------------------<br>   <br>## 每一天结束的时候<br><span class="hljs-comment">	** 回想一下在基督的学校里学到了什么</span><br><span class="hljs-comment">	** 要越来越像耶稣</span><br>	愿我们在基督的学校里能成为最好的门徒<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>门徒训练</tag>
-        <tag>N102</tag>
-        <tag>在基督的学校作门徒</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R003</title>
     <url>/2020/12/15/R003/</url>
     <content><![CDATA[<hr>
@@ -519,22 +479,44 @@
       </tags>
   </entry>
   <entry>
-    <title>R005</title>
-    <url>/2020/12/16/R005/</url>
-    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
+    <title>R002</title>
+    <url>/2020/12/15/R002/</url>
+    <content><![CDATA[<hr>
+<h4 id="听到更要行到"><a href="#听到更要行到" class="headerlink" title="听到更要行到"></a>听到更要行到</h4><figure class="highlight asciidoc"><table><tr><td class="code"><pre><code class="hljs asciidoc">## 不仅仅能够听到，也要在生活里行出来<br>&gt; 人生的标杆<br>&gt; 受造的价值<br>&gt; 应用到生活的每一个层面<br>--------------------------------------------<br>&gt; 要道成肉身，走出来<br></code></pre></td></tr></table></figure>
 
 <hr>
-<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">## 也许会碰到挫折，但不要会心，在同伴的协同下<br>&gt; $ 罗马书 8:28-30<br>&gt; 我们被神拣选，被祂称义，万事都在互相效力，叫称义的人得益处[如下，进入永恒]<br>&gt; 要把我们打磨成神儿子的形象<br>&gt; 我们是神手中的杰作<br>&gt; 神在祂心中的意念是一致的，即使表现得各不相同<br>&gt; 耶稣要率领众子进入神的荣耀，进入永恒 [是神永远旨意的完成]<br>&gt; 把我们磨成神儿子的形象 [是圣灵今天在我们身上工作的法则]<br>-------------------------------------------<br>&gt; 地上再多的苦，比起我们将来的荣耀，是不值一提的<br>&gt; [知道神的目的 - 善良、纯全、可喜悦的旨意]<br>&gt; 神拆毁我们、倒空我们、洁净我们、改变我们<br>&gt; 罗马数X:12节，不要效法这个世界<br>&gt; 要去查阅何为神善良、纯全、可喜悦的旨意<br>-------------------------------------------<br>&gt; 我们所有的遭遇，神在我们的身上都有美好的旨意，我们还有许多的未得之地<br>&gt; 愿我们心里也能彼此相爱，彼此扶持<br>&gt; 使万人成为神的门徒<br>&gt; [使万民成为主的门徒]<br>&gt; 门徒：学生、follower<br>&gt; <br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="如何成为耶稣基督的门徒"><a href="#如何成为耶稣基督的门徒" class="headerlink" title="如何成为耶稣基督的门徒"></a>如何成为耶稣基督的门徒</h4><figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell"><span class="hljs-meta">#</span><span class="bash"><span class="hljs-comment"># 有代价</span></span><br>	*路加福音 14:26,27 33<br>	*马太福音 10:27-38<br>	---------------------------------------<br><span class="hljs-meta">	#</span><span class="bash"><span class="hljs-comment"># 神要求我们的，就是神要给我们的</span></span><br>		** 主向我们要求圣洁，但是在我里头毫无良善<br>		** 当我们跟从主，就向圣洁靠近<br>		** 是什么让这些吸引我们的偶像失去颜色？  <br>		不要做违背神、违背主的关系[当世界与主的旨意冲突时，要爱主胜过世界]<br>		永远让主居首位<br>		** 如果你没有遭受逼迫，那是神特别的恩典。如果你遭受到逼迫，那是神更大的恩典<br>		<br><span class="hljs-meta">		#</span><span class="bash"><span class="hljs-comment"># 信耶稣一定有代价</span></span><br>	---------------------------------------<br>	<br><span class="hljs-meta">#</span><span class="bash"><span class="hljs-comment"># 要舍己</span></span><br>	*外面很多东西都可以放，唯独舍己 - 是最大的代价<br>	*最大的难处、最大的麻烦<br>	<br></code></pre></td></tr></table></figure>
+
+<h4 id="门徒的特点"><a href="#门徒的特点" class="headerlink" title="门徒的特点"></a>门徒的特点</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 你在马路上怎么样认出一个军人来？<br>	** 门徒的特点<br>	** 活在光中<br>	---------------------------------------<br>	<br>	---------------------------------------<br>	** 活在爱中<br>	---------------------------------------<br>		## 有相爱的心，不能在舌头上，总要在行为和诚实上<br>		## 积极的爱永远是纯全，永远是在建造<br>		<br>	** 活在生命里<br>	---------------------------------------<br>		## 你们多结果子<br>		## 生命不断的被改变 	[在江湖混太久了 - 所以一路上慢慢被改变]<br>		## 没有人跟随耶稣生命不被改变的<br>			** 伯大尼 - 拉撒路 - 许多人因为拉撒路就信了耶稣[从前我是瞎眼的，如今我得以看见] - [复活生命的明证]<br>			** 原味尚醇 - 马铃薯的见证[] - 暴躁的改变 [旷野的流浪]<br>			** 门徒生命一定被改变<br>	---------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="在基督的学校做门徒"><a href="#在基督的学校做门徒" class="headerlink" title="在基督的学校做门徒"></a>在基督的学校做门徒</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 门徒是在宇宙中最高的学府<br><span class="hljs-comment">	** 祂独自引导，并无它神</span><br><span class="hljs-comment">	** 引导、训练我们</span><br>	<br>	--------------------------------------<br><span class="hljs-comment">	** 施洗约翰：引起注意 -&gt; 把人带起来跟随耶稣</span><br><span class="hljs-comment">	** 圣灵在凡事上教导我们</span><br><span class="hljs-comment">	** 没有一件事是不能放到主的面前祷告的</span><br>	<br>## 加百列 文<br>   伍伽勒 武<br><span class="hljs-comment">   ** 神可以让万物互相效力，只为训练祂的门徒</span><br><span class="hljs-comment">   ** 基督是一切，又在一切之内 	[歌罗西书3:11]</span><br><span class="hljs-comment">   ** Make the most of every op</span><br><span class="hljs-comment">   ** Just like Jesus</span><br>   ---------------------------------------<br>   <br>## 每一天结束的时候<br><span class="hljs-comment">	** 回想一下在基督的学校里学到了什么</span><br><span class="hljs-comment">	** 要越来越像耶稣</span><br>	愿我们在基督的学校里能成为最好的门徒<br></code></pre></td></tr></table></figure>
 
 ]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
       <tags>
-        <tag>考研安排</tag>
-        <tag>思维导图</tag>
-        <tag>考研索引</tag>
+        <tag>门徒训练</tag>
+        <tag>N102</tag>
+        <tag>在基督的学校作门徒</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>R001</title>
+    <url>/2020/12/14/R001/</url>
+    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
   </entry>
   <entry>
     <title>R006</title>
@@ -568,6 +550,24 @@
       </categories>
       <tags>
         <tag>MI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R005</title>
+    <url>/2020/12/16/R005/</url>
+    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>考研安排</tag>
+        <tag>思维导图</tag>
+        <tag>考研索引</tag>
       </tags>
   </entry>
   <entry>
@@ -643,6 +643,21 @@
       </tags>
   </entry>
   <entry>
+    <title>R012-软工知识点梳理</title>
+    <url>/2020/12/23/R012/</url>
+    <content><![CDATA[<h4 id="软工知识点梳理"><a href="#软工知识点梳理" class="headerlink" title="软工知识点梳理"></a>软工知识点梳理</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 梳理了考试和学习的重点</span><br>	**<br>	**<br><br><span class="hljs-comment">## 分析著名的缺乏测试项目</span><br>	** 爱国者导弹防御系统<br>	** 温州动车事故[2011]<br>	** <br><br><span class="hljs-comment">## 从敏捷软件开发到项目管理、从软件测试到DevOps</span><br>	**是否安装软件测试工具<br>	**是否开始学习DevOps<br><br><span class="hljs-comment">## 灵感的来源：</span><br>	** 元素周期表<br>	** 全世界、所有大学、所有专业的培养计划<br>	** 对人类社会产生重大深远影响的书籍<br>	<br><span class="hljs-comment">## 软工资料地址</span><br>	**[LINK] - [http://124.160.107.91:10001/SoftEng/SitePages/Home.aspx]<br>	**ID: SEI\189051042<br>	**PW: 189051042@hdu.com<br>	<br><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>软件工程</tag>
+        <tag>Xmind</tag>
+        <tag>灵感</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R010</title>
     <url>/2020/12/17/R010/</url>
     <content><![CDATA[<h4 id="项目说明"><a href="#项目说明" class="headerlink" title="项目说明"></a>项目说明</h4><blockquote>
@@ -698,35 +713,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R011</title>
-    <url>/2020/12/18/R011/</url>
-    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>演讲的艺术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R012-软工知识点梳理</title>
-    <url>/2020/12/23/R012/</url>
-    <content><![CDATA[<h4 id="软工知识点梳理"><a href="#软工知识点梳理" class="headerlink" title="软工知识点梳理"></a>软工知识点梳理</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 梳理了考试和学习的重点</span><br>	**<br>	**<br><br><span class="hljs-comment">## 分析著名的缺乏测试项目</span><br>	** 爱国者导弹防御系统<br>	** 温州动车事故[2011]<br>	** <br><br><span class="hljs-comment">## 从敏捷软件开发到项目管理、从软件测试到DevOps</span><br>	**是否安装软件测试工具<br>	**是否开始学习DevOps<br><br><span class="hljs-comment">## 灵感的来源：</span><br>	** 元素周期表<br>	** 全世界、所有大学、所有专业的培养计划<br>	** 对人类社会产生重大深远影响的书籍<br>	<br><span class="hljs-comment">## 软工资料地址</span><br>	**[LINK] - [http://124.160.107.91:10001/SoftEng/SitePages/Home.aspx]<br>	**ID: SEI\189051042<br>	**PW: 189051042@hdu.com<br>	<br><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>软件工程</tag>
-        <tag>Xmind</tag>
-        <tag>灵感</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R013-组成原理笔记</title>
     <url>/2020/12/24/R013/</url>
     <content><![CDATA[<h4 id="微程序控制器"><a href="#微程序控制器" class="headerlink" title="微程序控制器"></a>微程序控制器</h4><hr>
@@ -779,6 +765,20 @@
       <categories>
         <category>日常记录</category>
       </categories>
+  </entry>
+  <entry>
+    <title>R011</title>
+    <url>/2020/12/18/R011/</url>
+    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>演讲的艺术</tag>
+      </tags>
   </entry>
   <entry>
     <title>R014-马原分享笔记</title>
@@ -837,16 +837,16 @@
       </categories>
   </entry>
   <entry>
-    <title>R017-NULL</title>
-    <url>/2020/12/27/R017/</url>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
   </entry>
   <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016/</url>
+    <title>R017-NULL</title>
+    <url>/2020/12/27/R017/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
@@ -1039,6 +1039,39 @@
       </tags>
   </entry>
   <entry>
+    <title>R026-门徒训练第三课</title>
+    <url>/2020/12/30/R026/</url>
+    <content><![CDATA[<h4 id="为什么要建立稳定的灵修生活"><a href="#为什么要建立稳定的灵修生活" class="headerlink" title="为什么要建立稳定的灵修生活"></a>为什么要建立稳定的灵修生活</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 四件事情：</span><br>	A-为何建立稳定的灵修生活如此重要<br>		**是神儿女们绝不可忽视的拳脚功夫<br>			若不深耕，如何结实？--神一生都在建造我们<br>			当地震、海啸来临之时，一眼就看出哪些树、哪些房屋的根基是深厚的<br>		**生命软弱、跟神关系疏远的原因：<br>			-当今门徒训练-普遍的现象：肤浅、不够深。很多人的生命并没有被改变<br>			很关键的原因就是没有每一天过一个稳定的灵修生活<br>			目的：生命被改变、跟神的关系被改变、与主更亲近、生活更得胜<br>		**是当今时代众教会普遍的危机<br>			好像神家得不到供应，缺少生命-根基问题：没有稳定的灵修生活<br>			<br>		**圣经中的榜样-尤其是主耶稣自己，经常退到野地、海边、或山上去祷告<br>			约瑟在大饥荒之前，就是一直在积蓄粮食：我们的灵修、生活的一切都是在积蓄粮食，<br>			当你里面真正有生命的时候，神会把有需要的人带来。<br>			路德，拾穗。在波阿斯的田里，每一天拾穗就够我们所用<br>			与神亲密且持续的关系<br>			<br>	<span class="hljs-comment">## 我们务要认识耶和华，竭力追求认识祂。祂出现确如晨光；祂必临到我们想甘露，像滋润田地的春雨。 何 6:3</span><br>	<br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="竭力追求认识祂"><a href="#竭力追求认识祂" class="headerlink" title="竭力追求认识祂"></a>竭力追求认识祂</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 光和雨都是生命成长所必须要的，[在竭力上不够，所以光和雨缺乏导致生长的不好]</span><br>	我们务必要认识耶和华，竭力追求认识他。祂出现确如晨光；祂必临到我们像甘雨，像滋润田地的春雨。<br></code></pre></td></tr></table></figure>
+
+<h4 id="培养好习惯的重要"><a href="#培养好习惯的重要" class="headerlink" title="培养好习惯的重要"></a>培养好习惯的重要</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第二件重要的事情</span><br>	B-培养好习惯的重要性<br>			什么是习惯：很自然的、重复在做的<br>			习惯带来累积性的影响<br>			坏习惯-害你<br>			好习惯-不断成长的祝福，<br>		**得享累积且不住增长的果效，使人终生受益无穷。<br>			[加拉太书 6:7] 人种的是什么，收的就是什么<br>			培养好习惯，收祝福：懂得感恩，看到别人的好习惯、长处、可取之处、获得祝福<br>			荣耀神、祝福人、又祝福自己<br>			我们今天收到的就是自己种下的<br>			[林后 9:6] 少种的少收，多种的多收，这话是真的。[这句话太重要了，所以强调]<br>			所以我们的灵修，有人交差了事，五分钟觉得我良心平安，我今天晨更了。有的人，只要有机会，就跟主建立更亲近的关系<br>			竭力往前，都要进步[我可以凡事长进]-要越来越长进<br>			[诗篇：我所得的，你为我持守]<br>		**建立稳定的灵修生活，是最值得培养的好习惯之一。<br>			从最基本的拳脚，先把稳定的灵修生活建立起来<br>			[提前 4:8-9] 操练身体，益处还少；唯独敬虔，凡事都有益处，因有今生和来生的应许。这话是可信的，是十分可佩服的。<br></code></pre></td></tr></table></figure>
+
+<h4 id="建立稳定灵修生活的挑战"><a href="#建立稳定灵修生活的挑战" class="headerlink" title="建立稳定灵修生活的挑战"></a>建立稳定灵修生活的挑战</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第三件重要的事情</span><br>	C-建立稳定灵修生活的挑战<br>		---稳行在高处<br>		建立稳定灵修生活-<br>		*但以理的榜样<br>		[但 6:10] 但以理知道这禁令盖了玉玺，就到了自己家里（他楼上的窗户开向耶路撒冷）一日三次，双膝跪在他神面前，祷告感谢，与素常一样<br>		**稳的挑战 - [与素常一样] ---很大的挑战<br>		**行的挑战 - 一日三次 --- 开始、具体、可行、持续<br>		**高的挑战 - 跪在他神面前 --- 最重要、最难<br>        	不能够持续：在灵修里碰不到主、去圣经里、去生活里找亮光，但是光是不需要去寻找的<br>        	最被我们忽略的地方-仇敌使我们被蒙蔽<br>        	在灵修中遇见神、在神的同在中灵修[读经读的很过瘾，但是不见得碰到神]<br>        	灵修不只是一件事、不只是一个习惯、不只是一个lifestyle<br>        	: 常常在灵修中遇见神，在神的同在中灵修<br>        	圣经研读：遇见说话的神<br>        	祷告：人与神在圣灵中的相会与相交<br>        		*一疏忽就会在人的境界里灵修、祷告<br>        		读经之路：[以赛亚书 55:3]<br>                <br>                *三分钟到五分钟[尽心尽力 - 遇见主]<br>                什么时候我们等候祂，祂就必施恩于我们 - 每一次回来，祂都在等候我们<br>                *让我们的生命被改变<br>                <br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="属灵同伴的重要"><a href="#属灵同伴的重要" class="headerlink" title="属灵同伴的重要"></a>属灵同伴的重要</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第四件重要的事情</span><br>	D-属灵同伴的重要<br>		[箴言 27:17] 铁磨铁，磨出刃来，朋友相感也是如此<br>		*打磨成器 - <br>		增加对方的价值、提高对方的功用，脱离粗糙的情景<br>		[提 2:22] 你们要逃避少年人的私欲，同那清心祷告主的人追求公义、信德、仁爱、和平。 <br>		我们的朋友如何，那是非常重要的事情<br>		[传道书 4:9-12] 两个人总比一个人好……<br>		&amp;故事：碳火-火红的碳于与潮湿的碳<br>		**保罗的榜样<br>		[林后 8:23] 论到提多，他是我的同伴，一同为你们劳碌的。<br>		保罗的谦卑<br>		care主、基督、神的旨意，同伴的重要<br>		&amp;故事：谁的南瓜大？当大家一起来追求突破的时候，--就会引发质变<br></code></pre></td></tr></table></figure>
+
+<h4 id="稳行在高处"><a href="#稳行在高处" class="headerlink" title="稳行在高处"></a>稳行在高处</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">具体、可行<br>到高的境界<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>新人门徒训练N103</tag>
+        <tag>建立稳定的灵修生活</tag>
+        <tag>稳行在高处</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R024-linux kernel 实验简述</title>
     <url>/2020/12/30/R024/</url>
     <content><![CDATA[<h4 id="实验简述"><a href="#实验简述" class="headerlink" title="实验简述"></a>实验简述</h4><hr>
@@ -1198,39 +1231,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R026-门徒训练第三课</title>
-    <url>/2020/12/30/R026/</url>
-    <content><![CDATA[<h4 id="为什么要建立稳定的灵修生活"><a href="#为什么要建立稳定的灵修生活" class="headerlink" title="为什么要建立稳定的灵修生活"></a>为什么要建立稳定的灵修生活</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 四件事情：</span><br>	A-为何建立稳定的灵修生活如此重要<br>		**是神儿女们绝不可忽视的拳脚功夫<br>			若不深耕，如何结实？--神一生都在建造我们<br>			当地震、海啸来临之时，一眼就看出哪些树、哪些房屋的根基是深厚的<br>		**生命软弱、跟神关系疏远的原因：<br>			-当今门徒训练-普遍的现象：肤浅、不够深。很多人的生命并没有被改变<br>			很关键的原因就是没有每一天过一个稳定的灵修生活<br>			目的：生命被改变、跟神的关系被改变、与主更亲近、生活更得胜<br>		**是当今时代众教会普遍的危机<br>			好像神家得不到供应，缺少生命-根基问题：没有稳定的灵修生活<br>			<br>		**圣经中的榜样-尤其是主耶稣自己，经常退到野地、海边、或山上去祷告<br>			约瑟在大饥荒之前，就是一直在积蓄粮食：我们的灵修、生活的一切都是在积蓄粮食，<br>			当你里面真正有生命的时候，神会把有需要的人带来。<br>			路德，拾穗。在波阿斯的田里，每一天拾穗就够我们所用<br>			与神亲密且持续的关系<br>			<br>	<span class="hljs-comment">## 我们务要认识耶和华，竭力追求认识祂。祂出现确如晨光；祂必临到我们想甘露，像滋润田地的春雨。 何 6:3</span><br>	<br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="竭力追求认识祂"><a href="#竭力追求认识祂" class="headerlink" title="竭力追求认识祂"></a>竭力追求认识祂</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 光和雨都是生命成长所必须要的，[在竭力上不够，所以光和雨缺乏导致生长的不好]</span><br>	我们务必要认识耶和华，竭力追求认识他。祂出现确如晨光；祂必临到我们像甘雨，像滋润田地的春雨。<br></code></pre></td></tr></table></figure>
-
-<h4 id="培养好习惯的重要"><a href="#培养好习惯的重要" class="headerlink" title="培养好习惯的重要"></a>培养好习惯的重要</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第二件重要的事情</span><br>	B-培养好习惯的重要性<br>			什么是习惯：很自然的、重复在做的<br>			习惯带来累积性的影响<br>			坏习惯-害你<br>			好习惯-不断成长的祝福，<br>		**得享累积且不住增长的果效，使人终生受益无穷。<br>			[加拉太书 6:7] 人种的是什么，收的就是什么<br>			培养好习惯，收祝福：懂得感恩，看到别人的好习惯、长处、可取之处、获得祝福<br>			荣耀神、祝福人、又祝福自己<br>			我们今天收到的就是自己种下的<br>			[林后 9:6] 少种的少收，多种的多收，这话是真的。[这句话太重要了，所以强调]<br>			所以我们的灵修，有人交差了事，五分钟觉得我良心平安，我今天晨更了。有的人，只要有机会，就跟主建立更亲近的关系<br>			竭力往前，都要进步[我可以凡事长进]-要越来越长进<br>			[诗篇：我所得的，你为我持守]<br>		**建立稳定的灵修生活，是最值得培养的好习惯之一。<br>			从最基本的拳脚，先把稳定的灵修生活建立起来<br>			[提前 4:8-9] 操练身体，益处还少；唯独敬虔，凡事都有益处，因有今生和来生的应许。这话是可信的，是十分可佩服的。<br></code></pre></td></tr></table></figure>
-
-<h4 id="建立稳定灵修生活的挑战"><a href="#建立稳定灵修生活的挑战" class="headerlink" title="建立稳定灵修生活的挑战"></a>建立稳定灵修生活的挑战</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第三件重要的事情</span><br>	C-建立稳定灵修生活的挑战<br>		---稳行在高处<br>		建立稳定灵修生活-<br>		*但以理的榜样<br>		[但 6:10] 但以理知道这禁令盖了玉玺，就到了自己家里（他楼上的窗户开向耶路撒冷）一日三次，双膝跪在他神面前，祷告感谢，与素常一样<br>		**稳的挑战 - [与素常一样] ---很大的挑战<br>		**行的挑战 - 一日三次 --- 开始、具体、可行、持续<br>		**高的挑战 - 跪在他神面前 --- 最重要、最难<br>        	不能够持续：在灵修里碰不到主、去圣经里、去生活里找亮光，但是光是不需要去寻找的<br>        	最被我们忽略的地方-仇敌使我们被蒙蔽<br>        	在灵修中遇见神、在神的同在中灵修[读经读的很过瘾，但是不见得碰到神]<br>        	灵修不只是一件事、不只是一个习惯、不只是一个lifestyle<br>        	: 常常在灵修中遇见神，在神的同在中灵修<br>        	圣经研读：遇见说话的神<br>        	祷告：人与神在圣灵中的相会与相交<br>        		*一疏忽就会在人的境界里灵修、祷告<br>        		读经之路：[以赛亚书 55:3]<br>                <br>                *三分钟到五分钟[尽心尽力 - 遇见主]<br>                什么时候我们等候祂，祂就必施恩于我们 - 每一次回来，祂都在等候我们<br>                *让我们的生命被改变<br>                <br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="属灵同伴的重要"><a href="#属灵同伴的重要" class="headerlink" title="属灵同伴的重要"></a>属灵同伴的重要</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 第四件重要的事情</span><br>	D-属灵同伴的重要<br>		[箴言 27:17] 铁磨铁，磨出刃来，朋友相感也是如此<br>		*打磨成器 - <br>		增加对方的价值、提高对方的功用，脱离粗糙的情景<br>		[提 2:22] 你们要逃避少年人的私欲，同那清心祷告主的人追求公义、信德、仁爱、和平。 <br>		我们的朋友如何，那是非常重要的事情<br>		[传道书 4:9-12] 两个人总比一个人好……<br>		&amp;故事：碳火-火红的碳于与潮湿的碳<br>		**保罗的榜样<br>		[林后 8:23] 论到提多，他是我的同伴，一同为你们劳碌的。<br>		保罗的谦卑<br>		care主、基督、神的旨意，同伴的重要<br>		&amp;故事：谁的南瓜大？当大家一起来追求突破的时候，--就会引发质变<br></code></pre></td></tr></table></figure>
-
-<h4 id="稳行在高处"><a href="#稳行在高处" class="headerlink" title="稳行在高处"></a>稳行在高处</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">具体、可行<br>到高的境界<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>新人门徒训练N103</tag>
-        <tag>建立稳定的灵修生活</tag>
-        <tag>稳行在高处</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R027-912考研笔记</title>
     <url>/2020/12/31/R027/</url>
     <content><![CDATA[<h4 id="这是一条不归路"><a href="#这是一条不归路" class="headerlink" title="这是一条不归路"></a>这是一条不归路</h4><blockquote>
@@ -1262,6 +1262,114 @@
         <tag>912考研笔记</tag>
         <tag>考研规划</tag>
         <tag>考研资料</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R029-个人项目经验规划</title>
+    <url>/2021/01/01/R029/</url>
+    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cser如何面对复试</td>
+<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
+</tr>
+<tr>
+<td>大数据工程师该会什么</td>
+<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
+</tr>
+<tr>
+<td>清华大学计科培养方案</td>
+<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
+</tr>
+<tr>
+<td>20计算机经验帖</td>
+<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
+</tr>
+<tr>
+<td>一位学姐的912分享</td>
+<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>数据结构邓俊辉</td>
+<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
+<table>
+<thead>
+<tr>
+<th>数据机构[学堂在线]</th>
+<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>考研英语词根词缀</td>
+<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>数学建模</tag>
+        <tag>912考研资料索引专刊</tag>
+        <tag>个人项目规划参考</tag>
+        <tag>大数据工程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R031-假期项目安排</title>
+    <url>/2021/01/03/R031/</url>
+    <content><![CDATA[<h4 id="一个大胆的计划"><a href="#一个大胆的计划" class="headerlink" title="一个大胆的计划"></a>一个大胆的计划</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 设计艺术品，美在逻辑中</span><br>	** 如何设计一个完美的艺术品是非常考验专业素养、世界观、审美观、价值观的<br>	** <br>	<br><span class="hljs-comment">## 做什么？</span><br>	** 一个个人管理系统：经历管理，让用户看见自己的成长与变化 - 认清楚这个世界<br>	** 经历当中包含了很多信息-将这些信息提取分类出来：这是一个只用于回顾，然后帮助用户提高工作效率的系统。<br>	** 基础功能：用户创建一篇文章，自动加入文章配置[文章标题、背景图片]，写作结束后提取出关键字作为文章标签，根据文章回顾次数动态分配文章经验[经验用于段位和等级的增长]<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="团队的组建"><a href="#团队的组建" class="headerlink" title="团队的组建"></a>团队的组建</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一个团队的用人标准不是智商有多高，而是能对团队产生多少贡献</span><br>	** 最好属于成就导向，有源源不断的动力，如果不是，那么就引导他成为成就导向型<br>	** 服从管理，服从是军人的天职，也是团队高效协作的必要条件<br>	** 能够分清楚事情的轻重缓急，不会因为杂念阻碍核心任务的跟进<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="假期更新hziee-cs-stack"><a href="#假期更新hziee-cs-stack" class="headerlink" title="假期更新hziee_cs_stack"></a>假期更新hziee_cs_stack</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将一年级上册和三年级上册的大部份资料整理发布</span><br>	** 养成好的习惯<br>	** 不懂就写，写清楚了问题就解决了<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="产品设计"><a href="#产品设计" class="headerlink" title="产品设计"></a>产品设计</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 这里可能要设计更多的专业知识</span><br>	** 比如 美术、音乐、地理、历史、生物、数学、物理、化学、神学等等<br>	** 当然更多的是应该分析成功产品的设计案例，多维度研究分析、最好能够复盘<br>	<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="整理自己的大学经历"><a href="#整理自己的大学经历" class="headerlink" title="整理自己的大学经历"></a>整理自己的大学经历</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 个人学习情况的总结绘制</span><br>	** 专业课程<br>	** 习惯培养<br>	** 思维方式<br>	** 神学入门<br>	<br><span class="hljs-comment">## 个人成就的总结绘制</span><br>	** 准确表达<br>	** 领导能力<br>    ** 荣誉经历<br>    ** 写作能力<br>	<br><span class="hljs-comment">## 个人愿景的总结绘制</span><br>	** 数据分析<br>	** 人工智能<br>	** 操作系统<br>	** 数学建模<br>	** VR公司、产品<br>	** 艺术家<br></code></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>假期安排</tag>
+        <tag>产品设计</tag>
+        <tag>团队管理</tag>
       </tags>
   </entry>
   <entry>
@@ -1542,131 +1650,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R029-个人项目经验规划</title>
-    <url>/2021/01/01/R029/</url>
-    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
-<table>
-<thead>
-<tr>
-<th>名称</th>
-<th>链接</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Cser如何面对复试</td>
-<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
-</tr>
-<tr>
-<td>大数据工程师该会什么</td>
-<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
-</tr>
-<tr>
-<td>清华大学计科培养方案</td>
-<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
-</tr>
-<tr>
-<td>20计算机经验帖</td>
-<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
-</tr>
-<tr>
-<td>一位学姐的912分享</td>
-<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>数据结构邓俊辉</td>
-<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<hr>
-<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
-<table>
-<thead>
-<tr>
-<th>数据机构[学堂在线]</th>
-<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>考研英语词根词缀</td>
-<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>数学建模</tag>
-        <tag>912考研资料索引专刊</tag>
-        <tag>个人项目规划参考</tag>
-        <tag>大数据工程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R030-自动化发布文章更新</title>
-    <url>/2021/01/01/R030/</url>
-    <content><![CDATA[<h4 id="不断趋于完美"><a href="#不断趋于完美" class="headerlink" title="不断趋于完美"></a>不断趋于完美</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 加入新的功能</span><br>	**创建文章时只需要输入类型，不需要指定具体编号<br>	**能够自动提取参数并且加入到tag<br>	**能够自动追加整体经验值<br>	**能够自动判断段位增量<br></code></pre></td></tr></table></figure>
-
-<p><code>3.14159.........</code></p>
-<p>:fallen_leaf:</p>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>自动化构建</tag>
-        <tag>系统维护</tag>
-        <tag>商业化潜力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R031-假期项目安排</title>
-    <url>/2021/01/03/R031/</url>
-    <content><![CDATA[<h4 id="一个大胆的计划"><a href="#一个大胆的计划" class="headerlink" title="一个大胆的计划"></a>一个大胆的计划</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 设计艺术品，美在逻辑中</span><br>	** 如何设计一个完美的艺术品是非常考验专业素养、世界观、审美观、价值观的<br>	** <br>	<br><span class="hljs-comment">## 做什么？</span><br>	** 一个个人管理系统：经历管理，让用户看见自己的成长与变化 - 认清楚这个世界<br>	** 经历当中包含了很多信息-将这些信息提取分类出来：这是一个只用于回顾，然后帮助用户提高工作效率的系统。<br>	** 基础功能：用户创建一篇文章，自动加入文章配置[文章标题、背景图片]，写作结束后提取出关键字作为文章标签，根据文章回顾次数动态分配文章经验[经验用于段位和等级的增长]<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="团队的组建"><a href="#团队的组建" class="headerlink" title="团队的组建"></a>团队的组建</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一个团队的用人标准不是智商有多高，而是能对团队产生多少贡献</span><br>	** 最好属于成就导向，有源源不断的动力，如果不是，那么就引导他成为成就导向型<br>	** 服从管理，服从是军人的天职，也是团队高效协作的必要条件<br>	** 能够分清楚事情的轻重缓急，不会因为杂念阻碍核心任务的跟进<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="假期更新hziee-cs-stack"><a href="#假期更新hziee-cs-stack" class="headerlink" title="假期更新hziee_cs_stack"></a>假期更新hziee_cs_stack</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将一年级上册和三年级上册的大部份资料整理发布</span><br>	** 养成好的习惯<br>	** 不懂就写，写清楚了问题就解决了<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="产品设计"><a href="#产品设计" class="headerlink" title="产品设计"></a>产品设计</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 这里可能要设计更多的专业知识</span><br>	** 比如 美术、音乐、地理、历史、生物、数学、物理、化学、神学等等<br>	** 当然更多的是应该分析成功产品的设计案例，多维度研究分析、最好能够复盘<br>	<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="整理自己的大学经历"><a href="#整理自己的大学经历" class="headerlink" title="整理自己的大学经历"></a>整理自己的大学经历</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 个人学习情况的总结绘制</span><br>	** 专业课程<br>	** 习惯培养<br>	** 思维方式<br>	** 神学入门<br>	<br><span class="hljs-comment">## 个人成就的总结绘制</span><br>	** 准确表达<br>	** 领导能力<br>    ** 荣誉经历<br>    ** 写作能力<br>	<br><span class="hljs-comment">## 个人愿景的总结绘制</span><br>	** 数据分析<br>	** 人工智能<br>	** 操作系统<br>	** 数学建模<br>	** VR公司、产品<br>	** 艺术家<br></code></pre></td></tr></table></figure>
-
-
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>假期安排</tag>
-        <tag>产品设计</tag>
-        <tag>团队管理</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R032-考研单词L1</title>
     <url>/2021/01/03/R032/</url>
     <content><![CDATA[<h4 id="不要放弃，直到做成为止"><a href="#不要放弃，直到做成为止" class="headerlink" title="不要放弃，直到做成为止"></a>不要放弃，直到做成为止</h4><hr>
@@ -1936,6 +1919,23 @@
       </tags>
   </entry>
   <entry>
+    <title>R030-自动化发布文章更新</title>
+    <url>/2021/01/01/R030/</url>
+    <content><![CDATA[<h4 id="不断趋于完美"><a href="#不断趋于完美" class="headerlink" title="不断趋于完美"></a>不断趋于完美</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 加入新的功能</span><br>	**创建文章时只需要输入类型，不需要指定具体编号<br>	**能够自动提取参数并且加入到tag<br>	**能够自动追加整体经验值<br>	**能够自动判断段位增量<br></code></pre></td></tr></table></figure>
+
+<p><code>3.14159.........</code></p>
+<p>:fallen_leaf:</p>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>自动化构建</tag>
+        <tag>系统维护</tag>
+        <tag>商业化潜力</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R033-考研单词L2</title>
     <url>/2021/01/03/R033/</url>
     <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
@@ -2156,21 +2156,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R035-人工智能-初级踩坑</title>
-    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
-    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>入门资料</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R034-md图标收藏</title>
     <url>/2021/01/04/R034/</url>
     <content><![CDATA[<h4 id="四月图标收藏栏"><a href="#四月图标收藏栏" class="headerlink" title="四月图标收藏栏"></a>四月图标收藏栏</h4><p>:fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis: :fleur_de_lis:</p>
@@ -2190,27 +2175,18 @@
       </tags>
   </entry>
   <entry>
-    <title>R036-CS-STACK项目分析会议</title>
-    <url>/2021/01/06/R036-CS-STACK%E9%A1%B9%E7%9B%AE%E5%88%86%E6%9E%90%E4%BC%9A%E8%AE%AE/</url>
-    <content><![CDATA[<h4 id="项目人员素查"><a href="#项目人员素查" class="headerlink" title="项目人员素查"></a>项目人员素查</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 了解队员意愿</span><br><span class="hljs-comment">## 快刀斩乱麻</span><br><br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="项目前景介绍"><a href="#项目前景介绍" class="headerlink" title="项目前景介绍"></a>项目前景介绍</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 当前项目</span><br><span class="hljs-comment">## 后续项目</span><br><span class="hljs-comment">## 能学到什么</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="后续安排"><a href="#后续安排" class="headerlink" title="后续安排"></a>后续安排</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 经验贡献制度</span><br><span class="hljs-comment">## 分类记录规范</span><br>---<br>题外：<br>	** 需要监督的计划<br>	** 想要了解更多关于计科/软工<br>	** 职业发展<br></code></pre></td></tr></table></figure>
+    <title>R035-人工智能-初级踩坑</title>
+    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
+    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
 
 ]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
       <tags>
-        <tag>HZIEE-CS-STACK</tag>
-        <tag>项目分析</tag>
-        <tag>会议大纲</tag>
+        <tag>人工智能</tag>
+        <tag>入门资料</tag>
       </tags>
   </entry>
   <entry>
@@ -2486,6 +2462,30 @@
       </tags>
   </entry>
   <entry>
+    <title>R036-CS-STACK项目分析会议</title>
+    <url>/2021/01/06/R036-CS-STACK%E9%A1%B9%E7%9B%AE%E5%88%86%E6%9E%90%E4%BC%9A%E8%AE%AE/</url>
+    <content><![CDATA[<h4 id="项目人员素查"><a href="#项目人员素查" class="headerlink" title="项目人员素查"></a>项目人员素查</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 了解队员意愿</span><br><span class="hljs-comment">## 快刀斩乱麻</span><br><br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="项目前景介绍"><a href="#项目前景介绍" class="headerlink" title="项目前景介绍"></a>项目前景介绍</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 当前项目</span><br><span class="hljs-comment">## 后续项目</span><br><span class="hljs-comment">## 能学到什么</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="后续安排"><a href="#后续安排" class="headerlink" title="后续安排"></a>后续安排</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 经验贡献制度</span><br><span class="hljs-comment">## 分类记录规范</span><br>---<br>题外：<br>	** 需要监督的计划<br>	** 想要了解更多关于计科/软工<br>	** 职业发展<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>HZIEE-CS-STACK</tag>
+        <tag>项目分析</tag>
+        <tag>会议大纲</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R038-NULL</title>
     <url>/2021/01/05/R038/</url>
     <content><![CDATA[]]></content>
@@ -2506,6 +2506,25 @@
       <tags>
         <tag>团队管理</tag>
         <tag>HZIEE资料共享项目</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R040-马原考点梳理</title>
+    <url>/2021/01/06/R040-%E9%A9%AC%E5%8E%9F%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
+    <content><![CDATA[<h4 id="引用资料"><a href="#引用资料" class="headerlink" title="引用资料"></a>引用资料</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 优先级递减</span><br>[https://wenku.baidu.com/view/b55bfd386aec0975f46527d3240c844769eaa096.html]<br>[https://wenku.baidu.com/view/a1e34d49534de518964bcf84b9d528ea81c72fb5.html]<br>[https://wenku.baidu.com/view/d7fac81ea0c7aa00b52acfc789eb172dec639906.html]<br>[https://www.docin.com/p-1837022384.html]<br></code></pre></td></tr></table></figure>
+
+<hr>
+<blockquote>
+<p>将知识点与问题大纲标注在目录页，并且将重点强调页标注折叠</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>马克思主义基本原理概论</tag>
+        <tag>马原考点梳理</tag>
       </tags>
   </entry>
   <entry>
@@ -3036,25 +3055,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R040-马原考点梳理</title>
-    <url>/2021/01/06/R040-%E9%A9%AC%E5%8E%9F%E8%80%83%E7%82%B9%E6%A2%B3%E7%90%86/</url>
-    <content><![CDATA[<h4 id="引用资料"><a href="#引用资料" class="headerlink" title="引用资料"></a>引用资料</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 优先级递减</span><br>[https://wenku.baidu.com/view/b55bfd386aec0975f46527d3240c844769eaa096.html]<br>[https://wenku.baidu.com/view/a1e34d49534de518964bcf84b9d528ea81c72fb5.html]<br>[https://wenku.baidu.com/view/d7fac81ea0c7aa00b52acfc789eb172dec639906.html]<br>[https://www.docin.com/p-1837022384.html]<br></code></pre></td></tr></table></figure>
-
-<hr>
-<blockquote>
-<p>将知识点与问题大纲标注在目录页，并且将重点强调页标注折叠</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>马克思主义基本原理概论</tag>
-        <tag>马原考点梳理</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R042-应用写作-FINAL</title>
     <url>/2021/01/07/R042-%E5%BA%94%E7%94%A8%E5%86%99%E4%BD%9C-FINAL/</url>
     <content><![CDATA[<hr>
@@ -3354,71 +3354,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Dec-18-QT</title>
-    <url>/2020/12/18/R043-Dec-18-QT/</url>
-    <content><![CDATA[<h4 id="项目分析"><a href="#项目分析" class="headerlink" title="项目分析"></a>项目分析</h4><blockquote>
-<p>第一次阅读作业要求，重点在于代码的规范性，界面设计的简洁优雅。难点在于视频处理，大部分时间应该会花在和视频处理相关的点。基本功能之前的几次作业已经实现，只要把前几次的代码优化、规范即可。界面图标需要自己设计</p>
-</blockquote>
-<hr>
-<h4 id="界面设计阶段"><a href="#界面设计阶段" class="headerlink" title="界面设计阶段"></a>界面设计阶段</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 双窗口设计，左侧预留视频处理侧边栏-上方预留图片处理界面<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## 基本功能介绍[图片]</span><br>	**缩放<span class="hljs-regexp">/翻转/</span>旋转<br>	**亮度<span class="hljs-regexp">/色温/</span>相框<br>	**均值滤波<br>	**灰度处理<span class="hljs-regexp">/边缘检测/</span>二值化<span class="hljs-regexp">/腐蚀/</span><br>	**I18N<br>	**关于<br>	**图片保存<span class="hljs-regexp">/另存/</span>撤销上一步<span class="hljs-regexp">/撤销全部/</span>关闭图片/退出软件<br>	**<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="此处留白"><a href="#此处留白" class="headerlink" title="此处留白"></a>此处留白</h4><figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">这里用于之后介绍项目<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-<h4 id="开发记录"><a href="#开发记录" class="headerlink" title="开发记录"></a>开发记录</h4><figure class="highlight c++"><table><tr><td class="code"><pre><code class="hljs c++">&gt; $$<span class="hljs-number">1</span>-项目结构调整：<br>&gt; 为了更加清晰的展示代码，对项目的结构进行分类调整<br>&gt; *首先在项目根目录新建分类的文件夹，如：res, mainwindow, tools<br>&gt; *然后修改 `项目名.pro` 文件，添加引用目录<br>---------------------------------------------------------<br>INCLUDEPATH += ./ \<br>    dialog/ \<br>    tools/  \<br>    mainwindow/<br><br>SOURCES += \<br>    mainwindow/mainwindow.cpp  \<br>    main.cpp<br><br>HEADERS += \<br>        mainwindow/mainwindow.h    \<br><br>FORMS    += mainwindow/mainwindow.ui \<br>---------------------------------------------------------<br>    <br>&gt; $$<span class="hljs-number">1</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$2-设计制作图标<br>&gt; [LINK] - [https:&#x2F;&#x2F;www.iconfont.cn&#x2F;collections&#x2F;detail?spm&#x3D;a313x.7781069.1998910419.dc64b3430&amp;cid&#x3D;12507]<br>&gt; [生成ICON] - [http:&#x2F;&#x2F;www.ico51.cn&#x2F;]<br>&gt; $$2-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$3-UI实现<br>&gt; ERROR: 四月花了半小时添加图标，离奇的事件发生了：还剩最后一个图标没有添加-四月去下载，添加后 - 资源文件突然离奇失踪 - 之前的图标都还在<br>&gt; 在进行高危操作之前一定要备份！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>&gt; CNMLGB, WHAT THE FUCKING HELL WRONG WITH QT?<br><br>&gt; $$3-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **1-重写QGraphicsView实现图像的缩放<br>&gt;  **2-回顾槽函数、界面初始化设置：未打开图片时禁用所有按钮<br>&gt;  **3-设置tool bar: ui-&gt;toolBar_File-&gt;addAction(ui-&gt;doOpen);[toolBar_file是ui文件中toolbar的名字]<br>&gt;  **4-打开图片[]<br>在QGraphicsView的坐标系统中Scene的原点并是不hi顶点而是中心点，与窗口的坐标系统不一致。<br>[LINK] - [https://blog.csdn.net/fadbgfnbxb/article/details/88777835]<br><br><span class="hljs-comment">#  **因为已经重写了graphicview，此时鼠标缩放事件已经可以使用</span><br><br><span class="hljs-comment">#  **图片打开结束 注意图片的自适应和缩放[scale之前的qMax / qMin]</span><br><br><br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **5-关闭图片 - 添加按钮禁用状态<br>&gt;  **<br><span class="hljs-comment">#  **Q1: ConstImage错误</span><br>&gt;  **A1: BUG已修复 - - 缺少对ConstImage的赋值 -- 打开时<br>&gt;<br>&gt;  **6-灰度处理<br>&gt;  **7-边缘检测<br>&gt;  **8-亮度调节<br>&gt;  **9-冷暖色调<br>&gt;  **10-添加相框<br>&gt;  **11-二值图像<br>&gt;  **12-图片旋转<br>&gt;  **13-马赛克 	-- Mosaic FINISH<br>&gt;  **14-About对话框<br>&gt;  **15-Make donation<br>&gt;  **16-国际化<br>&gt;  **17-跨平台<br>&gt;  **18-视频处理<br>&gt;  **WELL DONE!<br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<blockquote>
-<p>待完成：</p>
-<p>**国际化</p>
-<p>**About对话窗口</p>
-</blockquote>
-<hr>
-<hr>
-<h4 id="视频处理阶段"><a href="#视频处理阶段" class="headerlink" title="视频处理阶段"></a>视频处理阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">**计划使用Opencv<br><span class="hljs-comment"># 进入安装编译阶段</span><br>&gt; [LINK] - https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows<br>&gt; [LINK] - <br>&gt; <span class="hljs-comment">##重装QT-5.9</span><br>&gt; <span class="hljs-comment">##临时移除git的mingw - [C:\Program Files\Git\mingw64\bin]</span><br>&gt; <span class="hljs-comment">##放弃使用Opencv</span><br>&gt; <span class="hljs-comment">##恢复git的mingw</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">##使用QMediaPlayer + QAbstractVideoSurface，获取视频的每一帧，转化成QImage处理</span><br>&gt; [link] - [https:<span class="hljs-regexp">//</span>blog.csdn.net<span class="hljs-regexp">/jxbinwd/</span>article<span class="hljs-regexp">/details/</span><span class="hljs-number">81034339</span>]<br>&gt; E:\shadowworkspace.github.io\source\_posts<br>&gt; [LINK] - https:<span class="hljs-regexp">//</span>download.qt.io<span class="hljs-regexp">/official_releases/</span>qt/<br><br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##改VLC</span><br><span class="hljs-variable">$WDNMD</span><br>-------------------------------------------------------------------------<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##回归QMediaPlayer+QAbstractVideoSurface</span><br>-------------------------------------------------------------------------<br>&gt; LINK - [https://blog.csdn.net/jxbinwd/article/details/81034339]<br>&gt; 补充功能：<br>&gt; **13-马赛克 	-- Mosaic FINISH<br>&gt; **14-About对话框<br>&gt; **15-Make donation<br>&gt; **16-国际化<br>&gt; **17-跨平台 <br>		<span class="hljs-comment">## [LINK] - [https://www.jianshu.com/p/9cc55a2c4e87]</span><br>        <span class="hljs-comment">## https://blog.csdn.net/qq_38204986/article/details/86934603</span><br>        <span class="hljs-comment">## 会遇到一个 ld 重复定义的方法，是因为把文件copy出来到一个目录时，没有删除原来的文件夹，注意修改原文件中的引用还有生成的.pro文件配置</span><br>        <span class="hljs-comment">## glib --》 这个错误要复制后面丢失的库查询，根据提示 find出来，然后手动复制到对应目录    </span><br>&gt; **18-视频处理<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##视频处理问题：</span><br>	**处理速度太慢，考虑使用多线程<br>	**没有保存<br>	**<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>产品设计</tag>
-        <tag>QT</tag>
-        <tag>万法归一</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R044-信工计网复习提纲</title>
     <url>/2021/01/07/R044-%E4%BF%A1%E5%B7%A5%E8%AE%A1%E7%BD%91%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2/</url>
     <content><![CDATA[<p>计算机网络复习提纲</p>
@@ -3492,18 +3427,68 @@
       </tags>
   </entry>
   <entry>
-    <title>R045-Visio绘制流程图</title>
-    <url>/2021/01/07/R045-Visio%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B%E5%9B%BE/</url>
-    <content><![CDATA[<h4 id="流程图绘制神器"><a href="#流程图绘制神器" class="headerlink" title="流程图绘制神器"></a>流程图绘制神器</h4><blockquote>
-<p>Visio</p>
+    <title>Dec-18-QT</title>
+    <url>/2020/12/18/R043-Dec-18-QT/</url>
+    <content><![CDATA[<h4 id="项目分析"><a href="#项目分析" class="headerlink" title="项目分析"></a>项目分析</h4><blockquote>
+<p>第一次阅读作业要求，重点在于代码的规范性，界面设计的简洁优雅。难点在于视频处理，大部分时间应该会花在和视频处理相关的点。基本功能之前的几次作业已经实现，只要把前几次的代码优化、规范即可。界面图标需要自己设计</p>
 </blockquote>
+<hr>
+<h4 id="界面设计阶段"><a href="#界面设计阶段" class="headerlink" title="界面设计阶段"></a>界面设计阶段</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 双窗口设计，左侧预留视频处理侧边栏-上方预留图片处理界面<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## 基本功能介绍[图片]</span><br>	**缩放<span class="hljs-regexp">/翻转/</span>旋转<br>	**亮度<span class="hljs-regexp">/色温/</span>相框<br>	**均值滤波<br>	**灰度处理<span class="hljs-regexp">/边缘检测/</span>二值化<span class="hljs-regexp">/腐蚀/</span><br>	**I18N<br>	**关于<br>	**图片保存<span class="hljs-regexp">/另存/</span>撤销上一步<span class="hljs-regexp">/撤销全部/</span>关闭图片/退出软件<br>	**<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="此处留白"><a href="#此处留白" class="headerlink" title="此处留白"></a>此处留白</h4><figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">这里用于之后介绍项目<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<h4 id="开发记录"><a href="#开发记录" class="headerlink" title="开发记录"></a>开发记录</h4><figure class="highlight c++"><table><tr><td class="code"><pre><code class="hljs c++">&gt; $$<span class="hljs-number">1</span>-项目结构调整：<br>&gt; 为了更加清晰的展示代码，对项目的结构进行分类调整<br>&gt; *首先在项目根目录新建分类的文件夹，如：res, mainwindow, tools<br>&gt; *然后修改 `项目名.pro` 文件，添加引用目录<br>---------------------------------------------------------<br>INCLUDEPATH += ./ \<br>    dialog/ \<br>    tools/  \<br>    mainwindow/<br><br>SOURCES += \<br>    mainwindow/mainwindow.cpp  \<br>    main.cpp<br><br>HEADERS += \<br>        mainwindow/mainwindow.h    \<br><br>FORMS    += mainwindow/mainwindow.ui \<br>---------------------------------------------------------<br>    <br>&gt; $$<span class="hljs-number">1</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$2-设计制作图标<br>&gt; [LINK] - [https:&#x2F;&#x2F;www.iconfont.cn&#x2F;collections&#x2F;detail?spm&#x3D;a313x.7781069.1998910419.dc64b3430&amp;cid&#x3D;12507]<br>&gt; [生成ICON] - [http:&#x2F;&#x2F;www.ico51.cn&#x2F;]<br>&gt; $$2-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$3-UI实现<br>&gt; ERROR: 四月花了半小时添加图标，离奇的事件发生了：还剩最后一个图标没有添加-四月去下载，添加后 - 资源文件突然离奇失踪 - 之前的图标都还在<br>&gt; 在进行高危操作之前一定要备份！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>&gt; CNMLGB, WHAT THE FUCKING HELL WRONG WITH QT?<br><br>&gt; $$3-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **1-重写QGraphicsView实现图像的缩放<br>&gt;  **2-回顾槽函数、界面初始化设置：未打开图片时禁用所有按钮<br>&gt;  **3-设置tool bar: ui-&gt;toolBar_File-&gt;addAction(ui-&gt;doOpen);[toolBar_file是ui文件中toolbar的名字]<br>&gt;  **4-打开图片[]<br>在QGraphicsView的坐标系统中Scene的原点并是不hi顶点而是中心点，与窗口的坐标系统不一致。<br>[LINK] - [https://blog.csdn.net/fadbgfnbxb/article/details/88777835]<br><br><span class="hljs-comment">#  **因为已经重写了graphicview，此时鼠标缩放事件已经可以使用</span><br><br><span class="hljs-comment">#  **图片打开结束 注意图片的自适应和缩放[scale之前的qMax / qMin]</span><br><br><br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **5-关闭图片 - 添加按钮禁用状态<br>&gt;  **<br><span class="hljs-comment">#  **Q1: ConstImage错误</span><br>&gt;  **A1: BUG已修复 - - 缺少对ConstImage的赋值 -- 打开时<br>&gt;<br>&gt;  **6-灰度处理<br>&gt;  **7-边缘检测<br>&gt;  **8-亮度调节<br>&gt;  **9-冷暖色调<br>&gt;  **10-添加相框<br>&gt;  **11-二值图像<br>&gt;  **12-图片旋转<br>&gt;  **13-马赛克 	-- Mosaic FINISH<br>&gt;  **14-About对话框<br>&gt;  **15-Make donation<br>&gt;  **16-国际化<br>&gt;  **17-跨平台<br>&gt;  **18-视频处理<br>&gt;  **WELL DONE!<br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<blockquote>
+<p>待完成：</p>
+<p>**国际化</p>
+<p>**About对话窗口</p>
+</blockquote>
+<hr>
+<hr>
+<h4 id="视频处理阶段"><a href="#视频处理阶段" class="headerlink" title="视频处理阶段"></a>视频处理阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">**计划使用Opencv<br><span class="hljs-comment"># 进入安装编译阶段</span><br>&gt; [LINK] - https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows<br>&gt; [LINK] - <br>&gt; <span class="hljs-comment">##重装QT-5.9</span><br>&gt; <span class="hljs-comment">##临时移除git的mingw - [C:\Program Files\Git\mingw64\bin]</span><br>&gt; <span class="hljs-comment">##放弃使用Opencv</span><br>&gt; <span class="hljs-comment">##恢复git的mingw</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">##使用QMediaPlayer + QAbstractVideoSurface，获取视频的每一帧，转化成QImage处理</span><br>&gt; [link] - [https:<span class="hljs-regexp">//</span>blog.csdn.net<span class="hljs-regexp">/jxbinwd/</span>article<span class="hljs-regexp">/details/</span><span class="hljs-number">81034339</span>]<br>&gt; E:\shadowworkspace.github.io\source\_posts<br>&gt; [LINK] - https:<span class="hljs-regexp">//</span>download.qt.io<span class="hljs-regexp">/official_releases/</span>qt/<br><br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##改VLC</span><br><span class="hljs-variable">$WDNMD</span><br>-------------------------------------------------------------------------<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##回归QMediaPlayer+QAbstractVideoSurface</span><br>-------------------------------------------------------------------------<br>&gt; LINK - [https://blog.csdn.net/jxbinwd/article/details/81034339]<br>&gt; 补充功能：<br>&gt; **13-马赛克 	-- Mosaic FINISH<br>&gt; **14-About对话框<br>&gt; **15-Make donation<br>&gt; **16-国际化<br>&gt; **17-跨平台 <br>		<span class="hljs-comment">## [LINK] - [https://www.jianshu.com/p/9cc55a2c4e87]</span><br>        <span class="hljs-comment">## https://blog.csdn.net/qq_38204986/article/details/86934603</span><br>        <span class="hljs-comment">## 会遇到一个 ld 重复定义的方法，是因为把文件copy出来到一个目录时，没有删除原来的文件夹，注意修改原文件中的引用还有生成的.pro文件配置</span><br>        <span class="hljs-comment">## glib --》 这个错误要复制后面丢失的库查询，根据提示 find出来，然后手动复制到对应目录    </span><br>&gt; **18-视频处理<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##视频处理问题：</span><br>	**处理速度太慢，考虑使用多线程<br>	**没有保存<br>	**<br></code></pre></td></tr></table></figure>
+
 ]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
       <tags>
-        <tag>流程图绘制工具</tag>
-        <tag>Visio</tag>
+        <tag>产品设计</tag>
+        <tag>QT</tag>
+        <tag>万法归一</tag>
       </tags>
   </entry>
   <entry>
@@ -3543,6 +3528,21 @@
       </tags>
   </entry>
   <entry>
+    <title>R045-Visio绘制流程图</title>
+    <url>/2021/01/07/R045-Visio%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B%E5%9B%BE/</url>
+    <content><![CDATA[<h4 id="流程图绘制神器"><a href="#流程图绘制神器" class="headerlink" title="流程图绘制神器"></a>流程图绘制神器</h4><blockquote>
+<p>Visio</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>流程图绘制工具</tag>
+        <tag>Visio</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R048-单词计划经验等级管理</title>
     <url>/2021/01/08/R048-%E5%8D%95%E8%AF%8D%E8%AE%A1%E5%88%92%E7%BB%8F%E9%AA%8C%E7%AD%89%E7%BA%A7%E7%AE%A1%E7%90%86/</url>
     <content><![CDATA[<h4 id="我们的每一天、做的每一件事都值得被记录"><a href="#我们的每一天、做的每一件事都值得被记录" class="headerlink" title="我们的每一天、做的每一件事都值得被记录"></a>我们的每一天、做的每一件事都值得被记录</h4><hr>
@@ -3552,6 +3552,18 @@
       <tags>
         <tag>单词等级</tag>
         <tag>经验管理系统</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R051-应试的规律</title>
+    <url>/2021/01/09/R051-%E5%BA%94%E8%AF%95%E7%9A%84%E8%A7%84%E5%BE%8B/</url>
+    <content><![CDATA[<h4 id="愚钝的重复"><a href="#愚钝的重复" class="headerlink" title="愚钝的重复"></a>愚钝的重复</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么考试考了一次又一次，却仍然不知道总结反思？</span><br>	**从学期开始，就有一件事是确定了的，那就是这门课程要考试，那么为什么不在学期的一开始就为了要考试的知识点做好准备[寻找模拟题、试卷、教材]<br>	<br><span class="hljs-comment">## 	</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>考试经历</tag>
+        <tag>学习总结</tag>
       </tags>
   </entry>
   <entry>
@@ -3822,18 +3834,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R051-应试的规律</title>
-    <url>/2021/01/09/R051-%E5%BA%94%E8%AF%95%E7%9A%84%E8%A7%84%E5%BE%8B/</url>
-    <content><![CDATA[<h4 id="愚钝的重复"><a href="#愚钝的重复" class="headerlink" title="愚钝的重复"></a>愚钝的重复</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么考试考了一次又一次，却仍然不知道总结反思？</span><br>	**从学期开始，就有一件事是确定了的，那就是这门课程要考试，那么为什么不在学期的一开始就为了要考试的知识点做好准备[寻找模拟题、试卷、教材]<br>	<br><span class="hljs-comment">## 	</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>考试经历</tag>
-        <tag>学习总结</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R052-关于语言学习与思维局限</title>
     <url>/2021/01/09/R052-%E5%85%B3%E4%BA%8E%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%80%9D%E7%BB%B4%E5%B1%80%E9%99%90/</url>
     <content><![CDATA[<h4 id="为什么要多学习几门语言"><a href="#为什么要多学习几门语言" class="headerlink" title="为什么要多学习几门语言"></a>为什么要多学习几门语言</h4><hr>
@@ -3843,27 +3843,6 @@
       <tags>
         <tag>语言学习</tag>
         <tag>思维局限</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R053-HXX计网习题专刊</title>
-    <url>/2021/01/10/R053-HXX%E8%AE%A1%E7%BD%91%E4%B9%A0%E9%A2%98%E4%B8%93%E5%88%8A/</url>
-    <content><![CDATA[<h4 id="HXX同学的习题册"><a href="#HXX同学的习题册" class="headerlink" title="HXX同学的习题册"></a>HXX同学的习题册</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 第一章：</span><br>	**1. 通信子网和资源子网各有哪些设备组成？各有什么用途？<br>		&gt; 通信子网由大量网络和连接这些网络的路由器组成。为边缘部分提供服务。[提供连通信和交换]<br>		&gt; 资源子网由所有连接在因特网上的主机组成。这部分由用户直接使用，用来进行通信和资源共享。<br>	<br>	**2. 计算机网络分类依据有哪些，常用的分类有哪些？<br>		&gt; 分类依据：网络组建属性和用途、网络的拓扑结构、网络覆盖的地域范围、信息传输交换方式、采用的网络协议等<br>		&gt; 常用分类：广域网、局域网、城域网、个人区域网<br>		&gt; 按使用者分类：公用网络、专用网络<br>	<br>	**3. 常用的计算机网络拓扑有哪些？各有什么优缺点？<br>		&gt; 计算机网络拓扑有：总线型、环形、星型、球型、回路型、全连接或网状、不规则型、卫星或无线电型。<br>		&gt; 特点：<br>			**-总线型：结构简单、节点接入方便、成本低、易于实现和管理，一个节点发送，所有的节点都可以收到。缺点是多个节点同时使用通信道时存在冲突。<br>			**-星型：节点之间通过中心节点联通，节点接入方便。中心节点容易成为网络瓶颈<br>			**-环形：节点间通过点对点线路连接闭合成环，网络中节点发送数据时，需要截获令牌。优点是环路上的数据传输有确定的时间延迟，节点访问不会冲突，缺点是需要复杂的环路维护。<br>			**-树型：树型结构为星型拓扑的扩展，节点层次连接，数据交换主要在上、下节点之间进行。<br>			**-网状：无规则、可靠性高，需要复杂的路由技术、流量控制、拥塞控制技术<br>			**<br>			**<br>	<br>	**<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 第二章：</span><br>	**1. 网络适配器[NIC]属于：数据链路层<br>	**2. 数据链路层的数据单位是： 帧<br>	**3. DNS/STMP是TCP/IP层的应用层协议<br>	<br>	**4. OSI参考模型的三个主要概念： 协议、接口、服务<br>	**5. 关于IEEE802局域网体系结构，描述错误的是：对于不同技术的局域网，有不同的LLC层协议<br>	**6. OSI参考模型中数据链路层不提供：拥塞控制[********]<br>	**7. 在OSI中，实现端到端的应答，分组排序和流量控制功能的协议层是：传输层<br>	**8. 计算机网络协议三要素：语法、语义、时序<br>	**9. 在TCP/IP模型中，应用层实现了OSI模型中--应用层、表示层、会话层功能<br>	<br>	**10. 源端数据逐层向下传递，同时封装，目的端数据向上传递，同时解包<br>	**11. 一个诡异的题目：https://tiku.baidu.com/web/singledetail/e962e33143323968011c9290<br>	**12. 距离矢量-从相邻的路由器获取信息<br>	<br>	**13. 常用因特网内部网关路由协议：RIP OSPF<br>	**14. 子网掩码表示网络号的位数<br>	**15. IP地址编址方案：分类编址、子网划分、无分类编址<br>	**16. IP数据报总长度：首部长度+数据长度，最大长度为65535<br>	**17. ICMP差错报告：参数错误、源冷却、路由重定向、超时，终点不可达<br>	**18. ICMP询问报文：回送请求和应答、时间戳请求和应答<br>	<br>	**19. OSPF的五种分组类型：问候分组、数据库描述分组、链路状态请求、更新、确认分组<br>	**20. 停止等待协议<br>	**21. 回退N协议<br>	**22. 一个VLAN可以看作是一个广播域<br>	**23. MAC地址长度:48位 - <br>	**24. 二进制流成帧：字符填充法、字符计数法、零比特填充、物理为例法<br>	**25. 数据链路层要解决的三个问题：封装成帧、透明传输、差错控制<br>	<br>	**26. 以太网帧的最小长度-64字节， 最大长度是1518字节<br>	**27. CSMA常用退避算法：二进制指数退避算法<br>	**28. WLAN的IEEE标准是：802.11<br>	**29. IEEE的VLAN标准是：802.1Q<br>	**30. 802.11中RTS内容有：源地址、目的地址、持续时间<br>	<br>	**31. IEEE802.11解决隐蔽站点的方法是：信道预约<br>	**32. <br>	<br>	<br>	[子网划分相关]-https://zhidao.baidu.com/question/573507485.html<br>		<br>	[路径向量表]-<br>		**DVA计算方法：<br>			<span class="hljs-comment">## 每个目的节点占一行，相邻节点占一列</span><br>			<span class="hljs-comment">## 每一个表项中的值是源节点经过相邻节点到达目标节点需要的费用 --[顺时针读取行列元素]</span><br>				E-A-B: 从节点E出发，经过A节点到达B节点需要的费用<br>	<br>	[Dijkstra算法]-<br>			<span class="hljs-comment">## | STEP | NODE | D(V), p(V) | D(V), p(V) | D(V), p(V) |---- </span><br>			<span class="hljs-comment">## 其中，D(V)是从源节点到V的最小花费，p(V)是与V节点相邻的节点，NODE是节点集合[初始值为源节点]</span><br>	<br>	[ARP解析过程]-<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	上课做过画曼码/差分曼码、路径向量、Dijkstra、IP子网划分、ARP解析过程<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="EXTRAL"><a href="#EXTRAL" class="headerlink" title="EXTRAL"></a>EXTRAL</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 简述停-等、回退N、选择重传三种协议的特点</span><br>	**1. <br>	<br><br><br><span class="hljs-comment">## 地址分类：</span><br>	** 域名、端口、IP、MAC<br>	** 应用层、运输层、网络层、数据链路层<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>计网习题整理</tag>
       </tags>
   </entry>
   <entry>
@@ -4135,6 +4114,27 @@
       <tags>
         <tag>英语单词</tag>
         <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R053-HXX计网习题专刊</title>
+    <url>/2021/01/10/R053-HXX%E8%AE%A1%E7%BD%91%E4%B9%A0%E9%A2%98%E4%B8%93%E5%88%8A/</url>
+    <content><![CDATA[<h4 id="HXX同学的习题册"><a href="#HXX同学的习题册" class="headerlink" title="HXX同学的习题册"></a>HXX同学的习题册</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 第一章：</span><br>	**1. 通信子网和资源子网各有哪些设备组成？各有什么用途？<br>		&gt; 通信子网由大量网络和连接这些网络的路由器组成。为边缘部分提供服务。[提供连通信和交换]<br>		&gt; 资源子网由所有连接在因特网上的主机组成。这部分由用户直接使用，用来进行通信和资源共享。<br>	<br>	**2. 计算机网络分类依据有哪些，常用的分类有哪些？<br>		&gt; 分类依据：网络组建属性和用途、网络的拓扑结构、网络覆盖的地域范围、信息传输交换方式、采用的网络协议等<br>		&gt; 常用分类：广域网、局域网、城域网、个人区域网<br>		&gt; 按使用者分类：公用网络、专用网络<br>	<br>	**3. 常用的计算机网络拓扑有哪些？各有什么优缺点？<br>		&gt; 计算机网络拓扑有：总线型、环形、星型、球型、回路型、全连接或网状、不规则型、卫星或无线电型。<br>		&gt; 特点：<br>			**-总线型：结构简单、节点接入方便、成本低、易于实现和管理，一个节点发送，所有的节点都可以收到。缺点是多个节点同时使用通信道时存在冲突。<br>			**-星型：节点之间通过中心节点联通，节点接入方便。中心节点容易成为网络瓶颈<br>			**-环形：节点间通过点对点线路连接闭合成环，网络中节点发送数据时，需要截获令牌。优点是环路上的数据传输有确定的时间延迟，节点访问不会冲突，缺点是需要复杂的环路维护。<br>			**-树型：树型结构为星型拓扑的扩展，节点层次连接，数据交换主要在上、下节点之间进行。<br>			**-网状：无规则、可靠性高，需要复杂的路由技术、流量控制、拥塞控制技术<br>			**<br>			**<br>	<br>	**<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 第二章：</span><br>	**1. 网络适配器[NIC]属于：数据链路层<br>	**2. 数据链路层的数据单位是： 帧<br>	**3. DNS/STMP是TCP/IP层的应用层协议<br>	<br>	**4. OSI参考模型的三个主要概念： 协议、接口、服务<br>	**5. 关于IEEE802局域网体系结构，描述错误的是：对于不同技术的局域网，有不同的LLC层协议<br>	**6. OSI参考模型中数据链路层不提供：拥塞控制[********]<br>	**7. 在OSI中，实现端到端的应答，分组排序和流量控制功能的协议层是：传输层<br>	**8. 计算机网络协议三要素：语法、语义、时序<br>	**9. 在TCP/IP模型中，应用层实现了OSI模型中--应用层、表示层、会话层功能<br>	<br>	**10. 源端数据逐层向下传递，同时封装，目的端数据向上传递，同时解包<br>	**11. 一个诡异的题目：https://tiku.baidu.com/web/singledetail/e962e33143323968011c9290<br>	**12. 距离矢量-从相邻的路由器获取信息<br>	<br>	**13. 常用因特网内部网关路由协议：RIP OSPF<br>	**14. 子网掩码表示网络号的位数<br>	**15. IP地址编址方案：分类编址、子网划分、无分类编址<br>	**16. IP数据报总长度：首部长度+数据长度，最大长度为65535<br>	**17. ICMP差错报告：参数错误、源冷却、路由重定向、超时，终点不可达<br>	**18. ICMP询问报文：回送请求和应答、时间戳请求和应答<br>	<br>	**19. OSPF的五种分组类型：问候分组、数据库描述分组、链路状态请求、更新、确认分组<br>	**20. 停止等待协议<br>	**21. 回退N协议<br>	**22. 一个VLAN可以看作是一个广播域<br>	**23. MAC地址长度:48位 - <br>	**24. 二进制流成帧：字符填充法、字符计数法、零比特填充、物理为例法<br>	**25. 数据链路层要解决的三个问题：封装成帧、透明传输、差错控制<br>	<br>	**26. 以太网帧的最小长度-64字节， 最大长度是1518字节<br>	**27. CSMA常用退避算法：二进制指数退避算法<br>	**28. WLAN的IEEE标准是：802.11<br>	**29. IEEE的VLAN标准是：802.1Q<br>	**30. 802.11中RTS内容有：源地址、目的地址、持续时间<br>	<br>	**31. IEEE802.11解决隐蔽站点的方法是：信道预约<br>	**32. <br>	<br>	<br>	[子网划分相关]-https://zhidao.baidu.com/question/573507485.html<br>		<br>	[路径向量表]-<br>		**DVA计算方法：<br>			<span class="hljs-comment">## 每个目的节点占一行，相邻节点占一列</span><br>			<span class="hljs-comment">## 每一个表项中的值是源节点经过相邻节点到达目标节点需要的费用 --[顺时针读取行列元素]</span><br>				E-A-B: 从节点E出发，经过A节点到达B节点需要的费用<br>	<br>	[Dijkstra算法]-<br>			<span class="hljs-comment">## | STEP | NODE | D(V), p(V) | D(V), p(V) | D(V), p(V) |---- </span><br>			<span class="hljs-comment">## 其中，D(V)是从源节点到V的最小花费，p(V)是与V节点相邻的节点，NODE是节点集合[初始值为源节点]</span><br>	<br>	[ARP解析过程]-<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	<br>	上课做过画曼码/差分曼码、路径向量、Dijkstra、IP子网划分、ARP解析过程<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="EXTRAL"><a href="#EXTRAL" class="headerlink" title="EXTRAL"></a>EXTRAL</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 简述停-等、回退N、选择重传三种协议的特点</span><br>	**1. <br>	<br><br><br><span class="hljs-comment">## 地址分类：</span><br>	** 域名、端口、IP、MAC<br>	** 应用层、运输层、网络层、数据链路层<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>计网习题整理</tag>
       </tags>
   </entry>
   <entry>
@@ -4436,6 +4436,276 @@
       </tags>
   </entry>
   <entry>
+    <title>R059-考研单词L10</title>
+    <url>/2021/01/13/R059-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL10/</url>
+    <content><![CDATA[<h4 id="就算是死亡也无法打败我"><a href="#就算是死亡也无法打败我" class="headerlink" title="就算是死亡也无法打败我"></a>就算是死亡也无法打败我</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<table>
+<thead>
+<tr>
+<th>cosmic</th>
+<th></th>
+<th>agent</th>
+<th></th>
+<th>robust</th>
+<th></th>
+<th>wrench</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>motel</td>
+<td></td>
+<td>transfer</td>
+<td></td>
+<td>stake</td>
+<td></td>
+<td>massacre</td>
+<td></td>
+</tr>
+<tr>
+<td>apartment</td>
+<td></td>
+<td>outlook</td>
+<td></td>
+<td>vanish</td>
+<td></td>
+<td>conclude</td>
+<td></td>
+</tr>
+<tr>
+<td>remain</td>
+<td></td>
+<td>deceit</td>
+<td></td>
+<td>centimeter</td>
+<td></td>
+<td>intricate</td>
+<td></td>
+</tr>
+<tr>
+<td>surgery</td>
+<td></td>
+<td>irrigate</td>
+<td></td>
+<td>sudden</td>
+<td></td>
+<td>futile</td>
+<td></td>
+</tr>
+<tr>
+<td>mob</td>
+<td></td>
+<td>grease</td>
+<td></td>
+<td>surrender</td>
+<td></td>
+<td>typical</td>
+<td></td>
+</tr>
+<tr>
+<td>stereotype</td>
+<td></td>
+<td>pistol</td>
+<td></td>
+<td>endurance</td>
+<td></td>
+<td>regulation</td>
+<td></td>
+</tr>
+<tr>
+<td>software</td>
+<td></td>
+<td>ski</td>
+<td></td>
+<td>jolly</td>
+<td></td>
+<td>condense</td>
+<td></td>
+</tr>
+<tr>
+<td>vocation</td>
+<td></td>
+<td>reverse</td>
+<td></td>
+<td>stripe</td>
+<td></td>
+<td>clumsy</td>
+<td></td>
+</tr>
+<tr>
+<td>petition</td>
+<td></td>
+<td>jungle</td>
+<td></td>
+<td>forehead</td>
+<td></td>
+<td>fascinate</td>
+<td></td>
+</tr>
+<tr>
+<td>infect</td>
+<td></td>
+<td>definition</td>
+<td></td>
+<td>accomplish</td>
+<td></td>
+<td>capture</td>
+<td></td>
+</tr>
+<tr>
+<td>slope</td>
+<td></td>
+<td>curiosity</td>
+<td></td>
+<td>bloody</td>
+<td></td>
+<td>focus</td>
+<td></td>
+</tr>
+<tr>
+<td>dye</td>
+<td></td>
+<td>earthquake</td>
+<td></td>
+<td>piston</td>
+<td></td>
+<td>concept</td>
+<td></td>
+</tr>
+<tr>
+<td>skull</td>
+<td></td>
+<td>devil</td>
+<td></td>
+<td>verbal</td>
+<td></td>
+<td>injure</td>
+<td></td>
+</tr>
+<tr>
+<td>accordingly</td>
+<td></td>
+<td>escort</td>
+<td></td>
+<td>submit</td>
+<td></td>
+<td>spray</td>
+<td></td>
+</tr>
+<tr>
+<td>herd</td>
+<td></td>
+<td>vital</td>
+<td></td>
+<td>rally</td>
+<td></td>
+<td>property</td>
+<td></td>
+</tr>
+<tr>
+<td>stride</td>
+<td></td>
+<td>purse</td>
+<td></td>
+<td>thigh</td>
+<td></td>
+<td>lofty</td>
+<td></td>
+</tr>
+<tr>
+<td>impose</td>
+<td></td>
+<td>associate</td>
+<td></td>
+<td>rotary</td>
+<td></td>
+<td>staple</td>
+<td></td>
+</tr>
+<tr>
+<td>discourage</td>
+<td></td>
+<td>inference</td>
+<td></td>
+<td>division</td>
+<td></td>
+<td>domain</td>
+<td></td>
+</tr>
+<tr>
+<td>penalty</td>
+<td></td>
+<td>fragment</td>
+<td></td>
+<td>mobile</td>
+<td></td>
+<td>desolate</td>
+<td></td>
+</tr>
+<tr>
+<td>charity</td>
+<td></td>
+<td>flesh</td>
+<td></td>
+<td>switch</td>
+<td></td>
+<td>coach</td>
+<td></td>
+</tr>
+<tr>
+<td>translation</td>
+<td></td>
+<td>embed</td>
+<td></td>
+<td>mixture</td>
+<td></td>
+<td>console</td>
+<td></td>
+</tr>
+<tr>
+<td>rabbit</td>
+<td></td>
+<td>token</td>
+<td></td>
+<td>passerby</td>
+<td></td>
+<td>ruthless</td>
+<td></td>
+</tr>
+<tr>
+<td>fatigued</td>
+<td></td>
+<td>swamp</td>
+<td></td>
+<td>imperative</td>
+<td></td>
+<td>skip</td>
+<td></td>
+</tr>
+<tr>
+<td>crack</td>
+<td></td>
+<td>feat</td>
+<td></td>
+<td>canteen</td>
+<td></td>
+<td>stability</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R058-考研单词L9</title>
     <url>/2021/01/12/R058-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL9/</url>
     <content><![CDATA[<h4 id="GO-AHEAD"><a href="#GO-AHEAD" class="headerlink" title="GO AHEAD"></a>GO AHEAD</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 单词见解：</span><br>	https://www.zhihu.com/question/19580414<br></code></pre></td></tr></table></figure>
@@ -4707,288 +4977,6 @@
       <tags>
         <tag>英语单词</tag>
         <tag>考研英语</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R059-考研单词L10</title>
-    <url>/2021/01/13/R059-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL10/</url>
-    <content><![CDATA[<h4 id="就算是死亡也无法打败我"><a href="#就算是死亡也无法打败我" class="headerlink" title="就算是死亡也无法打败我"></a>就算是死亡也无法打败我</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<table>
-<thead>
-<tr>
-<th>cosmic</th>
-<th></th>
-<th>agent</th>
-<th></th>
-<th>robust</th>
-<th></th>
-<th>wrench</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>motel</td>
-<td></td>
-<td>transfer</td>
-<td></td>
-<td>stake</td>
-<td></td>
-<td>massacre</td>
-<td></td>
-</tr>
-<tr>
-<td>apartment</td>
-<td></td>
-<td>outlook</td>
-<td></td>
-<td>vanish</td>
-<td></td>
-<td>conclude</td>
-<td></td>
-</tr>
-<tr>
-<td>remain</td>
-<td></td>
-<td>deceit</td>
-<td></td>
-<td>centimeter</td>
-<td></td>
-<td>intricate</td>
-<td></td>
-</tr>
-<tr>
-<td>surgery</td>
-<td></td>
-<td>irrigate</td>
-<td></td>
-<td>sudden</td>
-<td></td>
-<td>futile</td>
-<td></td>
-</tr>
-<tr>
-<td>mob</td>
-<td></td>
-<td>grease</td>
-<td></td>
-<td>surrender</td>
-<td></td>
-<td>typical</td>
-<td></td>
-</tr>
-<tr>
-<td>stereotype</td>
-<td></td>
-<td>pistol</td>
-<td></td>
-<td>endurance</td>
-<td></td>
-<td>regulation</td>
-<td></td>
-</tr>
-<tr>
-<td>software</td>
-<td></td>
-<td>ski</td>
-<td></td>
-<td>jolly</td>
-<td></td>
-<td>condense</td>
-<td></td>
-</tr>
-<tr>
-<td>vocation</td>
-<td></td>
-<td>reverse</td>
-<td></td>
-<td>stripe</td>
-<td></td>
-<td>clumsy</td>
-<td></td>
-</tr>
-<tr>
-<td>petition</td>
-<td></td>
-<td>jungle</td>
-<td></td>
-<td>forehead</td>
-<td></td>
-<td>fascinate</td>
-<td></td>
-</tr>
-<tr>
-<td>infect</td>
-<td></td>
-<td>definition</td>
-<td></td>
-<td>accomplish</td>
-<td></td>
-<td>capture</td>
-<td></td>
-</tr>
-<tr>
-<td>slope</td>
-<td></td>
-<td>curiosity</td>
-<td></td>
-<td>bloody</td>
-<td></td>
-<td>focus</td>
-<td></td>
-</tr>
-<tr>
-<td>dye</td>
-<td></td>
-<td>earthquake</td>
-<td></td>
-<td>piston</td>
-<td></td>
-<td>concept</td>
-<td></td>
-</tr>
-<tr>
-<td>skull</td>
-<td></td>
-<td>devil</td>
-<td></td>
-<td>verbal</td>
-<td></td>
-<td>injure</td>
-<td></td>
-</tr>
-<tr>
-<td>accordingly</td>
-<td></td>
-<td>escort</td>
-<td></td>
-<td>submit</td>
-<td></td>
-<td>spray</td>
-<td></td>
-</tr>
-<tr>
-<td>herd</td>
-<td></td>
-<td>vital</td>
-<td></td>
-<td>rally</td>
-<td></td>
-<td>property</td>
-<td></td>
-</tr>
-<tr>
-<td>stride</td>
-<td></td>
-<td>purse</td>
-<td></td>
-<td>thigh</td>
-<td></td>
-<td>lofty</td>
-<td></td>
-</tr>
-<tr>
-<td>impose</td>
-<td></td>
-<td>associate</td>
-<td></td>
-<td>rotary</td>
-<td></td>
-<td>staple</td>
-<td></td>
-</tr>
-<tr>
-<td>discourage</td>
-<td></td>
-<td>inference</td>
-<td></td>
-<td>division</td>
-<td></td>
-<td>domain</td>
-<td></td>
-</tr>
-<tr>
-<td>penalty</td>
-<td></td>
-<td>fragment</td>
-<td></td>
-<td>mobile</td>
-<td></td>
-<td>desolate</td>
-<td></td>
-</tr>
-<tr>
-<td>charity</td>
-<td></td>
-<td>flesh</td>
-<td></td>
-<td>switch</td>
-<td></td>
-<td>coach</td>
-<td></td>
-</tr>
-<tr>
-<td>translation</td>
-<td></td>
-<td>embed</td>
-<td></td>
-<td>mixture</td>
-<td></td>
-<td>console</td>
-<td></td>
-</tr>
-<tr>
-<td>rabbit</td>
-<td></td>
-<td>token</td>
-<td></td>
-<td>passerby</td>
-<td></td>
-<td>ruthless</td>
-<td></td>
-</tr>
-<tr>
-<td>fatigued</td>
-<td></td>
-<td>swamp</td>
-<td></td>
-<td>imperative</td>
-<td></td>
-<td>skip</td>
-<td></td>
-</tr>
-<tr>
-<td>crack</td>
-<td></td>
-<td>feat</td>
-<td></td>
-<td>canteen</td>
-<td></td>
-<td>stability</td>
-<td></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>英语单词</tag>
-        <tag>考研英语</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R060-最好的学习方法是教</title>
-    <url>/2021/01/14/R060-%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E6%98%AF%E6%95%99/</url>
-    <content><![CDATA[<h4 id="学习之道"><a href="#学习之道" class="headerlink" title="学习之道"></a>学习之道</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 教才是最好的学</span><br>	**只有在教的过程中才能最深刻的领悟学习<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>其上为教</tag>
-        <tag>学习之道</tag>
       </tags>
   </entry>
   <entry>
@@ -5271,6 +5259,63 @@
       </tags>
   </entry>
   <entry>
+    <title>R060-最好的学习方法是教</title>
+    <url>/2021/01/14/R060-%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E6%98%AF%E6%95%99/</url>
+    <content><![CDATA[<h4 id="学习之道"><a href="#学习之道" class="headerlink" title="学习之道"></a>学习之道</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 教才是最好的学</span><br>	**只有在教的过程中才能最深刻的领悟学习<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>其上为教</tag>
+        <tag>学习之道</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R064-期末讲座与分享</title>
+    <url>/2021/01/16/R064-%E6%9C%9F%E6%9C%AB%E8%AE%B2%E5%BA%A7%E4%B8%8E%E5%88%86%E4%BA%AB/</url>
+    <content><![CDATA[<hr>
+<h5 id="NOTE"><a href="#NOTE" class="headerlink" title="NOTE"></a>NOTE</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># mistakes were made, but not by me</span><br><span class="hljs-comment"># 对于人类来说，一件很可怕的事：忘记</span><br><br>---<br><span class="hljs-comment"># 想讲为什么要培养一个好的习惯，具体案例为[写博客]，讲座流程</span><br><br>---<br>FIND NEXT<br>[https://www.douban.com/doulist/46003/]<br></code></pre></td></tr></table></figure>
+
+<h5 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h5><p>[暗时间]</p>
+<p>[决策与判断]</p>
+<p>[怪诞行为学]</p>
+<p>[错不在我]</p>
+<p>[社会性动物]</p>
+<p>[明天存储更多]</p>
+<p>[与众不同的心理学]</p>
+<p>[找寻逝去的自我]</p>
+<p>[乔布斯传]</p>
+<p>[爱因斯坦传]</p>
+<p>[硅谷钢铁侠]</p>
+<p>[狼图腾]</p>
+<p>[鞋狗]</p>
+<p>[褚时健传]</p>
+<p>[大学之路]</p>
+<p>[浪潮之巅]</p>
+<p>[文明之光]</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>R063-毛中特备考专栏</title>
+    <url>/2021/01/15/R063-%E6%AF%9B%E4%B8%AD%E7%89%B9%E5%A4%87%E8%80%83%E4%B8%93%E6%A0%8F/</url>
+    <content><![CDATA[<h4 id="厚德载物"><a href="#厚德载物" class="headerlink" title="厚德载物"></a>厚德载物</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## HEADLINE</span><br><span class="hljs-comment">## 邓小平的改革开放理论&#123;10点&#125;  -- 重点[第六点][P97]</span><br><span class="hljs-comment">## 改革开放的意义？为什么说改革开放是决定中国命运的关键抉择？[**引用页]</span><br>	**小渔村<br>	**从当时落后的现状到今天的辉煌<br>	[总体布局中的	*四个全面P249]<br><span class="hljs-comment">## 2018年，改革开放40周年，习近平发表讲话： 要用改革开放的眼光看待改革开放 [如何理解？]</span><br>	**要用改革开放的眼光去看待改革开放<br><span class="hljs-comment">## [P182] 习近平新时代 社会主义思想 八个明确</span><br>	**<br><span class="hljs-comment">## 马克思主义中国化的[第三节 P189]</span><br>	**马克思主义中国化的最新成果，为什么说是最新成果？<br>		<span class="hljs-comment">#开辟了…………新境界[课外收集资料补充]</span><br><span class="hljs-comment">## 五位一体的总布局[P207]</span><br>	**经济<br>	**政治<br>	**文化<br>	**社会建设 [重点把握社会建设] - 提高保障和改善民生水平 - 为什么要加快改善民生民主的社会建设？？<br>		<span class="hljs-comment">#第一段-提高保障和改善民生水平[补充课外的内容]</span><br>		<span class="hljs-comment">#如何推进社会建设？ 第一、第二、P233</span><br>	**生态文明建设<br><span class="hljs-comment">## 国际关系：[P287]</span><br>		**全面深化改革[4个全面]<br>		**全面依法治国、全面建成小康社会 ***[重点把握全面深化改革 P249]<br>		**收集资料		<br><span class="hljs-comment">## 中国特色大国外交</span><br>		**坚持和平发展[大发展、大变革]**很重要[P283-287]<br>	<span class="hljs-comment">#推动建立新型国际关系</span><br>		**如何推动建立新型国际关系?[P286]<br>	<span class="hljs-comment">#构建人类命运共同体 思想的内涵[重点]</span><br>		**P289-292<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 马克思主义中国化的新成果[补充]</span><br>	马克思主义中国化最新成果是：<br>中国特色社会主义理论体系，就是包括邓小平理论、“三个代表”重要思想已经科学发展观等重大战略思想在内的科学理论体系。<br>详解：<br>1.高举中国特色社会主义伟大旗帜；2.是新时期我们党庄严的政治宣言；3.是历史的选择、人民的选择；4.必须坚定不移地走中国特色社会主义道路；5.必须坚定不移地坚持和发展中国特色社会主义理论体系；6.坚持立党为公、执政为民；7.坚持以人为本；8.树立和落实科学发展观；9.坚持用科学发展观统领经济社会发展全局；10.建设社会主义新农村；11.建设创新型国家；12.推动建设和谐世界13.切实加强党的执政能力建设；14.牢固树立社会主义荣辱观；15.全面加强干部作风建设；16.始终保持党的先进性。<br>马克思主义中国化就是将马克思主义基本原理同中国具体实际相结合，不断形成具有中国特色的马克思主义理论成果的过程。<br>具体地说，就是把马克思主义基本原理同中国革命、建设和改革的实践结合起来，同中国的优秀历史传统和优秀文化结合起来，既坚持马克思主义，又发展马克思主义。<br>一是马克思主义在指导中国革命、建设和改革的实践中实现具体化。二是把中国革命、建设和改革的实践经验和历史经验上升为马克思理论。三是把马克思主义植根于中国的优秀文化之中。<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 邓小平的改革开放理论</span><br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 改革开放的意义是什么？</span><br>	1、改革开放标志着我们党重新确立了马克思主义的思想路线、政治路线、组织路线，标志着中国共产党人在新的时代条件下的伟大觉醒，显示了我们党顺应时代潮流和人民愿望、勇敢开辟建设社会主义新路的坚强决心。<br>	2、改革开放是决定当代中国命运的关键抉择，是发展中国特色社会主义、实现中华民族伟大复兴的必由之路；只有社会主义才能救中国，只有改革开放才能发展中国、发展社会主义、发展马克思主义；改革开放符合党心民心、顺应时代潮流，<br>	3、改革开放开辟了中国特色社会主义道路，形成了中国特色社会主义理论体系。 30年来，我们党的全部理论和全部实践，归结起来就是创造性地探索和回答了什么是马克思主义、怎样对待马克思主义，什么是社会主义、怎样建设社会主义，建设什么样的党、怎样建设党，实现什么样的发展、怎样发展等重大理论和实际问题。30年的历史经验归结到一点，就是把马克思主义基本原理同中国具体实际相结合，走自己的路，建设中国特色社会主义。<br>	4、经过改革开放30年的不懈奋斗，胜利实现了现代化建设“三步走”战略的前两步战略目标，正在向第三步战略目标阔步前进。30年的伟大成就，为我们党、我们国家、我们人民继续前进奠定了坚实基础。<br><br><span class="hljs-comment">## 为什么说改革开放是决定中国命运的关键抉择？</span><br>	邓小平同志曾经指出：“改革的性质同过去的革命一样，也是为了扫除发展社会生产力的障碍，使中国摆脱贫穷落后的状态。从这个意义上说，改革也可以叫革命性的变革。”改革是全面改革，是在坚持社会主义基本制度前提下，自觉调整生产关系和上层建筑的各个方面和环节，以适应初级阶段生产力发展水平和实现现代化的历史要求。在社会主义初级阶段国情下发展中国特色社会主义，是前无古人的伟大创举，必须围绕发展社会生产力这个根本任务，把改革开放作为发展中国特色社会主义的强大动力。新时期29年来，我国综合国力大幅度跃升、人民生活总体上达到小康水平、社会长期保持安定团结、国际地位和影响力显著增强的事实雄辩地证明，改革开放是决定当代中国命运的关键抉择，是发展中国特色社会主义、实现中华民族伟大复兴的必由之路。<br>	改革是社会主义制度的自我完善，是社会主义社会发展的必然要求，是中华民族实现复兴的强大而持久的动力源。当然，改革并不是改变社会主义制度，而是在坚持基本制度下对某些具体体制如经济体制的改变。我国的经济体制最初是模仿苏联模式建立的，这种体制在历史上虽然发挥过重要作用，但随着实践的发展，已到了非改革不可的地步。29年的改革开放，就是对原有的旧经济体制的不断改革，目的在于不断解放和发展生产力。<br>没有改革开放，就没有今天发展的大好局面。党的十一届三中全会以来我们党提出的理论、路线和制定的一系列方针政策，最鲜明的特征就是改革开放。改革开放极大地解放和发展了社会生产力，冲破了束缚生产力发展的体制障碍，推动了社会主义市场经济体制的初步建立，形成了对外开放的全新格局。在社会主义条件下发展市场经济，是前无古人的伟大创举，是中国共产党人在创造性地发展马克思主义理论的进程中作出的历史性贡献。<br>要在新的实践中坚持和发展中国特色社会主义，就必须坚持改革开放；只有坚持改革开放，才能不断开创中国特色社会主义事业新局面。全面贯彻落实科学发展观，在新的历史起点上继续推进社会主义现代化建设，说到底要靠深化改革、扩大开放。要毫不动摇地坚持改革方向，坚定改革的决心和信心，提高改革决策的科学性，增强改革措施的协调性，不断完善社会主义市场经济体制，为贯彻落实科学发展观提供体制和机制保障，为经济社会发展提供强大动力。<br>	改革开放是我们党在新的时代条件下带领人民进行的新的伟大革命。站在新的历史起点上回顾走过的历程，我们深切地感受到，新时期最鲜明的特点是改革开放，新时期最显著的成就是快速发展，新时期最突出的标志是与时俱进。29年来，无论遇到什么复杂局面，无论遇到什么风险考验，我们党都始终引领改革开放的航船沿着正确方向破浪前进，一个面向现代化、面向世界、面向未来的社会主义中国巍然屹立在世界东方。<br>改革开放是中国走向繁荣富强的必由之路，是中国特色社会主义发展前进的成功之路。社会主义要保持强大的生命力，就必须通过改革不断完善自己。在社会主义现代化建设中，不断推进和深化改革，用改革的办法解决阻碍经济社会发展的体制性、机制性问题，努力形成与社会主义初级阶段基本国情相适应的比较成熟、比较定型的制度，是社会主义充满生机和活力的重要保证。不推进改革开放，不仅不能取得新的成就，而且已经取得的成就也难以保持，更谈不上继续推进我们的事业。我们必须按照党的基本理论、基本路线、基本纲领、基本经验，牢固树立社会主义改革和发展的基本观点，不断增强支持改革开放、深化改革开放的自觉性和坚定性。<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何理解 “要用改革开放的眼光看待改革开放”？</span><br>	如何看待改革开放，怎样推进改革开放？这是新时代改革开放再出发必须回答的一个基本问题。<br>　　“要掌握辩证唯物主义和历史唯物主义的方法论，以改革开放的眼光看待改革开放，充分认识新形势下改革开放的时代性、体系性、全局性问题，在更高起点、更高层次、更高目标上推进改革开放。”习近平总书记在广东考察时明确提出的这一新论断新要求，对于我们更充分、更深刻地认识和把握改革开放，更加坚定、更加自觉地推进改革开放，具有十分重要的意义。<br>　　唯物辩证法是认识世界和改造世界的根本方法。40年众志成城，40年砥砺奋进，40年春风化雨。改革开放之所以极大解放和发展了中国社会生产力，一个重要原因就在于，我们始终坚持辩证唯物主义和历史唯物主义的方法论，以此正确把握我们的最大国情、最大实际，深刻认识世情国情党情，坚定不移把改革开放推向前进，让中国特色社会主义展现出强大生命力。40年来，我们既“摸着石头过河”又加强顶层设计，不断研究新情况、解决新问题、总结新经验；我们坚持解放思想、实事求是，实现解放思想和改革开放相互激荡、观念创新和实践探索相互促进；我们勇于自我革命、自我革新，不断革除阻碍发展的体制机制弊端。特别是党的十八大以来，从认识论、方法论到价值论，从总目标、大方向到动力源，正是以改革认识论和方法论的不断创新为支撑，一系列重大改革开放举措陆续出台，解决了许多长期想解决而没有解决的难题，办成了许多过去想办而没有办成的大事，推动中国特色社会主义进入新时代。<br>　　以改革开放的眼光看待改革开放，就要充分认识新形势下改革开放的时代性、体系性、全局性问题。40年改革开放给人们提供了许多弥足珍贵的启示，其中重要的一条就是，一个国家、一个民族要振兴，就必须在历史前进的逻辑中前进、在时代发展的潮流中发展。习近平总书记明确指出，“进入新时代，国际国内形势发生广泛而深刻的变化，改革发展面临着新形势新任务新挑战”。从改革看，我们推进改革的复杂程度、敏感程度、艰巨程度不亚于40年前；从开放看，单边主义、保护主义愈演愈烈，开放还是封闭，前进还是后退，人类面临着新的重大抉择。唯有准确把握我国不同发展阶段的新变化新特点，积极应对世界大发展大变革大调整带来的新挑战新问题，勇于变革、勇于创新，永不僵化、永不停滞，才能以新作为开创新局面，让改革开放始终成为推动中国发展进步、为人类作出新贡献的动力源泉。<br>　　以改革开放的眼光看待改革开放，就要在更高起点、更高层次、更高目标上推进改革开放。改革往往都是从易到难。进入攻坚期、深水区，最重要的是迎难而上、攻坚克难。党的十八大以来，以习近平同志为核心的党中央坚定不移全面深化改革，敢于向顽瘴痼疾开刀，勇于突破利益固化藩篱，落实新发展理念，建设现代化经济体系，推动形成了更高层次改革开放新格局。在这次考察中，从强调“深化改革开放、推动经济高质量发展”，到要求“把创新发展主动权牢牢掌握在自己手中”，再到提出“认真总结改革开放40年成功经验，提升改革开放质量和水平”，习近平总书记的一系列重要论断，充分展现了我们党在新的历史起点上把改革开放不断推向深入的坚定意志。<br>　　改革开放只有进行时没有完成时。40年来，从农村到城市，从经济体制改革到全面深化改革，中国人民用双手书写了国家和民族发展的壮丽史诗。在40年的时间节点上瞻望未来，以改革开放的眼光看待改革开放，我们一定能让改革开放始终契合历史逻辑、顺应时代潮流，为中国的发展注入不竭动力。<br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
     <title>R062-考研单词L12</title>
     <url>/2021/01/15/R062-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL12/</url>
     <content><![CDATA[<h4 id="自强不息"><a href="#自强不息" class="headerlink" title="自强不息"></a>自强不息</h4><blockquote>
@@ -5539,51 +5584,6 @@
         <tag>英语单词</tag>
         <tag>考研英语</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>R063-毛中特备考专栏</title>
-    <url>/2021/01/15/R063-%E6%AF%9B%E4%B8%AD%E7%89%B9%E5%A4%87%E8%80%83%E4%B8%93%E6%A0%8F/</url>
-    <content><![CDATA[<h4 id="厚德载物"><a href="#厚德载物" class="headerlink" title="厚德载物"></a>厚德载物</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## HEADLINE</span><br><span class="hljs-comment">## 邓小平的改革开放理论&#123;10点&#125;  -- 重点[第六点][P97]</span><br><span class="hljs-comment">## 改革开放的意义？为什么说改革开放是决定中国命运的关键抉择？[**引用页]</span><br>	**小渔村<br>	**从当时落后的现状到今天的辉煌<br>	[总体布局中的	*四个全面P249]<br><span class="hljs-comment">## 2018年，改革开放40周年，习近平发表讲话： 要用改革开放的眼光看待改革开放 [如何理解？]</span><br>	**要用改革开放的眼光去看待改革开放<br><span class="hljs-comment">## [P182] 习近平新时代 社会主义思想 八个明确</span><br>	**<br><span class="hljs-comment">## 马克思主义中国化的[第三节 P189]</span><br>	**马克思主义中国化的最新成果，为什么说是最新成果？<br>		<span class="hljs-comment">#开辟了…………新境界[课外收集资料补充]</span><br><span class="hljs-comment">## 五位一体的总布局[P207]</span><br>	**经济<br>	**政治<br>	**文化<br>	**社会建设 [重点把握社会建设] - 提高保障和改善民生水平 - 为什么要加快改善民生民主的社会建设？？<br>		<span class="hljs-comment">#第一段-提高保障和改善民生水平[补充课外的内容]</span><br>		<span class="hljs-comment">#如何推进社会建设？ 第一、第二、P233</span><br>	**生态文明建设<br><span class="hljs-comment">## 国际关系：[P287]</span><br>		**全面深化改革[4个全面]<br>		**全面依法治国、全面建成小康社会 ***[重点把握全面深化改革 P249]<br>		**收集资料		<br><span class="hljs-comment">## 中国特色大国外交</span><br>		**坚持和平发展[大发展、大变革]**很重要[P283-287]<br>	<span class="hljs-comment">#推动建立新型国际关系</span><br>		**如何推动建立新型国际关系?[P286]<br>	<span class="hljs-comment">#构建人类命运共同体 思想的内涵[重点]</span><br>		**P289-292<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 马克思主义中国化的新成果[补充]</span><br>	马克思主义中国化最新成果是：<br>中国特色社会主义理论体系，就是包括邓小平理论、“三个代表”重要思想已经科学发展观等重大战略思想在内的科学理论体系。<br>详解：<br>1.高举中国特色社会主义伟大旗帜；2.是新时期我们党庄严的政治宣言；3.是历史的选择、人民的选择；4.必须坚定不移地走中国特色社会主义道路；5.必须坚定不移地坚持和发展中国特色社会主义理论体系；6.坚持立党为公、执政为民；7.坚持以人为本；8.树立和落实科学发展观；9.坚持用科学发展观统领经济社会发展全局；10.建设社会主义新农村；11.建设创新型国家；12.推动建设和谐世界13.切实加强党的执政能力建设；14.牢固树立社会主义荣辱观；15.全面加强干部作风建设；16.始终保持党的先进性。<br>马克思主义中国化就是将马克思主义基本原理同中国具体实际相结合，不断形成具有中国特色的马克思主义理论成果的过程。<br>具体地说，就是把马克思主义基本原理同中国革命、建设和改革的实践结合起来，同中国的优秀历史传统和优秀文化结合起来，既坚持马克思主义，又发展马克思主义。<br>一是马克思主义在指导中国革命、建设和改革的实践中实现具体化。二是把中国革命、建设和改革的实践经验和历史经验上升为马克思理论。三是把马克思主义植根于中国的优秀文化之中。<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 邓小平的改革开放理论</span><br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 改革开放的意义是什么？</span><br>	1、改革开放标志着我们党重新确立了马克思主义的思想路线、政治路线、组织路线，标志着中国共产党人在新的时代条件下的伟大觉醒，显示了我们党顺应时代潮流和人民愿望、勇敢开辟建设社会主义新路的坚强决心。<br>	2、改革开放是决定当代中国命运的关键抉择，是发展中国特色社会主义、实现中华民族伟大复兴的必由之路；只有社会主义才能救中国，只有改革开放才能发展中国、发展社会主义、发展马克思主义；改革开放符合党心民心、顺应时代潮流，<br>	3、改革开放开辟了中国特色社会主义道路，形成了中国特色社会主义理论体系。 30年来，我们党的全部理论和全部实践，归结起来就是创造性地探索和回答了什么是马克思主义、怎样对待马克思主义，什么是社会主义、怎样建设社会主义，建设什么样的党、怎样建设党，实现什么样的发展、怎样发展等重大理论和实际问题。30年的历史经验归结到一点，就是把马克思主义基本原理同中国具体实际相结合，走自己的路，建设中国特色社会主义。<br>	4、经过改革开放30年的不懈奋斗，胜利实现了现代化建设“三步走”战略的前两步战略目标，正在向第三步战略目标阔步前进。30年的伟大成就，为我们党、我们国家、我们人民继续前进奠定了坚实基础。<br><br><span class="hljs-comment">## 为什么说改革开放是决定中国命运的关键抉择？</span><br>	邓小平同志曾经指出：“改革的性质同过去的革命一样，也是为了扫除发展社会生产力的障碍，使中国摆脱贫穷落后的状态。从这个意义上说，改革也可以叫革命性的变革。”改革是全面改革，是在坚持社会主义基本制度前提下，自觉调整生产关系和上层建筑的各个方面和环节，以适应初级阶段生产力发展水平和实现现代化的历史要求。在社会主义初级阶段国情下发展中国特色社会主义，是前无古人的伟大创举，必须围绕发展社会生产力这个根本任务，把改革开放作为发展中国特色社会主义的强大动力。新时期29年来，我国综合国力大幅度跃升、人民生活总体上达到小康水平、社会长期保持安定团结、国际地位和影响力显著增强的事实雄辩地证明，改革开放是决定当代中国命运的关键抉择，是发展中国特色社会主义、实现中华民族伟大复兴的必由之路。<br>	改革是社会主义制度的自我完善，是社会主义社会发展的必然要求，是中华民族实现复兴的强大而持久的动力源。当然，改革并不是改变社会主义制度，而是在坚持基本制度下对某些具体体制如经济体制的改变。我国的经济体制最初是模仿苏联模式建立的，这种体制在历史上虽然发挥过重要作用，但随着实践的发展，已到了非改革不可的地步。29年的改革开放，就是对原有的旧经济体制的不断改革，目的在于不断解放和发展生产力。<br>没有改革开放，就没有今天发展的大好局面。党的十一届三中全会以来我们党提出的理论、路线和制定的一系列方针政策，最鲜明的特征就是改革开放。改革开放极大地解放和发展了社会生产力，冲破了束缚生产力发展的体制障碍，推动了社会主义市场经济体制的初步建立，形成了对外开放的全新格局。在社会主义条件下发展市场经济，是前无古人的伟大创举，是中国共产党人在创造性地发展马克思主义理论的进程中作出的历史性贡献。<br>要在新的实践中坚持和发展中国特色社会主义，就必须坚持改革开放；只有坚持改革开放，才能不断开创中国特色社会主义事业新局面。全面贯彻落实科学发展观，在新的历史起点上继续推进社会主义现代化建设，说到底要靠深化改革、扩大开放。要毫不动摇地坚持改革方向，坚定改革的决心和信心，提高改革决策的科学性，增强改革措施的协调性，不断完善社会主义市场经济体制，为贯彻落实科学发展观提供体制和机制保障，为经济社会发展提供强大动力。<br>	改革开放是我们党在新的时代条件下带领人民进行的新的伟大革命。站在新的历史起点上回顾走过的历程，我们深切地感受到，新时期最鲜明的特点是改革开放，新时期最显著的成就是快速发展，新时期最突出的标志是与时俱进。29年来，无论遇到什么复杂局面，无论遇到什么风险考验，我们党都始终引领改革开放的航船沿着正确方向破浪前进，一个面向现代化、面向世界、面向未来的社会主义中国巍然屹立在世界东方。<br>改革开放是中国走向繁荣富强的必由之路，是中国特色社会主义发展前进的成功之路。社会主义要保持强大的生命力，就必须通过改革不断完善自己。在社会主义现代化建设中，不断推进和深化改革，用改革的办法解决阻碍经济社会发展的体制性、机制性问题，努力形成与社会主义初级阶段基本国情相适应的比较成熟、比较定型的制度，是社会主义充满生机和活力的重要保证。不推进改革开放，不仅不能取得新的成就，而且已经取得的成就也难以保持，更谈不上继续推进我们的事业。我们必须按照党的基本理论、基本路线、基本纲领、基本经验，牢固树立社会主义改革和发展的基本观点，不断增强支持改革开放、深化改革开放的自觉性和坚定性。<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何理解 “要用改革开放的眼光看待改革开放”？</span><br>	如何看待改革开放，怎样推进改革开放？这是新时代改革开放再出发必须回答的一个基本问题。<br>　　“要掌握辩证唯物主义和历史唯物主义的方法论，以改革开放的眼光看待改革开放，充分认识新形势下改革开放的时代性、体系性、全局性问题，在更高起点、更高层次、更高目标上推进改革开放。”习近平总书记在广东考察时明确提出的这一新论断新要求，对于我们更充分、更深刻地认识和把握改革开放，更加坚定、更加自觉地推进改革开放，具有十分重要的意义。<br>　　唯物辩证法是认识世界和改造世界的根本方法。40年众志成城，40年砥砺奋进，40年春风化雨。改革开放之所以极大解放和发展了中国社会生产力，一个重要原因就在于，我们始终坚持辩证唯物主义和历史唯物主义的方法论，以此正确把握我们的最大国情、最大实际，深刻认识世情国情党情，坚定不移把改革开放推向前进，让中国特色社会主义展现出强大生命力。40年来，我们既“摸着石头过河”又加强顶层设计，不断研究新情况、解决新问题、总结新经验；我们坚持解放思想、实事求是，实现解放思想和改革开放相互激荡、观念创新和实践探索相互促进；我们勇于自我革命、自我革新，不断革除阻碍发展的体制机制弊端。特别是党的十八大以来，从认识论、方法论到价值论，从总目标、大方向到动力源，正是以改革认识论和方法论的不断创新为支撑，一系列重大改革开放举措陆续出台，解决了许多长期想解决而没有解决的难题，办成了许多过去想办而没有办成的大事，推动中国特色社会主义进入新时代。<br>　　以改革开放的眼光看待改革开放，就要充分认识新形势下改革开放的时代性、体系性、全局性问题。40年改革开放给人们提供了许多弥足珍贵的启示，其中重要的一条就是，一个国家、一个民族要振兴，就必须在历史前进的逻辑中前进、在时代发展的潮流中发展。习近平总书记明确指出，“进入新时代，国际国内形势发生广泛而深刻的变化，改革发展面临着新形势新任务新挑战”。从改革看，我们推进改革的复杂程度、敏感程度、艰巨程度不亚于40年前；从开放看，单边主义、保护主义愈演愈烈，开放还是封闭，前进还是后退，人类面临着新的重大抉择。唯有准确把握我国不同发展阶段的新变化新特点，积极应对世界大发展大变革大调整带来的新挑战新问题，勇于变革、勇于创新，永不僵化、永不停滞，才能以新作为开创新局面，让改革开放始终成为推动中国发展进步、为人类作出新贡献的动力源泉。<br>　　以改革开放的眼光看待改革开放，就要在更高起点、更高层次、更高目标上推进改革开放。改革往往都是从易到难。进入攻坚期、深水区，最重要的是迎难而上、攻坚克难。党的十八大以来，以习近平同志为核心的党中央坚定不移全面深化改革，敢于向顽瘴痼疾开刀，勇于突破利益固化藩篱，落实新发展理念，建设现代化经济体系，推动形成了更高层次改革开放新格局。在这次考察中，从强调“深化改革开放、推动经济高质量发展”，到要求“把创新发展主动权牢牢掌握在自己手中”，再到提出“认真总结改革开放40年成功经验，提升改革开放质量和水平”，习近平总书记的一系列重要论断，充分展现了我们党在新的历史起点上把改革开放不断推向深入的坚定意志。<br>　　改革开放只有进行时没有完成时。40年来，从农村到城市，从经济体制改革到全面深化改革，中国人民用双手书写了国家和民族发展的壮丽史诗。在40年的时间节点上瞻望未来，以改革开放的眼光看待改革开放，我们一定能让改革开放始终契合历史逻辑、顺应时代潮流，为中国的发展注入不竭动力。<br></code></pre></td></tr></table></figure>
-
-]]></content>
-  </entry>
-  <entry>
-    <title>R064-期末讲座与分享</title>
-    <url>/2021/01/16/R064-%E6%9C%9F%E6%9C%AB%E8%AE%B2%E5%BA%A7%E4%B8%8E%E5%88%86%E4%BA%AB/</url>
-    <content><![CDATA[<hr>
-<h5 id="NOTE"><a href="#NOTE" class="headerlink" title="NOTE"></a>NOTE</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># mistakes were made, but not by me</span><br><span class="hljs-comment"># 对于人类来说，一件很可怕的事：忘记</span><br><br>---<br><span class="hljs-comment"># 想讲为什么要培养一个好的习惯，具体案例为[写博客]，讲座流程</span><br><br>---<br>FIND NEXT<br>[https://www.douban.com/doulist/46003/]<br></code></pre></td></tr></table></figure>
-
-<h5 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h5><p>[暗时间]</p>
-<p>[决策与判断]</p>
-<p>[怪诞行为学]</p>
-<p>[错不在我]</p>
-<p>[社会性动物]</p>
-<p>[明天存储更多]</p>
-<p>[与众不同的心理学]</p>
-<p>[找寻逝去的自我]</p>
-<p>[乔布斯传]</p>
-<p>[爱因斯坦传]</p>
-<p>[硅谷钢铁侠]</p>
-<p>[狼图腾]</p>
-<p>[鞋狗]</p>
-<p>[褚时健传]</p>
-<p>[大学之路]</p>
-<p>[浪潮之巅]</p>
-<p>[文明之光]</p>
-]]></content>
   </entry>
   <entry>
     <title>R064-考研单词L13</title>
@@ -6977,6 +6977,21 @@
       </tags>
   </entry>
   <entry>
+    <title>T001-专业书单</title>
+    <url>/2021/01/06/T001-%E4%B8%93%E4%B8%9A%E4%B9%A6%E5%8D%95/</url>
+    <content><![CDATA[<h4 id="良心出品"><a href="#良心出品" class="headerlink" title="良心出品"></a>良心出品</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## https://feater.top/download/pdf</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>计科专业书单</tag>
+        <tag>书籍下载</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R055-门徒训练N104</title>
     <url>/2021/01/10/R066-%E9%97%A8%E5%BE%92%E8%AE%AD%E7%BB%83N104/</url>
     <content><![CDATA[<h4 id="门训课程N104"><a href="#门训课程N104" class="headerlink" title="门训课程N104"></a>门训课程N104</h4><hr>
@@ -7006,21 +7021,6 @@
       <tags>
         <tag>门徒训练</tag>
         <tag>N104读经的生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>T001-专业书单</title>
-    <url>/2021/01/06/T001-%E4%B8%93%E4%B8%9A%E4%B9%A6%E5%8D%95/</url>
-    <content><![CDATA[<h4 id="良心出品"><a href="#良心出品" class="headerlink" title="良心出品"></a>良心出品</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## https://feater.top/download/pdf</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>计科专业书单</tag>
-        <tag>书籍下载</tag>
       </tags>
   </entry>
   <entry>

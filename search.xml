@@ -698,20 +698,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R011</title>
-    <url>/2020/12/18/R011/</url>
-    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>演讲的艺术</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R012-软工知识点梳理</title>
     <url>/2020/12/23/R012/</url>
     <content><![CDATA[<h4 id="软工知识点梳理"><a href="#软工知识点梳理" class="headerlink" title="软工知识点梳理"></a>软工知识点梳理</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 梳理了考试和学习的重点</span><br>	**<br>	**<br><br><span class="hljs-comment">## 分析著名的缺乏测试项目</span><br>	** 爱国者导弹防御系统<br>	** 温州动车事故[2011]<br>	** <br><br><span class="hljs-comment">## 从敏捷软件开发到项目管理、从软件测试到DevOps</span><br>	**是否安装软件测试工具<br>	**是否开始学习DevOps<br><br><span class="hljs-comment">## 灵感的来源：</span><br>	** 元素周期表<br>	** 全世界、所有大学、所有专业的培养计划<br>	** 对人类社会产生重大深远影响的书籍<br>	<br><span class="hljs-comment">## 软工资料地址</span><br>	**[LINK] - [http://124.160.107.91:10001/SoftEng/SitePages/Home.aspx]<br>	**ID: SEI\189051042<br>	**PW: 189051042@hdu.com<br>	<br><br></code></pre></td></tr></table></figure>
@@ -724,6 +710,20 @@
         <tag>软件工程</tag>
         <tag>Xmind</tag>
         <tag>灵感</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R011</title>
+    <url>/2020/12/18/R011/</url>
+    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>演讲的艺术</tag>
       </tags>
   </entry>
   <entry>
@@ -845,14 +845,6 @@
       </categories>
   </entry>
   <entry>
-    <title>R017-NULL</title>
-    <url>/2020/12/27/R017/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
     <title>R020-linux kernel</title>
     <url>/2020/12/28/R020/</url>
     <content><![CDATA[<h4 id="实验简介"><a href="#实验简介" class="headerlink" title="实验简介"></a>实验简介</h4><p>通过系统调用、进程调度、完成变量等方式实现多对多通信的模拟</p>
@@ -902,6 +894,14 @@
       <tags>
         <tag>linux kernel</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>R017-NULL</title>
+    <url>/2020/12/27/R017/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
   </entry>
   <entry>
     <title>R021-软工答辩初稿</title>
@@ -1231,40 +1231,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R027-912考研笔记</title>
-    <url>/2020/12/31/R027/</url>
-    <content><![CDATA[<h4 id="这是一条不归路"><a href="#这是一条不归路" class="headerlink" title="这是一条不归路"></a>这是一条不归路</h4><blockquote>
-<p>除了胜利，我们无路可走。</p>
-</blockquote>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么要考研？</span><br>	**低风险，高回报<br>	**对自己基础技能的检测与夯实<br>	**离自己的梦想更进一步[更优质的资源，更稳定、持续的正能量流、积累学习更多的知识]<br>	**荣耀神，为了之后有更好的能力传扬神的道<br></code></pre></td></tr></table></figure>
-
-<h4 id="初级阶段"><a href="#初级阶段" class="headerlink" title="初级阶段"></a>初级阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一栋房子最重要的部分是设计图纸，是整栋房子的灵魂核心</span><br>	**轮回-金字塔模型：<br>		*快速、广泛的初始化[竭尽所能的快速、高效率记录] - 起步阶段一定要快速、高效率[高频率的重复]<br>		*美和艺术重点不是表面所看到的东西[看到的东西通常不重要]<br>		*思维和逻辑以及精神上的美才是价值所在<br><br><span class="hljs-comment">## 时间：上一届考研的结束，就是自己考研的开始</span><br>	**或者说，从决定考研的任何时候就已经开始<br>	<br><span class="hljs-comment">## 准备：认真研读前辈们的经验与分享、心得，如果有机会最好能够和已经上岸或者已经经历过考试的学长学姐前辈们亲自交流、学习经验</span><br>	**记录下所阅读、收集、观看的 所有 资料的整理、链接、心得[非常重要]<br>	**初步描绘自己的一年备考计划，重点放在计划的初级阶段[备考时间段的前1-2个月] * 取长补短，结合上一步的资料<br>	**有不断修正计划的意识和行动 <br>	<br><span class="hljs-comment">## 挑战：稳行在高处</span><br>	**像素常一样<br>	**将窗户向耶路撒冷打开<br>	**跪在我神的面前<br>	<br><span class="hljs-comment">## 细节：--为了能够高效率完成预期任务</span><br>	**全程离线状态：手机关机、电脑飞行<br>	**为了能够离线，首先要准备好一周所需要的资料<br>	**为了应对离线产生的问题，要有一个突发事件记录表，有突发事件或者灵感或者问题时，详细记录到事件表--&gt;专门的时间段来处理<br>	**为了能够有效回溯，全程产生的任何资料都应该被记录[思维上的、物质上的、引用的、虚无的、乱七八糟的、everything]<br>	<br>	[*完整的记录一年的考研时间-为之后的战斗做好准备]<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h2 id="fallen-leaf"><a href="#fallen-leaf" class="headerlink" title=":fallen_leaf:"></a>:fallen_leaf:</h2><hr>
-<h5 id="数学策略"><a href="#数学策略" class="headerlink" title="数学策略"></a>数学策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 轮回金字塔 - 高频度重复 - 渐进深入</span><br>	**基础的熟练度<br>	<br>	**<br>	<br>	**<br></code></pre></td></tr></table></figure>
-
-<h5 id="英语策略"><a href="#英语策略" class="headerlink" title="英语策略"></a>英语策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 高频度重复</span><br>	**单词<br>		$利用艾宾浩斯遗忘曲线-[高频重复]<br>	**阅读<br>	<br>	**翻译<br>	<br>	**写作<br></code></pre></td></tr></table></figure>
-
-<h5 id="专业课策略"><a href="#专业课策略" class="headerlink" title="专业课策略"></a>专业课策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 数据结构</span><br>	**<br>	<br><span class="hljs-comment">## 操作系统</span><br>	**<br>	<br><span class="hljs-comment">## 组成原理</span><br>	**<br>	<br><span class="hljs-comment">## 计算机网络</span><br>	**<br>	<br></code></pre></td></tr></table></figure>
-
-<h5 id="政治策略"><a href="#政治策略" class="headerlink" title="政治策略"></a>政治策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
-
-<h5 id="个人经历策略"><a href="#个人经历策略" class="headerlink" title="个人经历策略"></a>个人经历策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## *方向A - 人工智能、机器学习</span><br>	***从现在开始整理博客、收集记录学习资料、论文创作、科研入门级训练<br>	<br><span class="hljs-comment">## *方向B - 操作系统</span><br>	***同上，并且要做出能够看得见的东西，最好是能够用得上的东西<br>	<br><span class="hljs-comment">## *个人经历的包装</span><br>	**科研经历<br>		**论文阅读<br>		**论文整理<br>		**论文撰写<br>		<br>	**竞赛经历	<br>		**操作系统开发项目<br>		**人工智能开发项目<br>		**机器学习开发项目<br>		<br>	**成长经历<br>		**阅读经历<br>		**感情经历<br>		**信仰经历<br>		<br><span class="hljs-comment">## *查找相关的导师信息，如果可以能够取得联系最好</span><br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h2 id="bamboo-bamboo-bamboo-bamboo-bamboo"><a href="#bamboo-bamboo-bamboo-bamboo-bamboo" class="headerlink" title=":bamboo: :bamboo: :bamboo: :bamboo::bamboo:"></a>:bamboo: :bamboo: :bamboo: :bamboo::bamboo:</h2><hr>
-<h4 id="中期阶段"><a href="#中期阶段" class="headerlink" title="中期阶段"></a>中期阶段</h4><h4 id="后期阶段"><a href="#后期阶段" class="headerlink" title="后期阶段"></a>后期阶段</h4>]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>912考研笔记</tag>
-        <tag>考研规划</tag>
-        <tag>考研资料</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R028-考研单词记录L0</title>
     <url>/2021/01/01/R028/</url>
     <content><![CDATA[<h4 id="开始战斗"><a href="#开始战斗" class="headerlink" title="开始战斗"></a>开始战斗</h4><hr>
@@ -1539,6 +1505,40 @@
         <tag>英语单词</tag>
         <tag>词根词缀记忆</tag>
         <tag>真题单词提取</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R027-912考研笔记</title>
+    <url>/2020/12/31/R027/</url>
+    <content><![CDATA[<h4 id="这是一条不归路"><a href="#这是一条不归路" class="headerlink" title="这是一条不归路"></a>这是一条不归路</h4><blockquote>
+<p>除了胜利，我们无路可走。</p>
+</blockquote>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么要考研？</span><br>	**低风险，高回报<br>	**对自己基础技能的检测与夯实<br>	**离自己的梦想更进一步[更优质的资源，更稳定、持续的正能量流、积累学习更多的知识]<br>	**荣耀神，为了之后有更好的能力传扬神的道<br></code></pre></td></tr></table></figure>
+
+<h4 id="初级阶段"><a href="#初级阶段" class="headerlink" title="初级阶段"></a>初级阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一栋房子最重要的部分是设计图纸，是整栋房子的灵魂核心</span><br>	**轮回-金字塔模型：<br>		*快速、广泛的初始化[竭尽所能的快速、高效率记录] - 起步阶段一定要快速、高效率[高频率的重复]<br>		*美和艺术重点不是表面所看到的东西[看到的东西通常不重要]<br>		*思维和逻辑以及精神上的美才是价值所在<br><br><span class="hljs-comment">## 时间：上一届考研的结束，就是自己考研的开始</span><br>	**或者说，从决定考研的任何时候就已经开始<br>	<br><span class="hljs-comment">## 准备：认真研读前辈们的经验与分享、心得，如果有机会最好能够和已经上岸或者已经经历过考试的学长学姐前辈们亲自交流、学习经验</span><br>	**记录下所阅读、收集、观看的 所有 资料的整理、链接、心得[非常重要]<br>	**初步描绘自己的一年备考计划，重点放在计划的初级阶段[备考时间段的前1-2个月] * 取长补短，结合上一步的资料<br>	**有不断修正计划的意识和行动 <br>	<br><span class="hljs-comment">## 挑战：稳行在高处</span><br>	**像素常一样<br>	**将窗户向耶路撒冷打开<br>	**跪在我神的面前<br>	<br><span class="hljs-comment">## 细节：--为了能够高效率完成预期任务</span><br>	**全程离线状态：手机关机、电脑飞行<br>	**为了能够离线，首先要准备好一周所需要的资料<br>	**为了应对离线产生的问题，要有一个突发事件记录表，有突发事件或者灵感或者问题时，详细记录到事件表--&gt;专门的时间段来处理<br>	**为了能够有效回溯，全程产生的任何资料都应该被记录[思维上的、物质上的、引用的、虚无的、乱七八糟的、everything]<br>	<br>	[*完整的记录一年的考研时间-为之后的战斗做好准备]<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="fallen-leaf"><a href="#fallen-leaf" class="headerlink" title=":fallen_leaf:"></a>:fallen_leaf:</h2><hr>
+<h5 id="数学策略"><a href="#数学策略" class="headerlink" title="数学策略"></a>数学策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 轮回金字塔 - 高频度重复 - 渐进深入</span><br>	**基础的熟练度<br>	<br>	**<br>	<br>	**<br></code></pre></td></tr></table></figure>
+
+<h5 id="英语策略"><a href="#英语策略" class="headerlink" title="英语策略"></a>英语策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 高频度重复</span><br>	**单词<br>		$利用艾宾浩斯遗忘曲线-[高频重复]<br>	**阅读<br>	<br>	**翻译<br>	<br>	**写作<br></code></pre></td></tr></table></figure>
+
+<h5 id="专业课策略"><a href="#专业课策略" class="headerlink" title="专业课策略"></a>专业课策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 数据结构</span><br>	**<br>	<br><span class="hljs-comment">## 操作系统</span><br>	**<br>	<br><span class="hljs-comment">## 组成原理</span><br>	**<br>	<br><span class="hljs-comment">## 计算机网络</span><br>	**<br>	<br></code></pre></td></tr></table></figure>
+
+<h5 id="政治策略"><a href="#政治策略" class="headerlink" title="政治策略"></a>政治策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+
+<h5 id="个人经历策略"><a href="#个人经历策略" class="headerlink" title="个人经历策略"></a>个人经历策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## *方向A - 人工智能、机器学习</span><br>	***从现在开始整理博客、收集记录学习资料、论文创作、科研入门级训练<br>	<br><span class="hljs-comment">## *方向B - 操作系统</span><br>	***同上，并且要做出能够看得见的东西，最好是能够用得上的东西<br>	<br><span class="hljs-comment">## *个人经历的包装</span><br>	**科研经历<br>		**论文阅读<br>		**论文整理<br>		**论文撰写<br>		<br>	**竞赛经历	<br>		**操作系统开发项目<br>		**人工智能开发项目<br>		**机器学习开发项目<br>		<br>	**成长经历<br>		**阅读经历<br>		**感情经历<br>		**信仰经历<br>		<br><span class="hljs-comment">## *查找相关的导师信息，如果可以能够取得联系最好</span><br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="bamboo-bamboo-bamboo-bamboo-bamboo"><a href="#bamboo-bamboo-bamboo-bamboo-bamboo" class="headerlink" title=":bamboo: :bamboo: :bamboo: :bamboo::bamboo:"></a>:bamboo: :bamboo: :bamboo: :bamboo::bamboo:</h2><hr>
+<h4 id="中期阶段"><a href="#中期阶段" class="headerlink" title="中期阶段"></a>中期阶段</h4><h4 id="后期阶段"><a href="#后期阶段" class="headerlink" title="后期阶段"></a>后期阶段</h4>]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>912考研笔记</tag>
+        <tag>考研规划</tag>
+        <tag>考研资料</tag>
       </tags>
   </entry>
   <entry>
@@ -2175,21 +2175,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R035-人工智能-初级踩坑</title>
-    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
-    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>入门资料</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R036-CS-STACK项目分析会议</title>
     <url>/2021/01/06/R036-CS-STACK%E9%A1%B9%E7%9B%AE%E5%88%86%E6%9E%90%E4%BC%9A%E8%AE%AE/</url>
     <content><![CDATA[<h4 id="项目人员素查"><a href="#项目人员素查" class="headerlink" title="项目人员素查"></a>项目人员素查</h4><hr>
@@ -2211,6 +2196,21 @@
         <tag>HZIEE-CS-STACK</tag>
         <tag>项目分析</tag>
         <tag>会议大纲</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R035-人工智能-初级踩坑</title>
+    <url>/2021/01/04/R035-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%88%9D%E7%BA%A7%E8%B8%A9%E5%9D%91/</url>
+    <content><![CDATA[<h4 id="如何学习这门课程？"><a href="#如何学习这门课程？" class="headerlink" title="如何学习这门课程？"></a>如何学习这门课程？</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">[https://www.zhihu.com/question/327809761/answer/885534604]<br>[https://blog.csdn.net/wds2006sdo/article/details/51923546]<br>[https://www.jianshu.com/p/79cd27af8713]<br>[https://www.cnblogs.com/NiceCui/p/8315674.html]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>入门资料</tag>
       </tags>
   </entry>
   <entry>

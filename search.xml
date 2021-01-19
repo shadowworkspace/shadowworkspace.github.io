@@ -229,18 +229,6 @@
       </tags>
   </entry>
   <entry>
-    <title>I006-伟大的艺术家都是疯子</title>
-    <url>/2021/01/13/I006-%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%83%BD%E6%98%AF%E7%96%AF%E5%AD%90/</url>
-    <content><![CDATA[<h4 id="何故退出"><a href="#何故退出" class="headerlink" title="何故退出"></a>何故退出</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将你在这一门课程上的愤怒完整的转化成另一门课的动力</span><br>	伟大的艺术家都是疯子<br>	例如：因为考试的内容习题练习导致我非常的愤怒，所以将愤怒转化成单词背诵的动力。<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>艺术家与疯子</tag>
-        <tag>在绝望中寻找希望</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>I005-高速缓存与调度算法</title>
     <url>/2021/01/11/I005-%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E4%B8%8E%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[<h4 id="高速缓存"><a href="#高速缓存" class="headerlink" title="高速缓存"></a>高速缓存</h4><hr>
@@ -257,6 +245,18 @@
         <tag>缓存与调度</tag>
         <tag>专业知识的应用</tag>
         <tag>知行合一</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>I006-伟大的艺术家都是疯子</title>
+    <url>/2021/01/13/I006-%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%83%BD%E6%98%AF%E7%96%AF%E5%AD%90/</url>
+    <content><![CDATA[<h4 id="何故退出"><a href="#何故退出" class="headerlink" title="何故退出"></a>何故退出</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将你在这一门课程上的愤怒完整的转化成另一门课的动力</span><br>	伟大的艺术家都是疯子<br>	例如：因为考试的内容习题练习导致我非常的愤怒，所以将愤怒转化成单词背诵的动力。<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>艺术家与疯子</tag>
+        <tag>在绝望中寻找希望</tag>
       </tags>
   </entry>
   <entry>
@@ -429,19 +429,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R001-QT作业笔记</title>
-    <url>/2020/12/14/R001-QT%E4%BD%9C%E4%B8%9A%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
     <title>R000-文章命名规范</title>
     <url>/2021/01/01/R000-%E6%96%87%E7%AB%A0%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83/</url>
     <content><![CDATA[<h4 id="规范是为了更加高效"><a href="#规范是为了更加高效" class="headerlink" title="规范是为了更加高效"></a>规范是为了更加高效</h4><hr>
@@ -497,6 +484,19 @@
         <tag>文章标签规范</tag>
         <tag>文章命名规范</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>R001-QT作业笔记</title>
+    <url>/2020/12/14/R001-QT%E4%BD%9C%E4%B8%9A%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
   </entry>
   <entry>
     <title>R002-门徒训练N102</title>
@@ -884,6 +884,65 @@
       </categories>
   </entry>
   <entry>
+    <title>R017-NULL</title>
+    <url>/2020/12/27/R017-NULL/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>R020-linux kernel</title>
+    <url>/2020/12/28/R020-linux%20kernel/</url>
+    <content><![CDATA[<h4 id="实验简介"><a href="#实验简介" class="headerlink" title="实验简介"></a>实验简介</h4><p>通过系统调用、进程调度、完成变量等方式实现多对多通信的模拟</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><br></code></pre></td></tr></table></figure>
+
+<h4 id="Cmder"><a href="#Cmder" class="headerlink" title="Cmder"></a>Cmder</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#不错的终端工具</span><br></code></pre></td></tr></table></figure>
+
+<h4 id="linux内核源码下载"><a href="#linux内核源码下载" class="headerlink" title="linux内核源码下载"></a>linux内核源码下载</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#附上度盘链接</span><br>https://pan.baidu.com/s/1b4D28fCVRsE5m6QEzvROfQ<br>密码：2333<br></code></pre></td></tr></table></figure>
+
+<h4 id="编译准备"><a href="#编译准备" class="headerlink" title="编译准备"></a>编译准备</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 安装必要的环境</span><br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install flex<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install bison<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libncurses-dev<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install pkg-config<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libglade2-dev<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libssl-dev<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libelf-dev<br></code></pre></td></tr></table></figure>
+
+<h4 id="编译配置"><a href="#编译配置" class="headerlink" title="编译配置"></a>编译配置</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**</span><br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+<hr>
+<h4 id="切入重点："><a href="#切入重点：" class="headerlink" title="切入重点："></a>切入重点：</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**多对多进程间通信的实现</span><br><br><span class="hljs-comment">#**拓扑结构</span><br><br><span class="hljs-comment">#**参考资料</span><br><br><span class="hljs-comment">#**实现问题记录</span><br><br><span class="hljs-comment">#**问题解决策略</span><br><br>[LINK]-http://www.pudn.com/Download/item/id/3134446.html<br><br><span class="hljs-comment">#**子系统开启ssh</span><br>https://blog.csdn.net/zhouzme/article/details/81087837<br><span class="hljs-comment">#**教学课件</span><br>http://i.mooc.chaoxing.com/space/index?t=1609151033652<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>linux kernel</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R021-软工答辩初稿</title>
     <url>/2020/12/28/R021-%E8%BD%AF%E5%B7%A5%E7%AD%94%E8%BE%A9%E5%88%9D%E7%A8%BF/</url>
     <content><![CDATA[<h4 id="软件工程答辩稿"><a href="#软件工程答辩稿" class="headerlink" title="软件工程答辩稿"></a>软件工程答辩稿</h4><p>又要造假数据了，哎:fallen_leaf:</p>
@@ -998,65 +1057,6 @@
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**待完成</span><br><span class="hljs-comment">#**项目评审</span><br><span class="hljs-comment">#**编码规范</span><br><span class="hljs-comment">#**团队合作</span><br></code></pre></td></tr></table></figure>
 
 ]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R020-linux kernel</title>
-    <url>/2020/12/28/R020-linux%20kernel/</url>
-    <content><![CDATA[<h4 id="实验简介"><a href="#实验简介" class="headerlink" title="实验简介"></a>实验简介</h4><p>通过系统调用、进程调度、完成变量等方式实现多对多通信的模拟</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><br></code></pre></td></tr></table></figure>
-
-<h4 id="Cmder"><a href="#Cmder" class="headerlink" title="Cmder"></a>Cmder</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#不错的终端工具</span><br></code></pre></td></tr></table></figure>
-
-<h4 id="linux内核源码下载"><a href="#linux内核源码下载" class="headerlink" title="linux内核源码下载"></a>linux内核源码下载</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#附上度盘链接</span><br>https://pan.baidu.com/s/1b4D28fCVRsE5m6QEzvROfQ<br>密码：2333<br></code></pre></td></tr></table></figure>
-
-<h4 id="编译准备"><a href="#编译准备" class="headerlink" title="编译准备"></a>编译准备</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 安装必要的环境</span><br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install flex<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install bison<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libncurses-dev<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install pkg-config<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libglade2-dev<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libssl-dev<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libelf-dev<br></code></pre></td></tr></table></figure>
-
-<h4 id="编译配置"><a href="#编译配置" class="headerlink" title="编译配置"></a>编译配置</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**</span><br></code></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-<hr>
-<h4 id="切入重点："><a href="#切入重点：" class="headerlink" title="切入重点："></a>切入重点：</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**多对多进程间通信的实现</span><br><br><span class="hljs-comment">#**拓扑结构</span><br><br><span class="hljs-comment">#**参考资料</span><br><br><span class="hljs-comment">#**实现问题记录</span><br><br><span class="hljs-comment">#**问题解决策略</span><br><br>[LINK]-http://www.pudn.com/Download/item/id/3134446.html<br><br><span class="hljs-comment">#**子系统开启ssh</span><br>https://blog.csdn.net/zhouzme/article/details/81087837<br><span class="hljs-comment">#**教学课件</span><br>http://i.mooc.chaoxing.com/space/index?t=1609151033652<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>linux kernel</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R017-NULL</title>
-    <url>/2020/12/27/R017-NULL/</url>
-    <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
@@ -1668,6 +1668,44 @@
       </tags>
   </entry>
   <entry>
+    <title>R031-假期项目安排</title>
+    <url>/2021/01/03/R031-%E5%81%87%E6%9C%9F%E9%A1%B9%E7%9B%AE%E5%AE%89%E6%8E%92/</url>
+    <content><![CDATA[<h4 id="一个大胆的计划"><a href="#一个大胆的计划" class="headerlink" title="一个大胆的计划"></a>一个大胆的计划</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 设计艺术品，美在逻辑中</span><br>	** 如何设计一个完美的艺术品是非常考验专业素养、世界观、审美观、价值观的<br>	** <br>	<br><span class="hljs-comment">## 做什么？</span><br>	** 一个个人管理系统：经历管理，让用户看见自己的成长与变化 - 认清楚这个世界<br>	** 经历当中包含了很多信息-将这些信息提取分类出来：这是一个只用于回顾，然后帮助用户提高工作效率的系统。<br>	** 基础功能：用户创建一篇文章，自动加入文章配置[文章标题、背景图片]，写作结束后提取出关键字作为文章标签，根据文章回顾次数动态分配文章经验[经验用于段位和等级的增长]<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="团队的组建"><a href="#团队的组建" class="headerlink" title="团队的组建"></a>团队的组建</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一个团队的用人标准不是智商有多高，而是能对团队产生多少贡献</span><br>	** 最好属于成就导向，有源源不断的动力，如果不是，那么就引导他成为成就导向型<br>	** 服从管理，服从是军人的天职，也是团队高效协作的必要条件<br>	** 能够分清楚事情的轻重缓急，不会因为杂念阻碍核心任务的跟进<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="假期更新hziee-cs-stack"><a href="#假期更新hziee-cs-stack" class="headerlink" title="假期更新hziee_cs_stack"></a>假期更新hziee_cs_stack</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将一年级上册和三年级上册的大部份资料整理发布</span><br>	** 养成好的习惯<br>	** 不懂就写，写清楚了问题就解决了<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="产品设计"><a href="#产品设计" class="headerlink" title="产品设计"></a>产品设计</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 这里可能要设计更多的专业知识</span><br>	** 比如 美术、音乐、地理、历史、生物、数学、物理、化学、神学等等<br>	** 当然更多的是应该分析成功产品的设计案例，多维度研究分析、最好能够复盘<br>	<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="整理自己的大学经历"><a href="#整理自己的大学经历" class="headerlink" title="整理自己的大学经历"></a>整理自己的大学经历</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 个人学习情况的总结绘制</span><br>	** 专业课程<br>	** 习惯培养<br>	** 思维方式<br>	** 神学入门<br>	<br><span class="hljs-comment">## 个人成就的总结绘制</span><br>	** 准确表达<br>	** 领导能力<br>    ** 荣誉经历<br>    ** 写作能力<br>	<br><span class="hljs-comment">## 个人愿景的总结绘制</span><br>	** 数据分析<br>	** 人工智能<br>	** 操作系统<br>	** 数学建模<br>	** VR公司、产品<br>	** 艺术家<br></code></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>假期安排</tag>
+        <tag>产品设计</tag>
+        <tag>团队管理</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R032-考研单词L1</title>
     <url>/2021/01/03/R032-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL1/</url>
     <content><![CDATA[<h4 id="不要放弃，直到做成为止"><a href="#不要放弃，直到做成为止" class="headerlink" title="不要放弃，直到做成为止"></a>不要放弃，直到做成为止</h4><hr>
@@ -1934,44 +1972,6 @@
       </categories>
       <tags>
         <tag>英语单词</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R031-假期项目安排</title>
-    <url>/2021/01/03/R031-%E5%81%87%E6%9C%9F%E9%A1%B9%E7%9B%AE%E5%AE%89%E6%8E%92/</url>
-    <content><![CDATA[<h4 id="一个大胆的计划"><a href="#一个大胆的计划" class="headerlink" title="一个大胆的计划"></a>一个大胆的计划</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 设计艺术品，美在逻辑中</span><br>	** 如何设计一个完美的艺术品是非常考验专业素养、世界观、审美观、价值观的<br>	** <br>	<br><span class="hljs-comment">## 做什么？</span><br>	** 一个个人管理系统：经历管理，让用户看见自己的成长与变化 - 认清楚这个世界<br>	** 经历当中包含了很多信息-将这些信息提取分类出来：这是一个只用于回顾，然后帮助用户提高工作效率的系统。<br>	** 基础功能：用户创建一篇文章，自动加入文章配置[文章标题、背景图片]，写作结束后提取出关键字作为文章标签，根据文章回顾次数动态分配文章经验[经验用于段位和等级的增长]<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="团队的组建"><a href="#团队的组建" class="headerlink" title="团队的组建"></a>团队的组建</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一个团队的用人标准不是智商有多高，而是能对团队产生多少贡献</span><br>	** 最好属于成就导向，有源源不断的动力，如果不是，那么就引导他成为成就导向型<br>	** 服从管理，服从是军人的天职，也是团队高效协作的必要条件<br>	** 能够分清楚事情的轻重缓急，不会因为杂念阻碍核心任务的跟进<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="假期更新hziee-cs-stack"><a href="#假期更新hziee-cs-stack" class="headerlink" title="假期更新hziee_cs_stack"></a>假期更新hziee_cs_stack</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将一年级上册和三年级上册的大部份资料整理发布</span><br>	** 养成好的习惯<br>	** 不懂就写，写清楚了问题就解决了<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="产品设计"><a href="#产品设计" class="headerlink" title="产品设计"></a>产品设计</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 这里可能要设计更多的专业知识</span><br>	** 比如 美术、音乐、地理、历史、生物、数学、物理、化学、神学等等<br>	** 当然更多的是应该分析成功产品的设计案例，多维度研究分析、最好能够复盘<br>	<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="整理自己的大学经历"><a href="#整理自己的大学经历" class="headerlink" title="整理自己的大学经历"></a>整理自己的大学经历</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 个人学习情况的总结绘制</span><br>	** 专业课程<br>	** 习惯培养<br>	** 思维方式<br>	** 神学入门<br>	<br><span class="hljs-comment">## 个人成就的总结绘制</span><br>	** 准确表达<br>	** 领导能力<br>    ** 荣誉经历<br>    ** 写作能力<br>	<br><span class="hljs-comment">## 个人愿景的总结绘制</span><br>	** 数据分析<br>	** 人工智能<br>	** 操作系统<br>	** 数学建模<br>	** VR公司、产品<br>	** 艺术家<br></code></pre></td></tr></table></figure>
-
-
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>假期安排</tag>
-        <tag>产品设计</tag>
-        <tag>团队管理</tag>
       </tags>
   </entry>
   <entry>
@@ -7845,18 +7845,270 @@
       </tags>
   </entry>
   <entry>
-    <title>T001-专业书单</title>
-    <url>/2021/01/06/T001-%E4%B8%93%E4%B8%9A%E4%B9%A6%E5%8D%95/</url>
-    <content><![CDATA[<h4 id="良心出品"><a href="#良心出品" class="headerlink" title="良心出品"></a>良心出品</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## https://feater.top/download/pdf</span><br></code></pre></td></tr></table></figure>
-
+    <title>R069-考研单词L16</title>
+    <url>/2021/01/19/R069-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL16/</url>
+    <content><![CDATA[<h4 id="JUST-DO-NOT-STOP"><a href="#JUST-DO-NOT-STOP" class="headerlink" title="JUST DO NOT STOP"></a>JUST DO NOT STOP</h4><hr>
+<table>
+<thead>
+<tr>
+<th>governor</th>
+<th></th>
+<th>thrust</th>
+<th></th>
+<th>diplomatic</th>
+<th></th>
+<th>pronoun</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>hut</td>
+<td></td>
+<td>behave</td>
+<td></td>
+<td>productive</td>
+<td></td>
+<td>heroic</td>
+<td></td>
+</tr>
+<tr>
+<td>cushion</td>
+<td></td>
+<td>tan</td>
+<td></td>
+<td>bankrupt</td>
+<td></td>
+<td>allowance</td>
+<td></td>
+</tr>
+<tr>
+<td>aitline</td>
+<td></td>
+<td>automobile</td>
+<td></td>
+<td>paradise</td>
+<td></td>
+<td>preach</td>
+<td></td>
+</tr>
+<tr>
+<td>plastic</td>
+<td></td>
+<td>unify</td>
+<td></td>
+<td>affect</td>
+<td></td>
+<td>sponsor</td>
+<td></td>
+</tr>
+<tr>
+<td>budget</td>
+<td></td>
+<td>cue</td>
+<td></td>
+<td>belief</td>
+<td></td>
+<td>gallop</td>
+<td></td>
+</tr>
+<tr>
+<td>bowel</td>
+<td></td>
+<td>dip</td>
+<td></td>
+<td>sigh</td>
+<td></td>
+<td>collection</td>
+<td></td>
+</tr>
+<tr>
+<td>haul</td>
+<td></td>
+<td>bruise</td>
+<td></td>
+<td>signal</td>
+<td></td>
+<td>spine</td>
+<td></td>
+</tr>
+<tr>
+<td>rail</td>
+<td></td>
+<td>forecast</td>
+<td></td>
+<td>up-to-date</td>
+<td></td>
+<td>prophet</td>
+<td></td>
+</tr>
+<tr>
+<td>hook</td>
+<td></td>
+<td>access</td>
+<td></td>
+<td>alleviate</td>
+<td></td>
+<td>illuminate</td>
+<td></td>
+</tr>
+<tr>
+<td>bonus</td>
+<td></td>
+<td>flexible</td>
+<td></td>
+<td>identify</td>
+<td></td>
+<td>poke</td>
+<td></td>
+</tr>
+<tr>
+<td>genetic</td>
+<td></td>
+<td>alongside</td>
+<td></td>
+<td>potential</td>
+<td></td>
+<td>wholesome</td>
+<td></td>
+</tr>
+<tr>
+<td>assess</td>
+<td></td>
+<td>humiliate</td>
+<td></td>
+<td>stuff</td>
+<td></td>
+<td>comprehension</td>
+<td></td>
+</tr>
+<tr>
+<td>filter</td>
+<td></td>
+<td>appliance</td>
+<td></td>
+<td>shampoo</td>
+<td></td>
+<td>grant</td>
+<td></td>
+</tr>
+<tr>
+<td>magnitude</td>
+<td></td>
+<td>clause</td>
+<td></td>
+<td>empirical</td>
+<td></td>
+<td>essay</td>
+<td></td>
+</tr>
+<tr>
+<td>pendulum</td>
+<td></td>
+<td>conspicuous</td>
+<td></td>
+<td>career</td>
+<td></td>
+<td>nylon</td>
+<td></td>
+</tr>
+<tr>
+<td>financial</td>
+<td></td>
+<td>peach</td>
+<td></td>
+<td>proportion</td>
+<td></td>
+<td>magic</td>
+<td></td>
+</tr>
+<tr>
+<td>abound</td>
+<td></td>
+<td>protest</td>
+<td></td>
+<td>restrain</td>
+<td></td>
+<td>evolve</td>
+<td></td>
+</tr>
+<tr>
+<td>structure</td>
+<td></td>
+<td>straw</td>
+<td></td>
+<td>execute</td>
+<td></td>
+<td>incidentally</td>
+<td></td>
+</tr>
+<tr>
+<td>retreat</td>
+<td></td>
+<td>strife</td>
+<td></td>
+<td>lemon</td>
+<td></td>
+<td>immense</td>
+<td></td>
+</tr>
+<tr>
+<td>innocent</td>
+<td></td>
+<td>detect</td>
+<td></td>
+<td>mistress</td>
+<td></td>
+<td>humanity</td>
+<td></td>
+</tr>
+<tr>
+<td>stereo</td>
+<td></td>
+<td>reconcile</td>
+<td></td>
+<td>sovereign</td>
+<td></td>
+<td>tablet</td>
+<td></td>
+</tr>
+<tr>
+<td>innner</td>
+<td></td>
+<td>joint</td>
+<td></td>
+<td>swing</td>
+<td></td>
+<td>thesis</td>
+<td></td>
+</tr>
+<tr>
+<td>score</td>
+<td></td>
+<td>militant</td>
+<td></td>
+<td>mislead</td>
+<td></td>
+<td>item</td>
+<td></td>
+</tr>
+<tr>
+<td>ability</td>
+<td></td>
+<td>graceful</td>
+<td></td>
+<td>tame</td>
+<td></td>
+<td>aircraft</td>
+<td></td>
+</tr>
+</tbody></table>
 ]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
       <tags>
-        <tag>计科专业书单</tag>
-        <tag>书籍下载</tag>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
       </tags>
   </entry>
   <entry>
@@ -7869,6 +8121,21 @@
       <tags>
         <tag>人生故事</tag>
         <tag>牧师与司机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>T001-专业书单</title>
+    <url>/2021/01/06/T001-%E4%B8%93%E4%B8%9A%E4%B9%A6%E5%8D%95/</url>
+    <content><![CDATA[<h4 id="良心出品"><a href="#良心出品" class="headerlink" title="良心出品"></a>良心出品</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## https://feater.top/download/pdf</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>计科专业书单</tag>
+        <tag>书籍下载</tag>
       </tags>
   </entry>
   <entry>

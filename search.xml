@@ -1,48 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>912-核心语法及长难句01-简单句</title>
-    <url>/2021/02/27/912-%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%8F%8A%E9%95%BF%E9%9A%BE%E5%8F%A501-%E7%AE%80%E5%8D%95%E5%8F%A5/</url>
-    <content><![CDATA[<h4 id="C1-简单句的核心"><a href="#C1-简单句的核心" class="headerlink" title="C1 简单句的核心"></a>C1 简单句的核心</h4><hr>
-<p>简单句是一切的基础</p>
-<h5 id="简单句的核心构成"><a href="#简单句的核心构成" class="headerlink" title="简单句的核心构成"></a>简单句的核心构成</h5><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 简单句：只讲一件事</span><br>&gt; n. + v.<br>	谓语分类：<br>		&gt; 有实际意义 - <br>			% 不及物 vi. [动作由主语独立完成] <br>						- [主谓]<br>						<br>			% 及物动词 vt. [动作既有发起者也有接受者] <br>						- [主谓宾] <br>						- [主谓双宾是 人+物 OR 物+人] <br>						- [主谓宾 宾补] [宾补的判断： 在中间加一个“是”，能撸顺就是宾补]<br>		<br>		<br>		&gt; 无实际意义 - be[(联)系动词]<br>						- [主系表]<br>			% 系动词 - 如果是系动词，后面就是表语，如果是实义动词，后面就是宾语<br>				**1. be动词[单独出现的]<br>				**2. get become turn go grow 为“变得”含义时，作为系动词<br>				**3. look sound smell taste feel <span class="hljs-string">&quot;……起来&quot;</span>时，作为系动词<br>				**4. seem appear keep remain prove<br>			% 表语<br><br>	**T1:<br>	**T2:<br>	**T3:<br>	**T4:<br>	**T5:<br><span class="hljs-comment">## 如何区分主谓双宾 与 主谓宾宾补？</span><br>	&gt; 看看在中间添加一个 是 能否撸顺，如果可以那么就是宾补，否则是双宾<br><br>------------------------------------------------------------------------------<br><span class="hljs-comment">## 简单句的核心构成 - 考场攻略</span><br>	&gt; 攻略1: 简化句子 - 不及物动词<br>		**对于不及物动词，可以到主谓就结束了，后面追加的东西通常没什么用。<br>	<br>	&gt; 攻略2: 找到分裂结构 - 及物动词<br>		**原本连贯的句子，中间插入了一些东西[介词短语]或者被挪走了[太长了] &lt;谁长谁放后面，短的放前面&gt;<br>		<br>	&gt; 攻略3: 判断从句<br>		**宾语从句 - 及物动词后<br>		**表语从句 - 系动词后<br><br><span class="hljs-comment">## 长难句：一次讲了很多件事</span><br><br></code></pre></td></tr></table></figure>
-
-
-
-<h5 id="简单句的核心构成-1"><a href="#简单句的核心构成-1" class="headerlink" title="简单句的核心构成"></a>简单句的核心构成</h5><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 主 + 谓</span><br>	&gt; 谓语动词有四种变化<br>		**时态<br>		**情态<br>		**语态<br>		**否定<br>	<span class="hljs-comment"># 谓语动词不管怎么变，都算一个整体[如 be doing, have been done, 都算作一个谓语动词]</span><br>    &gt; 谓语动词时态的变化<br>    	**通过谓语动词的变化表现时态[时态一共分为16种，需要掌握8种]<br>    		时: 过去 | 现在 | 将来 | 过去将来<br>    		态: 一般 | 进行 | 完成 | 完成进行<br>    		<br>    		一般：<br>    		<span class="hljs-variable">$1</span>: 一般过去时 谓语动词 = did<br>    			**完全发生在过去，现在不再这样了[言外之意]had a boy friend [过去有]<br>    			<br>    		<span class="hljs-variable">$2</span>: 一般现在时 谓语动词 = <span class="hljs-keyword">do</span> / does<br>    			**[现在的事情] [经常性或习惯性的动作] <br>    			**第三人称单数: 可数名词单数/不可数名词/不定代词/他她它<br>    			**除了表示现在，还可以表示永恒[名言警句/客观真理]<br>    			<br>    			<span class="hljs-string">&#x27;ET: And a significant number of the homeless have serious mental disorders&#x27;</span><br>    			<br>    		<span class="hljs-variable">$3</span>: 一般将来时 谓语动词 = will <span class="hljs-keyword">do</span><br>    							am/is/are going to <span class="hljs-keyword">do</span> || shall <span class="hljs-keyword">do</span><br>    			**表示的是现在的将来[通常都是以当前为出发点]<br>    			<br>    		<span class="hljs-variable">$4</span>: (一般)过去将来时 谓语动词 = would <span class="hljs-keyword">do</span><br>    							was/were going to <span class="hljs-keyword">do</span><br>    			**先有过去，再有将来。<br>    			<br>    			<span class="hljs-string">&#x27;A team of reserachers...would submit the results of their research to a journal.&#x27;</span><br>------------------------------------------------------------------------------  			<br>			过去：<br>			<span class="hljs-variable">$1</span>: 过去进行时 谓语动词 = was/were doing<br>				<br>			<span class="hljs-variable">$2</span>: 现在进行时 谓语动词 = am/is/are doing<br>				<span class="hljs-string">&#x27;ET: Readers are migrating away from print anyway.&#x27;</span><br>			<br>			<span class="hljs-variable">$3</span>: 将来进行时 谓语动词 = will be doing [不重要]<br>				**将来确定发生的事<br>			be doing<br>			<br>----------------------------------------------------------------------------<br>			完成：<br>				**可以都做完，也可以没有做完<br>				**就表达完成的结果如何[做没做完不重要]<br>				&lt;表达截止到某一个时间点回头往前，看事情的结果&gt;<br>			<span class="hljs-variable">$1</span>: 过去完成时 谓语动词 = had <span class="hljs-keyword">done</span><br>				**过去的&#123;过去式&#125;之前&#123;before&#125; [经常搭配一般过去时]<br>				**有时候过去式会出现在不同的句子里<br>				&gt;要点1: 过去完成时跟一般过去时的关系 &gt;&gt; 过去完成时是过去的过去，一般过去时是过去，所以过去完成时发生在前，一般过去时发生在后。<br>				&gt;要点2: 过去的之前，不是一个时间点，而是一个时间段。[从过去的之前一直到过去]<br>                <br>            <span class="hljs-variable">$2</span>: 现在完成时 谓语动词 = have/has <span class="hljs-keyword">done</span>  [补充 - just/ever/never/also/already]<br>            	**现在的之前 [使用最多]<br>            	&gt;要点1: 表达的时间段 从过去到现在<br>            	&gt;要点2: 现在完成时与一般过去时的区别<br>            		**宏观上：时间范围不一样<br>            		**微观上：全部做完/可以换成过去时 [完成时强调对现在的影响，过去式则不是]<br>            				 没有全做完/不能换成过去时 <br>            		<span class="hljs-string">&#x27;ET: The use of this little-known practice has accelerated in recent years.&#x27;</span><br>            				 <br>            <span class="hljs-variable">$3</span>: 将来完成时 谓语动词 = will have <span class="hljs-keyword">done</span><br>            	<br>            	&lt;完成时态，就叫阶段性总结&gt;<br>            	<br>----------------------------------------------------------------------------<br>			<span class="hljs-variable">$1</span>: 现在完成进行时 have/has been + doing<br>				&gt; 角度都相同，但是上一个强调结果，进行时强调过程。<br>			<br>    			<span class="hljs-string">&#x27;ET: In recent years, railroads have been combining with each other...&#x27;</span><br>    			<br>    			<br>		<br><span class="hljs-comment">## ET DONE 2021年3月1日17点48分		</span><br></code></pre></td></tr></table></figure>
-
-
-
-<h5 id="简单句的核心变化"><a href="#简单句的核心变化" class="headerlink" title="简单句的核心变化"></a>简单句的核心变化</h5><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 2021年3月1日17点49分</span><br><br>&gt; 一主一谓，三态一否[简单句]<br><br><span class="hljs-comment">## 情态</span><br>	&gt; 情态动词 + 动词原形<br>		**常用：<br>			现在时	|	过去时<br>			must  |	  -<br>			can	  |	  could<br>			will  |	  would<br>			shall |   should<br>			may	  |   might<br>			<br><span class="hljs-comment">## 三大部分</span><br>	&gt; 整体用法<br>		**情态动词 + 动词原形<br>		**时态[普通动词16种时态]，而情态动词只有两种[最多]<br>		**<span class="hljs-string">&#x27;could would should might 有三种用法，#1 表示过去，#2 表示现在的、更委婉的语气，#3 表示推测&#x27;</span><br>		**情态动词没有人称变化<br>		**情态动词变否定[加not]/疑问[提前]<br>		<br>	&gt; 不同的含义<br>		**must 必须<br>		<span class="hljs-string">&#x27;ET: Human drivers sometimes must make split-second decisions.&#x27;</span><br>		<br>		**can / could	能够/可以<br>		<span class="hljs-string">&#x27;...and the right mental workouts can significantly improve our basic cognitive functions.&#x27;</span><br>		副词：助动词后，实义动词前<br>		<br>		**will / would 将要/愿意<br>		<span class="hljs-string">&#x27;The first draft will appear on the page.&#x27;</span><br>		<span class="hljs-string">&#x27;Potential home buyers would cheer for lower interest rates.&#x27;</span><br>		<br>		**may / might	可以/可能<br>		<span class="hljs-string">&#x27;expressions may influence emotions rather than just the other way around.&#x27;</span><br>		<span class="hljs-string">&#x27;Such bodily reaction might conceivably help moderate the effects of psychological stress.&#x27;</span><br>		<br>		**should	应该<br>		<span class="hljs-string">&#x27;Those suffering from persistent nightmares should seek help from a therapist.&#x27;</span><br>		<br>	&gt; 情态动词表示推测<br>		<span class="hljs-string">&#x27;The details may be unknowables. [The details are unknowable.]&#x27;</span> *maybe [adv - 可能] may be 可能是<br>		<br>		情态动词 + <span class="hljs-keyword">do</span><br>		情态动词 + be doing<br>		情态动词 + have <span class="hljs-keyword">done</span> [推测过去]<br>		<br>		<span class="hljs-string">&#x27;the peculiar way of conducting the experiments may have led to misleading interpretation of what happened.&#x27;</span><br>		<span class="hljs-string">&#x27;... the community should be grasping the opportunity to raise its influence in the real world.&#x27;</span><br>		<br>		<br><span class="hljs-comment">## EX</span><br>	<span class="hljs-string">&#x27;Upcoming reforms might bring the price to a more reasonable level.&#x27;</span><br>	<span class="hljs-string">&#x27;Your outline should smoothly conduct you from one point to the next...&#x27;</span><br>	<br>	<br>------------------------------------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 语态</span><br>	&gt; 主动语态<br>		除了被动就是主动<br>	&gt; 被动语态<br>		be + <span class="hljs-keyword">done</span><br>		**两部分，三个步骤<br>		&gt; 被动与时态结合[重点]<br>		<span class="hljs-string">&quot;done 被动的动作&quot;</span> <span class="hljs-string">&quot;be 被动的时间 | 主语的单复数&quot;</span><br>		<span class="hljs-string">&#x27;ET: Unfortunately, these critics are forgotten. &#x27;</span> [加上by强调动作发出者]<br>		<br>		&gt; 被动+时态<br>			**被动中动词不变，变的是be[主动句子中变化动词形式]<br>			<br>			<span class="hljs-string">&#x27;ET: But the great universal of male mortality is being changed.&#x27;</span><br>			<span class="hljs-string">&#x27;Attempts have been made to control this inflation...&#x27;</span><br>			<br>		&gt; 被动+情态<br>        	**情态动词+be[原型]+<span class="hljs-keyword">done</span>[过去分词]<br>        	<span class="hljs-string">&#x27;In the internet age, at least in theory, this fraction can be much reduced.&#x27;</span> <br>			<br>[10. 真题]		<br><br><span class="hljs-comment">## 谓语动词的语态 - 练习</span><br>	<span class="hljs-string">&#x27;ET: A greate deal of attention is being paid today to the so-called digital divide...&#x27;</span><br>	<br>------------------------------------------------------------------------------------------------------------<br><span class="hljs-comment">## 简单句的核心变化之 --- 谓语动词的否定</span><br>	**实义动词变否定<br>		不能直接变<br>		&gt; <span class="hljs-keyword">do</span>/does/did + not + 动词原型<br>		<br>		<span class="hljs-string">&#x27;ET: They do not fund peer-reviewed research.&#x27;</span> | peer 同行、同僚<br>		<br>	**助动词和情态动词否定<br>		&gt; 直接变<br>		&gt; 助动词/情态动词 + not<br>		[be动词、情态动词、完成时态中的have等]<br>		<br>		<span class="hljs-string">&#x27;ET: American professors did not possess one.&#x27;</span><br>		<span class="hljs-string">&#x27;To be sure, the future is not all rosy.&#x27;</span> rosy --&gt; rose 美好<br>		<br>		<br>	**补充[谓语动词的强调]<br>		&gt; 类似变否词<br>		<span class="hljs-string">&#x27;ET: But science does provide us with the best available guide to the future...&#x27;</span><br>		<br>		<span class="hljs-string">&#x27;ET: The court did suggest that accepting favors in return for opening doors is &quot;distasteful&quot; and &quot;nasty.&quot;&#x27;</span><br>		<br>		<br><span class="hljs-comment">## 简单句谓语动词的变化 -- 考场攻略</span><br>	**三态一否<br>		&gt; 重点在时态<br>		&gt; 谓语动词的变化通常会同时出现 时态、情态、语态、否定的变化，但是永远都算一个整体[v]<br>		&gt; 应用：<br>			<span class="hljs-variable">$1</span>: 定位 <span class="hljs-string">&#x27;谓语动词&#x27;</span> 来判断句子中包含了几件事<br>			<br>			<span class="hljs-string">&#x27;ET: The same dramatic technological changes that have provided marketers with more communications choices have also increased the risk that passionate consumers will voice their opinions in quicker, more visible, and much more damaging ways.&#x27;</span><br>			 EX: 1-断开，找谓语动词：have provided/ have increased / will voice <br>			 <br>			<span class="hljs-variable">$2</span>: 定位谓语动词，准确找到主语<br>			<br>			<span class="hljs-string">&#x27;ET: ... national spending on social sciences and the humanities as a percentage of all research and development funds - including government, higher education, non-profit and corporate - varied from around 4% to 25%; ...&#x27;</span><br>			EX: varied; 破折号后表示引申说明，不用管。<br></code></pre></td></tr></table></figure>
-
-
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 主宾表</span><br>	**如何区分成分？以谓语为分割线，前为主语，后为宾语/表语<br>	&gt; 不用纠结于成分<br>	<br>	**什么可以做主语？<br>		&gt; 4种变化：<br>			* 名词/代词<br>			* doing<br>			* to <span class="hljs-keyword">do</span><br>			* 并列多个<br>			<br>			<span class="hljs-string">&#x27;非谓语动词，不做谓语的动词： #1 doing #2 done #3 to do&#x27;</span><br>			<br>		&gt; 同样的，上述四种也可以做宾语/表语<br>			* 形容词[B]<br>			* 介词短语[B]<br>			<br>			<span class="hljs-variable">$1</span>- doing作主语<br>			<span class="hljs-string">&#x27;ET: ... suffering is inevitable ...&#x27;</span><br>			<span class="hljs-string">&#x27;Making friends is extremely important to teenagers ...&#x27;</span><br>			<span class="hljs-string">&#x27;On the other hand, putting your faith in the wrong palce often carries a high price.&#x27;</span><br>			<br>			<span class="hljs-variable">$2</span>- doing作宾语[介宾/动宾]<br>			<span class="hljs-string">&#x27;ET: Americans stopped taking prosperity for granted.&#x27;</span> [taking ... <span class="hljs-keyword">for</span> granted  把……当作理所当然的]<br>			<span class="hljs-string">&#x27;ET: Thinking is essentially a process of making connections in the brain.&#x27;</span><br>			<br>			<br>			<span class="hljs-string">&#x27;眼见为实: To see is to believe.  || Seeing is believing.&#x27;</span> [前后一致]<br>			<br>			<span class="hljs-string">&#x27;anticipate 预测 / paradoxical 矛盾的&#x27;</span><br>			<span class="hljs-string">&#x27;trick 技巧&#x27;</span> [War 陆军 / Navy 海军]<br>			<br>			doing作主/宾/表[很少作表语]<br>			to <span class="hljs-keyword">do</span>作主/宾/表<br>			<br>			&gt; 并列多个主/宾/表<br>			<br>			<span class="hljs-string">&#x27;ET: But demanding too much of air travelers or providing too little security in return undermines public support for the process.&#x27;</span><br>			<br>[主、宾、表 - 课程OVER]			<br></code></pre></td></tr></table></figure>
-
-
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 主宾表练习</span><br><br>	**find n<br>	Getting the <span class="hljs-built_in">print</span> edition seven days a week costs nearly <span class="hljs-variable">$500</span> a year...<br>	<br>	It is fair to criticize and question the mechanism...<br>	<br>	Trail blazes, tire tracks, and other features can lead you to civilization.<br>	<br>	**find v/t<br>	But privacy is not the only angle <span class="hljs-keyword">in</span> this <span class="hljs-keyword">case</span> and not even the most important.<br>	<br>	<br>	<br><span class="hljs-comment">## 主宾表 - 攻略</span><br>	**难点：灵活多变<br>	<br>	<br>	<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="C2-简单句的拓展"><a href="#C2-简单句的拓展" class="headerlink" title="C2 简单句的拓展"></a>C2 简单句的拓展</h4><hr>
-<h5 id="词性角度的拓展"><a href="#词性角度的拓展" class="headerlink" title="词性角度的拓展"></a>词性角度的拓展</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 限定词</span><br>	&gt; 通常指的是限定名词<br>		* 冠词<br>		* 名词所有格<br>		* 数词/分数<br>		* 名词限定名词<br><br>	<span class="hljs-string">&#x27;ET: The roughly 20 million inhabitants of these nations looked hopefully to the future.&#x27;</span> &gt; inhabitants 居民<br>	<br>	<span class="hljs-string">&#x27;By the third generation, one third of Hispanic women are married to non-Hispanics, and 41 percent of Asian-American women are married to non-Asians.&#x27;</span><br>	<br>	<br>	<br><span class="hljs-comment">## 形容词、副词</span><br>	&gt; 基本的用法<br>		The angry boy shouted angrily.<br>		形容词修饰名词：<br>			**名词前/名词后 [定语]<br>			**间隔了一个系动词 [作表语]<br>			<span class="hljs-string">&#x27;ET: The idea seems promising, and Rosenberg is a perceptive observer.&#x27;</span> [perceptive 有洞察力的]<br>			<span class="hljs-string">&#x27;ET: Their thinking often had a traditional superstitious quality.&#x27;</span><br>			<br>		副词修饰动词、句子、其他的形容词/副词<br>			<span class="hljs-string">&#x27;... and the right mental workouts can significantly improve our basic cognitive functions.&#x27;</span> [workouts 锻炼]<br>            <span class="hljs-string">&#x27;mood&#x27;</span> 情绪<br>            <br>	&gt; 三种比较的级别<br>		**原级比较<br>			as + adj./adv.原型（比较的内容） + as + 比较的对象		<span class="hljs-string">&#x27;和……相比一样的……&#x27;</span><br>			<span class="hljs-string">&#x27;The goals of the prize-givers seem as scattered as the criticism.&#x27;</span><br>			<br>			not as .. as ..		<span class="hljs-string">&#x27;不如……&#x27;</span><br>            <br>        **比较级<br>        	两者之间比较<br>        	<span class="hljs-string">&#x27;... younger, healthier people can realize their potential.[realize 使……成真]&#x27;</span><br>		<br>			<span class="hljs-string">&#x27;Rich economies are also less dependent on oil than they were, and so less sensitive to swings in the oil price.&#x27;</span><br><br><br>		**最高级<br>			<br>		<br>		&gt; 练习<br>				<span class="hljs-string">&#x27;squeeze 挤压&#x27;</span> <br>		<br><span class="hljs-comment">## 介词短语[重点/难点]</span><br></code></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-<h5 id="成分角度的拓展"><a href="#成分角度的拓展" class="headerlink" title="成分角度的拓展"></a>成分角度的拓展</h5><h5 id="关于阅读能力的提高"><a href="#关于阅读能力的提高" class="headerlink" title="关于阅读能力的提高"></a>关于阅读能力的提高</h5><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 可以结合杂志等文章阅读，阅读时认真品味每一句话的结构</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-  </entry>
-  <entry>
     <title>912-恋练有词随机记录</title>
     <url>/2021/02/28/912-%E6%81%8B%E7%BB%83%E6%9C%89%E8%AF%8D%E9%9A%8F%E6%9C%BA%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<h4 id="重点梳理"><a href="#重点梳理" class="headerlink" title="重点梳理"></a>重点梳理</h4><hr>
@@ -54,7 +12,7 @@
 
 
 
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## Unit4</span><br>	<br>	&gt; concern<br>	<br>	&gt; level off		稳定<br>	&gt; on the level	真诚<br>	&gt; <span class="hljs-keyword">do</span> one<span class="hljs-string">&#x27;s level best	全力以赴</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; infer	推断</span><br><span class="hljs-string">	&gt; inferiority</span><br><span class="hljs-string">	&gt; superiority</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; deference		服从</span><br><span class="hljs-string">	&gt; defer to	</span><br><span class="hljs-string">	&gt; deduce	推理</span><br><span class="hljs-string">	&gt; induce	诱发</span><br><span class="hljs-string">	&gt; inducement	诱因</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; provided == suppose	假如，倘若</span><br><span class="hljs-string">	&gt; provision		条款</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; patchwork		碎片化的</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; indulgent		纵容，放纵，迁就</span><br><span class="hljs-string">	&gt; subsidy		抚恤金</span><br><span class="hljs-string">	&gt; subsidies		滋生/	breed</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; precisely		预测地</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&#x27;</span>Only when humanity began to get its food <span class="hljs-keyword">in</span> a more productive way was there time <span class="hljs-keyword">for</span> other things. <span class="hljs-string">&#x27;</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; agenda	日程</span><br><span class="hljs-string">	&gt; rationalization	合理</span><br><span class="hljs-string">	&gt; exploitation		剥削</span><br><span class="hljs-string">	&gt; justification		正名</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&#x27;</span>Besides professionalizing the professions by this separation, top American universities have professionalized the professor. <span class="hljs-string">&#x27;</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; acquisition		获得</span><br><span class="hljs-string">	&gt; prerequisite		先决条件</span><br><span class="hljs-string">	&gt; exclusive club	私人俱乐部</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; constitutionality	合宪性</span><br><span class="hljs-string">	&gt; desperate effort	孤注一掷</span><br><span class="hljs-string">	&gt; power plant		核电站</span><br><span class="hljs-string">	&gt; obscure			含糊不清的</span><br><span class="hljs-string">	&gt; Congress			国会</span><br><span class="hljs-string">	&gt; illuminate		阐述</span><br><span class="hljs-string">	</span><br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## Unit4</span><br>	<br>	&gt; concern<br>	<br>	&gt; level off		稳定<br>	&gt; on the level	真诚<br>	&gt; <span class="hljs-keyword">do</span> one<span class="hljs-string">&#x27;s level best	全力以赴</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; infer	推断</span><br><span class="hljs-string">	&gt; inferiority</span><br><span class="hljs-string">	&gt; superiority</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; deference		服从</span><br><span class="hljs-string">	&gt; defer to	</span><br><span class="hljs-string">	&gt; deduce	推理</span><br><span class="hljs-string">	&gt; induce	诱发</span><br><span class="hljs-string">	&gt; inducement	诱因</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; provided == suppose	假如，倘若</span><br><span class="hljs-string">	&gt; provision		条款</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; patchwork		碎片化的</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; indulgent		纵容，放纵，迁就</span><br><span class="hljs-string">	&gt; subsidy		抚恤金</span><br><span class="hljs-string">	&gt; subsidies		滋生/	breed</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; precisely		预测地</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&#x27;</span>Only when humanity began to get its food <span class="hljs-keyword">in</span> a more productive way was there time <span class="hljs-keyword">for</span> other things. <span class="hljs-string">&#x27;</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; agenda	日程</span><br><span class="hljs-string">	&gt; rationalization	合理</span><br><span class="hljs-string">	&gt; exploitation		剥削</span><br><span class="hljs-string">	&gt; justification		正名</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&#x27;</span>Besides professionalizing the professions by this separation, top American universities have professionalized the professor. <span class="hljs-string">&#x27;</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; acquisition		获得</span><br><span class="hljs-string">	&gt; prerequisite		先决条件</span><br><span class="hljs-string">	&gt; exclusive club	私人俱乐部</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; constitutionality	合宪性</span><br><span class="hljs-string">	&gt; desperate effort	孤注一掷</span><br><span class="hljs-string">	&gt; power plant		核电站</span><br><span class="hljs-string">	&gt; obscure			含糊不清的</span><br><span class="hljs-string">	&gt; Congress			国会</span><br><span class="hljs-string">	&gt; illuminate		阐述</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	</span><br><span class="hljs-string">[Unit5]</span><br><span class="hljs-string"></span><br><span class="hljs-string">	ob-op-of</span><br><span class="hljs-string">	&gt; arranged marriage: </span><br><span class="hljs-string">	&gt; infrastructure	basic building</span><br><span class="hljs-string">	&gt; be content with	:	happy for something</span><br><span class="hljs-string">	&gt; contention		argue peace</span><br><span class="hljs-string">	&gt; dispute			argue angry;	be in dispute 处于争吵当中</span><br><span class="hljs-string">	&gt; convention		大会</span><br><span class="hljs-string">	&gt; controversy		争议</span><br><span class="hljs-string">	&gt; discontent		不满</span><br><span class="hljs-string">	&gt; self-contented	自满的</span><br><span class="hljs-string">	&gt; trailer			预告片</span><br><span class="hljs-string">	&gt; contraction		通货紧缩</span><br><span class="hljs-string">	&gt; inflation			通货膨胀</span><br><span class="hljs-string">	&gt; immigration		|		emigrate</span><br><span class="hljs-string">	&gt; beyond			超过</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; potential</span><br><span class="hljs-string">	&gt; butcher	</span><br><span class="hljs-string">	&gt; biomass			所有生物</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; by contrast		相反地</span><br><span class="hljs-string">	&gt; feature			专栏</span><br><span class="hljs-string">	&gt; mortal			死亡</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; occupation		职位</span><br><span class="hljs-string">	&gt; segregation		隔离[美国-种族隔离]</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	&gt; give access to	获得</span><br><span class="hljs-string">	&gt; cloak				斗篷，覆盖</span><br><span class="hljs-string">	&gt; cape				披肩</span><br><span class="hljs-string">	&gt; Priscilla			--		Red cape</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	</span><br><span class="hljs-string">	</span><br></code></pre></td></tr></table></figure>
 
 
 
@@ -257,6 +215,19 @@
       </tags>
   </entry>
   <entry>
+    <title>B007-从0到1</title>
+    <url>/2021/01/19/B007-%E4%BB%8E0%E5%88%B01/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>深夜书刊</category>
+        <category>阅读笔记</category>
+      </categories>
+      <tags>
+        <tag>阅读笔记</tag>
+        <tag>从0到1</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>B008-格局</title>
     <url>/2021/01/23/B008-%E6%A0%BC%E5%B1%80/</url>
     <content><![CDATA[<h4 id="序幕"><a href="#序幕" class="headerlink" title="序幕"></a>序幕</h4><hr>
@@ -286,39 +257,6 @@
       </tags>
   </entry>
   <entry>
-    <title>B007-从0到1</title>
-    <url>/2021/01/19/B007-%E4%BB%8E0%E5%88%B01/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>深夜书刊</category>
-        <category>阅读笔记</category>
-      </categories>
-      <tags>
-        <tag>阅读笔记</tag>
-        <tag>从0到1</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>D001-22考研复盘一月</title>
-    <url>/2021/02/04/D001-22%E8%80%83%E7%A0%94%E5%A4%8D%E7%9B%98%E4%B8%80%E6%9C%88/</url>
-    <content><![CDATA[<h4 id="行文脉络"><a href="#行文脉络" class="headerlink" title="行文脉络"></a>行文脉络</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##1. 学习方案的踩坑与实践优化</span><br>	** 英语单词的记忆方案实践[艾宾浩斯 记忆曲线]<br>	** 数学确定选择张宇30讲<br>	<br><span class="hljs-comment">##2. 经验的总结[待书写]</span><br>	** B站前辈经验总结[夏鹏、陈同学、等等]<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="失守重点"><a href="#失守重点" class="headerlink" title="失守重点"></a>失守重点</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 游戏占据了一月的很大一部分有效时间 - 重点反思</span><br>	** 解决方案： 用课外知识学习取代游戏时间<br>	<br><span class="hljs-comment">## 未严格使用科学的方法来记忆单词</span><br>	** 重点放在复习记忆过的单词列表而不是在于新单词的记忆<br>	<br><span class="hljs-comment">## 读书笔记不够严谨</span><br>	** 开始了很多项阅读笔记，但是都是丢失后文[虎头蛇尾]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>考研复盘</category>
-      </categories>
-      <tags>
-        <tag>考研复盘</tag>
-        <tag>考研回顾整理第一卷</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>B009-曾国藩传</title>
     <url>/2021/01/24/B009-%E6%9B%BE%E5%9B%BD%E8%97%A9%E4%BC%A0/</url>
     <content><![CDATA[<h4 id="序"><a href="#序" class="headerlink" title="序"></a>序</h4><hr>
@@ -342,6 +280,26 @@
         <tag>深夜书刊</tag>
         <tag>读书笔记</tag>
         <tag>曾国藩传</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>D001-22考研复盘一月</title>
+    <url>/2021/02/04/D001-22%E8%80%83%E7%A0%94%E5%A4%8D%E7%9B%98%E4%B8%80%E6%9C%88/</url>
+    <content><![CDATA[<h4 id="行文脉络"><a href="#行文脉络" class="headerlink" title="行文脉络"></a>行文脉络</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##1. 学习方案的踩坑与实践优化</span><br>	** 英语单词的记忆方案实践[艾宾浩斯 记忆曲线]<br>	** 数学确定选择张宇30讲<br>	<br><span class="hljs-comment">##2. 经验的总结[待书写]</span><br>	** B站前辈经验总结[夏鹏、陈同学、等等]<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="失守重点"><a href="#失守重点" class="headerlink" title="失守重点"></a>失守重点</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 游戏占据了一月的很大一部分有效时间 - 重点反思</span><br>	** 解决方案： 用课外知识学习取代游戏时间<br>	<br><span class="hljs-comment">## 未严格使用科学的方法来记忆单词</span><br>	** 重点放在复习记忆过的单词列表而不是在于新单词的记忆<br>	<br><span class="hljs-comment">## 读书笔记不够严谨</span><br>	** 开始了很多项阅读笔记，但是都是丢失后文[虎头蛇尾]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>考研复盘</category>
+      </categories>
+      <tags>
+        <tag>考研复盘</tag>
+        <tag>考研回顾整理第一卷</tag>
       </tags>
   </entry>
   <entry>
@@ -420,23 +378,6 @@
       </tags>
   </entry>
   <entry>
-    <title>I004-全球积木竞赛</title>
-    <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
-    <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="积木竞赛"><a href="#积木竞赛" class="headerlink" title="积木竞赛"></a>积木竞赛</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 因为我从搭建积木的过程中，体会到了耐性的具体体现。同时在某一个步骤中观察也能够筛选识别出这人是怎样的人。</span><br><br><span class="hljs-comment">## 是否已经存在有组织性的大型积木搭建竞赛？[可能要耗时一周？或者一个月？或者一年？]</span><br><br><span class="hljs-comment">## 如果没有，那么我是否可以考虑自己创办一个？或者 利用我所掌握的专业知识，做一个虚拟的、VR版本或者其他版本的---在线积木搭建竞赛？</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>积木竞赛</tag>
-        <tag>耐心与毅力</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>I003-我学到了什么</title>
     <url>/2021/01/06/I003-%E6%88%91%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</url>
     <content><![CDATA[<h4 id="震惊的结论"><a href="#震惊的结论" class="headerlink" title="震惊的结论"></a>震惊的结论</h4><hr>
@@ -456,6 +397,23 @@
       <tags>
         <tag>深度思考</tag>
         <tag>我在做什么</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>I004-全球积木竞赛</title>
+    <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
+    <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="积木竞赛"><a href="#积木竞赛" class="headerlink" title="积木竞赛"></a>积木竞赛</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 因为我从搭建积木的过程中，体会到了耐性的具体体现。同时在某一个步骤中观察也能够筛选识别出这人是怎样的人。</span><br><br><span class="hljs-comment">## 是否已经存在有组织性的大型积木搭建竞赛？[可能要耗时一周？或者一个月？或者一年？]</span><br><br><span class="hljs-comment">## 如果没有，那么我是否可以考虑自己创办一个？或者 利用我所掌握的专业知识，做一个虚拟的、VR版本或者其他版本的---在线积木搭建竞赛？</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>积木竞赛</tag>
+        <tag>耐心与毅力</tag>
       </tags>
   </entry>
   <entry>
@@ -586,6 +544,18 @@
       </tags>
   </entry>
   <entry>
+    <title>L003-王阳明</title>
+    <url>/2021/01/19/L003-%E7%8E%8B%E9%98%B3%E6%98%8E/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>人物周刊</category>
+      </categories>
+      <tags>
+        <tag>人物周刊</tag>
+        <tag>王阳明</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>L002-亚里士多德</title>
     <url>/2021/01/19/L002-%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7/</url>
     <content><![CDATA[<h4 id="泛读篇"><a href="#泛读篇" class="headerlink" title="泛读篇"></a>泛读篇</h4><hr>
@@ -598,18 +568,6 @@
       <tags>
         <tag>人物周刊</tag>
         <tag>亚里士多德</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>L003-王阳明</title>
-    <url>/2021/01/19/L003-%E7%8E%8B%E9%98%B3%E6%98%8E/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>人物周刊</category>
-      </categories>
-      <tags>
-        <tag>人物周刊</tag>
-        <tag>王阳明</tag>
       </tags>
   </entry>
   <entry>
@@ -678,15 +636,15 @@
       </tags>
   </entry>
   <entry>
-    <title>L009-笛卡尔</title>
-    <url>/2021/01/19/L009-%E7%AC%9B%E5%8D%A1%E5%B0%94/</url>
+    <title>L008-尼采</title>
+    <url>/2021/01/19/L008-%E5%B0%BC%E9%87%87/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>人物周刊</category>
       </categories>
       <tags>
         <tag>人物周刊</tag>
-        <tag>笛卡尔</tag>
+        <tag>尼采</tag>
       </tags>
   </entry>
   <entry>
@@ -702,15 +660,15 @@
       </tags>
   </entry>
   <entry>
-    <title>L008-尼采</title>
-    <url>/2021/01/19/L008-%E5%B0%BC%E9%87%87/</url>
+    <title>L009-笛卡尔</title>
+    <url>/2021/01/19/L009-%E7%AC%9B%E5%8D%A1%E5%B0%94/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>人物周刊</category>
       </categories>
       <tags>
         <tag>人物周刊</tag>
-        <tag>尼采</tag>
+        <tag>笛卡尔</tag>
       </tags>
   </entry>
   <entry>
@@ -1074,6 +1032,21 @@
       </tags>
   </entry>
   <entry>
+    <title>R007-图像处理草稿</title>
+    <url>/2020/12/16/R007-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E8%8D%89%E7%A8%BF/</url>
+    <content><![CDATA[<h4 id=""><a href="#" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>www.mi.com<span class="hljs-regexp">/miwifimini 		/</span><span class="hljs-regexp">/ MI</span><br></code></pre></td></tr></table></figure>
+
+<h4 id="-1"><a href="#-1" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">VLC									<span class="hljs-regexp">//</span> QT视频处理方案<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>MI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R008-计算机组成原理考试范围</title>
     <url>/2020/12/16/R008-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E8%8C%83%E5%9B%B4/</url>
     <content><![CDATA[<hr>
@@ -1129,21 +1102,6 @@
       <tags>
         <tag>计算机组成原理</tag>
         <tag>考试内容</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R007-图像处理草稿</title>
-    <url>/2020/12/16/R007-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E8%8D%89%E7%A8%BF/</url>
-    <content><![CDATA[<h4 id=""><a href="#" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>www.mi.com<span class="hljs-regexp">/miwifimini 		/</span><span class="hljs-regexp">/ MI</span><br></code></pre></td></tr></table></figure>
-
-<h4 id="-1"><a href="#-1" class="headerlink" title=""></a></h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">VLC									<span class="hljs-regexp">//</span> QT视频处理方案<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>MI</tag>
       </tags>
   </entry>
   <entry>
@@ -1245,60 +1203,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R013-组成原理笔记</title>
-    <url>/2020/12/24/R013-%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h4 id="微程序控制器"><a href="#微程序控制器" class="headerlink" title="微程序控制器"></a>微程序控制器</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## CPU的基本功能</span><br>	**指令控制<br>	**操作控制<br>	**时间控制 --RAM<br>	**数据加工 --ALU<br>	<br><span class="hljs-comment">## 	CPU实际上就是一个复杂的有限状态机</span><br>	**设计CPU的过程就是确定他所具有的状态、对应的操作<br>	<br><span class="hljs-comment">## 控制器的组成</span><br>	**IR<br>	**指令译码器<br>	**硬布线的控制器<br>	**时序信号<br>		<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 计算机中的时序信号</span><br>	**指令周期<br>	**机器周期<br>	**时钟周期<br>	<br><span class="hljs-comment">## 公操作：取指令[大家共有的]</span><br>	--时钟周期，又叫节拍：CPU执行一个位操作命令使用的最小时间单位<br>	<br>	--机器周期，用于完成1次内存的读或写操作、或者一次ALU运算、或者一次总线传送<br>	<br>	--指令周期，包括多个机器周期<br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 系统结构和数据通道的设计</span><br>	**<br>	**<br>	**<br>	**<br><span class="hljs-comment">## </span><br>	**IR<br>	**MDR<br>	<br><span class="hljs-comment">## 三种指令的执行步骤</span><br>	**R<br>	**I<br>	**J<br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何产生部件控制信号</span><br>	**硬布线控制器<br>	**<br>		**状态图<br>		**状态转移表<br>		**化简状态表<br>		**画出电路图<br>	** 速度快<br>	** 更改难<br>------------------------------------------------------------------------------------------------------------<br>	<br>	**微程序控制器<br>	**<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 错误是成长的机会</span><br>	**R型指令从地址来自于rd  P313 -&gt; 写入寄存器<br>	**<br>	**<br>	<br><span class="hljs-comment">## 对每一个信号进行分类——</span><br>	**把每一个信号在什么时候发生列举出来[4-综合每个位操作控制信号的逻辑函数]<br>	**<br>	**<br></code></pre></td></tr></table></figure>
-
-
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs SH"><span class="hljs-comment">## 电磁学</span><br>	**电流<br>	<br><span class="hljs-comment">## manjago</span><br><br><br></code></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-  </entry>
-  <entry>
     <title>R014-马原分享笔记</title>
     <url>/2020/12/26/R014-%E9%A9%AC%E5%8E%9F%E5%88%86%E4%BA%AB%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h4 id="提纲"><a href="#提纲" class="headerlink" title="提纲"></a>提纲</h4><p>​        大家早上好，今天我分享的主体是垄断资本主义，根据国际管理，我们的分享会综合理论与实践相结合的方式，贯彻实践是检验真理的唯一标准重要思想，来分析垄断与垄断企业案例。</p>
@@ -1366,6 +1270,60 @@
     <title>R017-NULL</title>
     <url>/2020/12/27/R017-NULL/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>R013-组成原理笔记</title>
+    <url>/2020/12/24/R013-%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h4 id="微程序控制器"><a href="#微程序控制器" class="headerlink" title="微程序控制器"></a>微程序控制器</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## CPU的基本功能</span><br>	**指令控制<br>	**操作控制<br>	**时间控制 --RAM<br>	**数据加工 --ALU<br>	<br><span class="hljs-comment">## 	CPU实际上就是一个复杂的有限状态机</span><br>	**设计CPU的过程就是确定他所具有的状态、对应的操作<br>	<br><span class="hljs-comment">## 控制器的组成</span><br>	**IR<br>	**指令译码器<br>	**硬布线的控制器<br>	**时序信号<br>		<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 计算机中的时序信号</span><br>	**指令周期<br>	**机器周期<br>	**时钟周期<br>	<br><span class="hljs-comment">## 公操作：取指令[大家共有的]</span><br>	--时钟周期，又叫节拍：CPU执行一个位操作命令使用的最小时间单位<br>	<br>	--机器周期，用于完成1次内存的读或写操作、或者一次ALU运算、或者一次总线传送<br>	<br>	--指令周期，包括多个机器周期<br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 系统结构和数据通道的设计</span><br>	**<br>	**<br>	**<br>	**<br><span class="hljs-comment">## </span><br>	**IR<br>	**MDR<br>	<br><span class="hljs-comment">## 三种指令的执行步骤</span><br>	**R<br>	**I<br>	**J<br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何产生部件控制信号</span><br>	**硬布线控制器<br>	**<br>		**状态图<br>		**状态转移表<br>		**化简状态表<br>		**画出电路图<br>	** 速度快<br>	** 更改难<br>------------------------------------------------------------------------------------------------------------<br>	<br>	**微程序控制器<br>	**<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 错误是成长的机会</span><br>	**R型指令从地址来自于rd  P313 -&gt; 写入寄存器<br>	**<br>	**<br>	<br><span class="hljs-comment">## 对每一个信号进行分类——</span><br>	**把每一个信号在什么时候发生列举出来[4-综合每个位操作控制信号的逻辑函数]<br>	**<br>	**<br></code></pre></td></tr></table></figure>
+
+
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs SH"><span class="hljs-comment">## 电磁学</span><br>	**电流<br>	<br><span class="hljs-comment">## manjago</span><br><br><br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
@@ -2059,23 +2017,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R030-自动化发布文章更新</title>
-    <url>/2021/01/01/R030-%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8F%91%E5%B8%83%E6%96%87%E7%AB%A0%E6%9B%B4%E6%96%B0/</url>
-    <content><![CDATA[<h4 id="不断趋于完美"><a href="#不断趋于完美" class="headerlink" title="不断趋于完美"></a>不断趋于完美</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 加入新的功能</span><br>	**创建文章时只需要输入类型，不需要指定具体编号<br>	**能够自动提取参数并且加入到tag<br>	**能够自动追加整体经验值<br>	**能够自动判断段位增量<br></code></pre></td></tr></table></figure>
-
-<p><code>3.14159.........</code></p>
-<p>:fallen_leaf:</p>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>自动化构建</tag>
-        <tag>系统维护</tag>
-        <tag>商业化潜力</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R029-个人项目经验规划</title>
     <url>/2021/01/01/R029-%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE%E7%BB%8F%E9%AA%8C%E8%A7%84%E5%88%92/</url>
     <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
@@ -2143,6 +2084,23 @@
         <tag>912考研资料索引专刊</tag>
         <tag>个人项目规划参考</tag>
         <tag>大数据工程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R030-自动化发布文章更新</title>
+    <url>/2021/01/01/R030-%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8F%91%E5%B8%83%E6%96%87%E7%AB%A0%E6%9B%B4%E6%96%B0/</url>
+    <content><![CDATA[<h4 id="不断趋于完美"><a href="#不断趋于完美" class="headerlink" title="不断趋于完美"></a>不断趋于完美</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 加入新的功能</span><br>	**创建文章时只需要输入类型，不需要指定具体编号<br>	**能够自动提取参数并且加入到tag<br>	**能够自动追加整体经验值<br>	**能够自动判断段位增量<br></code></pre></td></tr></table></figure>
+
+<p><code>3.14159.........</code></p>
+<p>:fallen_leaf:</p>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>自动化构建</tag>
+        <tag>系统维护</tag>
+        <tag>商业化潜力</tag>
       </tags>
   </entry>
   <entry>
@@ -4126,6 +4084,71 @@
       </tags>
   </entry>
   <entry>
+    <title>Dec-18-QT</title>
+    <url>/2020/12/18/R043-Dec-18-QT/</url>
+    <content><![CDATA[<h4 id="项目分析"><a href="#项目分析" class="headerlink" title="项目分析"></a>项目分析</h4><blockquote>
+<p>第一次阅读作业要求，重点在于代码的规范性，界面设计的简洁优雅。难点在于视频处理，大部分时间应该会花在和视频处理相关的点。基本功能之前的几次作业已经实现，只要把前几次的代码优化、规范即可。界面图标需要自己设计</p>
+</blockquote>
+<hr>
+<h4 id="界面设计阶段"><a href="#界面设计阶段" class="headerlink" title="界面设计阶段"></a>界面设计阶段</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 双窗口设计，左侧预留视频处理侧边栏-上方预留图片处理界面<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## 基本功能介绍[图片]</span><br>	**缩放<span class="hljs-regexp">/翻转/</span>旋转<br>	**亮度<span class="hljs-regexp">/色温/</span>相框<br>	**均值滤波<br>	**灰度处理<span class="hljs-regexp">/边缘检测/</span>二值化<span class="hljs-regexp">/腐蚀/</span><br>	**I18N<br>	**关于<br>	**图片保存<span class="hljs-regexp">/另存/</span>撤销上一步<span class="hljs-regexp">/撤销全部/</span>关闭图片/退出软件<br>	**<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="此处留白"><a href="#此处留白" class="headerlink" title="此处留白"></a>此处留白</h4><figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">这里用于之后介绍项目<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<h4 id="开发记录"><a href="#开发记录" class="headerlink" title="开发记录"></a>开发记录</h4><figure class="highlight c++"><table><tr><td class="code"><pre><code class="hljs c++">&gt; $$<span class="hljs-number">1</span>-项目结构调整：<br>&gt; 为了更加清晰的展示代码，对项目的结构进行分类调整<br>&gt; *首先在项目根目录新建分类的文件夹，如：res, mainwindow, tools<br>&gt; *然后修改 `项目名.pro` 文件，添加引用目录<br>---------------------------------------------------------<br>INCLUDEPATH += ./ \<br>    dialog/ \<br>    tools/  \<br>    mainwindow/<br><br>SOURCES += \<br>    mainwindow/mainwindow.cpp  \<br>    main.cpp<br><br>HEADERS += \<br>        mainwindow/mainwindow.h    \<br><br>FORMS    += mainwindow/mainwindow.ui \<br>---------------------------------------------------------<br>    <br>&gt; $$<span class="hljs-number">1</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$2-设计制作图标<br>&gt; [LINK] - [https:&#x2F;&#x2F;www.iconfont.cn&#x2F;collections&#x2F;detail?spm&#x3D;a313x.7781069.1998910419.dc64b3430&amp;cid&#x3D;12507]<br>&gt; [生成ICON] - [http:&#x2F;&#x2F;www.ico51.cn&#x2F;]<br>&gt; $$2-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$3-UI实现<br>&gt; ERROR: 四月花了半小时添加图标，离奇的事件发生了：还剩最后一个图标没有添加-四月去下载，添加后 - 资源文件突然离奇失踪 - 之前的图标都还在<br>&gt; 在进行高危操作之前一定要备份！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>&gt; CNMLGB, WHAT THE FUCKING HELL WRONG WITH QT?<br><br>&gt; $$3-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **1-重写QGraphicsView实现图像的缩放<br>&gt;  **2-回顾槽函数、界面初始化设置：未打开图片时禁用所有按钮<br>&gt;  **3-设置tool bar: ui-&gt;toolBar_File-&gt;addAction(ui-&gt;doOpen);[toolBar_file是ui文件中toolbar的名字]<br>&gt;  **4-打开图片[]<br>在QGraphicsView的坐标系统中Scene的原点并是不hi顶点而是中心点，与窗口的坐标系统不一致。<br>[LINK] - [https://blog.csdn.net/fadbgfnbxb/article/details/88777835]<br><br><span class="hljs-comment">#  **因为已经重写了graphicview，此时鼠标缩放事件已经可以使用</span><br><br><span class="hljs-comment">#  **图片打开结束 注意图片的自适应和缩放[scale之前的qMax / qMin]</span><br><br><br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **5-关闭图片 - 添加按钮禁用状态<br>&gt;  **<br><span class="hljs-comment">#  **Q1: ConstImage错误</span><br>&gt;  **A1: BUG已修复 - - 缺少对ConstImage的赋值 -- 打开时<br>&gt;<br>&gt;  **6-灰度处理<br>&gt;  **7-边缘检测<br>&gt;  **8-亮度调节<br>&gt;  **9-冷暖色调<br>&gt;  **10-添加相框<br>&gt;  **11-二值图像<br>&gt;  **12-图片旋转<br>&gt;  **13-马赛克 	-- Mosaic FINISH<br>&gt;  **14-About对话框<br>&gt;  **15-Make donation<br>&gt;  **16-国际化<br>&gt;  **17-跨平台<br>&gt;  **18-视频处理<br>&gt;  **WELL DONE!<br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
+
+<hr>
+<blockquote>
+<p>待完成：</p>
+<p>**国际化</p>
+<p>**About对话窗口</p>
+</blockquote>
+<hr>
+<hr>
+<h4 id="视频处理阶段"><a href="#视频处理阶段" class="headerlink" title="视频处理阶段"></a>视频处理阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">**计划使用Opencv<br><span class="hljs-comment"># 进入安装编译阶段</span><br>&gt; [LINK] - https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows<br>&gt; [LINK] - <br>&gt; <span class="hljs-comment">##重装QT-5.9</span><br>&gt; <span class="hljs-comment">##临时移除git的mingw - [C:\Program Files\Git\mingw64\bin]</span><br>&gt; <span class="hljs-comment">##放弃使用Opencv</span><br>&gt; <span class="hljs-comment">##恢复git的mingw</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">##使用QMediaPlayer + QAbstractVideoSurface，获取视频的每一帧，转化成QImage处理</span><br>&gt; [link] - [https:<span class="hljs-regexp">//</span>blog.csdn.net<span class="hljs-regexp">/jxbinwd/</span>article<span class="hljs-regexp">/details/</span><span class="hljs-number">81034339</span>]<br>&gt; E:\shadowworkspace.github.io\source\_posts<br>&gt; [LINK] - https:<span class="hljs-regexp">//</span>download.qt.io<span class="hljs-regexp">/official_releases/</span>qt/<br><br><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##改VLC</span><br><span class="hljs-variable">$WDNMD</span><br>-------------------------------------------------------------------------<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##回归QMediaPlayer+QAbstractVideoSurface</span><br>-------------------------------------------------------------------------<br>&gt; LINK - [https://blog.csdn.net/jxbinwd/article/details/81034339]<br>&gt; 补充功能：<br>&gt; **13-马赛克 	-- Mosaic FINISH<br>&gt; **14-About对话框<br>&gt; **15-Make donation<br>&gt; **16-国际化<br>&gt; **17-跨平台 <br>		<span class="hljs-comment">## [LINK] - [https://www.jianshu.com/p/9cc55a2c4e87]</span><br>        <span class="hljs-comment">## https://blog.csdn.net/qq_38204986/article/details/86934603</span><br>        <span class="hljs-comment">## 会遇到一个 ld 重复定义的方法，是因为把文件copy出来到一个目录时，没有删除原来的文件夹，注意修改原文件中的引用还有生成的.pro文件配置</span><br>        <span class="hljs-comment">## glib --》 这个错误要复制后面丢失的库查询，根据提示 find出来，然后手动复制到对应目录    </span><br>&gt; **18-视频处理<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##视频处理问题：</span><br>	**处理速度太慢，考虑使用多线程<br>	**没有保存<br>	**<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>产品设计</tag>
+        <tag>QT</tag>
+        <tag>万法归一</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R044-信工计网复习提纲</title>
     <url>/2021/01/07/R044-%E4%BF%A1%E5%B7%A5%E8%AE%A1%E7%BD%91%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2/</url>
     <content><![CDATA[<p>计算机网络复习提纲</p>
@@ -4199,71 +4222,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Dec-18-QT</title>
-    <url>/2020/12/18/R043-Dec-18-QT/</url>
-    <content><![CDATA[<h4 id="项目分析"><a href="#项目分析" class="headerlink" title="项目分析"></a>项目分析</h4><blockquote>
-<p>第一次阅读作业要求，重点在于代码的规范性，界面设计的简洁优雅。难点在于视频处理，大部分时间应该会花在和视频处理相关的点。基本功能之前的几次作业已经实现，只要把前几次的代码优化、规范即可。界面图标需要自己设计</p>
-</blockquote>
-<hr>
-<h4 id="界面设计阶段"><a href="#界面设计阶段" class="headerlink" title="界面设计阶段"></a>界面设计阶段</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 双窗口设计，左侧预留视频处理侧边栏-上方预留图片处理界面<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">## 基本功能介绍[图片]</span><br>	**缩放<span class="hljs-regexp">/翻转/</span>旋转<br>	**亮度<span class="hljs-regexp">/色温/</span>相框<br>	**均值滤波<br>	**灰度处理<span class="hljs-regexp">/边缘检测/</span>二值化<span class="hljs-regexp">/腐蚀/</span><br>	**I18N<br>	**关于<br>	**图片保存<span class="hljs-regexp">/另存/</span>撤销上一步<span class="hljs-regexp">/撤销全部/</span>关闭图片/退出软件<br>	**<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="此处留白"><a href="#此处留白" class="headerlink" title="此处留白"></a>此处留白</h4><figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">这里用于之后介绍项目<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-<h4 id="开发记录"><a href="#开发记录" class="headerlink" title="开发记录"></a>开发记录</h4><figure class="highlight c++"><table><tr><td class="code"><pre><code class="hljs c++">&gt; $$<span class="hljs-number">1</span>-项目结构调整：<br>&gt; 为了更加清晰的展示代码，对项目的结构进行分类调整<br>&gt; *首先在项目根目录新建分类的文件夹，如：res, mainwindow, tools<br>&gt; *然后修改 `项目名.pro` 文件，添加引用目录<br>---------------------------------------------------------<br>INCLUDEPATH += ./ \<br>    dialog/ \<br>    tools/  \<br>    mainwindow/<br><br>SOURCES += \<br>    mainwindow/mainwindow.cpp  \<br>    main.cpp<br><br>HEADERS += \<br>        mainwindow/mainwindow.h    \<br><br>FORMS    += mainwindow/mainwindow.ui \<br>---------------------------------------------------------<br>    <br>&gt; $$<span class="hljs-number">1</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$2-设计制作图标<br>&gt; [LINK] - [https:&#x2F;&#x2F;www.iconfont.cn&#x2F;collections&#x2F;detail?spm&#x3D;a313x.7781069.1998910419.dc64b3430&amp;cid&#x3D;12507]<br>&gt; [生成ICON] - [http:&#x2F;&#x2F;www.ico51.cn&#x2F;]<br>&gt; $$2-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&gt; $$3-UI实现<br>&gt; ERROR: 四月花了半小时添加图标，离奇的事件发生了：还剩最后一个图标没有添加-四月去下载，添加后 - 资源文件突然离奇失踪 - 之前的图标都还在<br>&gt; 在进行高危操作之前一定要备份！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>&gt; CNMLGB, WHAT THE FUCKING HELL WRONG WITH QT?<br><br>&gt; $$3-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **1-重写QGraphicsView实现图像的缩放<br>&gt;  **2-回顾槽函数、界面初始化设置：未打开图片时禁用所有按钮<br>&gt;  **3-设置tool bar: ui-&gt;toolBar_File-&gt;addAction(ui-&gt;doOpen);[toolBar_file是ui文件中toolbar的名字]<br>&gt;  **4-打开图片[]<br>在QGraphicsView的坐标系统中Scene的原点并是不hi顶点而是中心点，与窗口的坐标系统不一致。<br>[LINK] - [https://blog.csdn.net/fadbgfnbxb/article/details/88777835]<br><br><span class="hljs-comment">#  **因为已经重写了graphicview，此时鼠标缩放事件已经可以使用</span><br><br><span class="hljs-comment">#  **图片打开结束 注意图片的自适应和缩放[scale之前的qMax / qMin]</span><br><br><br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">&gt; $<span class="hljs-variable">$4</span>-功能实现<br>--------------------------------------------------------<br>&gt;  **5-关闭图片 - 添加按钮禁用状态<br>&gt;  **<br><span class="hljs-comment">#  **Q1: ConstImage错误</span><br>&gt;  **A1: BUG已修复 - - 缺少对ConstImage的赋值 -- 打开时<br>&gt;<br>&gt;  **6-灰度处理<br>&gt;  **7-边缘检测<br>&gt;  **8-亮度调节<br>&gt;  **9-冷暖色调<br>&gt;  **10-添加相框<br>&gt;  **11-二值图像<br>&gt;  **12-图片旋转<br>&gt;  **13-马赛克 	-- Mosaic FINISH<br>&gt;  **14-About对话框<br>&gt;  **15-Make donation<br>&gt;  **16-国际化<br>&gt;  **17-跨平台<br>&gt;  **18-视频处理<br>&gt;  **WELL DONE!<br>--------------------------------------------------------<br>&gt; $<span class="hljs-variable">$4</span>-END<br></code></pre></td></tr></table></figure>
-
-<hr>
-<blockquote>
-<p>待完成：</p>
-<p>**国际化</p>
-<p>**About对话窗口</p>
-</blockquote>
-<hr>
-<hr>
-<h4 id="视频处理阶段"><a href="#视频处理阶段" class="headerlink" title="视频处理阶段"></a>视频处理阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">**计划使用Opencv<br><span class="hljs-comment"># 进入安装编译阶段</span><br>&gt; [LINK] - https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows<br>&gt; [LINK] - <br>&gt; <span class="hljs-comment">##重装QT-5.9</span><br>&gt; <span class="hljs-comment">##临时移除git的mingw - [C:\Program Files\Git\mingw64\bin]</span><br>&gt; <span class="hljs-comment">##放弃使用Opencv</span><br>&gt; <span class="hljs-comment">##恢复git的mingw</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk"><span class="hljs-comment">##使用QMediaPlayer + QAbstractVideoSurface，获取视频的每一帧，转化成QImage处理</span><br>&gt; [link] - [https:<span class="hljs-regexp">//</span>blog.csdn.net<span class="hljs-regexp">/jxbinwd/</span>article<span class="hljs-regexp">/details/</span><span class="hljs-number">81034339</span>]<br>&gt; E:\shadowworkspace.github.io\source\_posts<br>&gt; [LINK] - https:<span class="hljs-regexp">//</span>download.qt.io<span class="hljs-regexp">/official_releases/</span>qt/<br><br><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##改VLC</span><br><span class="hljs-variable">$WDNMD</span><br>-------------------------------------------------------------------------<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>&gt;<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##回归QMediaPlayer+QAbstractVideoSurface</span><br>-------------------------------------------------------------------------<br>&gt; LINK - [https://blog.csdn.net/jxbinwd/article/details/81034339]<br>&gt; 补充功能：<br>&gt; **13-马赛克 	-- Mosaic FINISH<br>&gt; **14-About对话框<br>&gt; **15-Make donation<br>&gt; **16-国际化<br>&gt; **17-跨平台 <br>		<span class="hljs-comment">## [LINK] - [https://www.jianshu.com/p/9cc55a2c4e87]</span><br>        <span class="hljs-comment">## https://blog.csdn.net/qq_38204986/article/details/86934603</span><br>        <span class="hljs-comment">## 会遇到一个 ld 重复定义的方法，是因为把文件copy出来到一个目录时，没有删除原来的文件夹，注意修改原文件中的引用还有生成的.pro文件配置</span><br>        <span class="hljs-comment">## glib --》 这个错误要复制后面丢失的库查询，根据提示 find出来，然后手动复制到对应目录    </span><br>&gt; **18-视频处理<br>-------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##视频处理问题：</span><br>	**处理速度太慢，考虑使用多线程<br>	**没有保存<br>	**<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>产品设计</tag>
-        <tag>QT</tag>
-        <tag>万法归一</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R045-Visio绘制流程图</title>
     <url>/2021/01/07/R045-Visio%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B%E5%9B%BE/</url>
     <content><![CDATA[<h4 id="流程图绘制神器"><a href="#流程图绘制神器" class="headerlink" title="流程图绘制神器"></a>流程图绘制神器</h4><blockquote>
@@ -4324,18 +4282,6 @@
       <tags>
         <tag>单词等级</tag>
         <tag>经验管理系统</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R051-应试的规律</title>
-    <url>/2021/01/09/R051-%E5%BA%94%E8%AF%95%E7%9A%84%E8%A7%84%E5%BE%8B/</url>
-    <content><![CDATA[<h4 id="愚钝的重复"><a href="#愚钝的重复" class="headerlink" title="愚钝的重复"></a>愚钝的重复</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么考试考了一次又一次，却仍然不知道总结反思？</span><br>	**从学期开始，就有一件事是确定了的，那就是这门课程要考试，那么为什么不在学期的一开始就为了要考试的知识点做好准备[寻找模拟题、试卷、教材]<br>	<br><span class="hljs-comment">## 	</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>考试经历</tag>
-        <tag>学习总结</tag>
       </tags>
   </entry>
   <entry>
@@ -4603,6 +4549,18 @@
       <tags>
         <tag>英语单词</tag>
         <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R051-应试的规律</title>
+    <url>/2021/01/09/R051-%E5%BA%94%E8%AF%95%E7%9A%84%E8%A7%84%E5%BE%8B/</url>
+    <content><![CDATA[<h4 id="愚钝的重复"><a href="#愚钝的重复" class="headerlink" title="愚钝的重复"></a>愚钝的重复</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么考试考了一次又一次，却仍然不知道总结反思？</span><br>	**从学期开始，就有一件事是确定了的，那就是这门课程要考试，那么为什么不在学期的一开始就为了要考试的知识点做好准备[寻找模拟题、试卷、教材]<br>	<br><span class="hljs-comment">## 	</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>考试经历</tag>
+        <tag>学习总结</tag>
       </tags>
   </entry>
   <entry>
@@ -5482,18 +5440,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R060-最好的学习方法是教</title>
-    <url>/2021/01/14/R060-%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E6%98%AF%E6%95%99/</url>
-    <content><![CDATA[<h4 id="学习之道"><a href="#学习之道" class="headerlink" title="学习之道"></a>学习之道</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 教才是最好的学</span><br>	**只有在教的过程中才能最深刻的领悟学习<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>其上为教</tag>
-        <tag>学习之道</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R059-考研单词L10</title>
     <url>/2021/01/13/R059-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL10/</url>
     <content><![CDATA[<h4 id="就算是死亡也无法打败我"><a href="#就算是死亡也无法打败我" class="headerlink" title="就算是死亡也无法打败我"></a>就算是死亡也无法打败我</h4><hr>
@@ -5761,6 +5707,18 @@
       <tags>
         <tag>英语单词</tag>
         <tag>考研英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R060-最好的学习方法是教</title>
+    <url>/2021/01/14/R060-%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E6%98%AF%E6%95%99/</url>
+    <content><![CDATA[<h4 id="学习之道"><a href="#学习之道" class="headerlink" title="学习之道"></a>学习之道</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 教才是最好的学</span><br>	**只有在教的过程中才能最深刻的领悟学习<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>其上为教</tag>
+        <tag>学习之道</tag>
       </tags>
   </entry>
   <entry>
@@ -6331,6 +6289,276 @@
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何理解 “要用改革开放的眼光看待改革开放”？</span><br>	如何看待改革开放，怎样推进改革开放？这是新时代改革开放再出发必须回答的一个基本问题。<br>　　“要掌握辩证唯物主义和历史唯物主义的方法论，以改革开放的眼光看待改革开放，充分认识新形势下改革开放的时代性、体系性、全局性问题，在更高起点、更高层次、更高目标上推进改革开放。”习近平总书记在广东考察时明确提出的这一新论断新要求，对于我们更充分、更深刻地认识和把握改革开放，更加坚定、更加自觉地推进改革开放，具有十分重要的意义。<br>　　唯物辩证法是认识世界和改造世界的根本方法。40年众志成城，40年砥砺奋进，40年春风化雨。改革开放之所以极大解放和发展了中国社会生产力，一个重要原因就在于，我们始终坚持辩证唯物主义和历史唯物主义的方法论，以此正确把握我们的最大国情、最大实际，深刻认识世情国情党情，坚定不移把改革开放推向前进，让中国特色社会主义展现出强大生命力。40年来，我们既“摸着石头过河”又加强顶层设计，不断研究新情况、解决新问题、总结新经验；我们坚持解放思想、实事求是，实现解放思想和改革开放相互激荡、观念创新和实践探索相互促进；我们勇于自我革命、自我革新，不断革除阻碍发展的体制机制弊端。特别是党的十八大以来，从认识论、方法论到价值论，从总目标、大方向到动力源，正是以改革认识论和方法论的不断创新为支撑，一系列重大改革开放举措陆续出台，解决了许多长期想解决而没有解决的难题，办成了许多过去想办而没有办成的大事，推动中国特色社会主义进入新时代。<br>　　以改革开放的眼光看待改革开放，就要充分认识新形势下改革开放的时代性、体系性、全局性问题。40年改革开放给人们提供了许多弥足珍贵的启示，其中重要的一条就是，一个国家、一个民族要振兴，就必须在历史前进的逻辑中前进、在时代发展的潮流中发展。习近平总书记明确指出，“进入新时代，国际国内形势发生广泛而深刻的变化，改革发展面临着新形势新任务新挑战”。从改革看，我们推进改革的复杂程度、敏感程度、艰巨程度不亚于40年前；从开放看，单边主义、保护主义愈演愈烈，开放还是封闭，前进还是后退，人类面临着新的重大抉择。唯有准确把握我国不同发展阶段的新变化新特点，积极应对世界大发展大变革大调整带来的新挑战新问题，勇于变革、勇于创新，永不僵化、永不停滞，才能以新作为开创新局面，让改革开放始终成为推动中国发展进步、为人类作出新贡献的动力源泉。<br>　　以改革开放的眼光看待改革开放，就要在更高起点、更高层次、更高目标上推进改革开放。改革往往都是从易到难。进入攻坚期、深水区，最重要的是迎难而上、攻坚克难。党的十八大以来，以习近平同志为核心的党中央坚定不移全面深化改革，敢于向顽瘴痼疾开刀，勇于突破利益固化藩篱，落实新发展理念，建设现代化经济体系，推动形成了更高层次改革开放新格局。在这次考察中，从强调“深化改革开放、推动经济高质量发展”，到要求“把创新发展主动权牢牢掌握在自己手中”，再到提出“认真总结改革开放40年成功经验，提升改革开放质量和水平”，习近平总书记的一系列重要论断，充分展现了我们党在新的历史起点上把改革开放不断推向深入的坚定意志。<br>　　改革开放只有进行时没有完成时。40年来，从农村到城市，从经济体制改革到全面深化改革，中国人民用双手书写了国家和民族发展的壮丽史诗。在40年的时间节点上瞻望未来，以改革开放的眼光看待改革开放，我们一定能让改革开放始终契合历史逻辑、顺应时代潮流，为中国的发展注入不竭动力。<br></code></pre></td></tr></table></figure>
 
 ]]></content>
+  </entry>
+  <entry>
+    <title>R064-考研单词L13</title>
+    <url>/2021/01/16/R064-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL13/</url>
+    <content><![CDATA[<h4 id="苦难是屈辱还是财富"><a href="#苦难是屈辱还是财富" class="headerlink" title="苦难是屈辱还是财富"></a>苦难是屈辱还是财富</h4><blockquote>
+<p>当苦难战胜了你，它便成了屈辱；当你战胜了苦难，它便成了财富。</p>
+</blockquote>
+<hr>
+<table>
+<thead>
+<tr>
+<th>degenerate</th>
+<th></th>
+<th>literally</th>
+<th></th>
+<th>rage</th>
+<th></th>
+<th>composition</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>imitation</td>
+<td></td>
+<td>downward</td>
+<td></td>
+<td>select</td>
+<td></td>
+<td>emotion</td>
+<td></td>
+</tr>
+<tr>
+<td>persevere</td>
+<td></td>
+<td>frontier</td>
+<td></td>
+<td>obtain</td>
+<td></td>
+<td>hose</td>
+<td></td>
+</tr>
+<tr>
+<td>import</td>
+<td></td>
+<td>dusk</td>
+<td></td>
+<td>argue</td>
+<td></td>
+<td>deadline</td>
+<td></td>
+</tr>
+<tr>
+<td>instance</td>
+<td></td>
+<td>serial</td>
+<td></td>
+<td>troop</td>
+<td></td>
+<td>stimulate</td>
+<td></td>
+</tr>
+<tr>
+<td>affection</td>
+<td></td>
+<td>reward</td>
+<td></td>
+<td>notwithstanding</td>
+<td>competent</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>probable</td>
+<td></td>
+<td>garment</td>
+<td></td>
+<td>oak</td>
+<td></td>
+<td>republican</td>
+<td></td>
+</tr>
+<tr>
+<td>compromise</td>
+<td></td>
+<td>grope</td>
+<td></td>
+<td>sufficient</td>
+<td></td>
+<td>excess</td>
+<td></td>
+</tr>
+<tr>
+<td>export</td>
+<td></td>
+<td>candy</td>
+<td></td>
+<td>trim</td>
+<td></td>
+<td>collaborate</td>
+<td></td>
+</tr>
+<tr>
+<td>invaluable</td>
+<td></td>
+<td>thereafter</td>
+<td></td>
+<td>rebel</td>
+<td></td>
+<td>cluster</td>
+<td></td>
+</tr>
+<tr>
+<td>organic</td>
+<td></td>
+<td>knot</td>
+<td></td>
+<td>slum</td>
+<td></td>
+<td>stain</td>
+<td></td>
+</tr>
+<tr>
+<td>underlying</td>
+<td></td>
+<td>memo</td>
+<td></td>
+<td>defy</td>
+<td></td>
+<td>attract</td>
+<td></td>
+</tr>
+<tr>
+<td>maiden</td>
+<td></td>
+<td>interface</td>
+<td></td>
+<td>asset</td>
+<td></td>
+<td>reduction</td>
+<td></td>
+</tr>
+<tr>
+<td>gasoline</td>
+<td></td>
+<td>cordial</td>
+<td></td>
+<td>mask</td>
+<td></td>
+<td>satire</td>
+<td></td>
+</tr>
+<tr>
+<td>auction</td>
+<td></td>
+<td>stale</td>
+<td></td>
+<td>conference</td>
+<td></td>
+<td>sew</td>
+<td></td>
+</tr>
+<tr>
+<td>state</td>
+<td></td>
+<td>brim</td>
+<td></td>
+<td>powder</td>
+<td></td>
+<td>suspicious</td>
+<td></td>
+</tr>
+<tr>
+<td>Bible</td>
+<td></td>
+<td>portable</td>
+<td></td>
+<td>proclaim</td>
+<td></td>
+<td>surgeon</td>
+<td></td>
+</tr>
+<tr>
+<td>equivalent</td>
+<td></td>
+<td>region</td>
+<td></td>
+<td>setting</td>
+<td></td>
+<td>static</td>
+<td></td>
+</tr>
+<tr>
+<td>pretext</td>
+<td></td>
+<td>bubble</td>
+<td></td>
+<td>decorate</td>
+<td></td>
+<td>telescope</td>
+<td></td>
+</tr>
+<tr>
+<td>chess</td>
+<td></td>
+<td>certificate</td>
+<td></td>
+<td>supersonic</td>
+<td></td>
+<td>mushroom</td>
+<td></td>
+</tr>
+<tr>
+<td>eligible</td>
+<td></td>
+<td>imply</td>
+<td></td>
+<td>earnest</td>
+<td></td>
+<td>ego</td>
+<td></td>
+</tr>
+<tr>
+<td>liquor</td>
+<td></td>
+<td>hurricane</td>
+<td></td>
+<td>meditate</td>
+<td></td>
+<td>temper</td>
+<td></td>
+</tr>
+<tr>
+<td>hell</td>
+<td></td>
+<td>spontaneous</td>
+<td></td>
+<td>damp</td>
+<td></td>
+<td>ebb</td>
+<td></td>
+</tr>
+<tr>
+<td>lid</td>
+<td></td>
+<td>title</td>
+<td></td>
+<td>subsequent</td>
+<td></td>
+<td>bow</td>
+<td></td>
+</tr>
+<tr>
+<td>characteristic</td>
+<td></td>
+<td>dilemma</td>
+<td></td>
+<td>attractive</td>
+<td></td>
+<td>correspondent</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
+      </tags>
   </entry>
   <entry>
     <title>R064-期末讲座与分享</title>
@@ -7476,276 +7704,6 @@
       <tags>
         <tag>词汇爆破</tag>
         <tag>第二次测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R064-考研单词L13</title>
-    <url>/2021/01/16/R064-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL13/</url>
-    <content><![CDATA[<h4 id="苦难是屈辱还是财富"><a href="#苦难是屈辱还是财富" class="headerlink" title="苦难是屈辱还是财富"></a>苦难是屈辱还是财富</h4><blockquote>
-<p>当苦难战胜了你，它便成了屈辱；当你战胜了苦难，它便成了财富。</p>
-</blockquote>
-<hr>
-<table>
-<thead>
-<tr>
-<th>degenerate</th>
-<th></th>
-<th>literally</th>
-<th></th>
-<th>rage</th>
-<th></th>
-<th>composition</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>imitation</td>
-<td></td>
-<td>downward</td>
-<td></td>
-<td>select</td>
-<td></td>
-<td>emotion</td>
-<td></td>
-</tr>
-<tr>
-<td>persevere</td>
-<td></td>
-<td>frontier</td>
-<td></td>
-<td>obtain</td>
-<td></td>
-<td>hose</td>
-<td></td>
-</tr>
-<tr>
-<td>import</td>
-<td></td>
-<td>dusk</td>
-<td></td>
-<td>argue</td>
-<td></td>
-<td>deadline</td>
-<td></td>
-</tr>
-<tr>
-<td>instance</td>
-<td></td>
-<td>serial</td>
-<td></td>
-<td>troop</td>
-<td></td>
-<td>stimulate</td>
-<td></td>
-</tr>
-<tr>
-<td>affection</td>
-<td></td>
-<td>reward</td>
-<td></td>
-<td>notwithstanding</td>
-<td>competent</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>probable</td>
-<td></td>
-<td>garment</td>
-<td></td>
-<td>oak</td>
-<td></td>
-<td>republican</td>
-<td></td>
-</tr>
-<tr>
-<td>compromise</td>
-<td></td>
-<td>grope</td>
-<td></td>
-<td>sufficient</td>
-<td></td>
-<td>excess</td>
-<td></td>
-</tr>
-<tr>
-<td>export</td>
-<td></td>
-<td>candy</td>
-<td></td>
-<td>trim</td>
-<td></td>
-<td>collaborate</td>
-<td></td>
-</tr>
-<tr>
-<td>invaluable</td>
-<td></td>
-<td>thereafter</td>
-<td></td>
-<td>rebel</td>
-<td></td>
-<td>cluster</td>
-<td></td>
-</tr>
-<tr>
-<td>organic</td>
-<td></td>
-<td>knot</td>
-<td></td>
-<td>slum</td>
-<td></td>
-<td>stain</td>
-<td></td>
-</tr>
-<tr>
-<td>underlying</td>
-<td></td>
-<td>memo</td>
-<td></td>
-<td>defy</td>
-<td></td>
-<td>attract</td>
-<td></td>
-</tr>
-<tr>
-<td>maiden</td>
-<td></td>
-<td>interface</td>
-<td></td>
-<td>asset</td>
-<td></td>
-<td>reduction</td>
-<td></td>
-</tr>
-<tr>
-<td>gasoline</td>
-<td></td>
-<td>cordial</td>
-<td></td>
-<td>mask</td>
-<td></td>
-<td>satire</td>
-<td></td>
-</tr>
-<tr>
-<td>auction</td>
-<td></td>
-<td>stale</td>
-<td></td>
-<td>conference</td>
-<td></td>
-<td>sew</td>
-<td></td>
-</tr>
-<tr>
-<td>state</td>
-<td></td>
-<td>brim</td>
-<td></td>
-<td>powder</td>
-<td></td>
-<td>suspicious</td>
-<td></td>
-</tr>
-<tr>
-<td>Bible</td>
-<td></td>
-<td>portable</td>
-<td></td>
-<td>proclaim</td>
-<td></td>
-<td>surgeon</td>
-<td></td>
-</tr>
-<tr>
-<td>equivalent</td>
-<td></td>
-<td>region</td>
-<td></td>
-<td>setting</td>
-<td></td>
-<td>static</td>
-<td></td>
-</tr>
-<tr>
-<td>pretext</td>
-<td></td>
-<td>bubble</td>
-<td></td>
-<td>decorate</td>
-<td></td>
-<td>telescope</td>
-<td></td>
-</tr>
-<tr>
-<td>chess</td>
-<td></td>
-<td>certificate</td>
-<td></td>
-<td>supersonic</td>
-<td></td>
-<td>mushroom</td>
-<td></td>
-</tr>
-<tr>
-<td>eligible</td>
-<td></td>
-<td>imply</td>
-<td></td>
-<td>earnest</td>
-<td></td>
-<td>ego</td>
-<td></td>
-</tr>
-<tr>
-<td>liquor</td>
-<td></td>
-<td>hurricane</td>
-<td></td>
-<td>meditate</td>
-<td></td>
-<td>temper</td>
-<td></td>
-</tr>
-<tr>
-<td>hell</td>
-<td></td>
-<td>spontaneous</td>
-<td></td>
-<td>damp</td>
-<td></td>
-<td>ebb</td>
-<td></td>
-</tr>
-<tr>
-<td>lid</td>
-<td></td>
-<td>title</td>
-<td></td>
-<td>subsequent</td>
-<td></td>
-<td>bow</td>
-<td></td>
-</tr>
-<tr>
-<td>characteristic</td>
-<td></td>
-<td>dilemma</td>
-<td></td>
-<td>attractive</td>
-<td></td>
-<td>correspondent</td>
-<td></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>英语单词</tag>
-        <tag>考研英语</tag>
       </tags>
   </entry>
   <entry>
@@ -8990,18 +8948,6 @@
       </tags>
   </entry>
   <entry>
-    <title>S001-牧师与出租车司机</title>
-    <url>/2021/01/18/S001-%E7%89%A7%E5%B8%88%E4%B8%8E%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA/</url>
-    <content><![CDATA[<h4 id="司机与牧师"><a href="#司机与牧师" class="headerlink" title="司机与牧师"></a>司机与牧师</h4><hr>
-<p>​        一位牧师礼拜天要去讲道，出门打了一辆出租车。牧师刚上车要去的地点还没说完，司机就一脚油门冲了出去，牧师吓了一跳，只见司机开的车速越来越高，一路横冲直撞，又是逆行又是闯红灯，牧师劝说司机，司机反而开的更快了。于是牧师只好不停的向上帝祷告，然而，悲剧终于还是发生了……在一个十字路口这辆可怜的出租车被大卡车迎面撞上。</p>
-<p>​        司机和牧师都上了天堂，到了天堂，一位天使带着他们去领取自己的奖赏，牧师被带到一个破烂不堪的小木屋前。“这是你的房子。”天使说，然后又把司机带到旁边的一栋豪华别墅前，“这是你的房子。”天使对司机说。牧师感到非常惊讶，就问天使：“为什么我辛辛苦苦半生传道，得到的回报却不如这个司机呢？”  天使回答说：“也许是这样，但是你主持礼拜时人们都在睡觉，而这个司机在为人们服务时，人人都在向上帝祈祷。”</p>
-]]></content>
-      <tags>
-        <tag>人生故事</tag>
-        <tag>牧师与司机</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>T001-专业书单</title>
     <url>/2021/01/06/T001-%E4%B8%93%E4%B8%9A%E4%B9%A6%E5%8D%95/</url>
     <content><![CDATA[<h4 id="良心出品"><a href="#良心出品" class="headerlink" title="良心出品"></a>良心出品</h4><hr>
@@ -9014,6 +8960,34 @@
       <tags>
         <tag>计科专业书单</tag>
         <tag>书籍下载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>S001-牧师与出租车司机</title>
+    <url>/2021/01/18/S001-%E7%89%A7%E5%B8%88%E4%B8%8E%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA/</url>
+    <content><![CDATA[<h4 id="司机与牧师"><a href="#司机与牧师" class="headerlink" title="司机与牧师"></a>司机与牧师</h4><hr>
+<p>​        一位牧师礼拜天要去讲道，出门打了一辆出租车。牧师刚上车要去的地点还没说完，司机就一脚油门冲了出去，牧师吓了一跳，只见司机开的车速越来越高，一路横冲直撞，又是逆行又是闯红灯，牧师劝说司机，司机反而开的更快了。于是牧师只好不停的向上帝祷告，然而，悲剧终于还是发生了……在一个十字路口这辆可怜的出租车被大卡车迎面撞上。</p>
+<p>​        司机和牧师都上了天堂，到了天堂，一位天使带着他们去领取自己的奖赏，牧师被带到一个破烂不堪的小木屋前。“这是你的房子。”天使说，然后又把司机带到旁边的一栋豪华别墅前，“这是你的房子。”天使对司机说。牧师感到非常惊讶，就问天使：“为什么我辛辛苦苦半生传道，得到的回报却不如这个司机呢？”  天使回答说：“也许是这样，但是你主持礼拜时人们都在睡觉，而这个司机在为人们服务时，人人都在向上帝祈祷。”</p>
+]]></content>
+      <tags>
+        <tag>人生故事</tag>
+        <tag>牧师与司机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>T003-个人知识体系的建立</title>
+    <url>/2021/01/20/T003-%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E7%9A%84%E5%BB%BA%E7%AB%8B/</url>
+    <content><![CDATA[<h4 id="什么是知识体系"><a href="#什么是知识体系" class="headerlink" title="什么是知识体系"></a>什么是知识体系</h4><hr>
+<h4 id="如何建立自己的知识体系？"><a href="#如何建立自己的知识体系？" class="headerlink" title="如何建立自己的知识体系？"></a>如何建立自己的知识体系？</h4><hr>
+<p>对于我而言，建立知识体系的方式莫过于从历史的洪流中拣选闪光的明星，一颗一颗的读，一颗一颗的品味、揣摩、深思、明辨、笃行。</p>
+<hr>
+]]></content>
+      <categories>
+        <category>系统成长</category>
+      </categories>
+      <tags>
+        <tag>知识体系管理</tag>
+        <tag>个人成长</tag>
       </tags>
   </entry>
   <entry>
@@ -9038,20 +9012,52 @@
       </tags>
   </entry>
   <entry>
-    <title>T003-个人知识体系的建立</title>
-    <url>/2021/01/20/T003-%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E7%9A%84%E5%BB%BA%E7%AB%8B/</url>
-    <content><![CDATA[<h4 id="什么是知识体系"><a href="#什么是知识体系" class="headerlink" title="什么是知识体系"></a>什么是知识体系</h4><hr>
-<h4 id="如何建立自己的知识体系？"><a href="#如何建立自己的知识体系？" class="headerlink" title="如何建立自己的知识体系？"></a>如何建立自己的知识体系？</h4><hr>
-<p>对于我而言，建立知识体系的方式莫过于从历史的洪流中拣选闪光的明星，一颗一颗的读，一颗一颗的品味、揣摩、深思、明辨、笃行。</p>
-<hr>
+    <title>912-核心语法及长难句01-简单句</title>
+    <url>/2021/02/27/912-%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%8F%8A%E9%95%BF%E9%9A%BE%E5%8F%A501-%E7%AE%80%E5%8D%95%E5%8F%A5/</url>
+    <content><![CDATA[<h4 id="C1-简单句的核心"><a href="#C1-简单句的核心" class="headerlink" title="C1 简单句的核心"></a>C1 简单句的核心</h4><hr>
+<p>简单句是一切的基础</p>
+<h5 id="简单句的核心构成"><a href="#简单句的核心构成" class="headerlink" title="简单句的核心构成"></a>简单句的核心构成</h5><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 简单句：只讲一件事</span><br>&gt; n. + v.<br>	谓语分类：<br>		&gt; 有实际意义 - <br>			% 不及物 vi. [动作由主语独立完成] <br>						- [主谓]<br>						<br>			% 及物动词 vt. [动作既有发起者也有接受者] <br>						- [主谓宾] <br>						- [主谓双宾是 人+物 OR 物+人] <br>						- [主谓宾 宾补] [宾补的判断： 在中间加一个“是”，能撸顺就是宾补]<br>		<br>		<br>		&gt; 无实际意义 - be[(联)系动词]<br>						- [主系表]<br>			% 系动词 - 如果是系动词，后面就是表语，如果是实义动词，后面就是宾语<br>				**1. be动词[单独出现的]<br>				**2. get become turn go grow 为“变得”含义时，作为系动词<br>				**3. look sound smell taste feel <span class="hljs-string">&quot;……起来&quot;</span>时，作为系动词<br>				**4. seem appear keep remain prove<br>			% 表语<br><br>	**T1:<br>	**T2:<br>	**T3:<br>	**T4:<br>	**T5:<br><span class="hljs-comment">## 如何区分主谓双宾 与 主谓宾宾补？</span><br>	&gt; 看看在中间添加一个 是 能否撸顺，如果可以那么就是宾补，否则是双宾<br><br>------------------------------------------------------------------------------<br><span class="hljs-comment">## 简单句的核心构成 - 考场攻略</span><br>	&gt; 攻略1: 简化句子 - 不及物动词<br>		**对于不及物动词，可以到主谓就结束了，后面追加的东西通常没什么用。<br>	<br>	&gt; 攻略2: 找到分裂结构 - 及物动词<br>		**原本连贯的句子，中间插入了一些东西[介词短语]或者被挪走了[太长了] &lt;谁长谁放后面，短的放前面&gt;<br>		<br>	&gt; 攻略3: 判断从句<br>		**宾语从句 - 及物动词后<br>		**表语从句 - 系动词后<br><br><span class="hljs-comment">## 长难句：一次讲了很多件事</span><br><br></code></pre></td></tr></table></figure>
+
+
+
+<h5 id="简单句的核心构成-1"><a href="#简单句的核心构成-1" class="headerlink" title="简单句的核心构成"></a>简单句的核心构成</h5><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 主 + 谓</span><br>	&gt; 谓语动词有四种变化<br>		**时态<br>		**情态<br>		**语态<br>		**否定<br>	<span class="hljs-comment"># 谓语动词不管怎么变，都算一个整体[如 be doing, have been done, 都算作一个谓语动词]</span><br>    &gt; 谓语动词时态的变化<br>    	**通过谓语动词的变化表现时态[时态一共分为16种，需要掌握8种]<br>    		时: 过去 | 现在 | 将来 | 过去将来<br>    		态: 一般 | 进行 | 完成 | 完成进行<br>    		<br>    		一般：<br>    		<span class="hljs-variable">$1</span>: 一般过去时 谓语动词 = did<br>    			**完全发生在过去，现在不再这样了[言外之意]had a boy friend [过去有]<br>    			<br>    		<span class="hljs-variable">$2</span>: 一般现在时 谓语动词 = <span class="hljs-keyword">do</span> / does<br>    			**[现在的事情] [经常性或习惯性的动作] <br>    			**第三人称单数: 可数名词单数/不可数名词/不定代词/他她它<br>    			**除了表示现在，还可以表示永恒[名言警句/客观真理]<br>    			<br>    			<span class="hljs-string">&#x27;ET: And a significant number of the homeless have serious mental disorders&#x27;</span><br>    			<br>    		<span class="hljs-variable">$3</span>: 一般将来时 谓语动词 = will <span class="hljs-keyword">do</span><br>    							am/is/are going to <span class="hljs-keyword">do</span> || shall <span class="hljs-keyword">do</span><br>    			**表示的是现在的将来[通常都是以当前为出发点]<br>    			<br>    		<span class="hljs-variable">$4</span>: (一般)过去将来时 谓语动词 = would <span class="hljs-keyword">do</span><br>    							was/were going to <span class="hljs-keyword">do</span><br>    			**先有过去，再有将来。<br>    			<br>    			<span class="hljs-string">&#x27;A team of reserachers...would submit the results of their research to a journal.&#x27;</span><br>------------------------------------------------------------------------------  			<br>			过去：<br>			<span class="hljs-variable">$1</span>: 过去进行时 谓语动词 = was/were doing<br>				<br>			<span class="hljs-variable">$2</span>: 现在进行时 谓语动词 = am/is/are doing<br>				<span class="hljs-string">&#x27;ET: Readers are migrating away from print anyway.&#x27;</span><br>			<br>			<span class="hljs-variable">$3</span>: 将来进行时 谓语动词 = will be doing [不重要]<br>				**将来确定发生的事<br>			be doing<br>			<br>----------------------------------------------------------------------------<br>			完成：<br>				**可以都做完，也可以没有做完<br>				**就表达完成的结果如何[做没做完不重要]<br>				&lt;表达截止到某一个时间点回头往前，看事情的结果&gt;<br>			<span class="hljs-variable">$1</span>: 过去完成时 谓语动词 = had <span class="hljs-keyword">done</span><br>				**过去的&#123;过去式&#125;之前&#123;before&#125; [经常搭配一般过去时]<br>				**有时候过去式会出现在不同的句子里<br>				&gt;要点1: 过去完成时跟一般过去时的关系 &gt;&gt; 过去完成时是过去的过去，一般过去时是过去，所以过去完成时发生在前，一般过去时发生在后。<br>				&gt;要点2: 过去的之前，不是一个时间点，而是一个时间段。[从过去的之前一直到过去]<br>                <br>            <span class="hljs-variable">$2</span>: 现在完成时 谓语动词 = have/has <span class="hljs-keyword">done</span>  [补充 - just/ever/never/also/already]<br>            	**现在的之前 [使用最多]<br>            	&gt;要点1: 表达的时间段 从过去到现在<br>            	&gt;要点2: 现在完成时与一般过去时的区别<br>            		**宏观上：时间范围不一样<br>            		**微观上：全部做完/可以换成过去时 [完成时强调对现在的影响，过去式则不是]<br>            				 没有全做完/不能换成过去时 <br>            		<span class="hljs-string">&#x27;ET: The use of this little-known practice has accelerated in recent years.&#x27;</span><br>            				 <br>            <span class="hljs-variable">$3</span>: 将来完成时 谓语动词 = will have <span class="hljs-keyword">done</span><br>            	<br>            	&lt;完成时态，就叫阶段性总结&gt;<br>            	<br>----------------------------------------------------------------------------<br>			<span class="hljs-variable">$1</span>: 现在完成进行时 have/has been + doing<br>				&gt; 角度都相同，但是上一个强调结果，进行时强调过程。<br>			<br>    			<span class="hljs-string">&#x27;ET: In recent years, railroads have been combining with each other...&#x27;</span><br>    			<br>    			<br>		<br><span class="hljs-comment">## ET DONE 2021年3月1日17点48分		</span><br></code></pre></td></tr></table></figure>
+
+
+
+<h5 id="简单句的核心变化"><a href="#简单句的核心变化" class="headerlink" title="简单句的核心变化"></a>简单句的核心变化</h5><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 2021年3月1日17点49分</span><br><br>&gt; 一主一谓，三态一否[简单句]<br><br><span class="hljs-comment">## 情态</span><br>	&gt; 情态动词 + 动词原形<br>		**常用：<br>			现在时	|	过去时<br>			must  |	  -<br>			can	  |	  could<br>			will  |	  would<br>			shall |   should<br>			may	  |   might<br>			<br><span class="hljs-comment">## 三大部分</span><br>	&gt; 整体用法<br>		**情态动词 + 动词原形<br>		**时态[普通动词16种时态]，而情态动词只有两种[最多]<br>		**<span class="hljs-string">&#x27;could would should might 有三种用法，#1 表示过去，#2 表示现在的、更委婉的语气，#3 表示推测&#x27;</span><br>		**情态动词没有人称变化<br>		**情态动词变否定[加not]/疑问[提前]<br>		<br>	&gt; 不同的含义<br>		**must 必须<br>		<span class="hljs-string">&#x27;ET: Human drivers sometimes must make split-second decisions.&#x27;</span><br>		<br>		**can / could	能够/可以<br>		<span class="hljs-string">&#x27;...and the right mental workouts can significantly improve our basic cognitive functions.&#x27;</span><br>		副词：助动词后，实义动词前<br>		<br>		**will / would 将要/愿意<br>		<span class="hljs-string">&#x27;The first draft will appear on the page.&#x27;</span><br>		<span class="hljs-string">&#x27;Potential home buyers would cheer for lower interest rates.&#x27;</span><br>		<br>		**may / might	可以/可能<br>		<span class="hljs-string">&#x27;expressions may influence emotions rather than just the other way around.&#x27;</span><br>		<span class="hljs-string">&#x27;Such bodily reaction might conceivably help moderate the effects of psychological stress.&#x27;</span><br>		<br>		**should	应该<br>		<span class="hljs-string">&#x27;Those suffering from persistent nightmares should seek help from a therapist.&#x27;</span><br>		<br>	&gt; 情态动词表示推测<br>		<span class="hljs-string">&#x27;The details may be unknowables. [The details are unknowable.]&#x27;</span> *maybe [adv - 可能] may be 可能是<br>		<br>		情态动词 + <span class="hljs-keyword">do</span><br>		情态动词 + be doing<br>		情态动词 + have <span class="hljs-keyword">done</span> [推测过去]<br>		<br>		<span class="hljs-string">&#x27;the peculiar way of conducting the experiments may have led to misleading interpretation of what happened.&#x27;</span><br>		<span class="hljs-string">&#x27;... the community should be grasping the opportunity to raise its influence in the real world.&#x27;</span><br>		<br>		<br><span class="hljs-comment">## EX</span><br>	<span class="hljs-string">&#x27;Upcoming reforms might bring the price to a more reasonable level.&#x27;</span><br>	<span class="hljs-string">&#x27;Your outline should smoothly conduct you from one point to the next...&#x27;</span><br>	<br>	<br>------------------------------------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 语态</span><br>	&gt; 主动语态<br>		除了被动就是主动<br>	&gt; 被动语态<br>		be + <span class="hljs-keyword">done</span><br>		**两部分，三个步骤<br>		&gt; 被动与时态结合[重点]<br>		<span class="hljs-string">&quot;done 被动的动作&quot;</span> <span class="hljs-string">&quot;be 被动的时间 | 主语的单复数&quot;</span><br>		<span class="hljs-string">&#x27;ET: Unfortunately, these critics are forgotten. &#x27;</span> [加上by强调动作发出者]<br>		<br>		&gt; 被动+时态<br>			**被动中动词不变，变的是be[主动句子中变化动词形式]<br>			<br>			<span class="hljs-string">&#x27;ET: But the great universal of male mortality is being changed.&#x27;</span><br>			<span class="hljs-string">&#x27;Attempts have been made to control this inflation...&#x27;</span><br>			<br>		&gt; 被动+情态<br>        	**情态动词+be[原型]+<span class="hljs-keyword">done</span>[过去分词]<br>        	<span class="hljs-string">&#x27;In the internet age, at least in theory, this fraction can be much reduced.&#x27;</span> <br>			<br>[10. 真题]		<br><br><span class="hljs-comment">## 谓语动词的语态 - 练习</span><br>	<span class="hljs-string">&#x27;ET: A greate deal of attention is being paid today to the so-called digital divide...&#x27;</span><br>	<br>------------------------------------------------------------------------------------------------------------<br><span class="hljs-comment">## 简单句的核心变化之 --- 谓语动词的否定</span><br>	**实义动词变否定<br>		不能直接变<br>		&gt; <span class="hljs-keyword">do</span>/does/did + not + 动词原型<br>		<br>		<span class="hljs-string">&#x27;ET: They do not fund peer-reviewed research.&#x27;</span> | peer 同行、同僚<br>		<br>	**助动词和情态动词否定<br>		&gt; 直接变<br>		&gt; 助动词/情态动词 + not<br>		[be动词、情态动词、完成时态中的have等]<br>		<br>		<span class="hljs-string">&#x27;ET: American professors did not possess one.&#x27;</span><br>		<span class="hljs-string">&#x27;To be sure, the future is not all rosy.&#x27;</span> rosy --&gt; rose 美好<br>		<br>		<br>	**补充[谓语动词的强调]<br>		&gt; 类似变否词<br>		<span class="hljs-string">&#x27;ET: But science does provide us with the best available guide to the future...&#x27;</span><br>		<br>		<span class="hljs-string">&#x27;ET: The court did suggest that accepting favors in return for opening doors is &quot;distasteful&quot; and &quot;nasty.&quot;&#x27;</span><br>		<br>		<br><span class="hljs-comment">## 简单句谓语动词的变化 -- 考场攻略</span><br>	**三态一否<br>		&gt; 重点在时态<br>		&gt; 谓语动词的变化通常会同时出现 时态、情态、语态、否定的变化，但是永远都算一个整体[v]<br>		&gt; 应用：<br>			<span class="hljs-variable">$1</span>: 定位 <span class="hljs-string">&#x27;谓语动词&#x27;</span> 来判断句子中包含了几件事<br>			<br>			<span class="hljs-string">&#x27;ET: The same dramatic technological changes that have provided marketers with more communications choices have also increased the risk that passionate consumers will voice their opinions in quicker, more visible, and much more damaging ways.&#x27;</span><br>			 EX: 1-断开，找谓语动词：have provided/ have increased / will voice <br>			 <br>			<span class="hljs-variable">$2</span>: 定位谓语动词，准确找到主语<br>			<br>			<span class="hljs-string">&#x27;ET: ... national spending on social sciences and the humanities as a percentage of all research and development funds - including government, higher education, non-profit and corporate - varied from around 4% to 25%; ...&#x27;</span><br>			EX: varied; 破折号后表示引申说明，不用管。<br></code></pre></td></tr></table></figure>
+
+
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 主宾表</span><br>	**如何区分成分？以谓语为分割线，前为主语，后为宾语/表语<br>	&gt; 不用纠结于成分<br>	<br>	**什么可以做主语？<br>		&gt; 4种变化：<br>			* 名词/代词<br>			* doing<br>			* to <span class="hljs-keyword">do</span><br>			* 并列多个<br>			<br>			<span class="hljs-string">&#x27;非谓语动词，不做谓语的动词： #1 doing #2 done #3 to do&#x27;</span><br>			<br>		&gt; 同样的，上述四种也可以做宾语/表语<br>			* 形容词[B]<br>			* 介词短语[B]<br>			<br>			<span class="hljs-variable">$1</span>- doing作主语<br>			<span class="hljs-string">&#x27;ET: ... suffering is inevitable ...&#x27;</span><br>			<span class="hljs-string">&#x27;Making friends is extremely important to teenagers ...&#x27;</span><br>			<span class="hljs-string">&#x27;On the other hand, putting your faith in the wrong palce often carries a high price.&#x27;</span><br>			<br>			<span class="hljs-variable">$2</span>- doing作宾语[介宾/动宾]<br>			<span class="hljs-string">&#x27;ET: Americans stopped taking prosperity for granted.&#x27;</span> [taking ... <span class="hljs-keyword">for</span> granted  把……当作理所当然的]<br>			<span class="hljs-string">&#x27;ET: Thinking is essentially a process of making connections in the brain.&#x27;</span><br>			<br>			<br>			<span class="hljs-string">&#x27;眼见为实: To see is to believe.  || Seeing is believing.&#x27;</span> [前后一致]<br>			<br>			<span class="hljs-string">&#x27;anticipate 预测 / paradoxical 矛盾的&#x27;</span><br>			<span class="hljs-string">&#x27;trick 技巧&#x27;</span> [War 陆军 / Navy 海军]<br>			<br>			doing作主/宾/表[很少作表语]<br>			to <span class="hljs-keyword">do</span>作主/宾/表<br>			<br>			&gt; 并列多个主/宾/表<br>			<br>			<span class="hljs-string">&#x27;ET: But demanding too much of air travelers or providing too little security in return undermines public support for the process.&#x27;</span><br>			<br>[主、宾、表 - 课程OVER]			<br></code></pre></td></tr></table></figure>
+
+
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 主宾表练习</span><br><br>	**find n<br>	Getting the <span class="hljs-built_in">print</span> edition seven days a week costs nearly <span class="hljs-variable">$500</span> a year...<br>	<br>	It is fair to criticize and question the mechanism...<br>	<br>	Trail blazes, tire tracks, and other features can lead you to civilization.<br>	<br>	**find v/t<br>	But privacy is not the only angle <span class="hljs-keyword">in</span> this <span class="hljs-keyword">case</span> and not even the most important.<br>	<br>	<br>	<br><span class="hljs-comment">## 主宾表 - 攻略</span><br>	**难点：灵活多变<br>	<br>	<br>	<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="C2-简单句的拓展"><a href="#C2-简单句的拓展" class="headerlink" title="C2 简单句的拓展"></a>C2 简单句的拓展</h4><hr>
+<h5 id="词性角度的拓展"><a href="#词性角度的拓展" class="headerlink" title="词性角度的拓展"></a>词性角度的拓展</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 限定词</span><br>	&gt; 通常指的是限定名词<br>		* 冠词<br>		* 名词所有格<br>		* 数词/分数<br>		* 名词限定名词<br><br>	<span class="hljs-string">&#x27;ET: The roughly 20 million inhabitants of these nations looked hopefully to the future.&#x27;</span> &gt; inhabitants 居民<br>	<br>	<span class="hljs-string">&#x27;By the third generation, one third of Hispanic women are married to non-Hispanics, and 41 percent of Asian-American women are married to non-Asians.&#x27;</span><br>	<br>	<br>	<br><span class="hljs-comment">## 形容词、副词</span><br>	&gt; 基本的用法<br>		The angry boy shouted angrily.<br>		形容词修饰名词：<br>			**名词前/名词后 [定语]<br>			**间隔了一个系动词 [作表语]<br>			<span class="hljs-string">&#x27;ET: The idea seems promising, and Rosenberg is a perceptive observer.&#x27;</span> [perceptive 有洞察力的]<br>			<span class="hljs-string">&#x27;ET: Their thinking often had a traditional superstitious quality.&#x27;</span><br>			<br>		副词修饰动词、句子、其他的形容词/副词<br>			<span class="hljs-string">&#x27;... and the right mental workouts can significantly improve our basic cognitive functions.&#x27;</span> [workouts 锻炼]<br>            <span class="hljs-string">&#x27;mood&#x27;</span> 情绪<br>            <br>	&gt; 三种比较的级别<br>		**原级比较<br>			as + adj./adv.原型（比较的内容） + as + 比较的对象		<span class="hljs-string">&#x27;和……相比一样的……&#x27;</span><br>			<span class="hljs-string">&#x27;The goals of the prize-givers seem as scattered as the criticism.&#x27;</span><br>			<br>			not as .. as ..		<span class="hljs-string">&#x27;不如……&#x27;</span><br>            <br>        **比较级<br>        	两者之间比较<br>        	<span class="hljs-string">&#x27;... younger, healthier people can realize their potential.[realize 使……成真]&#x27;</span><br>		<br>			<span class="hljs-string">&#x27;Rich economies are also less dependent on oil than they were, and so less sensitive to swings in the oil price.&#x27;</span><br><br><br>		**最高级<br>			<br>		<br>		&gt; 练习<br>				<span class="hljs-string">&#x27;squeeze 挤压&#x27;</span> <br>		<br><span class="hljs-comment">## 介词短语[重点/难点]</span><br></code></pre></td></tr></table></figure>
+
+
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 介词</span><br>	**重点、重点、重点<br>	<br>	&gt; 接名词/代词/doing<br>	&gt; 起补充说明作用[非核心]<br>	<br>	**表示时间的介词<br>		at / on / <span class="hljs-keyword">in</span><br>		before / after<br>		from, since			自从……[完成时]<br>		by, until			截止到……[完成时]<br>		<span class="hljs-keyword">for</span><br>		during<br>		<br>	**表示地点或范围的<br>		at / <span class="hljs-keyword">in</span><br>		on, above, over / under, below<br>		<span class="hljs-keyword">in</span> front of / behind<br>		near, by, beside<br>		between, among<br>		around<br>		into / out of<br>		onto / off<br>		across, through / past<br>		along<br>		from / to <br>		<br>		&gt; clinic	诊所<br>		&gt; stumbled across	偶然碰到<br>		<br>	**其他用法的介词<br>		<br>		<br>		&gt; factor	因素<br>		&gt; reluctant	不情愿的<br>		&gt; tackle	接触<br>	<br>------------------------------------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 介词练习</span><br>	&gt; woods		小树林<br>	<span class="hljs-string">&#x27;For a time literature showed no interest on public stage.  &#x27;</span><br>	&gt; basic intellectual discipline[基础学科]<br>	<br>	&gt; sensational	轰动的<br>	<br>	<br><span class="hljs-comment">## 介词攻略</span><br>	**简化句子，找核心<br>	<br>	<span class="hljs-string">&#x27;ET: &#x27;</span><br>	<br>[非谓语动词]<br></code></pre></td></tr></table></figure>
+
+
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 非谓语动词</span><br>	**什么是非谓语动词？<br>		&gt; 不作谓语的动词[任何成分除了谓语]<br>	**什么时候用非谓语动词？<br>		&gt; 一个句子中一主一谓搭配好之后<br>	**非谓语动词有哪几种?<br>		<span class="hljs-variable">$1</span>: doing<br>		<span class="hljs-variable">$2</span>: <span class="hljs-keyword">done</span><br>		<span class="hljs-variable">$3</span>: to <span class="hljs-keyword">do</span><br>		<span class="hljs-string">&#x27;单独出现 才是非谓语。 前面不能有别的动词出现跟它搭配[不如 be doing， be done等构成时态/语态就是谓语而不是非谓语]&#x27;</span><br>		<br>	**非谓语动词的用途？<br>		<span class="hljs-variable">$1</span>: 相当于名词[doing和to <span class="hljs-keyword">do</span>可以]，作主/宾/表语<br>		<span class="hljs-variable">$2</span>: 修饰名词/句子，作定语/状语。<br>		<br>		%1 doing	表示主动<br>		%2 <span class="hljs-keyword">done</span>		表示被动<br>		%3 to <span class="hljs-keyword">do</span>	表示目的<br>		<span class="hljs-string">&#x27;参照物很重要：逻辑主语[对象]&#x27;</span><br>		<br>		<span class="hljs-string">&#x27;ET: The ---network---[networked]--- computer is an amazing device...&#x27;</span>[1. 判断要不要用非谓语动词 2. 找对象 3. 判断主动/被动/目的关系]<br>		<br>		<span class="hljs-string">&#x27;ET: A team of researchers ---work---[working]--- together in the laboratory would submit the results of their research to a journal.&#x27;</span><br>		<br>		**<span class="hljs-string">&#x27;非谓语动词&#x27;</span>经常写成一个完整的词组<br>		<br>        <span class="hljs-string">&#x27;ET: America&#x27;</span>s new plan ---buy---[to buy]--- up toxic assets will not work...<span class="hljs-string">&#x27;</span><br><span class="hljs-string">        </span><br><span class="hljs-string">        &#x27;</span>ET: In just one generation, millions of mothers have gone to work, transforming basic family economics.<span class="hljs-string">&#x27;</span><br><span class="hljs-string">        </span><br><span class="hljs-string">        &#x27;</span>ET: Enraged by Entergy<span class="hljs-string">&#x27;s behavior, the Vermont Senate voted 26 to 4 last year against allowing an extension.&#x27;</span><br>        <br><br><span class="hljs-comment">## 非谓语动词作定语/状语	- 练习</span><br>	<span class="hljs-string">&#x27;ET: Sixty toddlers were each introduced to an adult tester holding a plastic container.&#x27;</span>s<br>	<br>	<br><span class="hljs-comment">## 非谓语动词作定语/状语  - 攻略</span><br>	**1. 非谓语动词词组的完整性<br>	<br>	**2. 准确找到非谓语动词所修饰的对象<br>	<br>	**3. 非谓语动词的去留<br>	<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<h5 id="成分角度的拓展"><a href="#成分角度的拓展" class="headerlink" title="成分角度的拓展"></a>成分角度的拓展</h5><h5 id="关于阅读能力的提高"><a href="#关于阅读能力的提高" class="headerlink" title="关于阅读能力的提高"></a>关于阅读能力的提高</h5><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 可以结合杂志等文章阅读，阅读时认真品味每一句话的结构</span><br></code></pre></td></tr></table></figure>
+
 ]]></content>
-      <categories>
-        <category>系统成长</category>
-      </categories>
-      <tags>
-        <tag>知识体系管理</tag>
-        <tag>个人成长</tag>
-      </tags>
   </entry>
   <entry>
     <title>R022-21考试安排-计网知识点梳理</title>

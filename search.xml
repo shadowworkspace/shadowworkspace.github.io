@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>912-数学之殇-基础的章节没有吃透是否要继续往下学习</title>
-    <url>/2021/03/23/912-%E6%95%B0%E5%AD%A6%E4%B9%8B%E6%AE%87-%E5%9F%BA%E7%A1%80%E7%9A%84%E7%AB%A0%E8%8A%82%E6%B2%A1%E6%9C%89%E5%90%83%E9%80%8F%E6%98%AF%E5%90%A6%E8%A6%81%E7%BB%A7%E7%BB%AD%E5%BE%80%E4%B8%8B%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>912-数学基础-概念清晰</title>
-    <url>/2021/03/30/912-%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80-%E6%A6%82%E5%BF%B5%E6%B8%85%E6%99%B0/</url>
-    <content><![CDATA[<h4 id="什么是真正的概念清晰"><a href="#什么是真正的概念清晰" class="headerlink" title="什么是真正的概念清晰"></a>什么是真正的概念清晰</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 这个题这样做对不对？</span><br>	**说明对基本概念定义定理没有理解透彻<br>	<br><span class="hljs-comment">## 怎么理解概念、定理、公式？</span><br><br><br><span class="hljs-comment">## 逆向思维</span><br>	**定理、必要、充分、冲要？<br>	**反过来会怎样？<br>	<br><span class="hljs-comment">## 思考条件有什么用？能不能对条件更改？</span><br>	**少了这个条件会怎样？如果加强这个条件又会怎样？<br>	<br>	<br><span class="hljs-comment">## 适当的积累反例</span><br>	<br>	<br></code></pre></td></tr></table></figure>
+    <title>408-Linux内核</title>
+    <url>/2021/03/24/408-Linux%E5%86%85%E6%A0%B8/</url>
+    <content><![CDATA[<h4 id="操作系统"><a href="#操作系统" class="headerlink" title="操作系统"></a>操作系统</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 操作系统的功能</span><br>	**<br>	**<br>	**<br>	**<br>	**<br>	<br><span class="hljs-comment">## 操作系统的特征</span><br>	**并发性<br>	**共享性<br>	**虚拟性<br>	**异步性<br>	<br><span class="hljs-comment">## 操作系统的目标</span><br>	**<br>	**<br>	<br>	<br>	<br>-----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 操作系统的发展</span><br>	**手工阶段<br>	**单道批处理系统<br>	**多道批处理系统<br>	**分时操作系统<br>	<br>	<br></code></pre></td></tr></table></figure>
 
 ]]></content>
+      <tags>
+        <tag>Linux内核</tag>
+      </tags>
   </entry>
   <entry>
     <title>912-恋练有词随机记录</title>
@@ -39,14 +37,16 @@
       </tags>
   </entry>
   <entry>
-    <title>408-Linux内核</title>
-    <url>/2021/03/24/408-Linux%E5%86%85%E6%A0%B8/</url>
-    <content><![CDATA[<h4 id="操作系统"><a href="#操作系统" class="headerlink" title="操作系统"></a>操作系统</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 操作系统的功能</span><br>	**<br>	**<br>	**<br>	**<br>	**<br>	<br><span class="hljs-comment">## 操作系统的特征</span><br>	**并发性<br>	**共享性<br>	**虚拟性<br>	**异步性<br>	<br><span class="hljs-comment">## 操作系统的目标</span><br>	**<br>	**<br>	<br>	<br>	<br>-----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 操作系统的发展</span><br>	**手工阶段<br>	**单道批处理系统<br>	**多道批处理系统<br>	**分时操作系统<br>	<br>	<br></code></pre></td></tr></table></figure>
+    <title>912-数学之殇-基础的章节没有吃透是否要继续往下学习</title>
+    <url>/2021/03/23/912-%E6%95%B0%E5%AD%A6%E4%B9%8B%E6%AE%87-%E5%9F%BA%E7%A1%80%E7%9A%84%E7%AB%A0%E8%8A%82%E6%B2%A1%E6%9C%89%E5%90%83%E9%80%8F%E6%98%AF%E5%90%A6%E8%A6%81%E7%BB%A7%E7%BB%AD%E5%BE%80%E4%B8%8B%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>912-数学基础-概念清晰</title>
+    <url>/2021/03/30/912-%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80-%E6%A6%82%E5%BF%B5%E6%B8%85%E6%99%B0/</url>
+    <content><![CDATA[<h4 id="什么是真正的概念清晰"><a href="#什么是真正的概念清晰" class="headerlink" title="什么是真正的概念清晰"></a>什么是真正的概念清晰</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 这个题这样做对不对？</span><br>	**说明对基本概念定义定理没有理解透彻<br>	<br><span class="hljs-comment">## 怎么理解概念、定理、公式？</span><br><br><br><span class="hljs-comment">## 逆向思维</span><br>	**定理、必要、充分、冲要？<br>	**反过来会怎样？<br>	<br><span class="hljs-comment">## 思考条件有什么用？能不能对条件更改？</span><br>	**少了这个条件会怎样？如果加强这个条件又会怎样？<br>	<br>	<br><span class="hljs-comment">## 适当的积累反例</span><br>	<br>	<br></code></pre></td></tr></table></figure>
 
 ]]></content>
-      <tags>
-        <tag>Linux内核</tag>
-      </tags>
   </entry>
   <entry>
     <title>912-数学考试原理</title>
@@ -118,6 +118,13 @@
       </tags>
   </entry>
   <entry>
+    <title>912-考研核心理论</title>
+    <url>/2021/03/21/912-%E8%80%83%E7%A0%94%E6%A0%B8%E5%BF%83%E7%90%86%E8%AE%BA/</url>
+    <content><![CDATA[<h4 id="核心理论"><a href="#核心理论" class="headerlink" title="核心理论"></a>核心理论</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 艾宾浩斯曲线的原理与应用</span><br>	**完整记录每日所学知识点的时间，整理成条目<br>	**参考excel[E:\912-ALL\7-tools\1-mindex]<br>	<br>	<br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
     <title>912-考研英语备考经验</title>
     <url>/2021/03/01/912-%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E5%A4%87%E8%80%83%E7%BB%8F%E9%AA%8C/</url>
     <content><![CDATA[<h4 id="经验分享"><a href="#经验分享" class="headerlink" title="经验分享"></a>经验分享</h4><hr>
@@ -136,11 +143,21 @@
       </tags>
   </entry>
   <entry>
-    <title>912-考研核心理论</title>
-    <url>/2021/03/21/912-%E8%80%83%E7%A0%94%E6%A0%B8%E5%BF%83%E7%90%86%E8%AE%BA/</url>
-    <content><![CDATA[<h4 id="核心理论"><a href="#核心理论" class="headerlink" title="核心理论"></a>核心理论</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 艾宾浩斯曲线的原理与应用</span><br>	**完整记录每日所学知识点的时间，整理成条目<br>	**参考excel[E:\912-ALL\7-tools\1-mindex]<br>	<br>	<br></code></pre></td></tr></table></figure>
+    <title>B000-四月的书单</title>
+    <url>/2021/01/06/B000-%E5%9B%9B%E6%9C%88%E7%9A%84%E4%B9%A6%E5%8D%95/</url>
+    <content><![CDATA[<h4 id="万般皆下品，唯有读书高"><a href="#万般皆下品，唯有读书高" class="headerlink" title="万般皆下品，唯有读书高"></a>万般皆下品，唯有读书高</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 过往的记忆</span><br>《如何阅读一本书》<br>《狼图腾》<br>《鞋狗》<br>《基业长青》<br>《从零到一》<br>《道路与梦想》<br>《数学之美》<br>《浪潮之巅》<br>《文明之光》<br>《大学之路》<br>《态度》<br>《见识》<br>《褚时健传》<br>《邓小平传》<br>《毛泽东传》<br>《任正非传》<br>《稻盛和夫》<br>《传习录》<br>《以客户为中心》<br>《大而不倒》<br>《乔布斯传》<br>《麦克阿瑟传》<br>《拿破仑传》<br>《杰克韦尔奇自传》<br>《将心注入》<br>《洛克菲勒自传》<br>《富甲美国》<br>《创新者的窘境》<br>《禅者的初心》<br>《被遗忘的士兵》<br>《狼群》<br></code></pre></td></tr></table></figure>
 
 ]]></content>
+      <categories>
+        <category>深夜书刊</category>
+        <category>阅读笔记</category>
+      </categories>
+      <tags>
+        <tag>四月的书单</tag>
+        <tag>阅读</tag>
+        <tag>阅读笔记</tag>
+      </tags>
   </entry>
   <entry>
     <title>B002-如何阅读一本书</title>
@@ -176,23 +193,6 @@
         <tag>深夜书刊</tag>
         <tag>读书笔记</tag>
         <tag>如何阅读一本书</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>B000-四月的书单</title>
-    <url>/2021/01/06/B000-%E5%9B%9B%E6%9C%88%E7%9A%84%E4%B9%A6%E5%8D%95/</url>
-    <content><![CDATA[<h4 id="万般皆下品，唯有读书高"><a href="#万般皆下品，唯有读书高" class="headerlink" title="万般皆下品，唯有读书高"></a>万般皆下品，唯有读书高</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 过往的记忆</span><br>《如何阅读一本书》<br>《狼图腾》<br>《鞋狗》<br>《基业长青》<br>《从零到一》<br>《道路与梦想》<br>《数学之美》<br>《浪潮之巅》<br>《文明之光》<br>《大学之路》<br>《态度》<br>《见识》<br>《褚时健传》<br>《邓小平传》<br>《毛泽东传》<br>《任正非传》<br>《稻盛和夫》<br>《传习录》<br>《以客户为中心》<br>《大而不倒》<br>《乔布斯传》<br>《麦克阿瑟传》<br>《拿破仑传》<br>《杰克韦尔奇自传》<br>《将心注入》<br>《洛克菲勒自传》<br>《富甲美国》<br>《创新者的窘境》<br>《禅者的初心》<br>《被遗忘的士兵》<br>《狼群》<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>深夜书刊</category>
-        <category>阅读笔记</category>
-      </categories>
-      <tags>
-        <tag>四月的书单</tag>
-        <tag>阅读</tag>
-        <tag>阅读笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -350,6 +350,32 @@
       </tags>
   </entry>
   <entry>
+    <title>B009-曾国藩传</title>
+    <url>/2021/01/24/B009-%E6%9B%BE%E5%9B%BD%E8%97%A9%E4%BC%A0/</url>
+    <content><![CDATA[<h4 id="序"><a href="#序" class="headerlink" title="序"></a>序</h4><hr>
+<p>中国式力量与以诚相待</p>
+<p>曾国藩的一生，起点极低而抵达的高度很高。身体差、智商平常、出身平凡。但是他通过自己的不懈努力，完成了脱胎换骨、超凡入圣的变化。</p>
+<h4 id="七次科举"><a href="#七次科举" class="headerlink" title="七次科举"></a>七次科举</h4><hr>
+<p>父子赶考多次落榜</p>
+<p><code>凡菜茹手植手撷者，其味弥甘；凡物亲历艰苦而得者，食之弥安也。</code></p>
+<p><code>吾家祖父教人，亦以懦弱无刚四字为大耻，故男儿自立，必须有倔强之气。</code></p>
+<blockquote>
+<p>从前种种， 譬如昨日死， 以后种种， 譬如今日生也  </p>
+</blockquote>
+<p>今人尚巧。办事越巧妙，越少费力气，越走捷径，当然就越好。很多人办事，都追求高效率，甚至不择手段。然而曾国藩不这样。曾国藩说：<code>”天下之至拙，能胜天下之至巧。“</code> </p>
+<hr>
+]]></content>
+      <categories>
+        <category>深夜书刊</category>
+        <category>阅读笔记</category>
+      </categories>
+      <tags>
+        <tag>深夜书刊</tag>
+        <tag>读书笔记</tag>
+        <tag>曾国藩传</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>B010-如果我们的语言是威士忌</title>
     <url>/2021/03/27/B010-%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E7%9A%84%E8%AF%AD%E8%A8%80%E6%98%AF%E5%A8%81%E5%A3%AB%E5%BF%8C/</url>
     <content><![CDATA[<h4 id="世界的奇妙"><a href="#世界的奇妙" class="headerlink" title="世界的奇妙"></a>世界的奇妙</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 多数人以为年头越久越好喝，但并非那样。既有岁月使之得到的，又有岁月使之失去的。蒸发有其增加的东西，也有减少的东西。终究不过是个性差异而已。</span><br>																[P34]<br></code></pre></td></tr></table></figure>
@@ -387,45 +413,6 @@
       </tags>
   </entry>
   <entry>
-    <title>B009-曾国藩传</title>
-    <url>/2021/01/24/B009-%E6%9B%BE%E5%9B%BD%E8%97%A9%E4%BC%A0/</url>
-    <content><![CDATA[<h4 id="序"><a href="#序" class="headerlink" title="序"></a>序</h4><hr>
-<p>中国式力量与以诚相待</p>
-<p>曾国藩的一生，起点极低而抵达的高度很高。身体差、智商平常、出身平凡。但是他通过自己的不懈努力，完成了脱胎换骨、超凡入圣的变化。</p>
-<h4 id="七次科举"><a href="#七次科举" class="headerlink" title="七次科举"></a>七次科举</h4><hr>
-<p>父子赶考多次落榜</p>
-<p><code>凡菜茹手植手撷者，其味弥甘；凡物亲历艰苦而得者，食之弥安也。</code></p>
-<p><code>吾家祖父教人，亦以懦弱无刚四字为大耻，故男儿自立，必须有倔强之气。</code></p>
-<blockquote>
-<p>从前种种， 譬如昨日死， 以后种种， 譬如今日生也  </p>
-</blockquote>
-<p>今人尚巧。办事越巧妙，越少费力气，越走捷径，当然就越好。很多人办事，都追求高效率，甚至不择手段。然而曾国藩不这样。曾国藩说：<code>”天下之至拙，能胜天下之至巧。“</code> </p>
-<hr>
-]]></content>
-      <categories>
-        <category>深夜书刊</category>
-        <category>阅读笔记</category>
-      </categories>
-      <tags>
-        <tag>深夜书刊</tag>
-        <tag>读书笔记</tag>
-        <tag>曾国藩传</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>D003-22考研复盘三月</title>
-    <url>/2021/03/29/D003-22%E8%80%83%E7%A0%94%E5%A4%8D%E7%9B%98%E4%B8%89%E6%9C%88/</url>
-    <content><![CDATA[<h4 id="四月要做什么"><a href="#四月要做什么" class="headerlink" title="四月要做什么"></a>四月要做什么</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##</span><br>	英语阅读---唐迟<br>	美国文化背景课<br>	<br>	四月可以开始刷阅读： 两天一篇 	撸顺再往后走<br>	[这个阶段练习方法、练习速度]<br>	<br>	背书进度: 每周三四个单元<br>	<br>	田静老师的长难句<br>	<br>	<span class="hljs-comment">## 利用课程表安排时间和每日任务</span><br>	<br>	**P1: 张宇基础30讲 - 从第二讲开始整理笔记[更重要的是认真去理解笔记 - 不行就练]<br>	**P2: 数据结构与操作系统开始上手<br>	**P3: 田静长难句每日课程量划分<br>	**P4: 完成恋练有词第一轮，并且争取开始二刷[认真分析每一个例句-撸顺]<br>	**P5: 尝试开始英语阅读的练习<br>	<br>	<br><span class="hljs-comment">## 月底考核标准：</span><br>	<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-<h4 id="三月做了什么"><a href="#三月做了什么" class="headerlink" title="三月做了什么"></a>三月做了什么</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br>	**单词背了吗<br>		背了，但是并没有严格遵守艾宾浩斯曲线<br>	**学校选好了吗<br>		上海交大<br>	**三月能够评多少分[满分10分]？<br>		1分<br>	**哪里需要改进？<br>		数学不会就要练，抓住重点练的多了就会了<br>		专业课跟进过慢		<br>	<br><br><span class="hljs-comment">## </span><br>	**最大的收获？<br>	**最大的困难？<br>	<br>	<br>	<br><span class="hljs-comment">## </span><br>	**三月最大的打击是从912降到408，更加清楚的认清了自己。<br>	<br>	<br>	**亮点：<br>		使用excel记录的时间节点<br>		<br></code></pre></td></tr></table></figure>
-
-]]></content>
-  </entry>
-  <entry>
     <title>D002-22考研复盘二月</title>
     <url>/2021/03/01/D002-22%E8%80%83%E7%A0%94%E5%A4%8D%E7%9B%98%E4%BA%8C%E6%9C%88/</url>
     <content><![CDATA[<h4 id="行文脉络"><a href="#行文脉络" class="headerlink" title="行文脉络"></a>行文脉络</h4><hr>
@@ -444,6 +431,24 @@
         <tag>考研复盘</tag>
         <tag>考研回顾整理第二卷</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>D003-22考研复盘三月</title>
+    <url>/2021/03/29/D003-22%E8%80%83%E7%A0%94%E5%A4%8D%E7%9B%98%E4%B8%89%E6%9C%88/</url>
+    <content><![CDATA[<h4 id="四月要做什么"><a href="#四月要做什么" class="headerlink" title="四月要做什么"></a>四月要做什么</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">##</span><br>	英语阅读---唐迟<br>	美国文化背景课<br>	<br>	四月可以开始刷阅读： 两天一篇 	撸顺再往后走<br>	[这个阶段练习方法、练习速度]<br>	<br>	背书进度: 每周三四个单元<br>	<br>	田静老师的长难句<br>	<br>	<span class="hljs-comment">## 利用课程表安排时间和每日任务</span><br>	<br>	**P1: 张宇基础30讲 - 从第二讲开始整理笔记[更重要的是认真去理解笔记 - 不行就练]<br>	**P2: 数据结构与操作系统开始上手<br>	**P3: 田静长难句每日课程量划分<br>	**P4: 完成恋练有词第一轮，并且争取开始二刷[认真分析每一个例句-撸顺]<br>	**P5: 尝试开始英语阅读的练习<br>	<br>	<br><span class="hljs-comment">## 月底考核标准：</span><br>	<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<h4 id="三月做了什么"><a href="#三月做了什么" class="headerlink" title="三月做了什么"></a>三月做了什么</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br>	**单词背了吗<br>		背了，但是并没有严格遵守艾宾浩斯曲线<br>	**学校选好了吗<br>		上海交大<br>	**三月能够评多少分[满分10分]？<br>		1分<br>	**哪里需要改进？<br>		数学不会就要练，抓住重点练的多了就会了<br>		专业课跟进过慢		<br>	<br><br><span class="hljs-comment">## </span><br>	**最大的收获？<br>	**最大的困难？<br>	<br>	<br>	<br><span class="hljs-comment">## </span><br>	**三月最大的打击是从912降到408，更加清楚的认清了自己。<br>	<br>	<br>	**亮点：<br>		使用excel记录的时间节点<br>		<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="如何复盘"><a href="#如何复盘" class="headerlink" title="如何复盘"></a>如何复盘</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 计算出问题的地方</span><br><br><span class="hljs-comment">## 思路卡壳的地方</span><br>	**计算能力不过关<br>	**知识点不熟悉<br>	**题目难度略高<br>	$$ 一定要做好标记---思路<br>	<br><span class="hljs-comment">## 易错点</span><br><br><br>----------------------------------------------------------------------------------------<br><br><br><span class="hljs-comment">## 专题总结</span><br><br><span class="hljs-comment">## 总结解题框架</span><br><br><span class="hljs-comment">## 知识框架和总结提醒</span><br><br><span class="hljs-comment">## 难题</span><br><br><br></code></pre></td></tr></table></figure>
+
+]]></content>
   </entry>
   <entry>
     <title>H001-三月第一周复盘</title>
@@ -466,6 +471,28 @@
       </categories>
       <tags>
         <tag>考研复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>I001-战争军事</title>
+    <url>/2021/01/04/I001-%E6%88%98%E4%BA%89%E5%86%9B%E4%BA%8B/</url>
+    <content><![CDATA[<h4 id="克隆另一个自己"><a href="#克隆另一个自己" class="headerlink" title="克隆另一个自己"></a>克隆另一个自己</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如今的我已经接近了曾经的梦想</span><br>	** 初步入门了这个庞大科学的门槛<br>	** 初步掌握了一些基础的学习方法和技巧<br>	** 基础知识仍然不够牢固<br>	<br><span class="hljs-comment">## 需要的知识</span><br>	** 数学分析<br>	** 概率论与统计学<br>	** 过硬的英语实力[英国\美国博士生词汇量水平]<br>	** 操作系统设计、研发、应用能力<br>	** 人工智能<br>	** 数据分析<br>	** 机器学习<br>	** [硬件的使用]<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="实现道路"><a href="#实现道路" class="headerlink" title="实现道路"></a>实现道路</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 从简单到复杂</span><br>	** 先从最基本的个人经历管理系统做起<br>	** 同时打好基础功夫：专业技能、管理能力、准确表达能力、个人素养<br>	** 然后掌握操作系统及其应用<br>	<br>	<br></code></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>突发灵感</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+        <tag>杀戮武器</tag>
+        <tag>战争军事</tag>
       </tags>
   </entry>
   <entry>
@@ -502,28 +529,6 @@
       </tags>
   </entry>
   <entry>
-    <title>I001-战争军事</title>
-    <url>/2021/01/04/I001-%E6%88%98%E4%BA%89%E5%86%9B%E4%BA%8B/</url>
-    <content><![CDATA[<h4 id="克隆另一个自己"><a href="#克隆另一个自己" class="headerlink" title="克隆另一个自己"></a>克隆另一个自己</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如今的我已经接近了曾经的梦想</span><br>	** 初步入门了这个庞大科学的门槛<br>	** 初步掌握了一些基础的学习方法和技巧<br>	** 基础知识仍然不够牢固<br>	<br><span class="hljs-comment">## 需要的知识</span><br>	** 数学分析<br>	** 概率论与统计学<br>	** 过硬的英语实力[英国\美国博士生词汇量水平]<br>	** 操作系统设计、研发、应用能力<br>	** 人工智能<br>	** 数据分析<br>	** 机器学习<br>	** [硬件的使用]<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="实现道路"><a href="#实现道路" class="headerlink" title="实现道路"></a>实现道路</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 从简单到复杂</span><br>	** 先从最基本的个人经历管理系统做起<br>	** 同时打好基础功夫：专业技能、管理能力、准确表达能力、个人素养<br>	** 然后掌握操作系统及其应用<br>	<br>	<br></code></pre></td></tr></table></figure>
-
-
-
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>杀戮武器</tag>
-        <tag>战争军事</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>I004-全球积木竞赛</title>
     <url>/2021/01/08/I004-%E5%85%A8%E7%90%83%E7%A7%AF%E6%9C%A8%E7%AB%9E%E8%B5%9B/</url>
     <content><![CDATA[<h4 id="关于耐性"><a href="#关于耐性" class="headerlink" title="关于耐性"></a>关于耐性</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 像我这样的人如果连持之以恒的努力都做不到，那就真的一无所有了。</span><br></code></pre></td></tr></table></figure>
@@ -538,37 +543,6 @@
       <tags>
         <tag>积木竞赛</tag>
         <tag>耐心与毅力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>I005-高速缓存与调度算法</title>
-    <url>/2021/01/11/I005-%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E4%B8%8E%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/</url>
-    <content><![CDATA[<h4 id="高速缓存"><a href="#高速缓存" class="headerlink" title="高速缓存"></a>高速缓存</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将高速缓存应用到生活与工作中？</span><br>	**在工作学习的过程中建立索引，将索引添加只缓冲区[每次要使用到数据先从缓冲区当中查找]<br>	<span class="hljs-comment">##合理利用局部性原理，对计算机适用的方法，对个人生活也同样适用。</span><br>	<br>	**为每一天、每一周、每个月、每一年开辟一个高速缓冲区<br>		[因为会频繁的在短时间内用到，所以开辟一个缓冲区可以大大提高运行效率]<br>		例如：每天背单词重复的步骤：打开单词书、打开typora、新建文章记录、打开听力材料、打开excel记录-----&gt;能否考虑：我只要做核心的部分：记录背诵的单词--其他部分都不需要我亲自动手。自动完成[包括hexo的部署]<br>		<br>	**每一个重复的流程[多个步骤]，应该都可以由一条指令来完成  [而我只需要专注于最核心的事件]<br>	其他辅助的、必要的、简单重复的程序应该让计算机自己去做。<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将计算机科学中的一门门艺术与设计应用到产品与生活中？</span><br>	局部性原理<br>	高速缓存<br>	进程调度<br>	查找算法<br>	<br>	《计算机科学的艺术 与 -&gt; 生活》<br>	<br>	<br><span class="hljs-comment">## 拓展：如何将其他科学的艺术与设计应用到产品与生活当中？</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>突发灵感</category>
-      </categories>
-      <tags>
-        <tag>缓存与调度</tag>
-        <tag>专业知识的应用</tag>
-        <tag>知行合一</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>I006-伟大的艺术家都是疯子</title>
-    <url>/2021/01/13/I006-%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%83%BD%E6%98%AF%E7%96%AF%E5%AD%90/</url>
-    <content><![CDATA[<h4 id="何故退出"><a href="#何故退出" class="headerlink" title="何故退出"></a>何故退出</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将你在这一门课程上的愤怒完整的转化成另一门课的动力</span><br>	伟大的艺术家都是疯子<br>	例如：因为考试的内容习题练习导致我非常的愤怒，所以将愤怒转化成单词背诵的动力。<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>艺术家与疯子</tag>
-        <tag>在绝望中寻找希望</tag>
       </tags>
   </entry>
   <entry>
@@ -594,16 +568,22 @@
       </tags>
   </entry>
   <entry>
-    <title>R000-史蒂夫</title>
-    <url>/2021/01/19/L000-%E5%8F%B2%E8%92%82%E5%A4%AB-%E4%B9%94%E5%B8%83%E6%96%AF/</url>
-    <content><![CDATA[<h4 id="偏执而又情感丰富的艺术家"><a href="#偏执而又情感丰富的艺术家" class="headerlink" title="偏执而又情感丰富的艺术家"></a>偏执而又情感丰富的艺术家</h4><hr>
+    <title>I005-高速缓存与调度算法</title>
+    <url>/2021/01/11/I005-%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E4%B8%8E%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/</url>
+    <content><![CDATA[<h4 id="高速缓存"><a href="#高速缓存" class="headerlink" title="高速缓存"></a>高速缓存</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将高速缓存应用到生活与工作中？</span><br>	**在工作学习的过程中建立索引，将索引添加只缓冲区[每次要使用到数据先从缓冲区当中查找]<br>	<span class="hljs-comment">##合理利用局部性原理，对计算机适用的方法，对个人生活也同样适用。</span><br>	<br>	**为每一天、每一周、每个月、每一年开辟一个高速缓冲区<br>		[因为会频繁的在短时间内用到，所以开辟一个缓冲区可以大大提高运行效率]<br>		例如：每天背单词重复的步骤：打开单词书、打开typora、新建文章记录、打开听力材料、打开excel记录-----&gt;能否考虑：我只要做核心的部分：记录背诵的单词--其他部分都不需要我亲自动手。自动完成[包括hexo的部署]<br>		<br>	**每一个重复的流程[多个步骤]，应该都可以由一条指令来完成  [而我只需要专注于最核心的事件]<br>	其他辅助的、必要的、简单重复的程序应该让计算机自己去做。<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 如何将计算机科学中的一门门艺术与设计应用到产品与生活中？</span><br>	局部性原理<br>	高速缓存<br>	进程调度<br>	查找算法<br>	<br>	《计算机科学的艺术 与 -&gt; 生活》<br>	<br>	<br><span class="hljs-comment">## 拓展：如何将其他科学的艺术与设计应用到产品与生活当中？</span><br></code></pre></td></tr></table></figure>
+
 ]]></content>
       <categories>
-        <category>人物周刊</category>
+        <category>突发灵感</category>
       </categories>
       <tags>
-        <tag>人物周刊</tag>
-        <tag>乔布斯</tag>
+        <tag>缓存与调度</tag>
+        <tag>专业知识的应用</tag>
+        <tag>知行合一</tag>
       </tags>
   </entry>
   <entry>
@@ -612,6 +592,18 @@
     <content><![CDATA[<h4 id="商业计划"><a href="#商业计划" class="headerlink" title="商业计划"></a>商业计划</h4><hr>
 <p>从传记阅读到个人成长，能否将传记阅读衍生为一种独特的成长模式？通过分析具体的历史人物，反思自我、阅读自我、替身自我。</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>I006-伟大的艺术家都是疯子</title>
+    <url>/2021/01/13/I006-%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%83%BD%E6%98%AF%E7%96%AF%E5%AD%90/</url>
+    <content><![CDATA[<h4 id="何故退出"><a href="#何故退出" class="headerlink" title="何故退出"></a>何故退出</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将你在这一门课程上的愤怒完整的转化成另一门课的动力</span><br>	伟大的艺术家都是疯子<br>	例如：因为考试的内容习题练习导致我非常的愤怒，所以将愤怒转化成单词背诵的动力。<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>艺术家与疯子</tag>
+        <tag>在绝望中寻找希望</tag>
+      </tags>
   </entry>
   <entry>
     <title>K001-考研经验专栏</title>
@@ -689,18 +681,16 @@
       </tags>
   </entry>
   <entry>
-    <title>L002-亚里士多德</title>
-    <url>/2021/01/19/L002-%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7/</url>
-    <content><![CDATA[<h4 id="泛读篇"><a href="#泛读篇" class="headerlink" title="泛读篇"></a>泛读篇</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">求知是人类的本性。<br>即使并无实用，人们总爱好感觉，而在诸多感觉中，尤重视觉。<br></code></pre></td></tr></table></figure>
-
+    <title>R000-史蒂夫</title>
+    <url>/2021/01/19/L000-%E5%8F%B2%E8%92%82%E5%A4%AB-%E4%B9%94%E5%B8%83%E6%96%AF/</url>
+    <content><![CDATA[<h4 id="偏执而又情感丰富的艺术家"><a href="#偏执而又情感丰富的艺术家" class="headerlink" title="偏执而又情感丰富的艺术家"></a>偏执而又情感丰富的艺术家</h4><hr>
 ]]></content>
       <categories>
         <category>人物周刊</category>
       </categories>
       <tags>
         <tag>人物周刊</tag>
-        <tag>亚里士多德</tag>
+        <tag>乔布斯</tag>
       </tags>
   </entry>
   <entry>
@@ -713,6 +703,21 @@
       <tags>
         <tag>人物周刊</tag>
         <tag>菲尔-奈特</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>L002-亚里士多德</title>
+    <url>/2021/01/19/L002-%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7/</url>
+    <content><![CDATA[<h4 id="泛读篇"><a href="#泛读篇" class="headerlink" title="泛读篇"></a>泛读篇</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">求知是人类的本性。<br>即使并无实用，人们总爱好感觉，而在诸多感觉中，尤重视觉。<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>人物周刊</category>
+      </categories>
+      <tags>
+        <tag>人物周刊</tag>
+        <tag>亚里士多德</tag>
       </tags>
   </entry>
   <entry>
@@ -792,18 +797,6 @@
       </tags>
   </entry>
   <entry>
-    <title>L007-王石</title>
-    <url>/2021/01/19/L007-%E7%8E%8B%E7%9F%B3/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>人物周刊</category>
-      </categories>
-      <tags>
-        <tag>人物周刊</tag>
-        <tag>王石</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>L008-尼采</title>
     <url>/2021/01/19/L008-%E5%B0%BC%E9%87%87/</url>
     <content><![CDATA[]]></content>
@@ -813,6 +806,30 @@
       <tags>
         <tag>人物周刊</tag>
         <tag>尼采</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>L010-爱因斯坦</title>
+    <url>/2021/01/19/L010-%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>人物周刊</category>
+      </categories>
+      <tags>
+        <tag>人物周刊</tag>
+        <tag>爱因斯坦</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>L007-王石</title>
+    <url>/2021/01/19/L007-%E7%8E%8B%E7%9F%B3/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>人物周刊</category>
+      </categories>
+      <tags>
+        <tag>人物周刊</tag>
+        <tag>王石</tag>
       </tags>
   </entry>
   <entry>
@@ -855,18 +872,6 @@
       <tags>
         <tag>数学建模</tag>
         <tag>数模资料</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>L010-爱因斯坦</title>
-    <url>/2021/01/19/L010-%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>人物周刊</category>
-      </categories>
-      <tags>
-        <tag>人物周刊</tag>
-        <tag>爱因斯坦</tag>
       </tags>
   </entry>
   <entry>
@@ -1384,35 +1389,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R011-演讲的艺术</title>
-    <url>/2020/12/18/R011-%E6%BC%94%E8%AE%B2%E7%9A%84%E8%89%BA%E6%9C%AF/</url>
-    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>演讲的艺术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R012-软工知识点梳理</title>
-    <url>/2020/12/23/R012-%E8%BD%AF%E5%B7%A5%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86/</url>
-    <content><![CDATA[<h4 id="软工知识点梳理"><a href="#软工知识点梳理" class="headerlink" title="软工知识点梳理"></a>软工知识点梳理</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 梳理了考试和学习的重点</span><br>	**<br>	**<br><br><span class="hljs-comment">## 分析著名的缺乏测试项目</span><br>	** 爱国者导弹防御系统<br>	** 温州动车事故[2011]<br>	** <br><br><span class="hljs-comment">## 从敏捷软件开发到项目管理、从软件测试到DevOps</span><br>	**是否安装软件测试工具<br>	**是否开始学习DevOps<br><br><span class="hljs-comment">## 灵感的来源：</span><br>	** 元素周期表<br>	** 全世界、所有大学、所有专业的培养计划<br>	** 对人类社会产生重大深远影响的书籍<br>	<br><span class="hljs-comment">## 软工资料地址</span><br>	**[LINK] - [http://124.160.107.91:10001/SoftEng/SitePages/Home.aspx]<br>	**ID: SEI\189051042<br>	**PW: 189051042@hdu.com<br>	<br><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>软件工程</tag>
-        <tag>Xmind</tag>
-        <tag>灵感</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R011-大学之路II</title>
     <url>/2021/03/31/R011-%E5%A4%A7%E5%AD%A6%E4%B9%8B%E8%B7%AFII/</url>
     <content><![CDATA[<h4 id="大学之路"><a href="#大学之路" class="headerlink" title="大学之路"></a>大学之路</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 回到问题的开始：为什么要读大学？</span><br><br></code></pre></td></tr></table></figure>
@@ -1442,6 +1418,35 @@
 <h5 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">https://wenku.baidu.com/view/9c308522793e0912a21614791711cc7931b7780e.html // 斯坦福大学专业培养计划分析<br><br><br><br><br></code></pre></td></tr></table></figure>
 
 ]]></content>
+  </entry>
+  <entry>
+    <title>R011-演讲的艺术</title>
+    <url>/2020/12/18/R011-%E6%BC%94%E8%AE%B2%E7%9A%84%E8%89%BA%E6%9C%AF/</url>
+    <content><![CDATA[<h4 id="奇迹魔法师"><a href="#奇迹魔法师" class="headerlink" title="奇迹魔法师"></a>奇迹魔法师</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 如何清晰的、令人信服的阐述观点?<br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br><span class="hljs-comment">	**</span><br>## 重量人物<br><span class="hljs-comment">	**Mike Wallace		《你我之间》	  --</span><br><span class="hljs-comment">	**Ben Rosen			《IT史记》	   --Compaq</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>演讲的艺术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R012-软工知识点梳理</title>
+    <url>/2020/12/23/R012-%E8%BD%AF%E5%B7%A5%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86/</url>
+    <content><![CDATA[<h4 id="软工知识点梳理"><a href="#软工知识点梳理" class="headerlink" title="软工知识点梳理"></a>软工知识点梳理</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 梳理了考试和学习的重点</span><br>	**<br>	**<br><br><span class="hljs-comment">## 分析著名的缺乏测试项目</span><br>	** 爱国者导弹防御系统<br>	** 温州动车事故[2011]<br>	** <br><br><span class="hljs-comment">## 从敏捷软件开发到项目管理、从软件测试到DevOps</span><br>	**是否安装软件测试工具<br>	**是否开始学习DevOps<br><br><span class="hljs-comment">## 灵感的来源：</span><br>	** 元素周期表<br>	** 全世界、所有大学、所有专业的培养计划<br>	** 对人类社会产生重大深远影响的书籍<br>	<br><span class="hljs-comment">## 软工资料地址</span><br>	**[LINK] - [http://124.160.107.91:10001/SoftEng/SitePages/Home.aspx]<br>	**ID: SEI\189051042<br>	**PW: 189051042@hdu.com<br>	<br><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>软件工程</tag>
+        <tag>Xmind</tag>
+        <tag>灵感</tag>
+      </tags>
   </entry>
   <entry>
     <title>R013-组成原理笔记</title>
@@ -1554,16 +1559,16 @@
       </categories>
   </entry>
   <entry>
-    <title>R016-NULL</title>
-    <url>/2020/12/24/R016-NULL/</url>
+    <title>R017-NULL</title>
+    <url>/2020/12/27/R017-NULL/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
   </entry>
   <entry>
-    <title>R017-NULL</title>
-    <url>/2020/12/27/R017-NULL/</url>
+    <title>R016-NULL</title>
+    <url>/2020/12/24/R016-NULL/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>日常记录</category>
@@ -9243,6 +9248,13 @@
       </tags>
   </entry>
   <entry>
+    <title>R077-Excel在对抗遗忘中的使用</title>
+    <url>/2021/03/21/R077-Excel%E5%9C%A8%E5%AF%B9%E6%8A%97%E9%81%97%E5%BF%98%E4%B8%AD%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<h4 id="根据艾宾浩斯曲线提高记忆效率"><a href="#根据艾宾浩斯曲线提高记忆效率" class="headerlink" title="根据艾宾浩斯曲线提高记忆效率"></a>根据艾宾浩斯曲线提高记忆效率</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## link</span><br>https://baijiahao.baidu.com/s?id=1634214172896557681&amp;wfr=spider&amp;<span class="hljs-keyword">for</span>=pc<br><br><br><span class="hljs-comment">## got record</span><br><br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
     <title>R078-软件测试基础02</title>
     <url>/2021/03/22/R078-%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%8002/</url>
     <content><![CDATA[<h4 id="课前回顾"><a href="#课前回顾" class="headerlink" title="课前回顾"></a>课前回顾</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 完全测试是不可能的</span><br>	<br>		<br><span class="hljs-comment">## 只能说没有测试出来缺陷，不能说没有缺陷</span><br><br><span class="hljs-comment">## 虫子窝</span><br><br><span class="hljs-comment">## 杀虫剂现象</span><br><br><span class="hljs-comment">## 并非所有缺陷都要修复</span><br><br><span class="hljs-comment">## 难以说清的软件缺陷</span><br></code></pre></td></tr></table></figure>
@@ -9293,13 +9305,6 @@
     <title>R079-李永乐线性代数导学</title>
     <url>/2021/03/22/R079-%E6%9D%8E%E6%B0%B8%E4%B9%90%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%AF%BC%E5%AD%A6/</url>
     <content><![CDATA[<h4 id="线性代数"><a href="#线性代数" class="headerlink" title="线性代数"></a>线性代数</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 考试大纲</span><br>	**行列式、矩阵、向量、方程组、特征值、二次型<br>	**2选择 1填空 1解答<br>	**30分<br>	<br>	&gt; 空间解析几何<br>	<br><span class="hljs-comment">## 时间一晃而过</span><br><br><br></code></pre></td></tr></table></figure>
-
-]]></content>
-  </entry>
-  <entry>
-    <title>R077-Excel在对抗遗忘中的使用</title>
-    <url>/2021/03/21/R077-Excel%E5%9C%A8%E5%AF%B9%E6%8A%97%E9%81%97%E5%BF%98%E4%B8%AD%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
-    <content><![CDATA[<h4 id="根据艾宾浩斯曲线提高记忆效率"><a href="#根据艾宾浩斯曲线提高记忆效率" class="headerlink" title="根据艾宾浩斯曲线提高记忆效率"></a>根据艾宾浩斯曲线提高记忆效率</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## link</span><br>https://baijiahao.baidu.com/s?id=1634214172896557681&amp;wfr=spider&amp;<span class="hljs-keyword">for</span>=pc<br><br><br><span class="hljs-comment">## got record</span><br><br></code></pre></td></tr></table></figure>
 
 ]]></content>
   </entry>
@@ -10186,21 +10191,6 @@
 </tr>
 </tbody></table>
 ]]></content>
-  </entry>
-  <entry>
-    <title>R082-Ubuntu18-20网络故障</title>
-    <url>/2021/03/27/R082-Ubuntu18-20%E7%BD%91%E7%BB%9C%E6%95%85%E9%9A%9C/</url>
-    <content><![CDATA[<h4 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## linux系列的操作系统在VMware中使用时，网络连接标识显示问号</span><br><br><span class="hljs-comment">## 重启或者重装均无效，网络配置无效，同时，同样在虚拟机目录中的win10系列系统网络可以正常使用</span><br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 重置VMware网络配置即可</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>Ubuntu</tag>
-        <tag>网络修复</tag>
-      </tags>
   </entry>
   <entry>
     <title>R081-topwords-AN</title>
@@ -11122,6 +11112,21 @@
 ]]></content>
   </entry>
   <entry>
+    <title>R082-Ubuntu18-20网络故障</title>
+    <url>/2021/03/27/R082-Ubuntu18-20%E7%BD%91%E7%BB%9C%E6%95%85%E9%9A%9C/</url>
+    <content><![CDATA[<h4 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## linux系列的操作系统在VMware中使用时，网络连接标识显示问号</span><br><br><span class="hljs-comment">## 重启或者重装均无效，网络配置无效，同时，同样在虚拟机目录中的win10系列系统网络可以正常使用</span><br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 重置VMware网络配置即可</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>Ubuntu</tag>
+        <tag>网络修复</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R083-软件测试03-白盒测试</title>
     <url>/2021/03/29/R083-%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%9503-%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<h4 id="课前回顾"><a href="#课前回顾" class="headerlink" title="课前回顾"></a>课前回顾</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 黑盒测试-测试用例</span><br>	**等价类划分法<br>		&gt; 整合用例表<br>		<br>	**场景法<br>		&gt; 场景务必符合实际<br>		&gt; 措辞务必严谨<br>		<br>		<br></code></pre></td></tr></table></figure>
@@ -11195,18 +11200,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>S001-牧师与出租车司机</title>
-    <url>/2021/01/18/S001-%E7%89%A7%E5%B8%88%E4%B8%8E%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA/</url>
-    <content><![CDATA[<h4 id="司机与牧师"><a href="#司机与牧师" class="headerlink" title="司机与牧师"></a>司机与牧师</h4><hr>
-<p>​        一位牧师礼拜天要去讲道，出门打了一辆出租车。牧师刚上车要去的地点还没说完，司机就一脚油门冲了出去，牧师吓了一跳，只见司机开的车速越来越高，一路横冲直撞，又是逆行又是闯红灯，牧师劝说司机，司机反而开的更快了。于是牧师只好不停的向上帝祷告，然而，悲剧终于还是发生了……在一个十字路口这辆可怜的出租车被大卡车迎面撞上。</p>
-<p>​        司机和牧师都上了天堂，到了天堂，一位天使带着他们去领取自己的奖赏，牧师被带到一个破烂不堪的小木屋前。“这是你的房子。”天使说，然后又把司机带到旁边的一栋豪华别墅前，“这是你的房子。”天使对司机说。牧师感到非常惊讶，就问天使：“为什么我辛辛苦苦半生传道，得到的回报却不如这个司机呢？”  天使回答说：“也许是这样，但是你主持礼拜时人们都在睡觉，而这个司机在为人们服务时，人人都在向上帝祈祷。”</p>
-]]></content>
-      <tags>
-        <tag>人生故事</tag>
-        <tag>牧师与司机</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>T001-专业书单</title>
     <url>/2021/01/06/T001-%E4%B8%93%E4%B8%9A%E4%B9%A6%E5%8D%95/</url>
     <content><![CDATA[<h4 id="良心出品"><a href="#良心出品" class="headerlink" title="良心出品"></a>良心出品</h4><hr>
@@ -11219,6 +11212,18 @@
       <tags>
         <tag>计科专业书单</tag>
         <tag>书籍下载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>S001-牧师与出租车司机</title>
+    <url>/2021/01/18/S001-%E7%89%A7%E5%B8%88%E4%B8%8E%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA/</url>
+    <content><![CDATA[<h4 id="司机与牧师"><a href="#司机与牧师" class="headerlink" title="司机与牧师"></a>司机与牧师</h4><hr>
+<p>​        一位牧师礼拜天要去讲道，出门打了一辆出租车。牧师刚上车要去的地点还没说完，司机就一脚油门冲了出去，牧师吓了一跳，只见司机开的车速越来越高，一路横冲直撞，又是逆行又是闯红灯，牧师劝说司机，司机反而开的更快了。于是牧师只好不停的向上帝祷告，然而，悲剧终于还是发生了……在一个十字路口这辆可怜的出租车被大卡车迎面撞上。</p>
+<p>​        司机和牧师都上了天堂，到了天堂，一位天使带着他们去领取自己的奖赏，牧师被带到一个破烂不堪的小木屋前。“这是你的房子。”天使说，然后又把司机带到旁边的一栋豪华别墅前，“这是你的房子。”天使对司机说。牧师感到非常惊讶，就问天使：“为什么我辛辛苦苦半生传道，得到的回报却不如这个司机呢？”  天使回答说：“也许是这样，但是你主持礼拜时人们都在睡觉，而这个司机在为人们服务时，人人都在向上帝祈祷。”</p>
+]]></content>
+      <tags>
+        <tag>人生故事</tag>
+        <tag>牧师与司机</tag>
       </tags>
   </entry>
   <entry>
@@ -11539,6 +11544,171 @@
       <tags>
         <tag>软件工程考点梳理</tag>
         <tag>CMMI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R056-组成原理复习专栏</title>
+    <url>/2021/01/11/R056-%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%A4%8D%E4%B9%A0%E4%B8%93%E6%A0%8F/</url>
+    <content><![CDATA[<h4 id="简答题："><a href="#简答题：" class="headerlink" title="简答题："></a>简答题：</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 系统的层次结构：[硬件与软件的交界处] 跨越计算机系统-硬件逻辑单元</span><br>	我们在计算机的哪个层次<br><br><br><span class="hljs-comment">## 计算机系统的基本组成：</span><br>	计算机系统包括 硬件系统和软件系统，其中，硬件系统包括：运算器、控制器、存储器、输入设备和输出设备五大基本部件。 软件系统分为系统软件和应用软件两大类。 系统软件用包括操作系统、计算机语言处理程序、服务性程序、数据库管理系统和网络软件等。<br>	<br><span class="hljs-comment">## 计算机性能指标：</span><br>	CPI-Cycles Per Instruction<br>	**性能的定义：一般用程序的响应时间或系统的吞吐率表示机器或系统的整体性能。<br>	**CPU的性能测量[用户程序的CPU时间]；一般把程序的响应时间分成CPU时间和等待时间，CPU时间又分成用户CPU时间和系统CPU时间。 -略[详情参考：E:\home\shadow\hziee\2-COCP\docx\9-PT_PPT\第一章 计算机系统概述.ppt&#123;P93&#125;]<br><br>	<br><span class="hljs-comment">## 冯-诺伊曼结构的特点：</span><br>	**1. 由运算器、控制器、存储器、输入设备和输出设备五大基本部件组成<br>	**2. 基本部件功能：<br>		*存储器不仅能存放数据，而且也能存放指令，形式上两者没有区别，但计算机应能区分数据还是指令；<br>		*控制器应能自动执行指令；<br>		*运算器应能进行加减乘除四种基本算术运算，并且也能进行一些逻辑运算和附加运算。<br>		*输入设备和输出设备用于操作人员和主机进行通信。<br>	**3. 内部以二进制形式表示指令和数据。每条指令由操作码和地址码两部分组成。操作码指出操作类型，地址码指出操作数的地址。由一串指令组成程序。<br>	**4. 采用“存储程序”工作方式<br>	<br><span class="hljs-comment">## 电路图：</span><br>	P108<br>	P115<br>	P119<br><br><br><span class="hljs-comment">## 存储器的层次结构：</span><br>	|     存取时间     |        名称           |           典型容量      |<br>			1ns				寄存器							&lt;1KB<br>			2ns				高速缓存						4MB<br>			10ns			主存储器[RAM&amp;ROM]				500MB-4GB<br>			<br>			10ms			辅助存储器[硬盘]			  	40-500G<br>			10s				海量后备存储器[磁带库/光盘等]  	10-100TB<br><br><span class="hljs-comment">## 存储器的组成单元：</span><br>	** 六管静态MOS管存储元件<br>	** 单管动态MOS管存储单元<br><br>	<span class="hljs-comment">#组成：存储器是由存储体、地址寄存器、地址译码驱动电路、读/写控制逻辑、数据寄存器、读写驱动器等六个部分组成</span><br>	**存储体是存储器的核心，是存储单元的集合体<br>	**地址寄存器用于存放CPU访问存储单元的地址，经译码驱动后指向相应的存储单元。<br>	**地址译码器将地址总线输入的地址码转换成与其对应的译码输出线上的高电平或低电平信号，以表示选中了某一单元，并由驱动器提供驱动电流去驱动相应的读/写电路，完成对被选中单元的读/写操作。<br>	**4. 器用以完成对被选中单元中各位的读/写操作，包括读出放大器、写入电路和读/写控制电路。<br>	**5. 用于暂时存放从存储单元读出的数据，或从CPU输出I/O端口输入的要写入存储器的数据。<br>	**6. 逻辑接收来自CPU的启动、片选、读/写及清除命令，经控制电路综合处理后，发出一组时序信号来控制存储器<br><br><br><span class="hljs-comment">## 存储器的性能指标：</span><br>	** 容量<br>	** 价格<br>	** 速度<br> 	<span class="hljs-comment">##主存的性能指标：存储容量、存取时间、存储周期</span><br> 	<br><span class="hljs-comment">## SRAM和DRAM的主要异同点： SRAM 			DRAM</span><br>	** 使用的MOS管  : SRAM使用的MOS管多    DRAM使用的MOS管少<br>	** 功耗与集成度  : 	功耗高，集成度低	功耗低，集成度高<br>	** 是否需要刷新  : 	   否				是<br>	** 读写速度      : 		快				 慢<br>----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 指令包括哪几个部分？各表示什么含义？举例说明</span><br>	** 包括操作码和地址码。操作码是该指令主要完成的操作。地址码是用来寻找执行指令所需要的操作数。如：指令MOV AL,[SI+1000H]<br>	<br><span class="hljs-comment">## 局部性原理：</span><br>	在较短的时间内，程序产生的地址往往集中在一个很小的范围内，这种现象被称为程序访问的局部性：空间局部性、时间局部性<br>	**原因：指令按序存放，地址连续，循环程序段或子程序段重复执行。 - 数据连续存放，数组元素重复，按序访问。<br>	<br>	**为什么引入Cache会加快访存速度？<br>		<span class="hljs-comment">#在CPU和主存之间设置一个快速小容量的存储器，其中总是存放最活跃的程序和数据，由于程序访问局部性的特征，大多数情况下，CPU能直接从整个高速缓存中取得指令和数据，而不必访问主存。</span><br><br><span class="hljs-comment">## Cache的工作原理</span><br>	cache是一种小容量高速缓冲存储器，由快速的SRAM组成，直接制作在CPU芯片内，速度几乎与CPU一样快。在CPU和主存之间设置cache，总是把主存中频饭访问的活跃程序和数据块复制到cache中。由于程序访问的局部性，CPU几乎总能从cache中取得指令和数据，而不必访问主存。<br>	为便于cache和主存间交换信息，cache和主存空间都被划分为相等的区域。主存中的区域称为块（主存块），它是cache和主存之间信息交换的单位；cache中存放的一个主存块的区域称为行或槽。因此，主存块大小等于cache行中数据区大小。<br>	[https://zhuanlan.zhihu.com/p/102293437?utm_source=qq]<br><br><br><span class="hljs-comment">## cache的替换算法</span><br>	** 先进先出算法FIFO<br>	** 最近最少用算法LRU<br>	** 最不经常用算法LFU<br>	** 随机替换算法<br>	<br>------------------------------------------------------------------------------<br><span class="hljs-comment">## cache行与主存块之间的映射方式</span><br>	**直接映射<br>		直接映射也叫模映射，其映射关系如下：<br>		cache行号 = 主存块号 mod cache行数<br>		<span class="hljs-comment">## 主存地址被划分为三段： | 标记  |  cache行号[也称行索引] | 块内地址 |</span><br>		<br>		<br>		**计算：<br>			1-把cache容量转为 X行*Y字[或字节]/行<br>			2-主存的每X块和cache的Y行一一对应，所以可以将主存的每个X块看成一个块群[组]，因而可以得到主存的地址空间划分: M 字[或字节] = N 块 * Y 字[或字节]/块 = t * c * b	  M 字[字节] = &#123;T块群 * C块/块群 * B字[字节]/块&#125; TAG COLUMN BLOCKADDR<br>		<br>	**全相联映射<br>		<br>	**组相联映射<br>		<br>		<br>		<span class="hljs-comment">## 主存地址被划分为三段： | 标记  |  cache组号[也称组索引] | 块内地址 |</span><br>		<span class="hljs-comment">## Cache组号=主存块号 mod Cache组数</span><br>		<br><br>	<span class="hljs-comment">##1. 计算主存大小[以bit为单位：(2^地址宽度)*数据宽度]，计算地址宽度[主存除以编址宽度[字宽度或者字节宽度]]</span><br>	<span class="hljs-comment">##2. 计算cache大小[以bit为单位]，计算cache块的宽度[块的位数/编址宽度] 即为块内地址</span><br>	<span class="hljs-comment">##3. 计算cache的组数：组数 = cache容量[bit]/cache块大小[bit]/每组块数，即为cache组号位数</span><br>	<span class="hljs-comment">##4. 计算1234H映射到cache的哪一组，</span><br>			**1. 十六进制转二进制，高位补零凑到地址位宽。<br>			**2. 从后向前，按位划分：块内地址位宽 -&gt; cache组号 -&gt; 标识<br>			**3. 把对应的cache组号转为十进制<br><br><br><br><br><br><br>------------------------------------------------------------------------------<br><span class="hljs-comment">## 如何计算地址总线、数据总线、控制总线的位数？</span><br>	**地址总线看容量大小，如1K的芯片需要的地址线是 2^10 的指数10，10就是地址线的根数；数据总线看位宽，如8位即需要8根数据线，如果是两个芯片组成，那么每个芯片占4根数据线。<br><br><span class="hljs-comment">## 字拓展</span><br>	**利用1K*8位的DRAM芯片，设计2K*8位的DRAM存储器，问需要芯片、地址线、数据线的数量各为多少？<br>	答：芯片数：2K*8 / 1K*8 = 2片；			地址线：2K = 2^11; 需要11根；  	数据线：8位需要8根。<br>	如何与CPU连接？<br><br><span class="hljs-comment">## 位拓展</span><br>	**利用1K*4位的SRAM芯片，设计一个容量为1K*8位的SRAM存储器，需要芯片、地址线、数据线各多少根？<br>	答： 芯片数：1K*8/1K*4 = 2片； 			地址线：1K = 2^10 ; 需要10根；	 数据线： 8位 / 2 片 = 4 位/片<br>	<br><span class="hljs-comment">## 字位同时拓展</span><br>	**1. 计算芯片数<br>	**2. 计算地址线[地址线的多余部分用来做译码控制信号-选中某N片组成的位拓展]<br>	**3. 计算数据线<br>	**4. 连线[ 地址线、控制线[~WE][~CS]、数据线]<br><br><br>[https://www.cnblogs.com/jev-0987/p/13561087.html] - 拓展及连线<br>------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 控制器的组成：</span><br>	**控制器主要包含指令译码器，其输入的是指令操作码OP，输出的是控制信号。<br>	**1. 程序计数器<br>	**2. 指令寄存器<br>	**3. 指令译码器<br>	**4. 操作控制信号形成部件<br>	**5. 时序信号产生器<br>	**6. 地址寄存器<br>    **7. 数据寄存器<br>	<br>	<br>	<br><span class="hljs-comment">## 浮点数的格式化表示与范围</span><br><br>		<br>------------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
+
+<h5 id="CISC与RISC的对比"><a href="#CISC与RISC的对比" class="headerlink" title="CISC与RISC的对比"></a>CISC与RISC的对比</h5><hr>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>CISC</th>
+<th></th>
+<th>RISC</th>
+<th></th>
+<th>后RISC</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>指令数目</td>
+<td>几百个</td>
+<td></td>
+<td>小于100个</td>
+<td>几百个</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>寻址方式</td>
+<td>复杂</td>
+<td></td>
+<td>简单</td>
+<td></td>
+<td>简单</td>
+<td></td>
+</tr>
+<tr>
+<td>指令周期</td>
+<td>变化很大</td>
+<td></td>
+<td>大部分单周期</td>
+<td>大部分单周期</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>指令长度</td>
+<td>变长</td>
+<td></td>
+<td>定长</td>
+<td></td>
+<td>简单的变长</td>
+<td></td>
+</tr>
+<tr>
+<td>程序所需指令数</td>
+<td>少</td>
+<td></td>
+<td>多</td>
+<td></td>
+<td>多</td>
+<td></td>
+</tr>
+<tr>
+<td>寄存器数目</td>
+<td>少</td>
+<td></td>
+<td>多</td>
+<td></td>
+<td>多</td>
+<td></td>
+</tr>
+<tr>
+<td>是否利于流水线</td>
+<td>不利于</td>
+<td></td>
+<td>利于</td>
+<td></td>
+<td>利于</td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<h4 id="cache映射"><a href="#cache映射" class="headerlink" title="cache映射"></a>cache映射</h4><hr>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>全相联映射</th>
+<th></th>
+<th>直接映射</th>
+<th></th>
+<th>组相联映射</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cache利用率</td>
+<td>高</td>
+<td></td>
+<td>低</td>
+<td></td>
+<td>两者之间</td>
+<td></td>
+</tr>
+<tr>
+<td>块冲突率</td>
+<td>低</td>
+<td></td>
+<td>高</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>淘汰算法</td>
+<td>复杂</td>
+<td></td>
+<td>简单</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>应用场合</td>
+<td>小容量cache</td>
+<td></td>
+<td>大容量cache</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 数据表示</span><br>	**补码特性 - 模运算<br>	**补码的加减法运算<br>		<span class="hljs-comment">#</span><br>	浮点数的规格化表示[P43-P36]<br>	<br>	**<br></code></pre></td></tr></table></figure>
+
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 存储器层次结构</span><br>	**存储器分类：<br>		<span class="hljs-comment">#按工作性质</span><br>			*随机存取存储器[RAM]<br>				- 每个单元读写的时间一样，且与各单元所在的位置无关。如：内存<br>			*顺序存取存储器[SAM]<br>				- 数据按顺序读入或写出，存取时间长短与信息所在位置有关。如：磁带<br>			*直接存取存储器[DAM]<br>				- 直接定位到读写存储块，在读写数据时按顺序进行。如：磁盘<br>			*相联存储器[CAM]<br>				- 按内容检索到存储位置进行读写。如：快表<br>		<span class="hljs-comment">#按存储介质</span><br>			*半导体存储器<br>			*磁表面存储器<br>			*光存储器<br>		<span class="hljs-comment">#按信息的可更改性</span><br>			*只读存储器<br>			*读写存储器<br>		<span class="hljs-comment">#按断电后信息的可保存性分类</span><br>			*非易失性存储器<br>			*易失性存储器<br>		<span class="hljs-comment">#按功能/容量/速度/位置分类</span><br>			*寄存器<br>			*高速缓存<br>			*内存<br>			*外存<br>			<br><span class="hljs-comment">## 外存与内存的比较</span><br>	**速度：外存速度慢，内存速度快<br>	**成本：外存成本低，容量大；内存成本高，容量小<br>	**连接：外存不与CPU直接连接；内存直接与CPU连接<br>	**易失性：外存属于非易失性存储器，内存是易失性存储器<br>	<br><span class="hljs-comment">## 主存的性能指标：</span><br>	**存储容量<br>	**存储时间<br>	**存储周期<br>	**存储带宽<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 局部性原理：</span><br>	在较短的时间内，程序产生的地址往往集中在一个很小的范围内，这种现象被称为程序访问的局部性：空间局部性、时间局部性<br>	**原因：指令按序存放，地址连续，循环程序段或子程序段重复执行。 - 数据连续存放，数组元素重复，按序访问。<br>	<br>	**为什么引入Cache会加快访存速度？<br>		<span class="hljs-comment">#在CPU和主存之间设置一个快速小容量的存储器，其中总是存放最活跃的程序和数据，由于程序访问局部性的特征，大多数情况下，CPU能直接从整个高速缓存中取得指令和数据，而不必访问主存。</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## Cache</span><br>	Cache是一种小容量高速缓冲存储器，它由SRAM组成。<br>	Cache直接制作在CPU芯片内，速度几乎与CPU一样快。<br>	程序运行时，CPU使用的一部分数据/指令会预先成批拷贝在Cache中，Cache的内容是主存中部分内容的映像。<br>	当CPU需要从内存读写数据或者指令时，先检查Cache，如果有就直接从Cache中读取，而不用访问主存。<br><br><span class="hljs-comment">## Cache的实现</span><br>	*如何分块？<br>	*主存和Cache如何映射？<br>	*Cache已满时怎么办？<br>	*写数据时怎样保证Cache和MM的一致性？<br>	*如何根据主存地址访问到Cache中的数据？<br>	<br>[E:\home\shadow\hziee\2-COCP\docx\9-PT_PPT\第七章 层次结构存储系统.ppt&#123;P57&#125;]<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<hr>
+<hr>
+<p>:amphora:</p>
+<hr>
+<h2 id="真题专栏"><a href="#真题专栏" class="headerlink" title="真题专栏"></a>真题专栏</h2><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 补码的表示范围</span><br><br><span class="hljs-comment">## 补码运算的溢出判断</span><br><br><span class="hljs-comment">## 操作数的寻址方式和速度</span><br><br><span class="hljs-comment">## 机器周期的计算</span><br>	**[https://zhuanlan.zhihu.com/p/90829922]<br>	**完成一个基本操作所需要的时间称为机器周期。通常用内存中读取一个指令字的最短时间来规定CPU周期<br>	<br><span class="hljs-comment">## 寻址范围</span><br>	**存储容量的 位 数除以 机器字长，单位是G/M/K [不是GB/MB/KB]<br>	如机器字长为32位，存储容量是4MB，则寻址范围是: 4*1024*1024*8 / 32 = 1M<br><span class="hljs-comment">## 机器字长</span><br>	**机器字长：CPU一次能处理数据的位数，通常与CPU的寄存器位数有关<br><span class="hljs-comment">## Cache</span><br><br><br>-----------------------------------------------------------------------------<br><span class="hljs-comment">## 机器指令与微指令</span><br>一、概念不同<br>1、机器指令：机器指令是CPU能直接识别并执行的指令。<br>2、微指令：是指在机器的一个CPU周期中，一组实现一定操作功能的微命令的组合，描述微操作的语句。<br>二、表现格式不同<br>1、机器指令：表现形式是二进制编码。<br>2、微指令：格式分为水平型微指令和垂直型微指令。<br>三、原理不同<br>1、机器指令：机器指令通常由操作码和操作数两部分组成，操作码指出该指令所要完成的操作，即指令的功能，操作数指出参与运算的对象，以及运算结果所存放的位置等。<br>2、微指令：一条机器指令的功能是若干条微指令组成的序列来实现的，即一条机器指令所完成的操作分成若干条微指令来完成，由微指令进行解释和执行，这个微指令序列通常叫做微程序。微指令的编译方法是决定微指令格式的主要因素。<br>四、联系<br>1、一条机器指令对应一个微程序，这个微程序是由若干条微指令构成的。因此，一条机器指令的功能是若干条微指令组成的序列来实现的。简而言之，一条机器指令所完成的操作划分成若干条微指令来完成，由微指令进行解释和执行。<br>2、从指令与微指令，程序与微程序，地址与微地址的一一对应关系上看，前者与内存储器有关，而后者与控制存储器有关，与此相关也有相对应的硬设备。<br>3、一条机器指令对应4个CPU周期，每个CPU周期就对于一条微指令。<br>[https://blog.csdn.net/deniece1/article/details/101782720]<br>-----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 存储周期</span><br>	存储周期，是指主存储器两次启动操作之间需要的最小时间间隔，也称之为主存储器周期时间<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## RISC与CISC的区别</span><br>	**RISC的控制器多采用硬布线方式，以期更快的执行速度，而CISC控制器绝大多数为微程序控制器<br>	**<br>	<br><span class="hljs-comment">## 多体交叉存储器</span><br>	**提高存储器带宽的原因：能进行存储器并行操作<br>	**在不提高存储器效率、不扩展数据通路位数的前提下，通过存储芯片的交叉组织，提高cpu单位时间内访问的数据量，从而缓解快速的cpu与慢速的主存之间的速度差异<br>	<br><span class="hljs-comment">## 汉字库中存放的是汉字的字模</span><br>	<br>	<br>	<br>	<br><span class="hljs-comment">## CISC 与 RISC的特点区别</span><br>	**1、指令系统<br>　　 CISC<br>　　 计算机的指令系统比较丰富，有专用指令来完成特定的功能。因此，处理特殊任务效率较高。<br>　　 RISC<br>　　 设计者把主要精力放在那些经常使用的指令上，尽量使它们具有简单高效的特色。对不常用的功能，常通过组合指令来完成。因此，在RISC 机器上实现特殊功能时，效率可能较低。但可以利用流水技术和超标量技术加以改进和弥补。<br><br><br><br><span class="hljs-comment">## 数据的表示</span><br>	**定点数的表示<br>		<span class="hljs-comment">#进位计数制</span><br>		<span class="hljs-comment">#定点数的二进制编码</span><br>			*原码、补码、移码表示<br>		<span class="hljs-comment">#定点整数的表示</span><br>			*无符号整数、带符号整数<br>	**浮点数格式和表示范围<br>	**浮点数的规格化<br>	**IEEE754浮点数标准<br>		<span class="hljs-comment">#单精度浮点数、双精度浮点数</span><br>		<span class="hljs-comment">#特殊数的表示形式</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>组成原理</tag>
       </tags>
   </entry>
   <entry>
@@ -14063,171 +14233,6 @@
       <tags>
         <tag>词汇爆破</tag>
         <tag>第一次测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R056-组成原理复习专栏</title>
-    <url>/2021/01/11/R056-%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%A4%8D%E4%B9%A0%E4%B8%93%E6%A0%8F/</url>
-    <content><![CDATA[<h4 id="简答题："><a href="#简答题：" class="headerlink" title="简答题："></a>简答题：</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 系统的层次结构：[硬件与软件的交界处] 跨越计算机系统-硬件逻辑单元</span><br>	我们在计算机的哪个层次<br><br><br><span class="hljs-comment">## 计算机系统的基本组成：</span><br>	计算机系统包括 硬件系统和软件系统，其中，硬件系统包括：运算器、控制器、存储器、输入设备和输出设备五大基本部件。 软件系统分为系统软件和应用软件两大类。 系统软件用包括操作系统、计算机语言处理程序、服务性程序、数据库管理系统和网络软件等。<br>	<br><span class="hljs-comment">## 计算机性能指标：</span><br>	CPI-Cycles Per Instruction<br>	**性能的定义：一般用程序的响应时间或系统的吞吐率表示机器或系统的整体性能。<br>	**CPU的性能测量[用户程序的CPU时间]；一般把程序的响应时间分成CPU时间和等待时间，CPU时间又分成用户CPU时间和系统CPU时间。 -略[详情参考：E:\home\shadow\hziee\2-COCP\docx\9-PT_PPT\第一章 计算机系统概述.ppt&#123;P93&#125;]<br><br>	<br><span class="hljs-comment">## 冯-诺伊曼结构的特点：</span><br>	**1. 由运算器、控制器、存储器、输入设备和输出设备五大基本部件组成<br>	**2. 基本部件功能：<br>		*存储器不仅能存放数据，而且也能存放指令，形式上两者没有区别，但计算机应能区分数据还是指令；<br>		*控制器应能自动执行指令；<br>		*运算器应能进行加减乘除四种基本算术运算，并且也能进行一些逻辑运算和附加运算。<br>		*输入设备和输出设备用于操作人员和主机进行通信。<br>	**3. 内部以二进制形式表示指令和数据。每条指令由操作码和地址码两部分组成。操作码指出操作类型，地址码指出操作数的地址。由一串指令组成程序。<br>	**4. 采用“存储程序”工作方式<br>	<br><span class="hljs-comment">## 电路图：</span><br>	P108<br>	P115<br>	P119<br><br><br><span class="hljs-comment">## 存储器的层次结构：</span><br>	|     存取时间     |        名称           |           典型容量      |<br>			1ns				寄存器							&lt;1KB<br>			2ns				高速缓存						4MB<br>			10ns			主存储器[RAM&amp;ROM]				500MB-4GB<br>			<br>			10ms			辅助存储器[硬盘]			  	40-500G<br>			10s				海量后备存储器[磁带库/光盘等]  	10-100TB<br><br><span class="hljs-comment">## 存储器的组成单元：</span><br>	** 六管静态MOS管存储元件<br>	** 单管动态MOS管存储单元<br><br>	<span class="hljs-comment">#组成：存储器是由存储体、地址寄存器、地址译码驱动电路、读/写控制逻辑、数据寄存器、读写驱动器等六个部分组成</span><br>	**存储体是存储器的核心，是存储单元的集合体<br>	**地址寄存器用于存放CPU访问存储单元的地址，经译码驱动后指向相应的存储单元。<br>	**地址译码器将地址总线输入的地址码转换成与其对应的译码输出线上的高电平或低电平信号，以表示选中了某一单元，并由驱动器提供驱动电流去驱动相应的读/写电路，完成对被选中单元的读/写操作。<br>	**4. 器用以完成对被选中单元中各位的读/写操作，包括读出放大器、写入电路和读/写控制电路。<br>	**5. 用于暂时存放从存储单元读出的数据，或从CPU输出I/O端口输入的要写入存储器的数据。<br>	**6. 逻辑接收来自CPU的启动、片选、读/写及清除命令，经控制电路综合处理后，发出一组时序信号来控制存储器<br><br><br><span class="hljs-comment">## 存储器的性能指标：</span><br>	** 容量<br>	** 价格<br>	** 速度<br> 	<span class="hljs-comment">##主存的性能指标：存储容量、存取时间、存储周期</span><br> 	<br><span class="hljs-comment">## SRAM和DRAM的主要异同点： SRAM 			DRAM</span><br>	** 使用的MOS管  : SRAM使用的MOS管多    DRAM使用的MOS管少<br>	** 功耗与集成度  : 	功耗高，集成度低	功耗低，集成度高<br>	** 是否需要刷新  : 	   否				是<br>	** 读写速度      : 		快				 慢<br>----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 指令包括哪几个部分？各表示什么含义？举例说明</span><br>	** 包括操作码和地址码。操作码是该指令主要完成的操作。地址码是用来寻找执行指令所需要的操作数。如：指令MOV AL,[SI+1000H]<br>	<br><span class="hljs-comment">## 局部性原理：</span><br>	在较短的时间内，程序产生的地址往往集中在一个很小的范围内，这种现象被称为程序访问的局部性：空间局部性、时间局部性<br>	**原因：指令按序存放，地址连续，循环程序段或子程序段重复执行。 - 数据连续存放，数组元素重复，按序访问。<br>	<br>	**为什么引入Cache会加快访存速度？<br>		<span class="hljs-comment">#在CPU和主存之间设置一个快速小容量的存储器，其中总是存放最活跃的程序和数据，由于程序访问局部性的特征，大多数情况下，CPU能直接从整个高速缓存中取得指令和数据，而不必访问主存。</span><br><br><span class="hljs-comment">## Cache的工作原理</span><br>	cache是一种小容量高速缓冲存储器，由快速的SRAM组成，直接制作在CPU芯片内，速度几乎与CPU一样快。在CPU和主存之间设置cache，总是把主存中频饭访问的活跃程序和数据块复制到cache中。由于程序访问的局部性，CPU几乎总能从cache中取得指令和数据，而不必访问主存。<br>	为便于cache和主存间交换信息，cache和主存空间都被划分为相等的区域。主存中的区域称为块（主存块），它是cache和主存之间信息交换的单位；cache中存放的一个主存块的区域称为行或槽。因此，主存块大小等于cache行中数据区大小。<br>	[https://zhuanlan.zhihu.com/p/102293437?utm_source=qq]<br><br><br><span class="hljs-comment">## cache的替换算法</span><br>	** 先进先出算法FIFO<br>	** 最近最少用算法LRU<br>	** 最不经常用算法LFU<br>	** 随机替换算法<br>	<br>------------------------------------------------------------------------------<br><span class="hljs-comment">## cache行与主存块之间的映射方式</span><br>	**直接映射<br>		直接映射也叫模映射，其映射关系如下：<br>		cache行号 = 主存块号 mod cache行数<br>		<span class="hljs-comment">## 主存地址被划分为三段： | 标记  |  cache行号[也称行索引] | 块内地址 |</span><br>		<br>		<br>		**计算：<br>			1-把cache容量转为 X行*Y字[或字节]/行<br>			2-主存的每X块和cache的Y行一一对应，所以可以将主存的每个X块看成一个块群[组]，因而可以得到主存的地址空间划分: M 字[或字节] = N 块 * Y 字[或字节]/块 = t * c * b	  M 字[字节] = &#123;T块群 * C块/块群 * B字[字节]/块&#125; TAG COLUMN BLOCKADDR<br>		<br>	**全相联映射<br>		<br>	**组相联映射<br>		<br>		<br>		<span class="hljs-comment">## 主存地址被划分为三段： | 标记  |  cache组号[也称组索引] | 块内地址 |</span><br>		<span class="hljs-comment">## Cache组号=主存块号 mod Cache组数</span><br>		<br><br>	<span class="hljs-comment">##1. 计算主存大小[以bit为单位：(2^地址宽度)*数据宽度]，计算地址宽度[主存除以编址宽度[字宽度或者字节宽度]]</span><br>	<span class="hljs-comment">##2. 计算cache大小[以bit为单位]，计算cache块的宽度[块的位数/编址宽度] 即为块内地址</span><br>	<span class="hljs-comment">##3. 计算cache的组数：组数 = cache容量[bit]/cache块大小[bit]/每组块数，即为cache组号位数</span><br>	<span class="hljs-comment">##4. 计算1234H映射到cache的哪一组，</span><br>			**1. 十六进制转二进制，高位补零凑到地址位宽。<br>			**2. 从后向前，按位划分：块内地址位宽 -&gt; cache组号 -&gt; 标识<br>			**3. 把对应的cache组号转为十进制<br><br><br><br><br><br><br>------------------------------------------------------------------------------<br><span class="hljs-comment">## 如何计算地址总线、数据总线、控制总线的位数？</span><br>	**地址总线看容量大小，如1K的芯片需要的地址线是 2^10 的指数10，10就是地址线的根数；数据总线看位宽，如8位即需要8根数据线，如果是两个芯片组成，那么每个芯片占4根数据线。<br><br><span class="hljs-comment">## 字拓展</span><br>	**利用1K*8位的DRAM芯片，设计2K*8位的DRAM存储器，问需要芯片、地址线、数据线的数量各为多少？<br>	答：芯片数：2K*8 / 1K*8 = 2片；			地址线：2K = 2^11; 需要11根；  	数据线：8位需要8根。<br>	如何与CPU连接？<br><br><span class="hljs-comment">## 位拓展</span><br>	**利用1K*4位的SRAM芯片，设计一个容量为1K*8位的SRAM存储器，需要芯片、地址线、数据线各多少根？<br>	答： 芯片数：1K*8/1K*4 = 2片； 			地址线：1K = 2^10 ; 需要10根；	 数据线： 8位 / 2 片 = 4 位/片<br>	<br><span class="hljs-comment">## 字位同时拓展</span><br>	**1. 计算芯片数<br>	**2. 计算地址线[地址线的多余部分用来做译码控制信号-选中某N片组成的位拓展]<br>	**3. 计算数据线<br>	**4. 连线[ 地址线、控制线[~WE][~CS]、数据线]<br><br><br>[https://www.cnblogs.com/jev-0987/p/13561087.html] - 拓展及连线<br>------------------------------------------------------------------------------<br><br><span class="hljs-comment">## 控制器的组成：</span><br>	**控制器主要包含指令译码器，其输入的是指令操作码OP，输出的是控制信号。<br>	**1. 程序计数器<br>	**2. 指令寄存器<br>	**3. 指令译码器<br>	**4. 操作控制信号形成部件<br>	**5. 时序信号产生器<br>	**6. 地址寄存器<br>    **7. 数据寄存器<br>	<br>	<br>	<br><span class="hljs-comment">## 浮点数的格式化表示与范围</span><br><br>		<br>------------------------------------------------------------------------------<br></code></pre></td></tr></table></figure>
-
-<h5 id="CISC与RISC的对比"><a href="#CISC与RISC的对比" class="headerlink" title="CISC与RISC的对比"></a>CISC与RISC的对比</h5><hr>
-<table>
-<thead>
-<tr>
-<th></th>
-<th>CISC</th>
-<th></th>
-<th>RISC</th>
-<th></th>
-<th>后RISC</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>指令数目</td>
-<td>几百个</td>
-<td></td>
-<td>小于100个</td>
-<td>几百个</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>寻址方式</td>
-<td>复杂</td>
-<td></td>
-<td>简单</td>
-<td></td>
-<td>简单</td>
-<td></td>
-</tr>
-<tr>
-<td>指令周期</td>
-<td>变化很大</td>
-<td></td>
-<td>大部分单周期</td>
-<td>大部分单周期</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>指令长度</td>
-<td>变长</td>
-<td></td>
-<td>定长</td>
-<td></td>
-<td>简单的变长</td>
-<td></td>
-</tr>
-<tr>
-<td>程序所需指令数</td>
-<td>少</td>
-<td></td>
-<td>多</td>
-<td></td>
-<td>多</td>
-<td></td>
-</tr>
-<tr>
-<td>寄存器数目</td>
-<td>少</td>
-<td></td>
-<td>多</td>
-<td></td>
-<td>多</td>
-<td></td>
-</tr>
-<tr>
-<td>是否利于流水线</td>
-<td>不利于</td>
-<td></td>
-<td>利于</td>
-<td></td>
-<td>利于</td>
-<td></td>
-</tr>
-</tbody></table>
-<hr>
-<h4 id="cache映射"><a href="#cache映射" class="headerlink" title="cache映射"></a>cache映射</h4><hr>
-<table>
-<thead>
-<tr>
-<th></th>
-<th>全相联映射</th>
-<th></th>
-<th>直接映射</th>
-<th></th>
-<th>组相联映射</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Cache利用率</td>
-<td>高</td>
-<td></td>
-<td>低</td>
-<td></td>
-<td>两者之间</td>
-<td></td>
-</tr>
-<tr>
-<td>块冲突率</td>
-<td>低</td>
-<td></td>
-<td>高</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>淘汰算法</td>
-<td>复杂</td>
-<td></td>
-<td>简单</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>应用场合</td>
-<td>小容量cache</td>
-<td></td>
-<td>大容量cache</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 数据表示</span><br>	**补码特性 - 模运算<br>	**补码的加减法运算<br>		<span class="hljs-comment">#</span><br>	浮点数的规格化表示[P43-P36]<br>	<br>	**<br></code></pre></td></tr></table></figure>
-
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 存储器层次结构</span><br>	**存储器分类：<br>		<span class="hljs-comment">#按工作性质</span><br>			*随机存取存储器[RAM]<br>				- 每个单元读写的时间一样，且与各单元所在的位置无关。如：内存<br>			*顺序存取存储器[SAM]<br>				- 数据按顺序读入或写出，存取时间长短与信息所在位置有关。如：磁带<br>			*直接存取存储器[DAM]<br>				- 直接定位到读写存储块，在读写数据时按顺序进行。如：磁盘<br>			*相联存储器[CAM]<br>				- 按内容检索到存储位置进行读写。如：快表<br>		<span class="hljs-comment">#按存储介质</span><br>			*半导体存储器<br>			*磁表面存储器<br>			*光存储器<br>		<span class="hljs-comment">#按信息的可更改性</span><br>			*只读存储器<br>			*读写存储器<br>		<span class="hljs-comment">#按断电后信息的可保存性分类</span><br>			*非易失性存储器<br>			*易失性存储器<br>		<span class="hljs-comment">#按功能/容量/速度/位置分类</span><br>			*寄存器<br>			*高速缓存<br>			*内存<br>			*外存<br>			<br><span class="hljs-comment">## 外存与内存的比较</span><br>	**速度：外存速度慢，内存速度快<br>	**成本：外存成本低，容量大；内存成本高，容量小<br>	**连接：外存不与CPU直接连接；内存直接与CPU连接<br>	**易失性：外存属于非易失性存储器，内存是易失性存储器<br>	<br><span class="hljs-comment">## 主存的性能指标：</span><br>	**存储容量<br>	**存储时间<br>	**存储周期<br>	**存储带宽<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 局部性原理：</span><br>	在较短的时间内，程序产生的地址往往集中在一个很小的范围内，这种现象被称为程序访问的局部性：空间局部性、时间局部性<br>	**原因：指令按序存放，地址连续，循环程序段或子程序段重复执行。 - 数据连续存放，数组元素重复，按序访问。<br>	<br>	**为什么引入Cache会加快访存速度？<br>		<span class="hljs-comment">#在CPU和主存之间设置一个快速小容量的存储器，其中总是存放最活跃的程序和数据，由于程序访问局部性的特征，大多数情况下，CPU能直接从整个高速缓存中取得指令和数据，而不必访问主存。</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## Cache</span><br>	Cache是一种小容量高速缓冲存储器，它由SRAM组成。<br>	Cache直接制作在CPU芯片内，速度几乎与CPU一样快。<br>	程序运行时，CPU使用的一部分数据/指令会预先成批拷贝在Cache中，Cache的内容是主存中部分内容的映像。<br>	当CPU需要从内存读写数据或者指令时，先检查Cache，如果有就直接从Cache中读取，而不用访问主存。<br><br><span class="hljs-comment">## Cache的实现</span><br>	*如何分块？<br>	*主存和Cache如何映射？<br>	*Cache已满时怎么办？<br>	*写数据时怎样保证Cache和MM的一致性？<br>	*如何根据主存地址访问到Cache中的数据？<br>	<br>[E:\home\shadow\hziee\2-COCP\docx\9-PT_PPT\第七章 层次结构存储系统.ppt&#123;P57&#125;]<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-<hr>
-<hr>
-<p>:amphora:</p>
-<hr>
-<h2 id="真题专栏"><a href="#真题专栏" class="headerlink" title="真题专栏"></a>真题专栏</h2><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 补码的表示范围</span><br><br><span class="hljs-comment">## 补码运算的溢出判断</span><br><br><span class="hljs-comment">## 操作数的寻址方式和速度</span><br><br><span class="hljs-comment">## 机器周期的计算</span><br>	**[https://zhuanlan.zhihu.com/p/90829922]<br>	**完成一个基本操作所需要的时间称为机器周期。通常用内存中读取一个指令字的最短时间来规定CPU周期<br>	<br><span class="hljs-comment">## 寻址范围</span><br>	**存储容量的 位 数除以 机器字长，单位是G/M/K [不是GB/MB/KB]<br>	如机器字长为32位，存储容量是4MB，则寻址范围是: 4*1024*1024*8 / 32 = 1M<br><span class="hljs-comment">## 机器字长</span><br>	**机器字长：CPU一次能处理数据的位数，通常与CPU的寄存器位数有关<br><span class="hljs-comment">## Cache</span><br><br><br>-----------------------------------------------------------------------------<br><span class="hljs-comment">## 机器指令与微指令</span><br>一、概念不同<br>1、机器指令：机器指令是CPU能直接识别并执行的指令。<br>2、微指令：是指在机器的一个CPU周期中，一组实现一定操作功能的微命令的组合，描述微操作的语句。<br>二、表现格式不同<br>1、机器指令：表现形式是二进制编码。<br>2、微指令：格式分为水平型微指令和垂直型微指令。<br>三、原理不同<br>1、机器指令：机器指令通常由操作码和操作数两部分组成，操作码指出该指令所要完成的操作，即指令的功能，操作数指出参与运算的对象，以及运算结果所存放的位置等。<br>2、微指令：一条机器指令的功能是若干条微指令组成的序列来实现的，即一条机器指令所完成的操作分成若干条微指令来完成，由微指令进行解释和执行，这个微指令序列通常叫做微程序。微指令的编译方法是决定微指令格式的主要因素。<br>四、联系<br>1、一条机器指令对应一个微程序，这个微程序是由若干条微指令构成的。因此，一条机器指令的功能是若干条微指令组成的序列来实现的。简而言之，一条机器指令所完成的操作划分成若干条微指令来完成，由微指令进行解释和执行。<br>2、从指令与微指令，程序与微程序，地址与微地址的一一对应关系上看，前者与内存储器有关，而后者与控制存储器有关，与此相关也有相对应的硬设备。<br>3、一条机器指令对应4个CPU周期，每个CPU周期就对于一条微指令。<br>[https://blog.csdn.net/deniece1/article/details/101782720]<br>-----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 存储周期</span><br>	存储周期，是指主存储器两次启动操作之间需要的最小时间间隔，也称之为主存储器周期时间<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## RISC与CISC的区别</span><br>	**RISC的控制器多采用硬布线方式，以期更快的执行速度，而CISC控制器绝大多数为微程序控制器<br>	**<br>	<br><span class="hljs-comment">## 多体交叉存储器</span><br>	**提高存储器带宽的原因：能进行存储器并行操作<br>	**在不提高存储器效率、不扩展数据通路位数的前提下，通过存储芯片的交叉组织，提高cpu单位时间内访问的数据量，从而缓解快速的cpu与慢速的主存之间的速度差异<br>	<br><span class="hljs-comment">## 汉字库中存放的是汉字的字模</span><br>	<br>	<br>	<br>	<br><span class="hljs-comment">## CISC 与 RISC的特点区别</span><br>	**1、指令系统<br>　　 CISC<br>　　 计算机的指令系统比较丰富，有专用指令来完成特定的功能。因此，处理特殊任务效率较高。<br>　　 RISC<br>　　 设计者把主要精力放在那些经常使用的指令上，尽量使它们具有简单高效的特色。对不常用的功能，常通过组合指令来完成。因此，在RISC 机器上实现特殊功能时，效率可能较低。但可以利用流水技术和超标量技术加以改进和弥补。<br><br><br><br><span class="hljs-comment">## 数据的表示</span><br>	**定点数的表示<br>		<span class="hljs-comment">#进位计数制</span><br>		<span class="hljs-comment">#定点数的二进制编码</span><br>			*原码、补码、移码表示<br>		<span class="hljs-comment">#定点整数的表示</span><br>			*无符号整数、带符号整数<br>	**浮点数格式和表示范围<br>	**浮点数的规格化<br>	**IEEE754浮点数标准<br>		<span class="hljs-comment">#单精度浮点数、双精度浮点数</span><br>		<span class="hljs-comment">#特殊数的表示形式</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>组成原理</tag>
       </tags>
   </entry>
   <entry>

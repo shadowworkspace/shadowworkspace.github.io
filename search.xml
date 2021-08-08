@@ -22,10 +22,142 @@
       </tags>
   </entry>
   <entry>
+    <title>912-Algorithm-T</title>
+    <url>/2021/05/21/912-Algorithm-T/</url>
+    <content><![CDATA[<h4 id="四月的算法之旅"><a href="#四月的算法之旅" class="headerlink" title="四月的算法之旅"></a>四月的算法之旅</h4><hr>
+<ul>
+<li><p>自强不息：有足够的投入</p>
+</li>
+<li><p>注重方法和思路：能够透过方法看到背后的思路和本质 —不仅仅是得到一个结果</p>
+</li>
+<li><p>想象力[除了细节和思路]</p>
+</li>
+</ul>
+<p>算法是玩出来的[不断地进行观察、测试、跟踪]</p>
+<h4 id="PART1"><a href="#PART1" class="headerlink" title="PART1"></a>PART1</h4><hr>
+<ul>
+<li>基础回顾</li>
+</ul>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 栈</span><br><br><span class="hljs-comment">## 插入排序</span><br>	**代码兑现<br>		注意边界值的观察<br>		算法的稳定性<br>		<br>		<br><span class="hljs-comment">## Maximal Rect. in a </span><br>	**所有的算法设计的第一步是动眼---而不是动手<br>		羊皮卷的最大连续矩形面积---&gt;直方图中的最大<br>	**Bruteforce --- 蛮力<br>		找出所有的候选k及面积，然后找出最大的<br>		--- 蛮力以后就是贪心<br>		--- 更多的思路是减治、分治<br>		--- 把小问题的解快速合并起来从而找到大问题的解<br>		<br>		[进度：01:26:40] ---&gt; 建议暂停 ---&gt; 学习数据结构后续课程再听[涉及快速排序]<br>		[TIME:2021年5月21日19点39分]<br>		<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>912-THU修炼秘笈</title>
+    <url>/2021/06/20/912-THU%E4%BF%AE%E7%82%BC%E7%A7%98%E7%AC%88/</url>
+    <content><![CDATA[<h4 id="最大的阻碍"><a href="#最大的阻碍" class="headerlink" title="最大的阻碍"></a>最大的阻碍</h4><hr>
+<p>想得太多，做的太少。</p>
+<hr>
+<p><strong>前言</strong></p>
+<p><strong>思考淬炼心智，自律带来自由。</strong>对于绝大多数人来说，所谓思维敏捷、慎独自律，都不是生来就有，而是长期锻炼的结果。接受我们可以接受的，改变我们可以改变的。</p>
+<p>本人初试成绩412，政治70，英语81，数学137，912专业课124，贵清计算机系学硕上岸。时值复试结束后一个月，跟着导师也算步入了研究生生活的正轨，一年时间如过眼云烟，转瞬即逝。突然也能理解很多考研上岸的学生想起考研时光，内心隐隐约约的那种不真实感。去年下半年的卧薪尝胆，今年上半年的焦灼徘徊，如今看来很是陌生。<strong>但可以肯定的是，这段奋斗的时光磨练了我，也永久地改变了我。</strong></p>
+<p>本科毕业于小城市末流华五技校计算机系，<strong>本科期间浑浑噩噩，稀里糊涂，对未来毫无规划</strong>，在最该为人生打下基础的时候把大把的时间扔在了游戏中。等终于有危机感时，也只会亦步亦趋，做什么都慢别人一大拍。大四时靠蹭实验室的饭混到一篇A类三作，<strong>但科研能力可以说近乎为零。</strong>因为一些原因，我延迟了一年才考研，可能当时只想着考个本校完事，<strong>但是我的室友默不作声考上了清华</strong>，这极大地激励了我。再加上我高中时是名校重点班，看着自己曾经的同学一个个平步青云，压抑许久的自尊心突然爆发出来，于是<strong>下定决心挑战清华计算机系</strong>。</p>
+<p>我的考研复习（因为我大学混课极多，说是预习也没错）从7月份开始，总计6个月，但开始一段时间依然有些放纵，<strong>到10月份才进入了8107状态</strong>。暑假期间在学校找了个地方复习，之后则呆在家里，很幸运的是家里人很支持我考研（虽然时不时吐槽多养我一年），而且能够给予我心理上的支撑。听说有很多人觉得一直呆在家里会消磨斗志，但在我身上似乎正好相反。</p>
+<p>可能会让读者感到意外，<strong>我在考研初试期间信息相当闭塞，</strong>没有加入任何考研群考研班，没有研友没有老师，资料自己找，攻略自己翻。专心复习期间远离手机，电脑摆在旁边备用，不用时立刻合上。事实证明这样做不仅不会影响复习，反而帮助我减少了干扰。与其花一天时间沉浸在别人的成功中，沉浸在相互分享焦虑的慰藉感中，不如静下心来学习一小时。<strong>充实的生活才能造就良好的心态。</strong></p>
+<p><strong>01</strong></p>
+<p><strong>初试复习</strong></p>
+<p>数学</p>
+<p>我的数学复习开始得最早，但前期效果有限，主要原因是对自己应该达到的水平缺少一个客观的认识。在9月份以前，我过完了李永乐复习全书和基础660题，因为我大一时候学习还算比较用心，有一定基础，所以其实也没花什么功夫。李永乐6套模拟和04年后所有真题对我来说也没有太大挑战，只有18年的真题让我梗了一梗，但也没太放在心上。</p>
+<p>然而，要是我真的以这种状态上考场，很可能只能考个平均分。在某一天我突然意识到，如果18年的考卷很难，19年考卷很简单，<strong>那么可以合理预测之后的试卷会出现驼峰状难度分布</strong>，2020年最好要以爆难的心理预期来准备。那个时候我听闻张宇八套卷劝退如神，杀人不留痕，于是买来试了一下，自尊心被彻底击溃。<strong>被伤到自尊心的同时我也焦虑起来，</strong>因为张宇的模拟卷虽然难，但没有一道是超纲内容。所有题目的解法中没有涉及到我陌生的知识点，所有内容我都在复习全书中见到过，张宇的题目也并没有故意堆砌计算量，它深刻地提醒了我的不足。<strong>应试数学是不能靠看书学会的，其中很多技巧性的东西必须靠有的放矢的训练来掌握。</strong></p>
+<p>于是11月份我开始恶补数学，首先是保持每天早上三小时吃透一张模拟卷，先啃完了张宇模拟题，然后啃合工大超越卷。超越卷相比张宇的试卷稍微简单，但也已经足够有锻炼价值。同时我找到了一本以解题技巧为主线的辅导书，叫李正元冲刺135。这本书默认你已经掌握了绝大部分基础知识，同时介绍了大量trick。<strong>后期的复习以两条主线进行：</strong>一条是一开始复习基础知识时留下的笔记，用于查漏补缺；另一条是李正元135及其批注，外加错题集，专门用于复习技巧性的内容。两者相辅相成。</p>
+<p><strong>临场考试方面，我极力推荐数学一考卷大题倒序完成，</strong>因为最容易卡住考生的通常是高数证明题，概率论和线代内容反而很少出难题，快速做出几道解答题对于剩余时间的心态有极大帮助。<strong>此外，永远不要放松训练，</strong>考研数学是典型的可以靠训练量来获得稳定提升的科目，而一旦放松训练，人的计算速度和精度就会下滑。我在考前三天暂停了每天早上的训练，因为那个时候觉得应该“给大脑降降温”，事实证明这是个非常错误的选择，这导致平时选填满分的我居然因为非常低级的失误错了一道填空题，引以为戒。</p>
+<p>英语</p>
+<p>英语可能是我最没资格提供经验的科目。我大三的时候一战托福108分，本来基础已经很好，考研英语可以说没怎么准备。然而实际上81分这个结果相当可惜，因为我客观题扣了6.5分，剩下的12.5分全部扣在了作文上，我大小作文加起来连60%的分数都没有拿到。<strong>原因也很简单，我轻敌了，我没有认识到时隔一年半我的英语水平已经出现了明显的退步，</strong>很多词汇已经从“会用”退化到了“会认”，写作时搜肠刮肚也找不出漂亮的表达，一个观点一种表述从头用到尾。同时考研作文的题材也与托福作文题材相差甚远。希望大家即便觉得自己基础很好，考研英语也一定要用心准备。</p>
+<p>政治</p>
+<p>世界上最痛苦的事情之一，就是让工科男学习文科，还要参加闭卷考试。<strong>然而，面包总会有的，办法总比困难多。</strong></p>
+<p>9月份我开始看肖秀荣精讲精练，一本可以作为<strong>凶器</strong>砸人的书（指很厚），它让我懂得了什么叫学海无涯苦做舟，什么叫在对自身记忆力的怀疑中慢性自杀。10月份终于不再头铁，选<strong>择抓小放大</strong>，以杨杰的风中劲草作为主要的参考书，之后又补充了肖秀荣的知识点提要。两本书都以点带面，可以有效帮助理科生先构建知识脉络，再向里面填充细节。</p>
+<p><strong>考研政治的拉分点主要在于选择题。</strong>即便今年肖秀荣押题失败，我上了考场以后一通乱写，牵强附会，强行把论点扭到背过的肖四上，最后主观题也拿到了27分，可见主观题是真的拉不开差距。想答好选择题尤其多选题，第一步是把肖1000做透，不懂的内容往两本主要的参考书上写。</p>
+<p>11月开始做肖8，这本书不会咬你，但它会以其他的方式伤害你。<strong>做模拟题让我意识到，即便题目中涉及到的知识点我基本都复习过，但是都只养成了短期记忆。</strong>那该怎么办呢？当然是考试前再养成一遍短期记忆：）我不是在开玩笑，考试后一周我就把政治知识忘了个一干二净。都是读过大学的人，<strong>考前突击你会吧</strong>。</p>
+<p>912专业课</p>
+<p>912专业课是贵清专属计算机基础考试，坊间流传有通用408专业课考140，912只能考80分的佳话，<strong>我证实一下，这是真的</strong>，我有个基础很好的朋友就是这样（不是无中生友），但前提是你基本不对912做针对性的复习。912专业课除了计算机网络内容较水，其他三门课都比408要难，其中的判断题甚至清本同学也很难做到满分。<strong>要想考好912，你需要的不是抽象空泛的“我比考408的人懂得更多”，而是“我很懂912要怎么考”。</strong></p>
+<p>在专门复习912之前我复习了王道的四本单科，这四本书的讲解都很浅显易懂，书中的非真题可以不做。这四本单科我只对照书过了一遍，之后除非要查一些细节问题，否则基本不翻，这主要是因为我以自编讲义的标准记了笔记，这也是我平时学习其他知识时养成的一个习惯，<strong>即要求自己在只参考笔记的情况下能够逻辑完整地讲清楚知识点，能自己发现并解释一些疑难问题</strong>（比如存储字长与字长的区别）。四本单科过完可以把往年408做一遍，为节省时间大题可以只写个最终答案即可。这些准备基本上是起兜个底的作用，防止水桶低处漏水。</p>
+<p>数据结构</p>
+<p>912专业课中数据结构部分以邓俊辉版数据结构为蓝本，推荐观看学堂在线上的数据结构MOOC，由于学堂在线服务器过于小水管，也可以到批站上看搬运版。<strong>看邓课要有时刻做笔记的意识，</strong>因为邓课对于引入数据结构的目的、意义有都有明确的讲解，其内容也至少能覆盖912专业课考察内容的80%。剩下的内容应该可以在邓版数据结构习题集及解答中找到，可以选择过一遍。</p>
+<p>操作系统</p>
+<p><strong>操作系统推荐向勇的MOOC，但必不可少的是ucore相关内容。</strong>我自己因为时间关系并没有去做ucore的实验，但非常仔细地阅读了ucore的实验指导手册，作为一个很重要的补充。其实ucore指导手册已经包含了理解ucore所需要的大部分核心知识和trick（比如逻辑上的管程与ucore中实际管程实现的异同，两者为何是等效的），看完以后甚至可以假装自己是一个很懂ucore的人。另外还有一个我自己复习时没注意到，但后来与人交流时发现很多同学遭遇到的一个困难点，就是阅读汇编代码出现问题，比如今年912中操作系统大题就是一个汇编阅读题。我推荐跨考同学可以简单地学习一下微机原理这门专业课，可以有效帮助你在没有参考的情况下读懂AT&amp;T和intel两种风格的汇编源码。</p>
+<p>组成原理</p>
+<p>组成原理我的复习出了一些问题，今年的大题是蒙过去的，反思。</p>
+<p><strong>02</strong></p>
+<p><strong>复试</strong></p>
+<p>复试能拿到第一的成绩，说实话我是很意外的。在5月15号上午成绩没出，且调剂院系报名濒临截止的时候，我甚至连调剂材料都已经准备好了，这足以说明我对复试的情况有多么不自信，说实话应该是有很多运气成分的，唯一算得上比较成功的点可能就是机试了。<strong>我的机试是比较稳的满分</strong>，这一部分得益于我曾经会打打CodeForces，另一部分是机试前的那段时间经过调整成功进入了状态。</p>
+<p><strong>对于没有什么算法竞赛经验的同学，</strong>我推荐一个网站<a href="https://oi-wiki.org/">https://oi-wiki.org/</a> ，能快速帮助初学者从入门到入土（指学会解题技巧进入训练状态）。</p>
+<p><strong>对于缺乏实战经验的同学，</strong>我推荐CodeForces，可以在准备复试期间参加上面的div2 round和educational round，模拟真实的上机考试，在心理上熟悉机考。</p>
+<p><strong>03</strong></p>
+<p><strong>结语</strong></p>
+<p>在准备考研前夕查找过很多资料，那段时间让我体会到，一些人兜售着惰性学习的理念（反复多次学习然而不鼓励思考），贩卖着无用的焦虑，让我感到本能的厌恶，也曾经让我对考研心生畏惧，所以在写攻略贴的开头时才有了“<strong>思考淬炼心智</strong>”这句话。</p>
+<p><strong>攻克应试考试有三大法宝，第一是主动思考，第二是自律克己，第三是稳定心态，</strong>这是三个主要的法宝，其中的<strong>中心环节是主动思考</strong>。</p>
+<p><strong>主动思考</strong>体现在主动寻找问题，看到知识点以后主动尝试<strong>举一反三</strong>（真二叉树数量与卡特兰数的关系），主动找出知识点没有直接概括到的疑难点（CLOCK是否存在Belady现象），看到繁复的知识主动寻找高层次的概括和抽象（二元高斯分布以推广到多元高斯分布的方式来简化记忆），这些习惯对于扩展自己的视野有非常大的帮助。应试考试不仅是知识的考试，更是能力的考试，它本质上是在筛选适合于接受教育的人，而一个不懂得主动思考，只会亦步亦趋的人，即便进入了清华，也将在痛苦中完成学业。</p>
+<p><strong>但是能力并不是天生的，是可以通过长时间的思维训练锻炼出来的，</strong>如果是大四时候浑浑噩噩的我，很可能也会折戟沉沙。的确，我在考研前有一定基础，但也并不高，我同样抱着悔恨和弥补曾经的遗憾的心情参加考研，<strong>往者不可谏，来者犹可追。</strong></p>
+<p>既然选择了这条路，就应该明白这条路凭什么选择你，清华凭什么选择你，然后朝着这个方向改变自己。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>912-PAT劝退指南</title>
     <url>/2021/04/29/912-PAT%E5%8A%9D%E9%80%80%E6%8C%87%E5%8D%97/</url>
     <content><![CDATA[<h6 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h6><hr>
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">https://github.com/liuchuo/PAT<br>https://www.liuchuo.net/<br>《算法笔记》<br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>912-ucore记录之lab1</title>
+    <url>/2021/06/26/912-ucore%E8%AE%B0%E5%BD%95%E4%B9%8Blab1/</url>
+    <content><![CDATA[<h4 id="几经波折"><a href="#几经波折" class="headerlink" title="几经波折"></a>几经波折</h4><hr>
+<h4 id="启动代码分析"><a href="#启动代码分析" class="headerlink" title="启动代码分析"></a>启动代码分析</h4><hr>
+<figure class="highlight c"><table><tr><td class="code"><pre><code class="hljs c"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;asm.h&gt;</span></span><br><br># Start the CPU: <span class="hljs-keyword">switch</span> to <span class="hljs-number">32</span>-bit <span class="hljs-keyword">protected</span> mode, jump into C.<br># The BIOS loads <span class="hljs-keyword">this</span> code from the first sector of the hard disk into<br><span class="hljs-meta"># memory at physical address 0x7c00 and starts executing in real mode</span><br><span class="hljs-meta"># with %cs=0 %ip=7c00.</span><br><br># <span class="hljs-number">80386</span>CPU为了兼容<span class="hljs-number">8086</span>程序，最开始启动时是以<span class="hljs-number">16</span>位的实模式进行工作的<br># 生成img磁盘映像时，bootasm.S中的引导代码将会被放在引导扇区<br># <span class="hljs-number">80386</span>CPU加电启动后，会执行BIOS中的默认引导程序，BIOS引导程序会将引导扇区中(第一个磁盘块)的内容读入内存，并放置在<span class="hljs-number">0x7C00</span>(<span class="hljs-number">16</span>位)/<span class="hljs-number">0x00007c00</span>(<span class="hljs-number">32</span>位)处<br># 随后CPU会跳转到<span class="hljs-number">0x7c00</span>处开始第一条指令的执行，即bootasm.S的第一条指令(start:)<br><br>.<span class="hljs-built_in">set</span> PROT_MODE_CSEG,        <span class="hljs-number">0x8</span>                     <span class="hljs-meta"># kernel code segment selector</span><br>.<span class="hljs-built_in">set</span> PROT_MODE_DSEG,        <span class="hljs-number">0x10</span>                    <span class="hljs-meta"># kernel data segment selector</span><br>.<span class="hljs-built_in">set</span> CR0_PE_ON,             <span class="hljs-number">0x1</span>                     <span class="hljs-meta"># protected mode enable flag</span><br><br><span class="hljs-meta"># start address should be 0:7c00, in real mode, the beginning address of the running bootloader</span><br>.globl start<br>start:<br>.code16                                             # Assemble <span class="hljs-keyword">for</span> <span class="hljs-number">16</span>-bit mode<br>    cli                                             # Disable interrupts<br>    cld                                             # String operations increment<br><br>    # Set up the important data segment registers (DS, ES, SS).<br>    xorw %ax, %ax                                   # Segment number zero<br>    movw %ax, %ds                                   # -&gt; Data Segment<br>    movw %ax, %es                                   # -&gt; Extra Segment<br>    movw %ax, %ss                                   # -&gt; Stack Segment<br><br>    # Enable A20:<br>    #  For backwards compatibility with the earliest PCs, physical<br>    <span class="hljs-meta">#  address <span class="hljs-meta-keyword">line</span> 20 is tied low, so that addresses higher than</span><br>    #  <span class="hljs-number">1</span>MB wrap around to zero by <span class="hljs-keyword">default</span>. This code undoes <span class="hljs-keyword">this</span>.<br><br>    # 为了进入<span class="hljs-number">32</span>位保护模式，必须先开启A20(第<span class="hljs-number">21</span>位内存访问线)，否则在<span class="hljs-number">32</span>位寻址模式下给出的内存地址第<span class="hljs-number">21</span>位始终为<span class="hljs-number">0</span>，造成错误<br>    # 为什么需要特意开启A20总线?<br>    # 在早期的<span class="hljs-number">8086</span>CPU中，内存总线是<span class="hljs-number">20</span>位的，由高<span class="hljs-number">16</span>位的段基址和低<span class="hljs-number">16</span>位的段内偏移共同构成一个<span class="hljs-number">20</span>位的内存地址<br>    # 但事实上在段基址和段内偏移比较大的情况下，其实际得出的结果是超过了<span class="hljs-number">20</span>位的(例如<span class="hljs-number">0xFFFF</span>段基址 &lt;&lt;&lt; <span class="hljs-number">4</span> + <span class="hljs-number">0xFFFF</span>段内偏移 &gt; <span class="hljs-number">0xFFFFF</span>)，出现了溢出<br>    # 而<span class="hljs-number">8086</span>中对这种溢出是兼容的，这种溢出在<span class="hljs-number">8086</span>上会体现为绕回<span class="hljs-number">0x00000</span>低端<br>    # “程序员，你是知道的，他们喜欢钻研，更喜欢利用硬件的某些特性来展示自己的技术，很难说在当年有多少程序在依赖这个回绕特性工作着”<br>    # 摘自《X86汇编语言 从实模式到保护模式》 <span class="hljs-number">11.5</span> 关于第<span class="hljs-number">21</span>条地址线A20的问题<br>    # 到了更新版的<span class="hljs-number">80286</span>时代，<span class="hljs-number">24</span>位的内存总线，如果不默认关闭A20总线，那么就无法兼容使用回绕特性的<span class="hljs-number">8086</span>程序了<br>    # 而<span class="hljs-number">80386</span>作为<span class="hljs-number">80286</span>的后一代，也继承了<span class="hljs-number">80286</span>这一特性<br>seta20<span class="hljs-number">.1</span>:<br>    inb $0x64, %al                                  # Wait for not busy(8042 input buffer empty).<br>    testb $<span class="hljs-number">0x2</span>, %al<br>    jnz seta20<span class="hljs-number">.1</span><br><br>    movb $<span class="hljs-number">0xd1</span>, %al                                 # <span class="hljs-number">0xd1</span> -&gt; port <span class="hljs-number">0x64</span><br>    outb %al, $<span class="hljs-number">0x64</span>                                 # <span class="hljs-number">0xd1</span> means: write data to <span class="hljs-number">8042</span>’s P2 port<br><br>seta20<span class="hljs-number">.2</span>:<br>    inb $0x64, %al                                  # Wait for not busy(8042 input buffer empty).<br>    testb $<span class="hljs-number">0x2</span>, %al<br>    jnz seta20<span class="hljs-number">.2</span><br><br>    movb $<span class="hljs-number">0xdf</span>, %al                                 # <span class="hljs-number">0xdf</span> -&gt; port <span class="hljs-number">0x60</span><br>    outb %al, $<span class="hljs-number">0x60</span>                                 # <span class="hljs-number">0xdf</span> = <span class="hljs-number">11011111</span>, means <span class="hljs-built_in">set</span> P2’s A20 bit(the <span class="hljs-number">1</span> bit) to <span class="hljs-number">1</span><br><br>    # Switch from real to <span class="hljs-keyword">protected</span> mode, <span class="hljs-keyword">using</span> a bootstrap GDT<br>    <span class="hljs-meta"># and segment translation that makes virtual addresses</span><br>    <span class="hljs-meta"># identical to physical addresses, so that the</span><br>    <span class="hljs-meta"># effective memory map does not change during the switch.</span><br>    # 设置GDT，修改CRO寄存器中的保护模式允许位，进入保护模式<br>    lgdt gdtdesc<br>    movl %cr0, %eax<br>    orl $CR0_PE_ON, %eax<br>    movl %eax, %cr0<br><br>    # Jump to next instruction, but in <span class="hljs-number">32</span>-bit code segment.<br>    # Switches processor into <span class="hljs-number">32</span>-bit mode.<br>    # 通过一个远跳转指令指向protcseg处的指令，令CPU清空之前在实模式下保存在流水线中的指令(当前处于保护模式下执行实模式的指令会出现各种问题)<br>    ljmp $PROT_MODE_CSEG, $protcseg<br><br># 下面的都是X86<span class="hljs-number">-32</span>的汇编程序<br>.code32                                             # Assemble <span class="hljs-keyword">for</span> <span class="hljs-number">32</span>-bit mode<br>protcseg:<br>    # Set up the <span class="hljs-keyword">protected</span>-mode data segment registers<br>    # 跳转至保护模式后，需要刷新数据段寄存器(因为引入了特权级保护，避免数据段寄存器之前的值不对而出现漏洞)<br>    movw $PROT_MODE_DSEG, %ax                       # Our data segment selector<br>    movw %ax, %ds                                   # -&gt; DS: Data Segment<br>    movw %ax, %es                                   # -&gt; ES: Extra Segment<br>    movw %ax, %fs                                   # -&gt; FS<br>    movw %ax, %gs                                   # -&gt; GS<br>    movw %ax, %ss                                   # -&gt; SS: Stack Segment<br><br>    # Set up the <span class="hljs-built_in">stack</span> pointer <span class="hljs-keyword">and</span> call into C. The <span class="hljs-built_in">stack</span> region is from <span class="hljs-number">0</span>--start(<span class="hljs-number">0x7c00</span>)<br>    # 设置栈段寄存器 栈基址<span class="hljs-number">0x0</span>，栈顶指针指向start段所在位置(<span class="hljs-number">0x7c00</span>)<br>    movl $<span class="hljs-number">0x0</span>, %ebp<br>    movl $start, %esp<br>    # 调用跳转至bootmain.c中的bootmain函数，完成内核的引导<br>    call bootmain<br><br>    # If bootmain returns (it shouldn’t), loop.<br>    # 自旋死循环(但如果引导程序和内核实现正确，bootmain函数将永远不会返回并执行至此。因为操作系统内核本身就是通过自旋循环常驻内存的)<br>spin:<br>    jmp spin<br><br># Bootstrap GDT<br>.p2align <span class="hljs-number">2</span>                                          <span class="hljs-meta"># force 4 byte alignment</span><br># SEG_ASM是位于<span class="hljs-keyword">asm</span>.h中的宏，用于构造GDT中的段描述符<br># 按照GDT的约定，第一个为<span class="hljs-literal">NULL</span>段。ucore采用的是平坦内存模型，所以代码段和数据段在内核中均只存在一个。<br>gdt:<br>    SEG_NULLASM                                     <span class="hljs-meta"># null seg</span><br>    SEG_ASM(STA_X|STA_R, <span class="hljs-number">0x0</span>, <span class="hljs-number">0xffffffff</span>)           <span class="hljs-meta"># code seg for bootloader and kernel</span><br>    SEG_ASM(STA_W, <span class="hljs-number">0x0</span>, <span class="hljs-number">0xffffffff</span>)                 <span class="hljs-meta"># data seg for bootloader and kernel</span><br><br>gdtdesc:<br>    .word <span class="hljs-number">0x17</span>                                      <span class="hljs-meta"># sizeof(gdt) - 1</span><br>    .<span class="hljs-keyword">long</span> gdt                                       <span class="hljs-meta"># address gdt</span><br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+
+
+<h4 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h4><figure class="highlight java"><table><tr><td class="code"><pre><code class="hljs java">https:<span class="hljs-comment">//www.cnblogs.com/xiaoxiongcanguan/p/13714587.html</span><br>https:<span class="hljs-comment">//www.cnblogs.com/xiaoxiongcanguan/p/12176857.html</span><br></code></pre></td></tr></table></figure>
 
 ]]></content>
   </entry>
@@ -48,6 +180,20 @@
 <li>英语刷阅读[至少两天刷一篇] + 单词（大约3小时）</li>
 <li>线代与概率论基础阶段结束</li>
 </ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>912-中断的代价</title>
+    <url>/2021/08/05/912-%E4%B8%AD%E6%96%AD%E7%9A%84%E4%BB%A3%E4%BB%B7/</url>
+    <content><![CDATA[<h4 id="中断保护"><a href="#中断保护" class="headerlink" title="中断保护"></a>中断保护</h4><p>在每一次执行中断操作之前都应该保证所有关键数据已经压栈，否则造成不可挽回的损失。</p>
+<p>即便如此，中断恢复的代价也是非常的高昂，而且很多时候由于进程的推进导致即使能够恢复现场也没有资源进行恢复，导致不可逆损失</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>912-四月文集</title>
+    <url>/2021/08/02/912-%E5%9B%9B%E6%9C%88%E6%96%87%E9%9B%86/</url>
+    <content><![CDATA[<h4 id="不等关系"><a href="#不等关系" class="headerlink" title="不等关系"></a>不等关系</h4><p>你知道不等于你能表述清楚，你能表述清楚不等于你能做到</p>
+<p>将历史人物串联起来分析</p>
 ]]></content>
   </entry>
   <entry>
@@ -152,6 +298,176 @@
 ]]></content>
   </entry>
   <entry>
+    <title>912-日常记录</title>
+    <url>/2021/08/01/912-%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<h4 id="保持好奇，保持热爱"><a href="#保持好奇，保持热爱" class="headerlink" title="保持好奇，保持热爱"></a>保持好奇，保持热爱</h4><p>一个人只有保持对世界的好奇、对世界的热爱，才能快乐的做出伟大的成就。</p>
+<p>今日发现词典 Goldendict，使用体验一流，性能一流。</p>
+<p>看到一只苍蝇想到的：</p>
+<p>小时候看着爷爷留着长指甲，夏天酷热，有时苍蝇会歇在爷爷的手臂上，这时候爷爷用手指轻轻靠近苍蝇，电光火石之间指甲就摁住了苍蝇的腿，使其无法挣脱。我每当看到爷爷的绝技便会惊叹不已，因此我也练就了一身捕苍蝇的本领：与苍蝇的逃离路线保持同一平面，轻动作靠近目标准备就绪后，手掌迅速靠近并且封锁一半逃离路线，就可以借助速度优势抓住苍蝇。</p>
+<p>转眼之间已经到了步入社会的年龄，但看自己除了几分固执与傲气，仍然稚气未脱，借着考研的流沙河，跟随直觉前行。</p>
+<p>我知道的是现在的我掌握的知识和技能还远远完不成我的理想，因此还要加倍努力，不要停止前进。</p>
+<h4 id="从前种种，譬如昨日死"><a href="#从前种种，譬如昨日死" class="headerlink" title="从前种种，譬如昨日死"></a>从前种种，譬如昨日死</h4><p>七月一个月过的尤其糟糕，或者说，大学几年来过的都比较糟糕，但，八月又是新的开始，此时此刻又是新的开始。</p>
+<p>[了凡四训]</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>912-生产链构建</title>
+    <url>/2021/08/02/912-%E7%94%9F%E4%BA%A7%E9%93%BE%E6%9E%84%E5%BB%BA/</url>
+    <content><![CDATA[<h4 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h4><p>背单词–&gt;做标记–&gt;查词典–&gt;看例句–&gt;阅读杂志/原著   –&gt;写作–&gt;口语–&gt;</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>912-经验专题-1</title>
+    <url>/2021/07/01/912-%E7%BB%8F%E9%AA%8C%E4%B8%93%E9%A2%98-1/</url>
+    <content><![CDATA[<p>基本信息：<br>一战清华初试总分412，政治70，数学137，英语81，912专业课124<br>复试464.2，其中机试满分，总分第一。<br>（复试总分500，包含机试100，面试400，因为疫情缘故取消笔试，面试中40分为往年笔试范围内容口头问答）</p>
+<p>本文写于5月25日深夜，其实早就知道录取的消息，但今天拟录取名单刚刚出炉，也是在提醒我，考研这道人生的坎我已经完全走完，今后的人生多半不会再与考研有多少联系，那么就更有必要留下一些痕迹，复盘和审视过去的利弊得失，若能对读者有所启迪，则是万幸。<br>过去的一年时间让我深刻体会到，考研磨练人的心性，一改我本科时代吊儿郎当不知进取的精神状态，让我诚实面对人与人之间的差距，并且毫不畏惧这种令人丧气的差距，砥砺前行。</p>
+<p>本人本科中科大，GPA3.2/4.3，排名约50%，挂科两门，还有好几门60分出头，这是一个灾难性的成绩。糟糕的成绩让我逃避现实，沉溺娱乐，寻求虚假的安慰，一度误以为自己也能像同学一样拿到国外名校offer，等待海潮褪去却发现只有自己在裸泳。在这里首先奉劝各位读者，少玩游戏，尤其远离那些消耗时间精力如无底洞一般的游戏，在我身边有不少人包括我自己对自制力有着盲目到诡异的自信，可能来源于近些年舆论对电子游戏非常开放，以为是成年人了就如何如何，等到发觉自己浪费了大把光阴时才后悔莫及。</p>
+<p>我从去年7月份开始复习，但一开始复习效率非常低下，考研涉及到的庞杂知识面使人感到茫然。前两个月我仅仅是按照李永乐复习全书把数学过了一遍。9月初看政治，效率更加低下，没记住多少东西，于是9月底转头看专业课，至此才算是进入高效率复习的阶段。</p>
+<p>我的复习路线与参考书籍：</p>
+<p>政治：<br>前期看肖秀荣精讲精练，很厚的一本书，学习这本书给人一种学海无涯苦做舟的无力感，之后开始看杨杰的风中劲草，这本书就更适合理科生，主次分明详略得当。<br>很早就听说做透肖秀荣1000题基本可以拿下考研政治选择题，也就是政治考试的大头（主观题很难拉开差距），但是发现只看疾风劲草做肖1000极其困难，连做错了以后想记笔记都找不到疾风劲草中的相关知识点，这是因为疾风劲草是一本针对往年试题的复习书，很少列出没有考过的知识点，于是又补充了肖秀荣的知识点提要，不厚不薄的一本小册子，与疾风劲草互补，效果比较理想。<br>其实这两本书也很难包含考研选择题涉及的全部知识，但重要的是提纲契领的作用，能够帮助你构建知识点的框架，让你理解为什么政治课的知识构建是这样的，某个地方安排某个知识点是想说明什么。这种学习方法就和理科生的思维方式比较类似，理科生的学习非常依赖于明白Where we are，才能避免在一个不重要的点上钻牛角尖，掉入“吾生也有涯而知也无涯”的学习陷阱。就如同做科研的时候面对一个不熟悉的点查阅维基百科，其实维基百科能提供的知识挺有限的，但是它能够让你明白这个点处于什么学科什么领域的什么位置，让你有个大体的感觉。<br>还有一句话我觉得我不说大家也懂，肖1000题前期不要在书上写答案，这是一本值得你反复去做的书。<br>11月开始做肖8，这本书不会咬你，但是它会以其他的方式伤害你：）这本书深刻让我明白，我前期对政治的学习养成的都是短期记忆，不复习半个月就忘的那种。那怎么办呢？当然是在考试之前再养成一遍短期记忆XD<br>12月肖四，背，所有答案背好。从寄到我手上开始我基本每天花2~3个小时在背诵上，正好我是武汉人，操着怼人用语丰富的武汉话背答案（其实主要是从各种官方文件中摘录的语句）竟有一种莫名其妙的快感。<br>很多人都说今年肖老押题失败了，确实如此，5道大题只压中一个小问（中华人民共和国成立的意义），与其怀疑肖老师押题能力，我觉得是今年出题反套路比较明显。但无论押题能否压中，背答案最大的意义在于防止你在考场上无话可写，我猜测主观题的命分其实是有很大的主观空间的，并不一定因为你答错方向而彻底没分，只是量分多少的问题，但是不背你肯定没分。</p>
+<p>数学：<br>前两个月过了李永乐复习全书，9月做完了李永乐660，10月做完李永乐6套模拟和04年之后所有真题。<br>要是我真的以这种程度上考场，我可能100分都难。张宇的模拟题第一套就彻底击溃了我的自尊心，让我明白在不超纲的前提下，数学一命题的难度上限在哪里。况且近年数学一命题难度呈驼峰态势，偶数年难，今年把题出得很难的可能性很大。<br>于是11月开始恶补数学。首先是保持每天早上三小时一套模拟卷吃透，难度至少在合工大超越模拟卷以上，其次是李正元的冲刺135这本书。一开始觉得这本书标题太狂印象不好，后来发现是本神书，典型的以解题技巧而非知识为主线的资料，学透这本书基本可以让你对考研涉及的每个点都有足够的掌握，而且包含了大量trick，在你不需要给出过程时，这些trick可以极大的提升做选填的水平。实不相瞒，我后期的复习基本都是以冲刺135这本书以及其上的笔记为主线的。<br>错题集是标配，不讲。<br>还有一点就是，学数学不仅要重视计算而且要重视理论，这个是高中开始积累下来的经验了，遇到感觉不太直观的定理，可以在网络资料的辅助下试着证明一遍，被自己证明过的东西，哪怕将来不记得证明过程，印象也是会非常深的。</p>
+<p>英语：<br>本人有考过托福的经历，其中阅读为满分，高中英语基础在高考英语地狱难度的湖北也算马马虎虎，我的高中英语老师肯定想不到我能把她教给我的老本啃到今天XD<br>但是千算万算没算到作文翻了车，我小作文6/10，大作文11.5/20，都是三档，归根结底还是对英语过于轻视了<br>还有就是，阅读题张剑黄皮书比真题有用多了，我做10年以前的真题时真心是觉得那个时候考研英语题目出得有点问题，不知道怎么形容。也可能是因为本人托福阅读题做多了以后非常看重英语阅读题的行文逻辑，总之就是有点一言难尽，不太适合用来练习。</p>
+<p>专业课：<br>市面上的专用复习材料我只推荐王道，没了。<br>王道的四本单科我啃且只啃了一遍，记了详细的笔记，此后再也没碰过，就算这样我也敢说四门课的基础我已经掌握得很牢了，这足以证明王道丛书的确是覆盖广、讲解清晰、详略得当。<br>我不建议直接学习cs课程的上课用课本，在复习复试科目的时候我也是一样的体会，cs这个学科的课本向来是从繁不从简，塞进去的内容实在是太多了，有很多东西实际上是你根本不需要的，至少是考研根本用不到的。本着功利的解放记忆负担的需要，我还是推荐用已经整理好的复习材料，这会给你省下大量的时间。只不过学习这些材料的时候一定要本着思考的态度去完成，不要盲从，不要惰性记忆。<br>912比408难的地方主要是数据结构和操作系统。数据结构推荐学堂在线的数据结构MOOC，因为学堂在线网站过于小水管，可以到bilibili上去看搬运版，要做详细的笔记，邓课的最大特色就是会给你讲解引入一个数据结构的意义在哪里，比如红黑树的旋转规则看起来复杂，但实际上你只要理解它在逻辑上等效于B树，你甚至可以手推旋转规则。学完之后可以做一下回忆版的912专业课题目，检测一下自己是什么水平，912的题目基本都是既重视理论又重视思维的。<br>操作系统同样推荐学堂在线上向勇的课，然后必不可少的就是要去看ucore的网页版手册。ucore的实验你并不用去做，这个对于考研学生来说稍微有点太花时间，基本上手册看完你就可以“假装”是一个很懂ucore的人了，因为ucore中涉及到的核心代码以及trick在手册中都有。管程的内容一定要用心看，要理解逻辑上的管程如何运行，ucore版的代码又是使用了何种trick简化了管程的实现。<br>还有就是，遇到不懂的知识点要善于google找英文资料，cs这行90%以上可靠的信息都是英文的，这个早晚都要习惯的。比如CLOCK算法是否有Belady现象这个问题，真的让我见识到了中文博客之间的以讹传（抄）讹。</p>
+<p>初试，调整状态，从容应考，冷静答题。高考的时候你怎么做的心理建设怎么调整状态，考研的时候就怎么样。我考研那两天每天4瓶咖啡，因为咖啡因刺激肠胃的缘故中午会拉肚子，但好在这给予我极端的清醒和理智。每个人调整的方式都是因人而异的。</p>
+<p>复试其实我自以为准备得挺粗糙的，至少面试的时候发现自己在ppt里给自己挖的坑没有填好，比如讲到自己喜欢围棋，又做过人工智能的科研，却对AlphaGo的训练方法答不上来。这种行为在面试中算是大忌了。复试分数第一我个人认为是机试的功劳，因为我自己有CodeForces的经历，花了挺多时间在编程比赛上，所以也不好介绍什么经验，不过还是推荐一个网站：<a href="https://oi-wiki.org/">https://oi-wiki.org/</a> ，应该对寻找复习方向有帮助。另外，机试是开卷，是可以使用模板的（但不能用任何开放式工具，搜索引擎之类的），不要忘记准备。</p>
+<p>以上内容，算是个经验贴，说我夹带私货我也认，主观的东西蛮多，但也都是我的真实感受。考上研究生后有一种预感，就是研究生之后的生活和个人发展，跟考研成绩有多高半毛钱关系都没有，但这份入场券对我来说也是有着沉甸甸的重量，能刺激我认清自己的位置和缺点，在将来认真地面对和规划人生。奋斗改变人生，思考改变心性，与君共勉。</p>
+<p>（码字的时候没认真检查，希望大家帮我找找typo  OTZ）</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>912-经验专题-2</title>
+    <url>/2021/07/01/912-%E7%BB%8F%E9%AA%8C%E4%B8%93%E9%A2%98-2/</url>
+    <content><![CDATA[<h4 id="真题回忆整理"><a href="#真题回忆整理" class="headerlink" title="真题回忆整理"></a>真题回忆整理</h4><hr>
+<figure class="highlight java"><table><tr><td class="code"><pre><code class="hljs java">趁热回忆一下，题量相比<span class="hljs-number">408</span>较少的，有些记不太清楚了，欢迎补充<br>数据结构（题型：判断+选择+证明+算法伪代码）<br><span class="hljs-number">1.</span>正误判断<br><span class="hljs-number">1</span>)(logn)^n= (n^logn)<br><span class="hljs-number">2</span>)快速排序平均情况下  O(nlogn)，最好情况亦是如此<br><span class="hljs-number">3</span>）跳转表，塔期望高度<br><span class="hljs-number">4</span>）败者del  胜者 渐进时间复杂度<br><span class="hljs-number">5</span>）完全二叉堆删除操作平均O(<span class="hljs-number">1</span>),最坏情况下O（logn）<br><span class="hljs-number">6</span>)Crane左式堆合并A和B为H，H右侧链节点未必都来自<br><span class="hljs-number">7</span>）规模为n AVL一次插入操作，最坏情况下会引起logn次局部重构<br><span class="hljs-number">8</span>）将n个元素组成一个完全二叉堆，至少需要O（nlogn）<br><span class="hljs-number">9</span>）红黑树 节点黑深度黑高度之和必相等<br><span class="hljs-number">10</span>）基于比较式算法，可以在O（n）内在任意n个无序整数中找出<span class="hljs-number">10</span>%<br><span class="hljs-number">11</span>）封闭数列，开放数列 系统缓存<br><span class="hljs-number">12</span>）有向图DFS后有k个被标记为BACKWARD，图中未必恰含k个<br><span class="hljs-number">2.</span>选择题<br><span class="hljs-number">1.</span>DFS后各节点按 拓扑排序<br>选项 A/B访问顺序/逆序    C /D回溯顺序/逆序<br><span class="hljs-number">2.</span> 底层排序算法不稳定，采用基数排序算法后 ()正确（）稳定<br><span class="hljs-number">3.</span> 模式串文本串随机英文字母，蛮力算法最好情况下（）KMP，平均复杂度()KMP<br><span class="hljs-number">4.</span>逆波兰表达式值为<span class="hljs-number">2019</span>，被掩盖的操作符是<br><span class="hljs-number">5.</span>（）个无差别节点构成的真二叉树，与由<span class="hljs-number">2019</span>对括号构成的合法表达式一样多<br><span class="hljs-number">6.9</span>个字符出现频率&#123;<span class="hljs-number">0</span>,<span class="hljs-number">1</span>,<span class="hljs-number">1</span>,<span class="hljs-number">2</span>,<span class="hljs-number">3</span>,<span class="hljs-number">5</span>,<span class="hljs-number">8</span>,<span class="hljs-number">13</span>,<span class="hljs-number">21</span>&#125;，Huffman编码最大长度<br><span class="hljs-number">7.</span>模式串HHFBHHFHHFBSHF改进后的next表，next[<span class="hljs-number">14</span>]—next[<span class="hljs-number">0</span>]=<br><br><span class="hljs-number">3.</span>证明与证否<br>规模为n完全二叉树，(突然起不起来了)<br>左子树规模<br>写出推导过程，若是给出实例，若不是给出反例<br><span class="hljs-number">4.</span>算法<br>zig zag扭转x成为根节点<br>    <br><br>数据结构：判断题：<br>O((logn)^n) = O(nlogn)<br><br>选择题：<br>一堆数，赫夫曼编码后最长的长度<br>补充后缀表达式的一个空下的符号使之等于<span class="hljs-number">2019</span><br><br>大题：<br>前序遍历与后序遍历能否确定树的层次遍历，若能给出证明，否者举出反例。<br>关于splay的一道题：<br>给出一个结构体：左儿子、右儿子、树的规模、父节点、左旋操作、右旋操作<br>lSize(n)  计算节点数为n的完全二叉树其左子树节点个数<br>search(k) 查找树中中序遍历第k的值（中序遍历起始下标为<span class="hljs-number">0</span>）<br>splyto(a, x) 将x调整到a的儿子位置，若a为NULL，x调为根节点<br>将一颗splay树调成完全二叉树（可用上述函数）<br>以上说明必要过程、代码和复杂度<br>操作系统：还未补充完，暂时不要通过审核<br><br>计算机网络考了距离向量路由算法求路由表以及慢启动过程的消息发送和接收；    操作系统考了一段ucore关系syscall的代码;     计算机原理考了五段流水线以及相应的单周期和周期相关的运行时间。    睡一觉啥也想不起来了<br>    <br>---<br>数据结构：判断题：<br>O((logn)^n) = O(nlogn)<br><br>选择题：<br>一堆数，赫夫曼编码后最长的长度<br>补充后缀表达式的一个空下的符号使之等于<span class="hljs-number">2019</span><br><br>大题：<br>前序遍历与后序遍历能否确定树的层次遍历，若能给出证明，否者举出反例。<br>关于splay的一道题：<br>给出一个结构体：左儿子、右儿子、树的规模、父节点、左旋操作、右旋操作<br>lSize(n)  计算节点数为n的完全二叉树其左子树节点个数<br>search(k) 查找树中中序遍历第k的值（中序遍历起始下标为<span class="hljs-number">0</span>）<br>splyto(a, x) 将x调整到a的儿子位置，若a为NULL，x调为根节点<br>将一颗splay树调成完全二叉树（可用上述函数）<br>以上说明必要过程、代码和复杂度<br>操作系统：还未补充完，暂时不要通过审核<br>    <br>---<br><br>数据结构证明题：<br>给定某二叉树的先序遍历序列和后续遍历序列，是否能唯一确定层次遍历序列。证明或者证否<br>    <br>---<br>上述证明题<span class="hljs-number">5</span>分<br>数据结构<span class="hljs-number">20</span>分大题<br>给了二叉树的结构体声明(不全)<br><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Tree</span></span>&#123;<br>Tree *lc<br>Tree *rc<br>size_t size;<br>zig();<br>zag();<br>...<br>&#125;<br><span class="hljs-number">1</span>）求n个元素构成的完全二叉树的左子树size<br><span class="hljs-number">2</span>）根据上述思路编码<br><span class="hljs-number">3</span>）编码求中序遍历第k个元素（根的序号为<span class="hljs-number">0</span>，模拟中序遍历不得分）<br><span class="hljs-number">4</span>）给定两个节点，<span class="hljs-number">1</span>位p，<span class="hljs-number">2</span>位x，p为x的祖先，编码：利用zig(),zag()变换将x变换为p的祖先（满足二叉搜索树规则，类似于spray）<br><span class="hljs-number">5</span>）利用上述接口将树调整为二叉完全树<br><span class="hljs-number">6</span>）证明复杂度<br>    <br>---<br>    <br>在考场抄写下来的部分原题与考点，图片字迹不太清楚，整理在这里:<br>第一部分数据结构(<span class="hljs-number">70</span>分)<br><span class="hljs-number">1.</span>判断题<span class="hljs-number">10</span>×<span class="hljs-number">2</span><span class="hljs-string">&#x27;</span><br><span class="hljs-string">T(n)=T(n/2)+O(1)的解总是T(n)=O(log n)</span><br><span class="hljs-string">比较算法CBA的排序与时间复杂度O(nlog n)</span><br><span class="hljs-string">fibsearch()的前黄金分割点和后黄金分割点</span><br><span class="hljs-string">基数排序底层稳定性</span><br><span class="hljs-string">最优PFC两不同深度子树互换后不是最优PFC</span><br><span class="hljs-string">散列表+双向平方策略+伸展树</span><br><span class="hljs-string">未改进的next[]+KMP算法</span><br><span class="hljs-string">完全二叉堆的插入时间</span><br><span class="hljs-string">2.单选题8×3&#x27;</span><br>就地算法空间<br>非法表达式+逆波兰式<br>evaluate()表达式求值算法<br>AVL树<br>B-树的根节点常驻内存，则查找时启动IO次数<br>单向平方试探策略散列表+LazyRemoval标记<br>左式堆<br>随机二进制串好后缀表项gs[<span class="hljs-number">0</span>]=<span class="hljs-number">1</span>的概率<br><span class="hljs-number">3.</span>算法题<span class="hljs-number">6</span><span class="hljs-string">&#x27;+4&#x27;</span>+<span class="hljs-number">3</span><span class="hljs-string">&#x27;</span><br><span class="hljs-string">单峰向量:设计算法，在O(log n)时间内找到最大值点位置k，并证明最坏情况下时间复杂度也是O(log n)</span><br><span class="hljs-string">4.算法题6&#x27;</span>+<span class="hljs-number">4</span><span class="hljs-string">&#x27;+3&#x27;</span><br>最大和区间:设计算法求出一组数的最大和区间，要求:O(n)才能得分，O(n)才可能得满分，蛮力算法、枚举都不得分。<br>    <br>---<br><br>    ---<br>    <br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="外链"><a href="#外链" class="headerlink" title="外链"></a>外链</h4><hr>
+<figure class="highlight java"><table><tr><td class="code"><pre><code class="hljs java">https:<span class="hljs-comment">//xuanxuanblingbling.github.io/</span><br>http:<span class="hljs-comment">//www.cskaoyan.com/forum-84-3.html</span><br>https:<span class="hljs-comment">//github.com/stellarkey/912_project/tree/master/1%20%E6%8B%9B%E7%94%9F%E4%BF%A1%E6%81%AF</span><br>https:<span class="hljs-comment">//xuanxuanblingbling.github.io/life/study/2018/12/29/912/</span><br>http:<span class="hljs-comment">//www.cskaoyan.com/forum.php?mod=viewthread&amp;tid=43303&amp;extra=page%3D1%26filter%3Dlastpost%26orderby%3Dlastpost</span><br>https:<span class="hljs-comment">//github.com/stellarkey/912_project/tree/master/1%20%E6%8B%9B%E7%94%9F%E4%BF%A1%E6%81%AF</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>912-经验专题-3</title>
+    <url>/2021/07/01/912-%E7%BB%8F%E9%AA%8C%E4%B8%93%E9%A2%98-3/</url>
+    <content><![CDATA[<p>   双非328应届生上岸，专业课98、数学108、英语64、政治58<br>由于基础课比较水，就不误导大家了，说下专业课心得吧。<br>912肯定是按照清华上课的内容来，学堂在线有邓公的数据结构和向勇的操作系统，然后之前有学长发过清华的四门专业课的PPT和期末考试资料（东西在附件里）。基本刷学堂在线、PPT和教材为主。<br>四门专业课有对应的教材。比如邓公的数据结构(第三版)和配套习题解析，OS的《现代操作系统第7版》，计组的《计算机组成与设计-软硬件接口 第5版》，计网由于历年考的比较水就只看的王道。<br>由于应届生时间打的比较散就不说按日期说了，专业课我7月开始复习的每天3、4个小时（中间企业实训耽误了20天）</p>
+<p>第一轮：大概到10月初<br>计组：大概1个月时间刷了王道的计组、清华的PPT和《软硬件接口》，课本每一章都有随章练习题，和考试的风格很相似。<br>OS：3周的时间刷了学堂在线的操作系统做完了ucore实验，《现代操作系统》里对应的章节看了。<br>数据结构：（一个月）算是搞过一年的ACM，运气好拿了个水比赛的国银奖，省一，所以数据结构这门课算是有点基础。我复习这门就刷邓公的视频，里边的任何知识点都别漏，然后把课本里边的一些数据结构和算法自己手写伪代码。关于算法的话，我觉得把邓公讲的算法全掌握了，然后把算法训练营里讲到的算法和原理都透了考试也就够用了。<br>计网：我们是大三下半年学的计网，所以没给计网单独开一轮复习。</p>
+<p>第二轮：到11月中旬<br>复习每章内容，把里边涉及到的框架性的知识点记到本上，忘了的细节的知识点，重点突出一下。<br>大概一天一章，有些结构比较乱的章会写个思维导图。<br>把王道上边的题刷了，数据结构我没刷，因为题风差太多了，其他三门都刷了。数据结构刷了配套习题解析。</p>
+<p>第三轮：到考试<br>做清华本科的期末考试题目，然后查漏补缺吧。考前把第二轮的小本子看一下，回忆一下。</p>
+<p>数据结构年年换出题人，今年有些题就超了邓公的讲课范围了，锦标赛树和迪杰斯特拉多叉堆的问题，所以时间充足的话有必要看下王道再补充下。</p>
+<p>其次关于复试：<br>因为ACM获了些奖，CCF认证还算可以所以老师问了下我的机试成绩为啥这么低，我说第二题第一眼以为是N次剩余问题，唯一的不同就是方程右边的数对质数P求余了，复杂度O(根号（P）)，应该可以卡过前4个点吧。敲了出来N次剩余之后，需要敲大数了，然后意识到二分+大数是可以的，O(logN)应该是够的。然后大数板子之前只用过加法和乘法，没问题，结果除法出问题了，然后手写的除法，交就一直RE。第三题看了一眼肯定是拓扑排序，看往年的机试题都有DP，以为今年也有，加上当时已经很慌了，以为拓扑+dp，以为第三题压轴，所以又接着搞第二题，遂GG。</p>
+<p>然后就大概5个老师轮流来问PPT里边第一个项目的东西，一个自己自学并做的游戏八千行代码左右吧。问游戏素材怎么做的，游戏剧情、游戏的框架怎么设计的，游戏在哪发布了？游戏的NPC模块的实现逻辑<br>另一个ASC超算竞赛的东西都没有问！！这个竞赛第四题是一个自然语言处理的优化题，PPT也点出了，可能是老师觉得玩游戏更有意思吧…</p>
+<p>最后问了下如何看待专业课成绩和本科成绩，面试之前一老哥问过我的专业课排名，所以当时数了数，没想到复试老师居然问了，应该是29/68，不算特别低。本科成绩的话58/240，我的专业课还好，最低B+，公共基础课没好好搞，所以拉分挺多的，感觉老师还是会关注专业课和数学。</p>
+<p>因为自我简述格式不错，老师又问了下自我简述花了多久设计。</p>
+<p>时间到了就让我出去了。</p>
+<p>总：<br>我感觉今年录了的人大多都有ACM经历，体现能力的有：ACM牌子，CCF认证380左右，复试的机试。</p>
+<p>科研经历，有顶会论文的话基本上不会被刷。</p>
+<p>有和意向老师对口的不是特别low的项目经历，肯定是加分项。</p>
+<p>PPT展示的东西，一定要体现出自己可以而大多数人不可以的东西，或者该项目显示了你的哪些科研素质，一些大家都有的课程设计、web开发之类的点一下就好了。</p>
+<p>老师可能更倾向于一战的学生，特别是自学能力比较强，然后自己主动参加了很多比赛或项目的（至少可以体现对计算机的兴趣）。</p>
+<p>初试成绩4门，老师在意的可能只有两门专业课和数学，英语的话50-75在老师眼里是一样的，政治过线就行，没人会看的。</p>
+<p>社团经历的话，我是学校编程社团主席，也做出了一些成就，可能也是小加分项把。</p>
+<p>清华的初试本身就不易，专业课崩了的人大有人在。复试更是龙争虎斗，排队排到你前面的可能是手握SCI、nips、GPA 4.15的大佬。希望大家量力而行，复试被刷了还是蛮残酷的。</p>
+<p>被刷调剂的话只能赶上深研院Open FIESTA的调剂和微电子的调剂，其他方向复试时间都冲突了。</p>
+<p>最后我觉得最后决定我被录了的原因可能就是性格或项目中某个点被老师看上了吧。所以初试只是门票，复试特别是面试才是决定录不录取的关键。把复试需要用到的所有老师可能注意到的点准备完美，多模拟几次面试，再加上自己有一定得能力，或许就能逆袭。</p>
+<p>PPT 及期末试题 链接：<a href="https://pan.baidu.com/s/1fjwAkxlikof9rVDAAHQ8hA">https://pan.baidu.com/s/1fjwAkxlikof9rVDAAHQ8hA</a>   提取码：3ek6<br>邓公算法训练营 B站上有，由于版权问题就不发链接了</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>912-经验专题-4</title>
+    <url>/2021/07/01/912-%E7%BB%8F%E9%AA%8C%E4%B8%93%E9%A2%98-4/</url>
+    <content><![CDATA[<p>好像自己是第一个发经验的？先起个酷酷的名字::16::</p>
+<p>​      今年复试已经结束了，有幸录取了专硕，已经非常满意了。对于每个考研计算机的人，王道一定陪伴了你很久。前人种树，后人乘凉。王道帮了我很多，所以也来这里写点经验，希望能给后来者有所帮助。</p>
+<p>我是今年大四，一战清华计算机，从17年7月正式开始复习的，最后时间算刚刚好吧。所以建议自己觉得基础还可以的同学暑假开始就行，开始太早后边会很疲惫。基础稍差的最好现在就开始，因为912的复习是很费时间的。</p>
+<p>​      初试我分不高，347分，道友可以简单参考一下。</p>
+<p>​      英语75。 1个月恋恋有词视频，然后就是刷真题。一开始单词不认识，一篇错3，4个，后来刷多了慢慢就好了。后边我做了《张剑150》的冲刺提高那版，做了一半。虽然很多人诟病张剑150但我觉得选项没大家说的那么夸张，答案一般还是比较科学的，文章也不错，可以扩大不少单词量。到11月中旬开始看翻译和作文。建议翻译10月就得开始，因为翻译还是比较难的，要练习很多。我本来以为阅读没事了翻译也不会有啥问题，结果开始的晚了，后边感觉时间不够了，到12月中旬了我对翻译还没什么自信，就很慌。作文先把套路格式搞会，然后每天一到两篇这样练习，对着范文改一下，把好的句式用法背下来，练习一个月应该就没什么问题，不用去刻意背很长的模版。至于最后出的各种模拟卷，比如什么最后8套，我也买了做了一点，感觉和真题偏离很大，难很多，没什么用不建议买，做真题就够了。今年英语一整体不难，但是新题型太坑(虽然排序一贯很坑)，看了很久，最后还是错了4个……，导致后边时间也不太够，作文写的时候就没思考没停过笔，字体也白练了…这样最后还剩2分钟刚好写完，真惊险。</p>
+<p>​      数学119。今年数学偏难，还有什么李林”泄题”..对吧？是不是这些就不谈了，数学的话还是得灵活一些，死刷题碰到16，18这样的可能会崩。我一开始用的李王全书，做了一段时间感觉很不顺，觉得很难，看不懂。所以就又买了张宇的36讲，听了张宇的强化班视频。听了之后哇感觉好爽，一下全明白了。所以我建议用宇哥的系列。把张宇36讲和强化视频看完后，到了大概9月中旬开始做真题，一天一套这样做到了10月中旬。期间出了180题，我做完了，感觉比较难，但是题目质量很不错，有必要做一下。至于习题集比如660或者1000题，我都没有做过，不评价。刷完真题以后又刷了一遍真题的错题。然后是张宇《劝退8套》，《劝退4套》，《合工大5套卷》都做了，自信满满。结果考个这分…唉，但也凑合吧，今年能考130的话就挺不错了。今年是很难但是客观来说绝对没有16年难，我自己失误也不少，我觉得不失误能拿到135分，但是16年我不在考场上做感觉最多也只能125，至于09-15年以及17年的题的话，到后边练多了应该需要达到至少130+，不失误140+这样再考虑报清华。</p>
+<p>​      政治的话，就复习了10几天，刷了一遍1000题的单选题，看着答案做的。然后做了几遍肖八肖四，大题背了肖四就去考了，考之前担心过不了线，最后  57分我也没什么好说的…</p>
+<p>​        专业课96分。912和408一样一共4门。难度上16年一般，17年极难，18年一般。说难度一般只是912的这三年相互比较，但都是远远难于408和别的自主命题学校的(好像今年北大911也很难)。</p>
+<p>​        我复习的方法就是两轮王道单科+王道8套+天勤8套+王道的408真题。以及学堂在线上DS，OS的MOOC。今年数据结构是邓书的风格，考了不少mooc上后边章节的内容,虽然我以前完全地看过一遍，但考研复习的时候没看那些超纲的，导致前边的小题一半都是蒙的…。最后从分数上看好像都没蒙对orz？所以建议数据结构要把邓的全部搞懂。</p>
+<p>​        912的OS也是很难的，不过分值到没DS那么夸张，只有30分。所以把基础的做好拿个10多分是没问题的。至于怎么高分，我也不知道。</p>
+<p>计组和网络相对简单一些。把王道刷好问题就不大。计组可以看下《软硬件接口》，对CPU那块的理解会好些。计网可以看下《自顶向下》，只看王道范围内的部分。组成原理第二章那些数的编码运算什么的以及计算机网络前边那些物理层，链路层的东西，如果没时间的话就不用看的很细，看不懂也没关系，考的概率很小。</p>
+<p>​        总的来说，复习的时候还是要给912充足的时间的，因为万一没过线，别的也白考了。虽然912很难，风格也变化不定，但也不要太担心，最起码把王道认真刷3遍的话，只要不像17年那样巨难，过线是没问题的。</p>
+<p>关于复试：</p>
+<p>​       清华计算机复试包括机试，笔试，面试三部分。今年机试不难，满分300，大家平均可能有140分？而去年机试是非常难的。机试还是得好好准备，初试完要尽量多刷题。PAT，清澄，百炼或者别的OJ都可以。老师对机试很看重，基本上从这个来看你的编程能力。形式和去年不一样，今年是和PAT一样，提交就可以看到结果。IDE有cb，dev，vs2008。vs2008一开始不带括号补全，语法高亮很垃圾，我不知道怎么设置，所以建议提前熟悉codeblocks。但你可以用vs2008调试，和vs2013差不多。</p>
+<p>​      笔试往年都说不重要老师基本不看，我觉得确实是这样…。笔试几乎都是原题，选应用方向的话把原题做一做就行了，不想做的话就把多媒体的背一下，笔试也能拿个30多分吧。</p>
+<p>​      面试是第一天学硕面，第二天专硕面。学硕被刷可以第二天面专硕。由于今年进入复试的人很多，所以面试的时候很快，一个人英语面8分钟左右，专业面感觉应该不到10分钟。</p>
+<p>英语面是3个学长学姐来面的，先用英语自我介绍，然后问你1-2个问题，之后会用中文问你几个问题就ok了，很简单。学长学姐都很好，别紧张就行。问我的问题是：</p>
+<p>英语：</p>
+<p>​    自我介绍</p>
+<p>​    介绍你的家乡</p>
+<p>​    北京，天津，家乡你最喜欢哪，为什么</p>
+<p>中文：</p>
+<p>​    和老师发生矛盾怎么解决，你的研究兴趣和老师的要求方向冲突怎么办？</p>
+<p>​    如果选择继续读的话是因为觉得自己可以对其他方向也培养兴趣还是觉得要拿这个学位？</p>
+<p>​    </p>
+<p>  专业面：</p>
+<p>   英语面过了之后专业面就没那么紧张了。今年专业面是先用ppt自我介绍，不超过5分钟。然后老师提问。问我的问题大概是这些：</p>
+<p>​    跳级是怎么回事(我初中跳过一级)</p>
+<p>​    参加过什么社团么</p>
+<p>​    为什么转专业(我大二从生物转到了计算机)，高考为什么选生物</p>
+<p>​    转专业要求是什么</p>
+<p>​    本科排名多少</p>
+<p>​    植物学0分，体系结构(选修课)46分是怎么回事</p>
+<p>​    你最擅长什么科目</p>
+<p>​    你觉得最难的科目有哪些，难在哪</p>
+<p>​    考研专业课稍微有点低，你觉得哪科做的不好</p>
+<p>​    你说你编程不错(我明明说的是还可以…)，你机试多少分</p>
+<p>​    你说你数理能力不错，怎么证明</p>
+<p>​    数据结构学了2遍为什么还这么低（以前在生物学过一遍）</p>
+<p>​    既然要转系，这是计算机的课为什么考的低</p>
+<p>他问我擅长哪科的时候我说了数据结构，结果发现给自己挖了个大坑，后边因为数据结构成绩低被一个老师怼了…… ，然后时间就差不多了，我就出来了。</p>
+<p>关于其他：</p>
+<p>​    学习时间并不重要，效率才是第一位的。我正式复习之后，作息大概是</p>
+<p>​    上午9-12</p>
+<p>​    下午3-6</p>
+<p>​    晚上6:40-10:00</p>
+<p>​    回寝室打两把lol睡觉</p>
+<p>​    最后一个月每天尽量再多挤1个小时。</p>
+<p>所以如果真的学不进去了就没必要再在图书馆坐着了，给自己放天假也是可以的，把控好就行。</p>
+<p>​      考研是很漫长的，从初试到复试结束，最重要的是坚持。见过太多的人在9月，10月甚至12月心态崩掉，选择放弃的。快撑不住的时候，想想自己为什么走到了这里，想想自己的梦想！Pain is temporary，but quit lasts forever.</p>
+<p>​      另外对于清华计算机的考研，我的感觉是重要程度：</p>
+<p>牛项目、知名竞赛 &gt; 985或者像北邮这样的计算机强校的211+科班 &gt; 本科成绩 &gt;=机试 &gt; 性格(面试时给老师的感觉) &gt;&gt; 初试 &gt;&gt;&gt;&gt;&gt; 笔试</p>
+<p>​      如果出身不太好，就需要你在其他方面很强很强才有可能上，比如ACM得奖，有很好的项目，编程水平很高。单纯刷高初试这4门真的是没有什么用的，老师最不看中的反而是初试成绩。但相对来说初试里对复试的影响，专业课&gt; 数学 = 英语，政治没用。</p>
+<p>​      今年复试学硕28录13，专硕52录23，一共录了36个人，刷掉了近一半，非常惨烈，有好几个实力很强的选手也遗憾没能考上。所以19报考清华计算机真的应该再慎重一些，今年的情况真的比往年要更难，复试刷一半是闻所未闻的，而且可以预计以后只会越来越难。按今年的样子，非985，计算机强校的211真的不建议报考，并且清华今年对跨考生非常不友好……。有时候真的没必要为了一个其实不那么重要的执念，耗费一年又一年的青春。退而求其次，考北大，浙大，其实都是很不错的。并且浙大很透明公开，机试也可以用PAT抵。北大浙大对跨考生也相对友好一点。还有如果只考虑留在北京不接受深圳的话，除非对自己的实力非常有自信，清华可以直接排除了。</p>
+<p>​      由于今年学硕专硕线分开划了，今年还好，学硕可以调专硕，但谁也不知道明年是怎么划线的，所以我觉得初试正常难度政英数专有把握60+80+140+85的可以报下学硕，否则直接专硕更稳妥，但也意味着失去了留在本部的可能。</p>
+<p>​      不知不觉写了三千字了…，本来经验贴我想以后再写，但怕以后忘了就没得写啦。希望对大家能有点帮助。虽然很难，但是如果你认定了清华，觉得自己有能力，就勇敢地去考，总有人要赢的，为什么不是你，毕竟这可能也是最后一次上清华的机会。</p>
+<p>​      如果你注定要成为厉害的人，那么答案就深藏在你的血脉里。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>912-经验专题-6</title>
+    <url>/2021/07/01/912-%E7%BB%8F%E9%AA%8C%E4%B8%93%E9%A2%98-6/</url>
+    <content><![CDATA[<p> 首先要感谢考研的前辈们，尤其是lhy学长在知乎的分享，你们提供的信息给了我巨大的帮助，还要感谢lxh同学给我提供的宝贵帮助。拟录取名单已经公布，我也将我的考研经历记录下来，供大家参考。文笔拙劣，请大家体谅。</p>
+<p>说一下我的基本情况吧，本科北航计算机，排名前10%，清华计算机夏令营申请失败决定考研，侥幸拿过一次国奖（原因是排在我前面的hjf巨佬大三开学转学去了mit，然后名额就轮到我了……），2017年和同学一起打了龙芯杯（一个系统方面的比赛）拿了第4名。对系统比较感兴趣，因此选的系统结构方向。<br>     我是从7月份开始准备考研的，其实有点晚，因为912的内容非常多，到10月份的时候我发现自己复习不完了，迫不得已只好把数学的一部分时间调给了专业课，后果就是初试时数学难题不会，计算量大的题也算错好几道，所以准备考912的话，建议大家能早复习就早复习吧。我的公共课成绩很一般，在这里就不班门弄斧啦，在这里膜一下数学143分的djh大佬。不过我比较推荐新东方12月份的政治和英语冲刺班（展春园那个），它会教给你很多应试套路，这些套路虽然不能帮你拿高分，但至少可以确保你不会考得太惨。</p>
+<p>我主要分享一下专业课的经验。我这次其实比较幸运，正好赶上912数据结构砍掉了选择题，新增了8个简答（32分），简答题考的点大多数我都复习到了，不过如果2020年912又换题型，可能我的方法就不灵了……但是万变不离其宗，只要熟练掌握了清华本科相应课程的知识，怎么考都没问题，毕竟考研题的难度要低于本科课程期末考试的难度，出题老师也清楚考研学生整体水平，不会难为我们这些考研学生的。所以问题就在于如何尽可能地学好人家的本科课程。最重要的肯定是找到人家本科课程的资料，我看到前面一篇帖子有人提到github已经有一个项目公开清华各种本科课程资料了（建议赶快fork），那这样一来就没有信息上的障碍了，大家一起来凭实力竞争，估计今后竞争会更激烈。</p>
+<p>数据结构我用的资料和大家差不多，可以参照其他同学的帖子，我觉得这里面最重要的是邓俊辉老师的课程讲义，1400多页那个，它是最全的，19年912数据结构的考试内容没有超出讲义范畴的。讲义安排的很有逻辑，它会详细介绍一个数据结构为什么提出来，它有哪些优点和缺点，它和其他相似的数据结构有什么异同，这样就可以从中理出脉络。碰巧今年912新增的简答题考了不少这些看似不重要的地方。<br>    操作系统我用的资料也和大家差不多，可以参照其他同学的帖子。我把ucore实验做了，本科期中期末试卷和习题集刷了，课程论坛也刷了一遍，我的感受是操作系统要多花时间想，捋清ucore的主要代码逻辑，这里要感谢zhm同学，她在博客上公布的期中期末题参考答案给了我很大帮助。此外，王道操作系统中关于信号量那部分写的很棒，墙裂推荐。<br>    计组这门课我要感谢我航，作为北航6系的王牌课程，在每一个经历过的人身上都留下了深深的烙印，而且912的计组考的比较简单（相对于数据结构和操作系统而言），所以我花的时间并不多，把清华的课件和往年题过一遍足够了。<br>    网络这门课应该是912里相对来说最简单的了，把清华的课件和往年题过一遍也够用了。<br>    综合来看，复习912的主要时间都花在了数据结构和操作系统上，复习过程中我针对自己不会的地方做了笔记，后来考前的时候一直在啃自己的笔记，感觉挺有用的，推荐大家也自己记笔记，自己的笔记才是最适合自己复习的资料。王道的资料我也买了，个人感觉比较适合复习初期刷，目的是积累题量，熟悉出题方式，不必纠结于王道的知识体系和你本科学得不一样或者和清华课程的不一样，因为912考的是清华课程的知识体系，所以你迟早得向清华课程的思维体系转变。</p>
+<p>复试的准备比初试仓促得多。笔试的话，我选的是系统结构和编译，其中系统结构我没学过，而且王道上的回忆不多，所以只能硬着头皮自学，编译的话清华讲授的体系和我本科学的体系不太一样，好在王道上的回忆不少，在这里感谢王道上的一位热心学长上传了复试资料，很宝贵，对我帮助很大。不过综合来看，笔试想得高分的话，选系统结构不如选另外两个，尤其是应用那边，据说题都好几年没变了，王道上回忆很多。机试的话，我的编程能力挺一般的，就不多说了，膜一下wyq大佬gdb调试机试270。面试是复试中最重要的环节。下面我回忆一下综合面试的问题，有一些非常个性化的问题我就略去了，毕竟别人肯定遇不到。</p>
+<p>Q：请做一下自我介绍（我准备的是英文自我介绍，不过据说中文自我介绍也可以）<br>    Q：你担任过什么职务吗？（学生会，小班，甚至寝室都可以）<br>    Q：你参加过什么社团？<br>    Q：（给我一段论文）读一下（我读的是讲计算机视觉的一段文字，不难，只要读过论文肯定都没问题，最后可能会问你你刚才读是的什么，所以读的时候要注意停顿注意理解）<br>    专业面试问你什么和你的自我介绍关系很大，所以每个人情况都不同，我的建议是如实陈述自己的经历，如实回答，否则一旦被发现弄虚作假，肯定完蛋。前面的帖子都提到了竞赛，项目，成绩这些，我就不重复了。面试时间长还是短并不意味着你被刷了还是没被刷，一开始老师们精力充沛，可能会多问些，后面有些累了基本面的都很快。面试时的一个技巧是听到问题后想三秒再回答，这样有一些不合适的回答你就不会说出去了，但是我在面试的时候特别紧张，紧张状态下几乎所有的问题都是秒答，我面试结束后才反应过来……这样其实很危险，因为一旦哪句话不太合适，情商低的标签肯定是跑不掉了，说不定还会被直接pass，希望大家不要像我一样。</p>
+<p>感谢我的毕设导师在考研期间给我的关怀和帮助，感谢曾经实习过的组里的老师们和师兄们的帮助和指导，感谢考研群主和一起考研的兄弟们的帮助和鼓励，最后祝愿大家都可以圆梦清华。</p>
+<hr>
+<p>今年的题多少都有一点剑走偏锋，因为数据结构一个填选判断都没有，全是大题。计组中规中矩。操作系统依然离谱考了一道文件系统的代ucore码题，8分真的贵，后面的简答题还是非常冷的进程通信。计网一如既往的常规，大题有一点点奇怪。废话不多说直接进入正题。  数据结构（没标多少分就是忘了） 1.考渐进符号的意义。 第一问，问n^(log^2 n)和n^2020哪个渐进更大。 第二问，问T（n）=3T(n/9) + O(1)的渐进复杂度，实际上基本等价于解递推式。 2.一些简单的计算。（12分，6分一个，文本串都还挺长） 第一问，将一个很长的中序表达式转换为逆波兰式。 第二问，求解一个字符串的next和改进next表。 3.快速排序和插入排序的综合。说如果快速排序每次都把数组规模划分到m之内就不再划分，使用快速排序解决平凡情况，问这样的快速排序算法复杂度。 4.AVL树大题。（14分） 第一问，如果删除节点，如何确定失衡结点位置及相应构型。 第二问，问三加四重构算法有几种具体情况。 第三问，让你写出上面的几种详细情况。 5.证明DFS回溯的逆序是拓扑序。（基本上就是一行题干但却是10分大题好贵有木有） 6.算法大题（13分） 给定二叉搜索树 struct BSTNode {lc,rc,size…还有些啥忘了} 要求算法时间O(h)，空间O(1)。 第一问，写出[lo,hi)之间元素个数的伪代码。 第二问，说明算法，证明正确性。 第三问，证明时空复杂度。  计组： 1.五个选择一个两分，顺序可能不太对 第一题，IEEE单浮点数正负数的个数 一样，正数多，负数多，不确定 第二题，给出四个CPU主频和各自的CPI，问你哪个执行同样的程序快。 第三题，数据冲突不能用什么解决 静态调度，分支预测，前推，延迟 第四题，问你指令sw不会用到什么步骤 从寄存器到ALU，从ALU到内存，从内存到寄存器文件，从PC到指令（这题字太多记不太住）  五个判断我是一个都想不起来了。 想起来一个，DMA不能独占内存总线周期。  填空 第一题，给你0x01 和 0xff，问你大小端分别真值是什么。 第二题，物理地址32，cache1024字节，8字节一块，问你二路组相联的标记位，索引位数。 第三题，冯诺依曼体系结构的特点。  大题流水线5分，给了三个指令 LW R4， R5(0) ADD R?, R?, R? SUB R?, R?, R? 反正就是第二条要用R4当源操作数，前两条和第三条没啥关系。 第一问，问哪个有冲突，冲突的寄存器是哪个 第二问，问如果不加旁路，最少的暂停周期 第三问，问如果加旁路，最少暂停周期，旁路怎么加  操作系统 第一大题8个判断，还是想不太起来 第一题，如果系统使用银行家算法，那么不安全条件下可能出现死锁 第二题，如果系统中进程数有M，那么就绪队列最大长度是M-1 第三题，运行不能转化成就绪 第四题，可以专门设置指令？禁用时钟中断  ucore大题是学堂在线的期末测试题类似的题，然而不仅是ucore而且是文件系统可以说是在考前完全没有引起我的注意了。考了8分，非常的贵。  最后一道简答题也是冷门考点进程通信，告诉你信号，信号量，消息队列，管道是进程通信的方式，让你对下面三个操作选合适的方式 第一个，杀死进程 第二个 一个命令行指令 什么cat ?.txt| ??? 反正一看知道就是管道的那种 第三个 进程2KB？的结构化数据要给另外一个进程排序  计网 一，选择题五个一分一个 第一个，考循环冗余，给出生成多项式x^2+x+1，问你哪个串合法 第二个，给出传输速度，结点距离，帧缩短？？字节，问你两点的距离怎么变。非常中规中矩的统考类型题。 第三个，DNS域名和主机还是IP的对应关系。一对多一对一多对多。 第四个，TSAP是怎么样的 IP+端口 IP+MAC+端口 等等  二、一些计算 第一问，给出一带权图，一些邻接节点的交换报文，让你距离向量计算路由表。 第二问，如果是链路状态算法，要发送什么信息，不要求格式 第三问，和前两个都没啥关系，划分子网 总而言之，这道大题中规中矩，做统考子网划分，路由算法的题完全能处理。  三、流量控制的题，给出报文长度，单向延迟T，采用超时重传，发送八个报文，只有第二个错了，问你GBN，SR和否定帧机制所需要的完整传输时间。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>912-经验专题-5</title>
+    <url>/2021/07/01/912-%E7%BB%8F%E9%AA%8C%E4%B8%93%E9%A2%98-5/</url>
+    <content><![CDATA[<p>​    考清华计算机也考了两年，在这里得到了很多帮助，所以也是时候贡献一下了。先说下我的基本情况吧。我本科是天津大学精仪学院的，没错是跨考。17年总分351，政治62、英语69、数学150、专业课70，专业课没过校线。18年总分363，政治67、英语71、数学124、专业课101，学硕被刷最后录到专硕。</p>
+<p><strong>一、劝退1</strong></p>
+<p>​    首先例行劝退一波，有学弟学妹们可能看到计算机每年专硕、学硕分数线都不太高，于是简单得出了初试不难的结论，这是完全不对的。想必决定考研的人心里都有自己的目标分数，公共课三门因为有大量的资料、充足的信息，大家估计起来应该都相对准确，那么给大家一个粗略估算专业课成绩的方法吧，以今年为例：今年已录取的同学里面110分以上占10%，100分数段（100-109）、90分数段各占40%，80分数段占10%。如果再考虑到没有进录取名单的同学们，专业课成绩的中位数大概要取到90分多一点了。大家可以按照自己专业课的水平对号入座，再加上其他三科的估计分数，是不是发现自己估计的总成绩缩水了好多呢。</p>
+<p><strong>二、初试</strong></p>
+<p>​    政治、英语、数学其实多说无益，相信大家来到王道也不是为了来看公共课的经验。912专业课相比408在数据结构和操作系统两门课上多了很多知识点，比如数据结构今年就考到了左式堆、gs表的选择题，如果没看过就只能靠蒙了。所以建议大家在准备912的时候先找到16、17、18三年的真题（王道都有回忆版），总结一下考过的知识点。下面我简单介绍一下两次准备专业课的经验以及教训吧。</p>
+<p>​    一战由于专业课没有过校线而没进复试。在这里不得不提一句，由于王道上16年那一套真题回忆的不全，17年准备专业课的时候一看去年题量这么少，题出的也不难就根本没考虑会不会过线这回事。当进考场看到那份题又难又多的卷子时，心态直接崩了，浑浑噩噩答完卷子。虽然写满了，但感觉只能得个5、60分。所以这也算是一个教训，那就是专业课的真题资料毕竟跟数学、英语等真题不一样，它是学长学姐们回忆出来的，并不全，也会有很多回忆不准确的地方，所以只能当做参考。<br>​    二战在专业课中投入了不少精力。首先就是赶紧把学堂在线上数据结构以及操作系统视频看完，算是补车票。今年912数据结构涉及到的知识点，在邓俊辉老师的课上都讲到过。今年我也听说了很多没买票就上车的同学，除了据说专业课第二的某狗子，大家发挥的大都不理想。当然大家看过视频就知道，只看视频以及做学堂在线上的练习题题量是远远不够的，我因为第一年做过王道的四本书（懒），直接翻出17年的题重新刷了一遍。此外还在各种犄角旮旯的地方找到了一些清华的课程视频以及期中、期末卷子，但单就18年这套题来说帮助不大。</p>
+<p>​    最后补充一点，清华16、17、18三套卷子已经有了简单-难-简单的趋势，所以19年考研的同学们一定要对专业课提起重视，不希望你们像我第一年那样，单单因为专业课没过线就错失了复试的资格。</p>
+<p><strong>三、劝退2</strong></p>
+<p>​    今年复试的竞争非常激烈。招生名额是学硕12人，专硕20人。其中学硕录取28进12，没有扩招。跟不录取名单对不上的原因是因为有几个小伙伴由于种种原因没有来参加学硕的复试。然后学硕未录取的同学跟专硕的同学们一起参加专硕面试，54进20。因此过了初试线只是竞争的开始。</p>
+<p><strong>四、复试</strong></p>
+<p>​    今年虽然像往年一样，学硕未录取的可以跟专硕一起面试，但是在录取规则上有了小小的不同。一志愿报专硕的同学310分以上可以参加专硕面试；而一志愿报学硕的同学334-349分参加专硕面试，350分及以上参加学硕面试。与往年不同的地方在于：一志愿报学硕但是成绩在310-333分这个区间的同学专硕、学硕的面试都没法参加，只能走校内调剂了。<br>​    复试的第一天是机试和笔试，分别在下午和晚上进行。下午的机试一共三道题，在线提交后直接给出成绩。可以提交不多于30次，编译错误不计入提交次数。这好像跟去年不太一样，去年机试据说提交后是不给出提交结果的。今年这种直接给出成绩的方式让我稍微安心了一些。机试的那三道题不难，王道好像也有回忆版，大家可以参考一下。我的机试成绩是210分，其实如果第一道模拟题没有出大差错成功ac的话大多数人都能得到这个分数。三道题除了第二道用了简单的dp之外基本没有用到任何算法，无非就是修修补补争取多通过几个测试点。笔试在晚上进行，跟机试间隔的时间有点短，差点没来得及吃饭。笔试我选的是人工智能和多媒体导论。题目都很常规（历年基本不变），但人工智能最后那道谓词归结法的题我只化简了一下就不会做了，果然靠几天的临时突击没法把人工智能学会。我的笔试成绩应该是68分，不高但是符合预期吧。<br>​    接下来两天我连续参加了学硕、专硕的面试，感触很多。我第一天首先参加了学硕面试。面试分为专业面试和综合面试。综合面试由三个学长学姐面，在这之前我蜜汁自信觉得英语自述可以不用提前准备，张口就来。结果面试的时候说了不到两句完整的话就卡壳了，然后被学长学姐们用英语一顿狂轰乱炸。后来他们也看出我英语实在说不利索了，就用汉语问了几个生活方面的问题，比如家有几口人，你遇到过什么样的困难、怎样克服的。汉语我总归是会说的，侃了一会儿后就默默出门了。专业面试是整个复试的重头戏。专业面试今年有了新要求，那就是准备ppt，然后像答辩那样先在讲台上讲5分钟。老师们七零八落地坐在下面，等你讲完然后提问。我简单介绍了一下自己的本科情况以及项目经验，讲完后老师针对我做过的项目提了几个问题，然后问了一些常规问题，比如本科成绩怎么样、是否接受调剂专硕之类。面试完出来后感觉还不错，起码老师听进去了我的项目，然后第二天一早我就在不录取名单上看到了自己的名字。<br>​    之前见经验贴有学长说一志愿报学硕很好的，可以面试两次，即使学硕没过还有专硕呢。我学硕被刷以后心态却根本就没有那么好。专硕面试这天，首先是专硕的同学们面试，然后是我们学转专面试，排到我们的时候已经下午3点多了。中途还来了一位老师跟我们说，综合面试因为头天面过，我们就不需要再面一遍了，可惜了我那份临时赶出来的英语自述稿子。<br>​    学转专一共来了15个人，我们挤在一个屋子里，大家好像都没有那么轻松。我压力很大是因为不知道学硕面试的时候因为什么原因被刷掉了，担心专硕面试也会被同样的理由刷掉。热心的小伙伴帮我看了一下自述，说我的项目都太偏硬件了，老师可能不感兴趣。我觉得很有道理，然后啥也没改（来不及了）。等待叫号的过程中问了一圈发现，学硕被刷的这些人虽然很多本科都是985，但大多都是跨考，我好像明白了什么。<br>轮到我上讲台已经下午4点多，讲的是同一份ppt。这一次讲明显比头天讲的更有条理了，讲的时候也有意识地引导老师将ppt内容和他们手里的自述材料对应上。讲完以后老师问了我一些生活上的问题，项目也没详细问，不知道是好是坏。学院的效率很快，当天晚上七点多就有同学拍到了专硕的不录取名单，我不在上面，总算松了一口气，想了想然后把名单发给了咸鱼。<br>​    仔细看了看这个不录取名单发现学转专的15个人里只有5个人在不录取名单上，也就是说对于直接参加专硕面试的同学来说，他们的录取比是39：10。好在今年网研院和伯克利收了不少调剂，但仍然有很多同学最终还是没有学上。</p>
+<p><strong>五、复试后以及总结</strong></p>
+<p>​    知道自己被录取了以后并没有想象中那么喜悦，反倒有种身心俱疲的感觉。原本打算去天津看看老师同学也不想去了，拖着疲惫的身子直接坐火车回家，然后懒到现在。<br>​    考上研只是一个开始，尤其对于我这种跨考的来说，再怎么嘴硬头铁觉得自己项目也不少、912那几门课也不差，细细想来还是能发现跟科班同学的差距。所以我也有点理解老师们的想法了，他们并不歧视跨考，也不歧视一些同学们担心的本科出身问题，问题在于我们的能力确实不如别人。多从自身找原因，而不是把锅甩给学校、专业。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>912-考研全程done-list</title>
     <url>/2021/03/12/912-%E8%80%83%E7%A0%94%E5%85%A8%E7%A8%8Bdone-list/</url>
     <content><![CDATA[<h4 id="天道酬勤"><a href="#天道酬勤" class="headerlink" title="天道酬勤"></a>天道酬勤</h4><hr>
@@ -165,6 +481,35 @@
       <tags>
         <tag>912</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>912-考研复盘七月</title>
+    <url>/2021/07/29/912-%E8%80%83%E7%A0%94%E5%A4%8D%E7%9B%98%E4%B8%83%E6%9C%88/</url>
+    <content><![CDATA[<h4 id="回首往昔"><a href="#回首往昔" class="headerlink" title="回首往昔"></a>回首往昔</h4><p>在过去的一个月中，你忘记了自己的目标与渴望，在游戏以及各种堕落中虚度了将近30天，这波操作将会直接导致你无书可读。你以为距离实战检测还有很久，但是实际情况是你所剩的时间已经来不及准备考试内容。</p>
+<h4 id="不忘初心"><a href="#不忘初心" class="headerlink" title="不忘初心"></a>不忘初心</h4><p>世间万物皆有规律可循，只要掌握了事物的基本规律，按照规律做事，你就有成功的机会。</p>
+<p>破釜沉舟，百二秦关终属楚；</p>
+<p>卧薪尝胆，三千越甲可吞吴。</p>
+<h4 id="战略思路"><a href="#战略思路" class="headerlink" title="战略思路"></a>战略思路</h4><p>布局—&gt;引流—&gt;加工</p>
+<p>让所有工作相辅相成—&gt;指向最终的目标</p>
+<p>你的所思所想所言所行都应该为了完成目标做出贡献</p>
+<h4 id="DEADLINE"><a href="#DEADLINE" class="headerlink" title="DEADLINE"></a>DEADLINE</h4><figure class="highlight java"><table><tr><td class="code"><pre><code class="hljs java">* 高数强化阶段：SEP-<span class="hljs-number">1</span> [2Class/Day <span class="hljs-number">20</span>~40Ex/Day]<br>* 英语单词五轮：SEP-<span class="hljs-number">1</span> [<span class="hljs-number">10</span>/<span class="hljs-number">5</span>/<span class="hljs-number">5</span>/<span class="hljs-number">5</span>/<span class="hljs-number">5</span>]<br>* 专业课<br>    **数据结构习题+课程 [1Chapter/2DAY 1Ex/DAY]<br>    **PAT辅助练习	[30MIN/DAY]<br>    **操作系统实践+习题 [1HOUR/DAY]<br>    **组成原理课后习题  [<span class="hljs-number">0.</span>5HOUR/DAY]<br>    **计网一轮梳理	 [<span class="hljs-number">0.</span>5HOUR/DAY]<br>    --------&gt;SEP-<span class="hljs-number">1</span><br>    <br>* 政治一轮梳理：SEP-<span class="hljs-number">1</span> [1Hour/DAY]<br>* 概率论+线性代数梳理+练习：SEP-<span class="hljs-number">1</span><br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="DONELIST"><a href="#DONELIST" class="headerlink" title="DONELIST"></a>DONELIST</h4><p>回头看看你所做完的任务，给他们添加时间节点标签，记录下简短的思考，然后继续完成更多的任务，每次完成任务产生的效果都要为下一个任务做出贡献。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>912-考研数学5月应该在什么位置</title>
+    <url>/2021/05/20/912-%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A65%E6%9C%88%E5%BA%94%E8%AF%A5%E5%9C%A8%E4%BB%80%E4%B9%88%E4%BD%8D%E7%BD%AE/</url>
+    <content><![CDATA[<h4 id="水平的划分"><a href="#水平的划分" class="headerlink" title="水平的划分"></a>水平的划分</h4><hr>
+<p>以学到什么程度为阶段，而不是看了几遍书</p>
+<h4 id="划重点"><a href="#划重点" class="headerlink" title="划重点"></a>划重点</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 五月了</span><br>	**要有一套自己的习惯、方法<br>	**什么时候看、一次看多久、看完之后刷什么样的题目、做完题目之后如何复盘、做完后是进入下一章还是其他<br>	**几天要复习一次<br>	<br><span class="hljs-comment">## 对考研数学要有一个清晰的认知</span><br>	**知道整体的构建、核心是什么？<br>	**各个知识点是如何串连起来的？<br>	<br><span class="hljs-comment">## 对考研数学的节奏和接下来的计划</span><br>	**最重要的是真题<br>	**知道如何考试、知道知识点是怎么串联起来的[怎到靠什么、怎么考]<br>	**配一本习题册[练习熟练度，能力提升]<br>	**把你见过的东西整理出来，总结出题规律<br>	<br>	**拿到题目就定位到对应的解决思路<br>	<br><span class="hljs-comment">## 建立宏观思维</span><br>	**<br></code></pre></td></tr></table></figure>
+
+
+
+]]></content>
   </entry>
   <entry>
     <title>912-考研数学全程安排</title>
@@ -213,6 +558,30 @@
       <tags>
         <tag>912</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>912-考研路上的反思</title>
+    <url>/2021/05/20/912-%E8%80%83%E7%A0%94%E8%B7%AF%E4%B8%8A%E7%9A%84%E5%8F%8D%E6%80%9D/</url>
+    <content><![CDATA[<h4 id="最大阻碍"><a href="#最大阻碍" class="headerlink" title="最大阻碍"></a>最大阻碍</h4><hr>
+<p>想得太多，做的太少。</p>
+<h4 id="无知困境"><a href="#无知困境" class="headerlink" title="无知困境"></a>无知困境</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 从占尽先机到名落孙山</span><br>	**我确定考研的时间很早，大概在20年9月之前<br>	**从20年9月到现在21年5月，常规来说，即使是强化阶段也应该达到炉火纯青了<br>	**事实却是，现在连各个学科的基础阶段都还处于浑水摸鱼的状态<br>	<br><span class="hljs-comment">## 关于有效学习时间</span><br>	**一天保证至少八小时的有效学习，你总共的学习时长都不到八小时，哪里来的有效？可笑之极<br>	<br>	<br><span class="hljs-comment">## 关于院校目标</span><br>	**就你目前的努力和付出来看，即使是选择最末流的学校，你都不够资格<br>	**确定了方向之后就不要再有顾虑，一往无前。实战出真知<br>	<br>	<br><span class="hljs-comment">## 禁忌</span><br>	**忌 三天打鱼两天晒网<br>	**忌 无脑重复不假思索<br>	**忌 光说不练碌碌无为<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="走出迷惘"><a href="#走出迷惘" class="headerlink" title="走出迷惘"></a>走出迷惘</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## June-20</span><br>	自今年四月以来，有一段时间，觉得自己毫无希望，索性产生了放弃THU的念头，经过几番思想波折，重新回到912的路途。每个人都会遇到自己的壁垒，有人被困住一生，有人选择打破。破壁之人，必定有我。<br>	从20年6月产生考研念头，由于种种原因，错失良机（基础阶段正式开始可能要算在21年三月之后）。4月、5月个人感觉在摸石头过河，5月底才发现适合自己的学习方式与课程。尽管如此，每天的有效时间还是非常有限（个人评估有效时间不超过4小时。<br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>912-自动化流水线生产模式</title>
+    <url>/2021/07/31/912-%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%81%E6%B0%B4%E7%BA%BF%E7%94%9F%E4%BA%A7%E6%A8%A1%E5%BC%8F/</url>
+    <content><![CDATA[<h4 id="模式来源"><a href="#模式来源" class="headerlink" title="模式来源"></a>模式来源</h4><p>该生产模式源自游戏《戴森球计划》，下功夫花时间和精力打好基础就是持续生产原材料的关键核心。</p>
+<h4 id="模式应用"><a href="#模式应用" class="headerlink" title="模式应用"></a>模式应用</h4><p>在英语学习中：</p>
+<p>单词书背单词—&gt;阅读经济学人—&gt;查克斯林词典—&gt;在单词书标注词典中的定位信息及时间—&gt;扩充词汇量及文化知识[仓库存储]</p>
+<p>在知识变现中：</p>
+<p>阅读学习记类素材—&gt;仓库备份—&gt;对文字等材料进行加工—&gt;音视频剪辑处理—&gt;自媒体精准推广—&gt;现金流备用</p>
+]]></content>
   </entry>
   <entry>
     <title>912-英语之美国文化背景</title>
@@ -369,6 +738,138 @@
       <tags>
         <tag>912</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>ATlibrary-在痛苦的世界尽力而为</title>
+    <url>/2021/05/17/ATlibrary-%E5%9C%A8%E7%97%9B%E8%8B%A6%E7%9A%84%E4%B8%96%E7%95%8C%E5%B0%BD%E5%8A%9B%E8%80%8C%E4%B8%BA/</url>
+    <content><![CDATA[<h4 id="在痛苦的世界尽力而为"><a href="#在痛苦的世界尽力而为" class="headerlink" title="在痛苦的世界尽力而为"></a>在痛苦的世界尽力而为</h4><hr>
+<p>我考大学考了三年</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>ATlibrary-如何学习</title>
+    <url>/2021/05/13/ATlibrary-%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<h4 id="如何学习"><a href="#如何学习" class="headerlink" title="如何学习"></a>如何学习</h4><hr>
+<p>这是一个重要的问题，但是很遗憾，这本书对我而言不是一本好书</p>
+<h4 id="关于遗忘"><a href="#关于遗忘" class="headerlink" title="关于遗忘"></a>关于遗忘</h4><hr>
+<h4 id="有效学习"><a href="#有效学习" class="headerlink" title="有效学习"></a>有效学习</h4><hr>
+<p>很遗憾，这也是一本当前不适合我的书</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>ATlibrary-如何有效阅读一本书</title>
+    <url>/2021/05/12/ATlibrary-%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/</url>
+    <content><![CDATA[<h4 id="如何有效阅读"><a href="#如何有效阅读" class="headerlink" title="如何有效阅读"></a>如何有效阅读</h4><hr>
+<p>提出一些好的问题</p>
+<p>并且通过笔记的模式来阅读</p>
+<p>因为这是一本好书，所以值得多读几次</p>
+<h4 id="读书的步骤"><a href="#读书的步骤" class="headerlink" title="读书的步骤"></a>读书的步骤</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 读书从选择一本或者多本书开始</span><br>	**或者说从笔记开始，选书的过程也应当记录到笔记中<br><br><br><br><span class="hljs-comment">## 读完之后应该对这本书归档</span><br></code></pre></td></tr></table></figure>
+
+<p>要通过笔记来选书，通过笔记来记录读书体验，用笔记做参考，通过笔记来回顾反思。这样整个读书过程都在促进自己对书的理解，从而构成个人独到的见解。</p>
+<h4 id="阅读检测"><a href="#阅读检测" class="headerlink" title="阅读检测"></a>阅读检测</h4><hr>
+<ul>
+<li>这本书讲了什么内容？</li>
+<li>我最喜欢书的哪一部分？</li>
+<li>这本书对我有什么影响？</li>
+<li>它的优点在哪里？</li>
+</ul>
+<h4 id="阅读中心"><a href="#阅读中心" class="headerlink" title="阅读中心"></a>阅读中心</h4><hr>
+<ul>
+<li>要读什么书？</li>
+<li>要注意书中的哪个部分？</li>
+<li>想到了什么？</li>
+</ul>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 用笔记管理读书生活</span><br>	**仅仅“读过”是远远不够的<br>	**把灵感记在纸上 ----&gt; 让思考书面化[而不是凌乱的线团]<br>	<br><span class="hljs-comment">## 坚持写读书笔记的原则</span><br>	**养成习惯<br>	**放大读书笔记的作用<br>	**创造别具一格的记录方式<br>	<br>	<br><span class="hljs-comment">## 记录技巧</span><br>	**按时间顺序记录<br>	**为每次笔记加上时间序列号，如：210512~[2021年5月12日]	<br>	**索引文献加上简短的说明<br>	**灵活的速记或者略记<br>	<br>	**做记号的步骤：通读、重读、标记<br>	<br><span class="hljs-comment">## 笔记类型</span><br>	**日期<br>	**书名<br>	**作者名<br>	**对自己来说重要的内容<br>	**自己对这本书的感想<br>	<br><span class="hljs-comment">## 塑造生活</span><br>	**我们需要一些能与自己长期共处的书：信仰、生活、心情、思维				！！！！！<br>	**积极输出促进思想内化<br>	<br><span class="hljs-comment">## 关于重读</span><br>	**想要简单回顾时---重读读书笔记<br>	**想要回忆起更多时---参考书中重点段落<br>	**想从头开始看起时---重读原书<br>	<br>	<br><span class="hljs-comment">## 应用部分</span><br>	**名言要贴在显眼处												！！！！！<br>	**读后感从摘抄开始<br><br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<h4 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h4><hr>
+<p>《如何有效阅读一本书》</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>ATlibrary-如何阅读一本书</title>
+    <url>/2021/05/18/ATlibrary-%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>ATlibrary-思考-快与慢</title>
+    <url>/2021/05/13/ATlibrary-%E6%80%9D%E8%80%83-%E5%BF%AB%E4%B8%8E%E6%85%A2/</url>
+    <content><![CDATA[<h4 id="思考，快与慢"><a href="#思考，快与慢" class="headerlink" title="思考，快与慢"></a>思考，快与慢</h4><hr>
+<ul>
+<li>这是一本有助于提高我们理性思考的书籍，值得一读</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>ATlibrary-见识</title>
+    <url>/2021/05/14/ATlibrary-%E8%A7%81%E8%AF%86/</url>
+    <content><![CDATA[<h4 id="见识"><a href="#见识" class="headerlink" title="见识"></a>见识</h4><hr>
+<h4 id="拒绝伪工作"><a href="#拒绝伪工作" class="headerlink" title="拒绝伪工作"></a>拒绝伪工作</h4><hr>
+<p>”每天的事情太多，总是做不完“</p>
+<p>这是大多数人遇到的普遍的问题。很多人想知道如何提高效率。但是，一个人的效率是很难提高的，唯一能够控制的就是少做一点事情。</p>
+<p>一个有经验的员工应该善于找到最重要的工作并且优先完成它们。</p>
+<h4 id="10000小时定理的误区与应对"><a href="#10000小时定理的误区与应对" class="headerlink" title="10000小时定理的误区与应对"></a>10000小时定理的误区与应对</h4><hr>
+<p>误区：</p>
+<ul>
+<li>简单重复</li>
+<li>习惯性失败</li>
+<li>林黛玉式困境</li>
+<li>狗熊掰棒子 [<strong><strong><strong>**</strong></strong></strong>IPV]</li>
+</ul>
+<hr>
+<h4 id="累积效应"><a href="#累积效应" class="headerlink" title="累积效应"></a>累积效应</h4><hr>
+<p>每一次的努力都应该建立在上一次付出的基础之上</p>
+<p>而不是每一次都从零开始，将同样的事情机械的重复一遍</p>
+<h4 id="批判性思维"><a href="#批判性思维" class="headerlink" title="批判性思维"></a>批判性思维</h4><hr>
+<ul>
+<li>这个世界具有多样性</li>
+<li>站到自己的对立面来思考问题</li>
+</ul>
+<h4 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">《异类》 	格拉德威尔<br>逻辑思维	罗振宇<br><br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>ATlibrary-阅读的魅力</title>
+    <url>/2021/05/12/ATlibrary-%E9%98%85%E8%AF%BB%E7%9A%84%E9%AD%85%E5%8A%9B/</url>
+    <content><![CDATA[<h4 id="为什么要读书？"><a href="#为什么要读书？" class="headerlink" title="为什么要读书？"></a>为什么要读书？</h4><hr>
+<ul>
+<li>优秀者都在读书</li>
+<li>越优秀者读的书越多，当然读书只是优秀的必要条件</li>
+<li>读书可以迅速并且大致准确的成长</li>
+</ul>
+<h4 id="该怎样读书？"><a href="#该怎样读书？" class="headerlink" title="该怎样读书？"></a>该怎样读书？</h4><hr>
+<ul>
+<li>先泛读，大量输入</li>
+<li>后分析，从大量的输入中筛选、部分精读并且能够转化成自己的一部分</li>
+<li>目的是主题阅读，有准确目的的进行某一个领域的阅读</li>
+</ul>
+<h4 id="该读哪些书？"><a href="#该读哪些书？" class="headerlink" title="该读哪些书？"></a>该读哪些书？</h4><hr>
+<ul>
+<li>泛读时只为了大量的输入</li>
+<li>精读名著与经典，经过时间的沉淀仍然熠熠生辉者</li>
+<li>与读者共同成长的书</li>
+</ul>
+<h4 id="实践操作"><a href="#实践操作" class="headerlink" title="实践操作"></a>实践操作</h4><hr>
+<ul>
+<li>首先有一个每天读一本书的计划</li>
+<li>然后有时时刻刻挤时间读书的心态</li>
+<li>最后踏实认真的践行，抓住重点去阅读</li>
+</ul>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 阅读良方</span><br>	**去见那些能够帮助你阅读的人<br>	**去帮助刚开始读书的人<br>	**从书籍中寻找读书的良方<br>	**摘录语句<br>	**找到目标<br>	**给自己喜欢的作家发邮件<br>	<br>	<br><br><span class="hljs-comment">## 笔记良方</span><br>	**底线<br>	**双底线<br>	**空白处记号<br>	**空白处编号<br>	**空白处补充页码<br>	**空白处补充参考文献<br>	<br>	<br>	<br><span class="hljs-comment">## 书单推荐</span><br>	**基业长青<br>	**长日将尽<br>	**货币的上升：世界金融史<br>	**卡拉马佐夫兄弟<br>	**麦田守望者<br>	**杀死一只知更鸟<br>	**世界是平的<br>	**个底斯堡的林肯：重塑美国的话语<br>	**万物简史<br>	**埃涅阿斯记<br>	**锅匠、裁缝、士兵、间谍<br>	**柏林谍影<br>	**耸肩的阿特拉斯<br>	**朗读者<br>	**荣誉学生<br>	**大牛市<br>	**屋内聪明人<br>	**在不确定的世界<br>	**正面思考的力量<br>	**拿破仑传<br>	**与时间竞争<br>	**斯大林格勒<br>	**野天鹅<br>	**漫漫自由路<br>	**资本论<br>	**毛泽东选集<br>	**大卫-科波菲尔<br>	**荆棘鸟<br>	**红与黑<br>	**<br>	<br>	<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+]]></content>
   </entry>
   <entry>
     <title>B000-四月的书单</title>
@@ -538,19 +1039,6 @@
       </tags>
   </entry>
   <entry>
-    <title>B006-天才在左疯子在右</title>
-    <url>/2021/01/19/B006-%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>深夜书刊</category>
-        <category>阅读笔记</category>
-      </categories>
-      <tags>
-        <tag>阅读笔记</tag>
-        <tag>天才在左疯子在右</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>B007-从0到1</title>
     <url>/2021/01/19/B007-%E4%BB%8E0%E5%88%B01/</url>
     <content><![CDATA[]]></content>
@@ -590,6 +1078,19 @@
       <tags>
         <tag>阅读笔记</tag>
         <tag>格局</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>B006-天才在左疯子在右</title>
+    <url>/2021/01/19/B006-%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>深夜书刊</category>
+        <category>阅读笔记</category>
+      </categories>
+      <tags>
+        <tag>阅读笔记</tag>
+        <tag>天才在左疯子在右</tag>
       </tags>
   </entry>
   <entry>
@@ -721,6 +1222,15 @@
         <tag>考研复盘</tag>
         <tag>考研回顾整理第四卷</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>ECO-改变固有模式</title>
+    <url>/2021/07/31/ECO-%E6%94%B9%E5%8F%98%E5%9B%BA%E6%9C%89%E6%A8%A1%E5%BC%8F/</url>
+    <content><![CDATA[<h4 id="不要停止"><a href="#不要停止" class="headerlink" title="不要停止"></a>不要停止</h4><p>任何跳跃式的成功都是来自改变固有的模式取得的。</p>
+<p>或者说如果你不改变现有的模式，那么注定就跳跃升华。像有勇气吃螃蟹的人学习，然后和他们做朋友。</p>
+<h4 id="学习理财"><a href="#学习理财" class="headerlink" title="学习理财"></a>学习理财</h4><p>空闲时间补充金融知识，然后将知识变现</p>
+<h4 id="交叉学科"><a href="#交叉学科" class="headerlink" title="交叉学科"></a>交叉学科</h4><p>用跨专业的课程来填充你打游戏与刷视频的时间，然后将知识变现</p>
+]]></content>
   </entry>
   <entry>
     <title>FLY-001-A320NEO冷舱启动</title>
@@ -1155,6 +1665,19 @@
       </tags>
   </entry>
   <entry>
+    <title>M001心理学笔记</title>
+    <url>/2021/08/06/M001%E5%BF%83%E7%90%86%E5%AD%A6%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h4 id="心理学研究方法"><a href="#心理学研究方法" class="headerlink" title="心理学研究方法"></a>心理学研究方法</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 观察法</span><br>自然观察/控制观察<br><br><br>&gt;&gt; 观察者偏见<br><br><br><span class="hljs-comment">## 实验法</span><br>自变量、因变量、控制变量[初始条件]<br><br><br>&gt;&gt; 霍桑实验<br>	--人的心理因素对工作效率的影响很多时候大于福利带来的影响<br>	--如果大家都保持在中等水平，那么大家都有饭吃，如果突然有一个出头鸟水平特别拔尖，那么很可能就会导致群愤。<br>	<br><br>&gt;&gt; <br><span class="hljs-comment">## 十年磨一剑的勇气  ## 严谨务实的原则</span><br>1924：照明实验<br>1927：福利实验<br>1929：访谈实验<br>1930：群体实验<br>1933：著作出版<br><br>--&gt; 你读过的书+你走过的路+你经历过的事情 ==&gt; 你是一个怎样的人<br><br><br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<h5 id="TIPS"><a href="#TIPS" class="headerlink" title="TIPS"></a>TIPS</h5><figure class="highlight java"><table><tr><td class="code"><pre><code class="hljs java"><span class="hljs-comment">// 对真正热爱的事情，每前进一步都应当从一生的角度出发：如果花一生的时间来做一件事情，那么理所当然是可以做到出类拔萃的。</span><br><br>&gt;&gt;&gt;&gt;研发一个能够自动处理、分析、安排主人每天的作息、任务、计划的系统。<br>    --能够持续学习、能够进行感情交流[或者基本的交流对话]  <br>    --能够迸发灵感  <br>    --能阅读并且更具语言特色、主题进行分类整理<br>    --能简单的告诉我什么时候该做什么事、为什么要这样做<br>    <br>    <br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
     <title>M002-怎样学好数学</title>
     <url>/2021/01/28/M002-%E6%80%8E%E6%A0%B7%E5%AD%A6%E5%A5%BD%E6%95%B0%E5%AD%A6/</url>
     <content><![CDATA[<h4 id="数学学习中的困难"><a href="#数学学习中的困难" class="headerlink" title="数学学习中的困难"></a>数学学习中的困难</h4><hr>
@@ -1424,7 +1947,7 @@
     <content><![CDATA[<h4 id="QT实践记录"><a href="#QT实践记录" class="headerlink" title="QT实践记录"></a>QT实践记录</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 界面需要美化<br><br></code></pre></td></tr></table></figure>
 
 <hr>
-<figure class="highlight xl"><table><tr><td class="code"><pre><code class="hljs xl">** <br>&gt; ADD Y<span class="hljs-function"><span class="hljs-title">ourPROName</span>.pro ---&gt;</span> TRANSLATIONS = english.ts chinese.ts<br>&gt; T<span class="hljs-function"><span class="hljs-title">ools</span> -&gt;</span> E<span class="hljs-function"><span class="hljs-title">xternal</span> -&gt;</span> <span class="hljs-function"><span class="hljs-title">linguist</span> -&gt;</span> update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location <span class="hljs-built_in">and</span> find the <br></code></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">** <br>&gt; ADD YourPROName.pro ---&gt; TRANSLATIONS &#x3D; english.ts chinese.ts<br>&gt; Tools -&gt; External -&gt; linguist -&gt; update<br>&gt; Open APP &gt; QT Linguist &gt; <br>&gt; Open your project location and find the <br></code></pre></td></tr></table></figure>
 
 ]]></content>
       <categories>
@@ -1441,7 +1964,7 @@
 <figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">## 也许会碰到挫折，但不要会心，在同伴的协同下<br>&gt; $ 罗马书 8:28-30<br>&gt; 我们被神拣选，被祂称义，万事都在互相效力，叫称义的人得益处[如下，进入永恒]<br>&gt; 要把我们打磨成神儿子的形象<br>&gt; 我们是神手中的杰作<br>&gt; 神在祂心中的意念是一致的，即使表现得各不相同<br>&gt; 耶稣要率领众子进入神的荣耀，进入永恒 [是神永远旨意的完成]<br>&gt; 把我们磨成神儿子的形象 [是圣灵今天在我们身上工作的法则]<br>-------------------------------------------<br>&gt; 地上再多的苦，比起我们将来的荣耀，是不值一提的<br>&gt; [知道神的目的 - 善良、纯全、可喜悦的旨意]<br>&gt; 神拆毁我们、倒空我们、洁净我们、改变我们<br>&gt; 罗马数X:12节，不要效法这个世界<br>&gt; 要去查阅何为神善良、纯全、可喜悦的旨意<br>-------------------------------------------<br>&gt; 我们所有的遭遇，神在我们的身上都有美好的旨意，我们还有许多的未得之地<br>&gt; 愿我们心里也能彼此相爱，彼此扶持<br>&gt; 使万人成为神的门徒<br>&gt; [使万民成为主的门徒]<br>&gt; 门徒：学生、follower<br>&gt; <br></code></pre></td></tr></table></figure>
 
 <hr>
-<h4 id="如何成为耶稣基督的门徒"><a href="#如何成为耶稣基督的门徒" class="headerlink" title="如何成为耶稣基督的门徒"></a>如何成为耶稣基督的门徒</h4><figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell"><span class="hljs-meta">#</span><span class="bash"><span class="hljs-comment"># 有代价</span></span><br>	*路加福音 14:26,27 33<br>	*马太福音 10:27-38<br>	---------------------------------------<br><span class="hljs-meta">	#</span><span class="bash"><span class="hljs-comment"># 神要求我们的，就是神要给我们的</span></span><br>		** 主向我们要求圣洁，但是在我里头毫无良善<br>		** 当我们跟从主，就向圣洁靠近<br>		** 是什么让这些吸引我们的偶像失去颜色？  <br>		不要做违背神、违背主的关系[当世界与主的旨意冲突时，要爱主胜过世界]<br>		永远让主居首位<br>		** 如果你没有遭受逼迫，那是神特别的恩典。如果你遭受到逼迫，那是神更大的恩典<br>		<br><span class="hljs-meta">		#</span><span class="bash"><span class="hljs-comment"># 信耶稣一定有代价</span></span><br>	---------------------------------------<br>	<br><span class="hljs-meta">#</span><span class="bash"><span class="hljs-comment"># 要舍己</span></span><br>	*外面很多东西都可以放，唯独舍己 - 是最大的代价<br>	*最大的难处、最大的麻烦<br>	<br></code></pre></td></tr></table></figure>
+<h4 id="如何成为耶稣基督的门徒"><a href="#如何成为耶稣基督的门徒" class="headerlink" title="如何成为耶稣基督的门徒"></a>如何成为耶稣基督的门徒</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 有代价<br>	*路加福音 <span class="hljs-number">14</span>:<span class="hljs-number">26</span>,<span class="hljs-number">27</span> <span class="hljs-number">33</span><br>	*马太福音 <span class="hljs-number">10</span>:<span class="hljs-number">27</span><span class="hljs-number">-38</span><br>	---------------------------------------<br>	## 神要求我们的，就是神要给我们的<br>		** 主向我们要求圣洁，但是在我里头毫无良善<br>		** 当我们跟从主，就向圣洁靠近<br>		** 是什么让这些吸引我们的偶像失去颜色？  <br>		不要做违背神、违背主的关系[当世界与主的旨意冲突时，要爱主胜过世界]<br>		永远让主居首位<br>		** 如果你没有遭受逼迫，那是神特别的恩典。如果你遭受到逼迫，那是神更大的恩典<br>		<br>		## 信耶稣一定有代价<br>	---------------------------------------<br>	<br>## 要舍己<br>	*外面很多东西都可以放，唯独舍己 - 是最大的代价<br>	*最大的难处、最大的麻烦<br>	<br></code></pre></td></tr></table></figure>
 
 <h4 id="门徒的特点"><a href="#门徒的特点" class="headerlink" title="门徒的特点"></a>门徒的特点</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 你在马路上怎么样认出一个军人来？<br>	** 门徒的特点<br>	** 活在光中<br>	---------------------------------------<br>	<br>	---------------------------------------<br>	** 活在爱中<br>	---------------------------------------<br>		## 有相爱的心，不能在舌头上，总要在行为和诚实上<br>		## 积极的爱永远是纯全，永远是在建造<br>		<br>	** 活在生命里<br>	---------------------------------------<br>		## 你们多结果子<br>		## 生命不断的被改变 	[在江湖混太久了 - 所以一路上慢慢被改变]<br>		## 没有人跟随耶稣生命不被改变的<br>			** 伯大尼 - 拉撒路 - 许多人因为拉撒路就信了耶稣[从前我是瞎眼的，如今我得以看见] - [复活生命的明证]<br>			** 原味尚醇 - 马铃薯的见证[] - 暴躁的改变 [旷野的流浪]<br>			** 门徒生命一定被改变<br>	---------------------------------------<br></code></pre></td></tr></table></figure>
 
@@ -1495,7 +2018,7 @@
     <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
 
 <hr>
-<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">将考研计划命名为涅槃<span class="hljs-comment">[Nirvana action]</span><br><br>** 做好打持久战的准备<br>** <br>** 即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br>** 预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书<span class="hljs-comment">[历史、政治、经济、管理]</span>-提升技能<span class="hljs-comment">[语言、专业、生活、工作、学习]</span>-以学代练，以练促学<span class="hljs-comment">[项目形式记录]</span><br></code></pre></td></tr></table></figure>
+<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight asciidoc"><table><tr><td class="code"><pre><code class="hljs asciidoc">将考研计划命名为涅槃[Nirvana action]<br><br><span class="hljs-bullet">** </span>做好打持久战的准备<br><span class="hljs-bullet">** </span><br><span class="hljs-bullet">** </span>即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br><span class="hljs-bullet">** </span>预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书[历史、政治、经济、管理]-提升技能[语言、专业、生活、工作、学习]-以学代练，以练促学[项目形式记录]<br></code></pre></td></tr></table></figure>
 
 ]]></content>
       <categories>
@@ -1557,7 +2080,7 @@
 <p>**数据的表示：计算题</p>
 </blockquote>
 <hr>
-<figure class="highlight inform7"><table><tr><td class="code"><pre><code class="hljs inform7">**电路P108<span class="hljs-comment">[会画图、标出控制信号、溢出、做好细节处理]</span> <span class="hljs-comment">[P112不如P108]</span><br><br>**<span class="hljs-comment">[115原码乘法]</span> <span class="hljs-comment">[119补码乘法、 Booth算法**重要]</span><br></code></pre></td></tr></table></figure>
+<figure class="highlight css"><table><tr><td class="code"><pre><code class="hljs css">**电路<span class="hljs-selector-tag">P108</span><span class="hljs-selector-attr">[会画图、标出控制信号、溢出、做好细节处理]</span> <span class="hljs-selector-attr">[P112不如P108]</span><br><br>**<span class="hljs-selector-attr">[115原码乘法]</span> <span class="hljs-selector-attr">[119补码乘法、 Booth算法**重要]</span><br></code></pre></td></tr></table></figure>
 
 <hr>
 <blockquote>
@@ -1566,7 +2089,7 @@
 <p>**存储器性能指标[速度、价格、容量]</p>
 </blockquote>
 <hr>
-<figure class="highlight less"><table><tr><td class="code"><pre><code class="hljs less">**局部性原理<span class="hljs-selector-attr">[P195]</span><br><br>**<span class="hljs-selector-tag">Cache</span>的工作原理<span class="hljs-selector-attr">[P196]</span>  <span class="hljs-selector-tag">--</span> &gt; <span class="hljs-selector-tag">Cache</span>的替换算法<br></code></pre></td></tr></table></figure>
+<figure class="highlight css"><table><tr><td class="code"><pre><code class="hljs css">**局部性原理<span class="hljs-selector-attr">[P195]</span><br><br>**<span class="hljs-selector-tag">Cache</span>的工作原理<span class="hljs-selector-attr">[P196]</span>  <span class="hljs-selector-tag">--</span> &gt; <span class="hljs-selector-tag">Cache</span>的替换算法<br></code></pre></td></tr></table></figure>
 
 <hr>
 <blockquote>
@@ -1585,7 +2108,7 @@
 <figure class="highlight gams"><table><tr><td class="code"><pre><code class="hljs gams"><span class="hljs-comment">**补码的加减运算</span><br><br><span class="hljs-comment">**补码的表示：阶码、位数  补码表示尾数、[P83]  </span><br><br><span class="hljs-comment">**存储器的重点：存储器与CPU的连接 知道Cache的大小[P228]</span><br></code></pre></td></tr></table></figure>
 
 <hr>
-<h4 id="综合题-16-16-16"><a href="#综合题-16-16-16" class="headerlink" title="综合题[16 + 16 + 16]"></a>综合题[16 + 16 + 16]</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">**CPU--MEM[P179&lt;--&gt;P]  --&gt; 字拓展、位拓展、同时拓展 <br>**控制器 - 单周期 - M<br></code></pre></td></tr></table></figure>
+<h4 id="综合题-16-16-16"><a href="#综合题-16-16-16" class="headerlink" title="综合题[16 + 16 + 16]"></a>综合题[16 + 16 + 16]</h4><figure class="highlight brainfuck"><table><tr><td class="code"><pre><code class="hljs brainfuck"><span class="hljs-comment">**CPU</span>--<span class="hljs-comment">MEM</span><span class="hljs-title">[</span><span class="hljs-comment">P179</span>&lt;--&gt;<span class="hljs-comment">P</span><span class="hljs-title">]</span>  --&gt; <span class="hljs-comment">字拓展、位拓展、同时拓展</span> <br><span class="hljs-comment">**控制器</span> <span class="hljs-literal">-</span> <span class="hljs-comment">单周期</span> <span class="hljs-literal">-</span> <span class="hljs-comment">M</span><br></code></pre></td></tr></table></figure>
 
 <hr>
 <h4 id="ET"><a href="#ET" class="headerlink" title="ET"></a>ET</h4><figure class="highlight routeros"><table><tr><td class="code"><pre><code class="hljs routeros"><br><span class="hljs-keyword">if</span>(<span class="hljs-attribute">i</span>==j)<br>	f = g + h;<br><span class="hljs-keyword">else</span><br>	f = g - h;<br>-----------------<br><br>-----------------<br><span class="hljs-keyword">if</span>(<span class="hljs-attribute">i</span>==j)<br>	goto <span class="hljs-literal">true</span>;<br><span class="hljs-literal">false</span>:<br>	f = g - h;<br>	goto out;<br><span class="hljs-literal">true</span>:<br>	f = g + h;<br>out:<br><br>-----------------<br><br>	beq <span class="hljs-variable">$3</span>,<span class="hljs-variable">$4</span>,<span class="hljs-literal">true</span><br><span class="hljs-literal">false</span>:<br>	sub <span class="hljs-variable">$5</span>,<span class="hljs-variable">$6</span>,<span class="hljs-variable">$7</span><br>	j out<br><span class="hljs-literal">true</span>:<br>	<span class="hljs-builtin-name">add</span> <span class="hljs-variable">$5</span>,<span class="hljs-variable">$6</span>,<span class="hljs-variable">$7</span><br>out:<br><br>-----------------<br>	beq <span class="hljs-variable">$3</span>,<span class="hljs-variable">$4</span>,2	;相对跳转	0<br>	sub <span class="hljs-variable">$5</span>,<span class="hljs-variable">$6</span>,<span class="hljs-variable">$7</span>		   1<br>	j 4			;绝对跳转	2<br>	<span class="hljs-builtin-name">add</span> <span class="hljs-variable">$5</span>,<span class="hljs-variable">$6</span>,<span class="hljs-variable">$7</span>		   3<br>						   4		<br><br></code></pre></td></tr></table></figure>
@@ -4056,26 +4579,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R042-应用写作-FINAL</title>
-    <url>/2021/01/07/R042-%E5%BA%94%E7%94%A8%E5%86%99%E4%BD%9C-FINAL/</url>
-    <content><![CDATA[<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 第六章 议案、提案</span><br>	**议案：人大专用词<br>	**提案：<br>	<br><span class="hljs-comment">## 主送机关：同级的</span><br>	**临安区人民代表大会<br>	**临安区人大常务委员会<br>	<br>	同级的行政机关<br>	**杭州市人民代表大会<br>	**杭州市人大常务委员会<br>	<br><span class="hljs-comment">## 议案；P187</span><br>	**议案的正文部分结构<br>	**浙江省人民政府<br>		<span class="hljs-comment">#审议的是附件---对于议案[正文比较简略]</span><br>	**议案的附件经审议通过后具有法律效力<br>	<br><span class="hljs-comment">## 函：P188</span><br>	**不相隶属机关[一个原则：A和B，A能不能管理B// 一般是平行]<br>	**函与复函[类似请示与批复]<br>	请予函复[如果不加这句话可以不回复]<br>	<br>	**请示是必须要批复的，而函可以不用[除非加“请予函复”]<br>	<br><span class="hljs-comment">## 复函：</span><br>	**标题：一问一答<br>		<span class="hljs-comment">#关于***的复函</span><br>		<br>		******：<br>		    你办[办公厅 *不能是教育局[你单位*万能]]《%^&amp;*》收悉，现函复如下：<br>		我单位***。<br>		    特此函复。<br>		    附件：<br>		    										****单位<br>		    										x年x月x日<br>		    										<br>		    										<br>	**<br>	<br><span class="hljs-comment">## 请示与批复：</span><br>	**请示<br>					**标题（某某某单位）关于&amp;&amp;&amp;事件的请示<br>	XX单位：<br>		陈述事件，申请*****。<br>		特此请示，请批复<br>														XXX单位<br>														x年x月x日<br>														<br><br>	**批复<br>					**标题（某某某单位）关于《&amp;&amp;&amp;请示》的批复<br>	<span class="hljs-comment">###单位：</span><br>		你单位《&amp;&amp;&amp;请示》收悉，%&amp;*<br>		特此批复。<br>																																	XXX单位<br>														x年x月x日<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">0--请示批复<br>1--信工的上级单位就是杭州电子科技大学<br><br><span class="hljs-comment">## 类型</span><br><br><span class="hljs-comment">## 主送机关</span><br><br><span class="hljs-comment">## 内容范围</span><br><br><span class="hljs-comment">## 回复方式</span><br><br>---<br>请示的修订：<br>	书面化的表达：我院、故、<br>	特此请示，请批复。<br>	<br>	<br>批复：<br>							关于同意采购校车的批复					……标题表明态度<br>杭州电子科技大学信息工程学院：<br>	你单位《关于采购校车的请示》收悉。经会议研究讨论，领导审议，统一你单位采购校车2辆，用于师生通勤。[可以提出期望]。望你单位能合理利用校车资源，更好服务师生。<br>	特此批复。<br>												杭州电子科技大学<br>												落款时间[注意时差]<br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">P3:<br>	**第一段：所谓主题就是…………………………。文章具体内容所表达最主要的思想[主题]<br>	<br>P5:<br>	**主题的来源是生活<br>	<br>P7:<br>	**从写作的角度来说，提炼主题的五个基本要求：正确、鲜明、深刻、新颖等<br><br>P10:<br>	**材料是指………………事实或观点[真实、鲜明[不能墙头草]]<br>	<br>P11:<br>	**区分事实材料和理论材料[事实材料更有说服力]<br>	<br>P15:<br>	**叙述的方法：<br>		<span class="hljs-comment">#顺序，倒叙，插叙，平叙</span><br><br>P27:<br>	**说明的方法<br>		<span class="hljs-comment">#介绍、描述、定义、分类、诠释等</span><br>		<br>P38:<br>	**结构的原则：<br>		<span class="hljs-comment">#表现主题、发展规律、特点[三点]</span><br>		<br>P55:<br>	**机关公文的定义[必考]<br>		<span class="hljs-comment">#机关公文是指……………………法定机关与组织 &amp; 公务活动[不是私人的]</span><br>		<br>P58:<br>	**机关公文的种类：<br>		<span class="hljs-comment">#15种---</span><br>		<br>P59:<br>	**机关公文的分类：<br>		<span class="hljs-comment">#行文方向、、、、等分类</span><br>		<br>P62:<br>	**第七行[六角括号-=-]用来写发文的文号<br>	<br>P70:<br>	**机关公文的行文规则 - 主观题<br>	<br>P78:<br>	**机关公文的文体：<br>		<span class="hljs-comment">#决议</span><br>			**必须经由会议讨论通过<br>			**党口文件<br>		<span class="hljs-comment">#</span><br>		<span class="hljs-comment">#</span><br>P83:<br>	**决定<br>		<span class="hljs-comment">#</span><br>		<br>P112:<br>	**命令<br>		第六段：命令一般以机关领导人的身份发布。行政口文件<br>		<br>P149:<br>	**通知<br>		范围：发布、传达…………[可以是平行、下行，但是！！！不能是上行]<br>		类型：指示、转发等<br>	<br>P176:<br>	**请示：<br>		如何写请示<br>		<br>P180:<br>	**批复：<br>		<br>P186:<br>	**议案：<br>		适用于各级人民政府、人大、人大常务委员会<br>		<br>P188:<br>	**函：<br>		适用于不相隶属的<br>		<br>单选、多选、简答、作文<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>应用写作考点</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R042-考研单词L5</title>
     <url>/2021/01/07/R042-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL5/</url>
     <content><![CDATA[<h4 id="书籍音频资料下载"><a href="#书籍音频资料下载" class="headerlink" title="书籍音频资料下载"></a>书籍音频资料下载</h4><hr>
@@ -4607,6 +5110,26 @@
         <tag>英语单词</tag>
         <tag>考研英语</tag>
         <tag>新东方词汇书籍音频下载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R042-应用写作-FINAL</title>
+    <url>/2021/01/07/R042-%E5%BA%94%E7%94%A8%E5%86%99%E4%BD%9C-FINAL/</url>
+    <content><![CDATA[<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 第六章 议案、提案</span><br>	**议案：人大专用词<br>	**提案：<br>	<br><span class="hljs-comment">## 主送机关：同级的</span><br>	**临安区人民代表大会<br>	**临安区人大常务委员会<br>	<br>	同级的行政机关<br>	**杭州市人民代表大会<br>	**杭州市人大常务委员会<br>	<br><span class="hljs-comment">## 议案；P187</span><br>	**议案的正文部分结构<br>	**浙江省人民政府<br>		<span class="hljs-comment">#审议的是附件---对于议案[正文比较简略]</span><br>	**议案的附件经审议通过后具有法律效力<br>	<br><span class="hljs-comment">## 函：P188</span><br>	**不相隶属机关[一个原则：A和B，A能不能管理B// 一般是平行]<br>	**函与复函[类似请示与批复]<br>	请予函复[如果不加这句话可以不回复]<br>	<br>	**请示是必须要批复的，而函可以不用[除非加“请予函复”]<br>	<br><span class="hljs-comment">## 复函：</span><br>	**标题：一问一答<br>		<span class="hljs-comment">#关于***的复函</span><br>		<br>		******：<br>		    你办[办公厅 *不能是教育局[你单位*万能]]《%^&amp;*》收悉，现函复如下：<br>		我单位***。<br>		    特此函复。<br>		    附件：<br>		    										****单位<br>		    										x年x月x日<br>		    										<br>		    										<br>	**<br>	<br><span class="hljs-comment">## 请示与批复：</span><br>	**请示<br>					**标题（某某某单位）关于&amp;&amp;&amp;事件的请示<br>	XX单位：<br>		陈述事件，申请*****。<br>		特此请示，请批复<br>														XXX单位<br>														x年x月x日<br>														<br><br>	**批复<br>					**标题（某某某单位）关于《&amp;&amp;&amp;请示》的批复<br>	<span class="hljs-comment">###单位：</span><br>		你单位《&amp;&amp;&amp;请示》收悉，%&amp;*<br>		特此批复。<br>																																	XXX单位<br>														x年x月x日<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">0--请示批复<br>1--信工的上级单位就是杭州电子科技大学<br><br><span class="hljs-comment">## 类型</span><br><br><span class="hljs-comment">## 主送机关</span><br><br><span class="hljs-comment">## 内容范围</span><br><br><span class="hljs-comment">## 回复方式</span><br><br>---<br>请示的修订：<br>	书面化的表达：我院、故、<br>	特此请示，请批复。<br>	<br>	<br>批复：<br>							关于同意采购校车的批复					……标题表明态度<br>杭州电子科技大学信息工程学院：<br>	你单位《关于采购校车的请示》收悉。经会议研究讨论，领导审议，统一你单位采购校车2辆，用于师生通勤。[可以提出期望]。望你单位能合理利用校车资源，更好服务师生。<br>	特此批复。<br>												杭州电子科技大学<br>												落款时间[注意时差]<br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">P3:<br>	**第一段：所谓主题就是…………………………。文章具体内容所表达最主要的思想[主题]<br>	<br>P5:<br>	**主题的来源是生活<br>	<br>P7:<br>	**从写作的角度来说，提炼主题的五个基本要求：正确、鲜明、深刻、新颖等<br><br>P10:<br>	**材料是指………………事实或观点[真实、鲜明[不能墙头草]]<br>	<br>P11:<br>	**区分事实材料和理论材料[事实材料更有说服力]<br>	<br>P15:<br>	**叙述的方法：<br>		<span class="hljs-comment">#顺序，倒叙，插叙，平叙</span><br><br>P27:<br>	**说明的方法<br>		<span class="hljs-comment">#介绍、描述、定义、分类、诠释等</span><br>		<br>P38:<br>	**结构的原则：<br>		<span class="hljs-comment">#表现主题、发展规律、特点[三点]</span><br>		<br>P55:<br>	**机关公文的定义[必考]<br>		<span class="hljs-comment">#机关公文是指……………………法定机关与组织 &amp; 公务活动[不是私人的]</span><br>		<br>P58:<br>	**机关公文的种类：<br>		<span class="hljs-comment">#15种---</span><br>		<br>P59:<br>	**机关公文的分类：<br>		<span class="hljs-comment">#行文方向、、、、等分类</span><br>		<br>P62:<br>	**第七行[六角括号-=-]用来写发文的文号<br>	<br>P70:<br>	**机关公文的行文规则 - 主观题<br>	<br>P78:<br>	**机关公文的文体：<br>		<span class="hljs-comment">#决议</span><br>			**必须经由会议讨论通过<br>			**党口文件<br>		<span class="hljs-comment">#</span><br>		<span class="hljs-comment">#</span><br>P83:<br>	**决定<br>		<span class="hljs-comment">#</span><br>		<br>P112:<br>	**命令<br>		第六段：命令一般以机关领导人的身份发布。行政口文件<br>		<br>P149:<br>	**通知<br>		范围：发布、传达…………[可以是平行、下行，但是！！！不能是上行]<br>		类型：指示、转发等<br>	<br>P176:<br>	**请示：<br>		如何写请示<br>		<br>P180:<br>	**批复：<br>		<br>P186:<br>	**议案：<br>		适用于各级人民政府、人大、人大常务委员会<br>		<br>P188:<br>	**函：<br>		适用于不相隶属的<br>		<br>单选、多选、简答、作文<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>应用写作考点</tag>
       </tags>
   </entry>
   <entry>

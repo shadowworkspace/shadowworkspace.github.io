@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>408-Linux内核</title>
-    <url>/2021/03/24/408-Linux%E5%86%85%E6%A0%B8/</url>
-    <content><![CDATA[<h4 id="操作系统"><a href="#操作系统" class="headerlink" title="操作系统"></a>操作系统</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 操作系统的功能</span><br>	**<br>	**<br>	**<br>	**<br>	**<br>	<br><span class="hljs-comment">## 操作系统的特征</span><br>	**并发性<br>	**共享性<br>	**虚拟性<br>	**异步性<br>	<br><span class="hljs-comment">## 操作系统的目标</span><br>	**<br>	**<br>	<br>	<br>	<br>-----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 操作系统的发展</span><br>	**手工阶段<br>	**单道批处理系统<br>	**多道批处理系统<br>	**分时操作系统<br>	<br>	<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>Linux内核</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>912-408专业课备考4月安排</title>
     <url>/2021/04/20/912-408%E4%B8%93%E4%B8%9A%E8%AF%BE%E5%A4%87%E8%80%834%E6%9C%88%E5%AE%89%E6%8E%92/</url>
     <content><![CDATA[]]></content>
@@ -19,6 +9,16 @@
       </categories>
       <tags>
         <tag>912</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>408-Linux内核</title>
+    <url>/2021/03/24/408-Linux%E5%86%85%E6%A0%B8/</url>
+    <content><![CDATA[<h4 id="操作系统"><a href="#操作系统" class="headerlink" title="操作系统"></a>操作系统</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 操作系统的功能</span><br>	**<br>	**<br>	**<br>	**<br>	**<br>	<br><span class="hljs-comment">## 操作系统的特征</span><br>	**并发性<br>	**共享性<br>	**虚拟性<br>	**异步性<br>	<br><span class="hljs-comment">## 操作系统的目标</span><br>	**<br>	**<br>	<br>	<br>	<br>-----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 操作系统的发展</span><br>	**手工阶段<br>	**单道批处理系统<br>	**多道批处理系统<br>	**分时操作系统<br>	<br>	<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>Linux内核</tag>
       </tags>
   </entry>
   <entry>
@@ -86,6 +86,14 @@
 ]]></content>
   </entry>
   <entry>
+    <title>912-PAT劝退指南</title>
+    <url>/2021/04/29/912-PAT%E5%8A%9D%E9%80%80%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<h6 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h6><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">https://github.com/liuchuo/PAT<br>https://www.liuchuo.net/<br>《算法笔记》<br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
     <title>912-THU修炼秘笈</title>
     <url>/2021/06/20/912-THU%E4%BF%AE%E7%82%BC%E7%A7%98%E7%AC%88/</url>
     <content><![CDATA[<h4 id="最大的阻碍"><a href="#最大的阻碍" class="headerlink" title="最大的阻碍"></a>最大的阻碍</h4><hr>
@@ -132,14 +140,6 @@
 <p><strong>主动思考</strong>体现在主动寻找问题，看到知识点以后主动尝试<strong>举一反三</strong>（真二叉树数量与卡特兰数的关系），主动找出知识点没有直接概括到的疑难点（CLOCK是否存在Belady现象），看到繁复的知识主动寻找高层次的概括和抽象（二元高斯分布以推广到多元高斯分布的方式来简化记忆），这些习惯对于扩展自己的视野有非常大的帮助。应试考试不仅是知识的考试，更是能力的考试，它本质上是在筛选适合于接受教育的人，而一个不懂得主动思考，只会亦步亦趋的人，即便进入了清华，也将在痛苦中完成学业。</p>
 <p><strong>但是能力并不是天生的，是可以通过长时间的思维训练锻炼出来的，</strong>如果是大四时候浑浑噩噩的我，很可能也会折戟沉沙。的确，我在考研前有一定基础，但也并不高，我同样抱着悔恨和弥补曾经的遗憾的心情参加考研，<strong>往者不可谏，来者犹可追。</strong></p>
 <p>既然选择了这条路，就应该明白这条路凭什么选择你，清华凭什么选择你，然后朝着这个方向改变自己。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>912-PAT劝退指南</title>
-    <url>/2021/04/29/912-PAT%E5%8A%9D%E9%80%80%E6%8C%87%E5%8D%97/</url>
-    <content><![CDATA[<h6 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h6><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">https://github.com/liuchuo/PAT<br>https://www.liuchuo.net/<br>《算法笔记》<br></code></pre></td></tr></table></figure>
-
 ]]></content>
   </entry>
   <entry>
@@ -197,6 +197,18 @@
 ]]></content>
   </entry>
   <entry>
+    <title>912-当我意识到进度滞后</title>
+    <url>/2021/08/20/912-%E5%BD%93%E6%88%91%E6%84%8F%E8%AF%86%E5%88%B0%E8%BF%9B%E5%BA%A6%E6%BB%9E%E5%90%8E/</url>
+    <content><![CDATA[<h4 id="发现问题"><a href="#发现问题" class="headerlink" title="发现问题"></a>发现问题</h4><p>现在日期是2021年8月20日，距离企鹅君开始准备考研已经大概有一年之久。</p>
+<p>但是企鹅最近听课时才意识到，自己的进度已经滞后了非常多，产生如此结果有非常多的原因。</p>
+<p>当前问题在于：如何处理我当前所面临的困境呢？</p>
+<p>**首先我知道了自己剩下的时间非常紧凑</p>
+<p>**其次我能想到的总体策略是分而治之与减而治之（受益于邓俊辉老师的数据结构课程）</p>
+<p>**根据二八定律：当前需要抓住20%的重点，但是问题在于我如何判断哪些知识属于这20%呢？我肯定需要大量的数据分析，而这些用于分析的数据，一是来源于我自己的刷题与结合历届试题的综合评判，二是来源于各大名师的尊尊教诲</p>
+<p>**最后是对于一些可以同时进行的操作反思：比如我现在强化阶段进行了一部分，但是对于知识结构的整体掌握是远远不够的—而知识结构的图像绘制可以从一开始就进行，而不必等到现在—离考试还有一百多天。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>912-恋练有词随机记录</title>
     <url>/2021/02/28/912-%E6%81%8B%E7%BB%83%E6%9C%89%E8%AF%8D%E9%9A%8F%E6%9C%BA%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<h4 id="重点梳理"><a href="#重点梳理" class="headerlink" title="重点梳理"></a>重点梳理</h4><hr>
@@ -236,6 +248,11 @@
   <entry>
     <title>912-数学之殇-基础的章节没有吃透是否要继续往下学习</title>
     <url>/2021/03/23/912-%E6%95%B0%E5%AD%A6%E4%B9%8B%E6%AE%87-%E5%9F%BA%E7%A1%80%E7%9A%84%E7%AB%A0%E8%8A%82%E6%B2%A1%E6%9C%89%E5%90%83%E9%80%8F%E6%98%AF%E5%90%A6%E8%A6%81%E7%BB%A7%E7%BB%AD%E5%BE%80%E4%B8%8B%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>912-数学刷题指南</title>
+    <url>/2021/08/12/912-%E6%95%B0%E5%AD%A6%E5%88%B7%E9%A2%98%E6%8C%87%E5%8D%97/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -436,20 +453,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>912-经验专题-6</title>
-    <url>/2021/07/01/912-%E7%BB%8F%E9%AA%8C%E4%B8%93%E9%A2%98-6/</url>
-    <content><![CDATA[<p> 首先要感谢考研的前辈们，尤其是lhy学长在知乎的分享，你们提供的信息给了我巨大的帮助，还要感谢lxh同学给我提供的宝贵帮助。拟录取名单已经公布，我也将我的考研经历记录下来，供大家参考。文笔拙劣，请大家体谅。</p>
-<p>说一下我的基本情况吧，本科北航计算机，排名前10%，清华计算机夏令营申请失败决定考研，侥幸拿过一次国奖（原因是排在我前面的hjf巨佬大三开学转学去了mit，然后名额就轮到我了……），2017年和同学一起打了龙芯杯（一个系统方面的比赛）拿了第4名。对系统比较感兴趣，因此选的系统结构方向。<br>     我是从7月份开始准备考研的，其实有点晚，因为912的内容非常多，到10月份的时候我发现自己复习不完了，迫不得已只好把数学的一部分时间调给了专业课，后果就是初试时数学难题不会，计算量大的题也算错好几道，所以准备考912的话，建议大家能早复习就早复习吧。我的公共课成绩很一般，在这里就不班门弄斧啦，在这里膜一下数学143分的djh大佬。不过我比较推荐新东方12月份的政治和英语冲刺班（展春园那个），它会教给你很多应试套路，这些套路虽然不能帮你拿高分，但至少可以确保你不会考得太惨。</p>
-<p>我主要分享一下专业课的经验。我这次其实比较幸运，正好赶上912数据结构砍掉了选择题，新增了8个简答（32分），简答题考的点大多数我都复习到了，不过如果2020年912又换题型，可能我的方法就不灵了……但是万变不离其宗，只要熟练掌握了清华本科相应课程的知识，怎么考都没问题，毕竟考研题的难度要低于本科课程期末考试的难度，出题老师也清楚考研学生整体水平，不会难为我们这些考研学生的。所以问题就在于如何尽可能地学好人家的本科课程。最重要的肯定是找到人家本科课程的资料，我看到前面一篇帖子有人提到github已经有一个项目公开清华各种本科课程资料了（建议赶快fork），那这样一来就没有信息上的障碍了，大家一起来凭实力竞争，估计今后竞争会更激烈。</p>
-<p>数据结构我用的资料和大家差不多，可以参照其他同学的帖子，我觉得这里面最重要的是邓俊辉老师的课程讲义，1400多页那个，它是最全的，19年912数据结构的考试内容没有超出讲义范畴的。讲义安排的很有逻辑，它会详细介绍一个数据结构为什么提出来，它有哪些优点和缺点，它和其他相似的数据结构有什么异同，这样就可以从中理出脉络。碰巧今年912新增的简答题考了不少这些看似不重要的地方。<br>    操作系统我用的资料也和大家差不多，可以参照其他同学的帖子。我把ucore实验做了，本科期中期末试卷和习题集刷了，课程论坛也刷了一遍，我的感受是操作系统要多花时间想，捋清ucore的主要代码逻辑，这里要感谢zhm同学，她在博客上公布的期中期末题参考答案给了我很大帮助。此外，王道操作系统中关于信号量那部分写的很棒，墙裂推荐。<br>    计组这门课我要感谢我航，作为北航6系的王牌课程，在每一个经历过的人身上都留下了深深的烙印，而且912的计组考的比较简单（相对于数据结构和操作系统而言），所以我花的时间并不多，把清华的课件和往年题过一遍足够了。<br>    网络这门课应该是912里相对来说最简单的了，把清华的课件和往年题过一遍也够用了。<br>    综合来看，复习912的主要时间都花在了数据结构和操作系统上，复习过程中我针对自己不会的地方做了笔记，后来考前的时候一直在啃自己的笔记，感觉挺有用的，推荐大家也自己记笔记，自己的笔记才是最适合自己复习的资料。王道的资料我也买了，个人感觉比较适合复习初期刷，目的是积累题量，熟悉出题方式，不必纠结于王道的知识体系和你本科学得不一样或者和清华课程的不一样，因为912考的是清华课程的知识体系，所以你迟早得向清华课程的思维体系转变。</p>
-<p>复试的准备比初试仓促得多。笔试的话，我选的是系统结构和编译，其中系统结构我没学过，而且王道上的回忆不多，所以只能硬着头皮自学，编译的话清华讲授的体系和我本科学的体系不太一样，好在王道上的回忆不少，在这里感谢王道上的一位热心学长上传了复试资料，很宝贵，对我帮助很大。不过综合来看，笔试想得高分的话，选系统结构不如选另外两个，尤其是应用那边，据说题都好几年没变了，王道上回忆很多。机试的话，我的编程能力挺一般的，就不多说了，膜一下wyq大佬gdb调试机试270。面试是复试中最重要的环节。下面我回忆一下综合面试的问题，有一些非常个性化的问题我就略去了，毕竟别人肯定遇不到。</p>
-<p>Q：请做一下自我介绍（我准备的是英文自我介绍，不过据说中文自我介绍也可以）<br>    Q：你担任过什么职务吗？（学生会，小班，甚至寝室都可以）<br>    Q：你参加过什么社团？<br>    Q：（给我一段论文）读一下（我读的是讲计算机视觉的一段文字，不难，只要读过论文肯定都没问题，最后可能会问你你刚才读是的什么，所以读的时候要注意停顿注意理解）<br>    专业面试问你什么和你的自我介绍关系很大，所以每个人情况都不同，我的建议是如实陈述自己的经历，如实回答，否则一旦被发现弄虚作假，肯定完蛋。前面的帖子都提到了竞赛，项目，成绩这些，我就不重复了。面试时间长还是短并不意味着你被刷了还是没被刷，一开始老师们精力充沛，可能会多问些，后面有些累了基本面的都很快。面试时的一个技巧是听到问题后想三秒再回答，这样有一些不合适的回答你就不会说出去了，但是我在面试的时候特别紧张，紧张状态下几乎所有的问题都是秒答，我面试结束后才反应过来……这样其实很危险，因为一旦哪句话不太合适，情商低的标签肯定是跑不掉了，说不定还会被直接pass，希望大家不要像我一样。</p>
-<p>感谢我的毕设导师在考研期间给我的关怀和帮助，感谢曾经实习过的组里的老师们和师兄们的帮助和指导，感谢考研群主和一起考研的兄弟们的帮助和鼓励，最后祝愿大家都可以圆梦清华。</p>
-<hr>
-<p>今年的题多少都有一点剑走偏锋，因为数据结构一个填选判断都没有，全是大题。计组中规中矩。操作系统依然离谱考了一道文件系统的代ucore码题，8分真的贵，后面的简答题还是非常冷的进程通信。计网一如既往的常规，大题有一点点奇怪。废话不多说直接进入正题。  数据结构（没标多少分就是忘了） 1.考渐进符号的意义。 第一问，问n^(log^2 n)和n^2020哪个渐进更大。 第二问，问T（n）=3T(n/9) + O(1)的渐进复杂度，实际上基本等价于解递推式。 2.一些简单的计算。（12分，6分一个，文本串都还挺长） 第一问，将一个很长的中序表达式转换为逆波兰式。 第二问，求解一个字符串的next和改进next表。 3.快速排序和插入排序的综合。说如果快速排序每次都把数组规模划分到m之内就不再划分，使用快速排序解决平凡情况，问这样的快速排序算法复杂度。 4.AVL树大题。（14分） 第一问，如果删除节点，如何确定失衡结点位置及相应构型。 第二问，问三加四重构算法有几种具体情况。 第三问，让你写出上面的几种详细情况。 5.证明DFS回溯的逆序是拓扑序。（基本上就是一行题干但却是10分大题好贵有木有） 6.算法大题（13分） 给定二叉搜索树 struct BSTNode {lc,rc,size…还有些啥忘了} 要求算法时间O(h)，空间O(1)。 第一问，写出[lo,hi)之间元素个数的伪代码。 第二问，说明算法，证明正确性。 第三问，证明时空复杂度。  计组： 1.五个选择一个两分，顺序可能不太对 第一题，IEEE单浮点数正负数的个数 一样，正数多，负数多，不确定 第二题，给出四个CPU主频和各自的CPI，问你哪个执行同样的程序快。 第三题，数据冲突不能用什么解决 静态调度，分支预测，前推，延迟 第四题，问你指令sw不会用到什么步骤 从寄存器到ALU，从ALU到内存，从内存到寄存器文件，从PC到指令（这题字太多记不太住）  五个判断我是一个都想不起来了。 想起来一个，DMA不能独占内存总线周期。  填空 第一题，给你0x01 和 0xff，问你大小端分别真值是什么。 第二题，物理地址32，cache1024字节，8字节一块，问你二路组相联的标记位，索引位数。 第三题，冯诺依曼体系结构的特点。  大题流水线5分，给了三个指令 LW R4， R5(0) ADD R?, R?, R? SUB R?, R?, R? 反正就是第二条要用R4当源操作数，前两条和第三条没啥关系。 第一问，问哪个有冲突，冲突的寄存器是哪个 第二问，问如果不加旁路，最少的暂停周期 第三问，问如果加旁路，最少暂停周期，旁路怎么加  操作系统 第一大题8个判断，还是想不太起来 第一题，如果系统使用银行家算法，那么不安全条件下可能出现死锁 第二题，如果系统中进程数有M，那么就绪队列最大长度是M-1 第三题，运行不能转化成就绪 第四题，可以专门设置指令？禁用时钟中断  ucore大题是学堂在线的期末测试题类似的题，然而不仅是ucore而且是文件系统可以说是在考前完全没有引起我的注意了。考了8分，非常的贵。  最后一道简答题也是冷门考点进程通信，告诉你信号，信号量，消息队列，管道是进程通信的方式，让你对下面三个操作选合适的方式 第一个，杀死进程 第二个 一个命令行指令 什么cat ?.txt| ??? 反正一看知道就是管道的那种 第三个 进程2KB？的结构化数据要给另外一个进程排序  计网 一，选择题五个一分一个 第一个，考循环冗余，给出生成多项式x^2+x+1，问你哪个串合法 第二个，给出传输速度，结点距离，帧缩短？？字节，问你两点的距离怎么变。非常中规中矩的统考类型题。 第三个，DNS域名和主机还是IP的对应关系。一对多一对一多对多。 第四个，TSAP是怎么样的 IP+端口 IP+MAC+端口 等等  二、一些计算 第一问，给出一带权图，一些邻接节点的交换报文，让你距离向量计算路由表。 第二问，如果是链路状态算法，要发送什么信息，不要求格式 第三问，和前两个都没啥关系，划分子网 总而言之，这道大题中规中矩，做统考子网划分，路由算法的题完全能处理。  三、流量控制的题，给出报文长度，单向延迟T，采用超时重传，发送八个报文，只有第二个错了，问你GBN，SR和否定帧机制所需要的完整传输时间。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>912-经验专题-5</title>
     <url>/2021/07/01/912-%E7%BB%8F%E9%AA%8C%E4%B8%93%E9%A2%98-5/</url>
     <content><![CDATA[<p>​    考清华计算机也考了两年，在这里得到了很多帮助，所以也是时候贡献一下了。先说下我的基本情况吧。我本科是天津大学精仪学院的，没错是跨考。17年总分351，政治62、英语69、数学150、专业课70，专业课没过校线。18年总分363，政治67、英语71、数学124、专业课101，学硕被刷最后录到专硕。</p>
@@ -483,6 +486,37 @@
       </tags>
   </entry>
   <entry>
+    <title>912-经验专题-6</title>
+    <url>/2021/07/01/912-%E7%BB%8F%E9%AA%8C%E4%B8%93%E9%A2%98-6/</url>
+    <content><![CDATA[<p> 首先要感谢考研的前辈们，尤其是lhy学长在知乎的分享，你们提供的信息给了我巨大的帮助，还要感谢lxh同学给我提供的宝贵帮助。拟录取名单已经公布，我也将我的考研经历记录下来，供大家参考。文笔拙劣，请大家体谅。</p>
+<p>说一下我的基本情况吧，本科北航计算机，排名前10%，清华计算机夏令营申请失败决定考研，侥幸拿过一次国奖（原因是排在我前面的hjf巨佬大三开学转学去了mit，然后名额就轮到我了……），2017年和同学一起打了龙芯杯（一个系统方面的比赛）拿了第4名。对系统比较感兴趣，因此选的系统结构方向。<br>     我是从7月份开始准备考研的，其实有点晚，因为912的内容非常多，到10月份的时候我发现自己复习不完了，迫不得已只好把数学的一部分时间调给了专业课，后果就是初试时数学难题不会，计算量大的题也算错好几道，所以准备考912的话，建议大家能早复习就早复习吧。我的公共课成绩很一般，在这里就不班门弄斧啦，在这里膜一下数学143分的djh大佬。不过我比较推荐新东方12月份的政治和英语冲刺班（展春园那个），它会教给你很多应试套路，这些套路虽然不能帮你拿高分，但至少可以确保你不会考得太惨。</p>
+<p>我主要分享一下专业课的经验。我这次其实比较幸运，正好赶上912数据结构砍掉了选择题，新增了8个简答（32分），简答题考的点大多数我都复习到了，不过如果2020年912又换题型，可能我的方法就不灵了……但是万变不离其宗，只要熟练掌握了清华本科相应课程的知识，怎么考都没问题，毕竟考研题的难度要低于本科课程期末考试的难度，出题老师也清楚考研学生整体水平，不会难为我们这些考研学生的。所以问题就在于如何尽可能地学好人家的本科课程。最重要的肯定是找到人家本科课程的资料，我看到前面一篇帖子有人提到github已经有一个项目公开清华各种本科课程资料了（建议赶快fork），那这样一来就没有信息上的障碍了，大家一起来凭实力竞争，估计今后竞争会更激烈。</p>
+<p>数据结构我用的资料和大家差不多，可以参照其他同学的帖子，我觉得这里面最重要的是邓俊辉老师的课程讲义，1400多页那个，它是最全的，19年912数据结构的考试内容没有超出讲义范畴的。讲义安排的很有逻辑，它会详细介绍一个数据结构为什么提出来，它有哪些优点和缺点，它和其他相似的数据结构有什么异同，这样就可以从中理出脉络。碰巧今年912新增的简答题考了不少这些看似不重要的地方。<br>    操作系统我用的资料也和大家差不多，可以参照其他同学的帖子。我把ucore实验做了，本科期中期末试卷和习题集刷了，课程论坛也刷了一遍，我的感受是操作系统要多花时间想，捋清ucore的主要代码逻辑，这里要感谢zhm同学，她在博客上公布的期中期末题参考答案给了我很大帮助。此外，王道操作系统中关于信号量那部分写的很棒，墙裂推荐。<br>    计组这门课我要感谢我航，作为北航6系的王牌课程，在每一个经历过的人身上都留下了深深的烙印，而且912的计组考的比较简单（相对于数据结构和操作系统而言），所以我花的时间并不多，把清华的课件和往年题过一遍足够了。<br>    网络这门课应该是912里相对来说最简单的了，把清华的课件和往年题过一遍也够用了。<br>    综合来看，复习912的主要时间都花在了数据结构和操作系统上，复习过程中我针对自己不会的地方做了笔记，后来考前的时候一直在啃自己的笔记，感觉挺有用的，推荐大家也自己记笔记，自己的笔记才是最适合自己复习的资料。王道的资料我也买了，个人感觉比较适合复习初期刷，目的是积累题量，熟悉出题方式，不必纠结于王道的知识体系和你本科学得不一样或者和清华课程的不一样，因为912考的是清华课程的知识体系，所以你迟早得向清华课程的思维体系转变。</p>
+<p>复试的准备比初试仓促得多。笔试的话，我选的是系统结构和编译，其中系统结构我没学过，而且王道上的回忆不多，所以只能硬着头皮自学，编译的话清华讲授的体系和我本科学的体系不太一样，好在王道上的回忆不少，在这里感谢王道上的一位热心学长上传了复试资料，很宝贵，对我帮助很大。不过综合来看，笔试想得高分的话，选系统结构不如选另外两个，尤其是应用那边，据说题都好几年没变了，王道上回忆很多。机试的话，我的编程能力挺一般的，就不多说了，膜一下wyq大佬gdb调试机试270。面试是复试中最重要的环节。下面我回忆一下综合面试的问题，有一些非常个性化的问题我就略去了，毕竟别人肯定遇不到。</p>
+<p>Q：请做一下自我介绍（我准备的是英文自我介绍，不过据说中文自我介绍也可以）<br>    Q：你担任过什么职务吗？（学生会，小班，甚至寝室都可以）<br>    Q：你参加过什么社团？<br>    Q：（给我一段论文）读一下（我读的是讲计算机视觉的一段文字，不难，只要读过论文肯定都没问题，最后可能会问你你刚才读是的什么，所以读的时候要注意停顿注意理解）<br>    专业面试问你什么和你的自我介绍关系很大，所以每个人情况都不同，我的建议是如实陈述自己的经历，如实回答，否则一旦被发现弄虚作假，肯定完蛋。前面的帖子都提到了竞赛，项目，成绩这些，我就不重复了。面试时间长还是短并不意味着你被刷了还是没被刷，一开始老师们精力充沛，可能会多问些，后面有些累了基本面的都很快。面试时的一个技巧是听到问题后想三秒再回答，这样有一些不合适的回答你就不会说出去了，但是我在面试的时候特别紧张，紧张状态下几乎所有的问题都是秒答，我面试结束后才反应过来……这样其实很危险，因为一旦哪句话不太合适，情商低的标签肯定是跑不掉了，说不定还会被直接pass，希望大家不要像我一样。</p>
+<p>感谢我的毕设导师在考研期间给我的关怀和帮助，感谢曾经实习过的组里的老师们和师兄们的帮助和指导，感谢考研群主和一起考研的兄弟们的帮助和鼓励，最后祝愿大家都可以圆梦清华。</p>
+<hr>
+<p>今年的题多少都有一点剑走偏锋，因为数据结构一个填选判断都没有，全是大题。计组中规中矩。操作系统依然离谱考了一道文件系统的代ucore码题，8分真的贵，后面的简答题还是非常冷的进程通信。计网一如既往的常规，大题有一点点奇怪。废话不多说直接进入正题。  数据结构（没标多少分就是忘了） 1.考渐进符号的意义。 第一问，问n^(log^2 n)和n^2020哪个渐进更大。 第二问，问T（n）=3T(n/9) + O(1)的渐进复杂度，实际上基本等价于解递推式。 2.一些简单的计算。（12分，6分一个，文本串都还挺长） 第一问，将一个很长的中序表达式转换为逆波兰式。 第二问，求解一个字符串的next和改进next表。 3.快速排序和插入排序的综合。说如果快速排序每次都把数组规模划分到m之内就不再划分，使用快速排序解决平凡情况，问这样的快速排序算法复杂度。 4.AVL树大题。（14分） 第一问，如果删除节点，如何确定失衡结点位置及相应构型。 第二问，问三加四重构算法有几种具体情况。 第三问，让你写出上面的几种详细情况。 5.证明DFS回溯的逆序是拓扑序。（基本上就是一行题干但却是10分大题好贵有木有） 6.算法大题（13分） 给定二叉搜索树 struct BSTNode {lc,rc,size…还有些啥忘了} 要求算法时间O(h)，空间O(1)。 第一问，写出[lo,hi)之间元素个数的伪代码。 第二问，说明算法，证明正确性。 第三问，证明时空复杂度。  计组： 1.五个选择一个两分，顺序可能不太对 第一题，IEEE单浮点数正负数的个数 一样，正数多，负数多，不确定 第二题，给出四个CPU主频和各自的CPI，问你哪个执行同样的程序快。 第三题，数据冲突不能用什么解决 静态调度，分支预测，前推，延迟 第四题，问你指令sw不会用到什么步骤 从寄存器到ALU，从ALU到内存，从内存到寄存器文件，从PC到指令（这题字太多记不太住）  五个判断我是一个都想不起来了。 想起来一个，DMA不能独占内存总线周期。  填空 第一题，给你0x01 和 0xff，问你大小端分别真值是什么。 第二题，物理地址32，cache1024字节，8字节一块，问你二路组相联的标记位，索引位数。 第三题，冯诺依曼体系结构的特点。  大题流水线5分，给了三个指令 LW R4， R5(0) ADD R?, R?, R? SUB R?, R?, R? 反正就是第二条要用R4当源操作数，前两条和第三条没啥关系。 第一问，问哪个有冲突，冲突的寄存器是哪个 第二问，问如果不加旁路，最少的暂停周期 第三问，问如果加旁路，最少暂停周期，旁路怎么加  操作系统 第一大题8个判断，还是想不太起来 第一题，如果系统使用银行家算法，那么不安全条件下可能出现死锁 第二题，如果系统中进程数有M，那么就绪队列最大长度是M-1 第三题，运行不能转化成就绪 第四题，可以专门设置指令？禁用时钟中断  ucore大题是学堂在线的期末测试题类似的题，然而不仅是ucore而且是文件系统可以说是在考前完全没有引起我的注意了。考了8分，非常的贵。  最后一道简答题也是冷门考点进程通信，告诉你信号，信号量，消息队列，管道是进程通信的方式，让你对下面三个操作选合适的方式 第一个，杀死进程 第二个 一个命令行指令 什么cat ?.txt| ??? 反正一看知道就是管道的那种 第三个 进程2KB？的结构化数据要给另外一个进程排序  计网 一，选择题五个一分一个 第一个，考循环冗余，给出生成多项式x^2+x+1，问你哪个串合法 第二个，给出传输速度，结点距离，帧缩短？？字节，问你两点的距离怎么变。非常中规中矩的统考类型题。 第三个，DNS域名和主机还是IP的对应关系。一对多一对一多对多。 第四个，TSAP是怎么样的 IP+端口 IP+MAC+端口 等等  二、一些计算 第一问，给出一带权图，一些邻接节点的交换报文，让你距离向量计算路由表。 第二问，如果是链路状态算法，要发送什么信息，不要求格式 第三问，和前两个都没啥关系，划分子网 总而言之，这道大题中规中矩，做统考子网划分，路由算法的题完全能处理。  三、流量控制的题，给出报文长度，单向延迟T，采用超时重传，发送八个报文，只有第二个错了，问你GBN，SR和否定帧机制所需要的完整传输时间。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>912-考研数学5月应该在什么位置</title>
+    <url>/2021/05/20/912-%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A65%E6%9C%88%E5%BA%94%E8%AF%A5%E5%9C%A8%E4%BB%80%E4%B9%88%E4%BD%8D%E7%BD%AE/</url>
+    <content><![CDATA[<h4 id="水平的划分"><a href="#水平的划分" class="headerlink" title="水平的划分"></a>水平的划分</h4><hr>
+<p>以学到什么程度为阶段，而不是看了几遍书</p>
+<h4 id="划重点"><a href="#划重点" class="headerlink" title="划重点"></a>划重点</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 五月了</span><br>	**要有一套自己的习惯、方法<br>	**什么时候看、一次看多久、看完之后刷什么样的题目、做完题目之后如何复盘、做完后是进入下一章还是其他<br>	**几天要复习一次<br>	<br><span class="hljs-comment">## 对考研数学要有一个清晰的认知</span><br>	**知道整体的构建、核心是什么？<br>	**各个知识点是如何串连起来的？<br>	<br><span class="hljs-comment">## 对考研数学的节奏和接下来的计划</span><br>	**最重要的是真题<br>	**知道如何考试、知道知识点是怎么串联起来的[怎到靠什么、怎么考]<br>	**配一本习题册[练习熟练度，能力提升]<br>	**把你见过的东西整理出来，总结出题规律<br>	<br>	**拿到题目就定位到对应的解决思路<br>	<br><span class="hljs-comment">## 建立宏观思维</span><br>	**<br></code></pre></td></tr></table></figure>
+
+
+
+]]></content>
+  </entry>
+  <entry>
+    <title>912-考研八月记录</title>
+    <url>/2021/08/12/912-%E8%80%83%E7%A0%94%E5%85%AB%E6%9C%88%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>912-考研复盘七月</title>
     <url>/2021/07/29/912-%E8%80%83%E7%A0%94%E5%A4%8D%E7%9B%98%E4%B8%83%E6%9C%88/</url>
     <content><![CDATA[<h4 id="回首往昔"><a href="#回首往昔" class="headerlink" title="回首往昔"></a>回首往昔</h4><p>在过去的一个月中，你忘记了自己的目标与渴望，在游戏以及各种堕落中虚度了将近30天，这波操作将会直接导致你无书可读。你以为距离实战检测还有很久，但是实际情况是你所剩的时间已经来不及准备考试内容。</p>
@@ -497,18 +531,6 @@
 
 
 <h4 id="DONELIST"><a href="#DONELIST" class="headerlink" title="DONELIST"></a>DONELIST</h4><p>回头看看你所做完的任务，给他们添加时间节点标签，记录下简短的思考，然后继续完成更多的任务，每次完成任务产生的效果都要为下一个任务做出贡献。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>912-考研数学5月应该在什么位置</title>
-    <url>/2021/05/20/912-%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A65%E6%9C%88%E5%BA%94%E8%AF%A5%E5%9C%A8%E4%BB%80%E4%B9%88%E4%BD%8D%E7%BD%AE/</url>
-    <content><![CDATA[<h4 id="水平的划分"><a href="#水平的划分" class="headerlink" title="水平的划分"></a>水平的划分</h4><hr>
-<p>以学到什么程度为阶段，而不是看了几遍书</p>
-<h4 id="划重点"><a href="#划重点" class="headerlink" title="划重点"></a>划重点</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 五月了</span><br>	**要有一套自己的习惯、方法<br>	**什么时候看、一次看多久、看完之后刷什么样的题目、做完题目之后如何复盘、做完后是进入下一章还是其他<br>	**几天要复习一次<br>	<br><span class="hljs-comment">## 对考研数学要有一个清晰的认知</span><br>	**知道整体的构建、核心是什么？<br>	**各个知识点是如何串连起来的？<br>	<br><span class="hljs-comment">## 对考研数学的节奏和接下来的计划</span><br>	**最重要的是真题<br>	**知道如何考试、知道知识点是怎么串联起来的[怎到靠什么、怎么考]<br>	**配一本习题册[练习熟练度，能力提升]<br>	**把你见过的东西整理出来，总结出题规律<br>	<br>	**拿到题目就定位到对应的解决思路<br>	<br><span class="hljs-comment">## 建立宏观思维</span><br>	**<br></code></pre></td></tr></table></figure>
-
-
-
 ]]></content>
   </entry>
   <entry>
@@ -1052,6 +1074,19 @@
       </tags>
   </entry>
   <entry>
+    <title>B006-天才在左疯子在右</title>
+    <url>/2021/01/19/B006-%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>深夜书刊</category>
+        <category>阅读笔记</category>
+      </categories>
+      <tags>
+        <tag>阅读笔记</tag>
+        <tag>天才在左疯子在右</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>B008-格局</title>
     <url>/2021/01/23/B008-%E6%A0%BC%E5%B1%80/</url>
     <content><![CDATA[<h4 id="序幕"><a href="#序幕" class="headerlink" title="序幕"></a>序幕</h4><hr>
@@ -1081,16 +1116,20 @@
       </tags>
   </entry>
   <entry>
-    <title>B006-天才在左疯子在右</title>
-    <url>/2021/01/19/B006-%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3/</url>
-    <content><![CDATA[]]></content>
+    <title>B010-如果我们的语言是威士忌</title>
+    <url>/2021/03/27/B010-%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E7%9A%84%E8%AF%AD%E8%A8%80%E6%98%AF%E5%A8%81%E5%A3%AB%E5%BF%8C/</url>
+    <content><![CDATA[<h4 id="世界的奇妙"><a href="#世界的奇妙" class="headerlink" title="世界的奇妙"></a>世界的奇妙</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 多数人以为年头越久越好喝，但并非那样。既有岁月使之得到的，又有岁月使之失去的。蒸发有其增加的东西，也有减少的东西。终究不过是个性差异而已。</span><br>																[P34]<br></code></pre></td></tr></table></figure>
+
+]]></content>
       <categories>
         <category>深夜书刊</category>
         <category>阅读笔记</category>
       </categories>
       <tags>
-        <tag>阅读笔记</tag>
-        <tag>天才在左疯子在右</tag>
+        <tag>深夜书刊</tag>
+        <tag>读书笔记</tag>
+        <tag>村上春树</tag>
+        <tag>如果我们的语言是威士忌</tag>
       </tags>
   </entry>
   <entry>
@@ -1120,21 +1159,11 @@
       </tags>
   </entry>
   <entry>
-    <title>B010-如果我们的语言是威士忌</title>
-    <url>/2021/03/27/B010-%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E7%9A%84%E8%AF%AD%E8%A8%80%E6%98%AF%E5%A8%81%E5%A3%AB%E5%BF%8C/</url>
-    <content><![CDATA[<h4 id="世界的奇妙"><a href="#世界的奇妙" class="headerlink" title="世界的奇妙"></a>世界的奇妙</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 多数人以为年头越久越好喝，但并非那样。既有岁月使之得到的，又有岁月使之失去的。蒸发有其增加的东西，也有减少的东西。终究不过是个性差异而已。</span><br>																[P34]<br></code></pre></td></tr></table></figure>
-
+    <title>B011-风雨考研路</title>
+    <url>/2021/08/08/B011-%E9%A3%8E%E9%9B%A8%E8%80%83%E7%A0%94%E8%B7%AF/</url>
+    <content><![CDATA[<h4 id="再上层楼"><a href="#再上层楼" class="headerlink" title="再上层楼"></a>再上层楼</h4><p>人可以输千次万次，输不输得起你都是输了，可是一次都不能认输，一次都不能。 既然对这些都不满意，那就做这里最好的，证明自己有能力超越，如果做不到，那请收起你找的借口，因为你无权责备。</p>
+<p>这不是怨恨，生活怎样你都怨不得，有时候上帝把你放在你所认为的绝处，实际是让你重生，那是一种恩赐，从里面走出来的，都是英雄，祂会让那些懦弱的人们死在那里。</p>
 ]]></content>
-      <categories>
-        <category>深夜书刊</category>
-        <category>阅读笔记</category>
-      </categories>
-      <tags>
-        <tag>深夜书刊</tag>
-        <tag>读书笔记</tag>
-        <tag>村上春树</tag>
-        <tag>如果我们的语言是威士忌</tag>
-      </tags>
   </entry>
   <entry>
     <title>D001-22考研复盘一月</title>
@@ -1377,6 +1406,13 @@
       </tags>
   </entry>
   <entry>
+    <title>I007-从传记阅读到个人成长</title>
+    <url>/2021/01/20/I007-%E4%BB%8E%E4%BC%A0%E8%AE%B0%E9%98%85%E8%AF%BB%E5%88%B0%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</url>
+    <content><![CDATA[<h4 id="商业计划"><a href="#商业计划" class="headerlink" title="商业计划"></a>商业计划</h4><hr>
+<p>从传记阅读到个人成长，能否将传记阅读衍生为一种独特的成长模式？通过分析具体的历史人物，反思自我、阅读自我、替身自我。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>I006-伟大的艺术家都是疯子</title>
     <url>/2021/01/13/I006-%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%83%BD%E6%98%AF%E7%96%AF%E5%AD%90/</url>
     <content><![CDATA[<h4 id="何故退出"><a href="#何故退出" class="headerlink" title="何故退出"></a>何故退出</h4><hr>
@@ -1389,10 +1425,66 @@
       </tags>
   </entry>
   <entry>
-    <title>I007-从传记阅读到个人成长</title>
-    <url>/2021/01/20/I007-%E4%BB%8E%E4%BC%A0%E8%AE%B0%E9%98%85%E8%AF%BB%E5%88%B0%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</url>
-    <content><![CDATA[<h4 id="商业计划"><a href="#商业计划" class="headerlink" title="商业计划"></a>商业计划</h4><hr>
-<p>从传记阅读到个人成长，能否将传记阅读衍生为一种独特的成长模式？通过分析具体的历史人物，反思自我、阅读自我、替身自我。</p>
+    <title>I008-私人定制操作系统</title>
+    <url>/2021/08/08/I008-%E7%A7%81%E4%BA%BA%E5%AE%9A%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<h4 id="伟大的思想"><a href="#伟大的思想" class="headerlink" title="伟大的思想"></a>伟大的思想</h4><p>这里我们自己创造了一个操作系统，并且进行了私人定制</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 首先</span><br>	这里有四月常用的软件，比如<br>	git<br>	vim<br>	gdb<br>	qemu<br>	atom<br>	typora<br>	desktop<br>	<br><span class="hljs-comment">## 其次</span><br>	这里对四月的个人习惯进行了收集整理和分析<br>	更加智能化的、个性化的、实用的设置：<br>	系统几乎可以在一瞬间知道四月下一步的操作，并且提前准备资源---更加高效、迅捷<br>	--&gt;书籍下载查阅<br>	--&gt;文档归类整理<br>	--&gt;日常记录维护<br>	--&gt;学习记录归档<br></code></pre></td></tr></table></figure>
+
+
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 学习的过程中感受到压力</span><br>	那就对了！看看周围的大佬都在以疾风般的速度学习与成长，如果你躲在游戏以及娱乐背后都还感受不到压力那就说明你已经废了。<br>	你已经选择了一条不好走的路，那么就先找出自己的优势破解迷局。<br>	正确的方法、过人的付出，在这次转折战役中都不能少。<br>	适当的放弃是为了能够最大限度的靠近目标乃至完成目标。---&gt;计划之外产生的[学习、兴趣、爱好、思想、等等]先加入队列或者补充加速当前的学习主线。<br>	<br>	适当的激励自己&gt;&gt;<br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>I010-构建自己的工作站</title>
+    <url>/2021/08/09/I010-%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B7%A5%E4%BD%9C%E7%AB%99/</url>
+    <content><![CDATA[<h4 id="高效秘诀"><a href="#高效秘诀" class="headerlink" title="高效秘诀"></a>高效秘诀</h4><p>从工作站的角度来收集整理资料，首先创建一个基本固定的框架。如同真实的建造房屋一般</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 第一项</span><br>	**文档分类<br>		<br>		<br><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>I009-DoOneThingAtaTime</title>
+    <url>/2021/08/08/I009-DoOneThingAtaTime/</url>
+    <content><![CDATA[<h4 id="绝对专注原则"><a href="#绝对专注原则" class="headerlink" title="绝对专注原则"></a>绝对专注原则</h4><p>在一段时间内只做一件事，并且做好这一件事</p>
+<p>如果不得不开始做其他的事情，那么其他的事情也是为当前正在进行的这一件事作为补充以及辅助。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>I011-分析伟大的产品</title>
+    <url>/2021/08/09/I011-%E5%88%86%E6%9E%90%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BA%A7%E5%93%81/</url>
+    <content><![CDATA[<h4 id="灵感源于自然"><a href="#灵感源于自然" class="headerlink" title="灵感源于自然"></a>灵感源于自然</h4><p>这个世界有很多伟大的灵感，而幸运的是这些灵感带来的作品都是可以分析的：</p>
+<p>例如，Intel的处理器设计、操作系统的设计、图灵机的设计、GDB的设计、linux的设计、VIM的设计等等</p>
+<p>尝试去理解这些设计背后的原理，然后创作伟大的作品！</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 第一步</span><br>	**熟读Intel程序员手册<br>	**<br>	**<br>	**还有vim手册、gdb手册等等<br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>I012-生物信息传播学</title>
+    <url>/2021/08/14/I012-%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E4%BC%A0%E6%92%AD%E5%AD%A6/</url>
+    <content><![CDATA[<h4 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h4><p>随着人类信息增长速度越来越快，社会进步要求人类在短时间内要掌握大量知识与技能，而信息在传递的过程中大量丢失，解决信息精准度丢失的需求迫在眉睫……</p>
+<h4 id="探索途径"><a href="#探索途径" class="headerlink" title="探索途径"></a>探索途径</h4><p>mooc学习论文发表流程</p>
+<p>攻读中外文献资料</p>
+<p>探索一个可行的方向并且展开研究</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs SH"><span class="hljs-comment">## 使用比喻与情景再现</span><br><br><span class="hljs-comment">## 能否把问题数学化？建立模型、探索求解思路？</span><br><br><span class="hljs-comment">## 利用大数据与机器学习、人工智能？</span><br><br><br></code></pre></td></tr></table></figure>
+
+
+
+
+
+<h4 id="终极目标"><a href="#终极目标" class="headerlink" title="终极目标"></a>终极目标</h4><p>解决所有信息传递过程的丢失：—&gt;采集、存储、分享</p>
+<p>人类文明要进步，必然会产生新的技术来满足供给需求的不平衡。</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs SH"><span class="hljs-comment">##tips</span><br>	**如果要实现信息完全的传递，那么可能会导致大量的数据产生：可能需要遍历信息发起者的一生之久的信息量才能够完全的把信息传递到接收者……这看起来似乎是疯狂的，但我想应该有办法可以解决……就像矩阵和矩阵的秩，其灵魂仅仅是秩而已<br>	**再者我们可以退而求其次，不用100%的准确度，利用数学模型拟合优化，总能找出令人满意的答案 ^-^)<br>	<br>	2021年8月15日21点47分<br>	--QEJ<br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>I013-创造力自我观察</title>
+    <url>/2021/08/14/I013-%E5%88%9B%E9%80%A0%E5%8A%9B%E8%87%AA%E6%88%91%E8%A7%82%E5%AF%9F/</url>
+    <content><![CDATA[<h4 id="自我观察描述"><a href="#自我观察描述" class="headerlink" title="自我观察描述"></a>自我观察描述</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs SH"><span class="hljs-comment">## 在大脑接受到一段时间的高强度压力之后，迸发出了很多全新的令人拍案叫绝的想法！</span><br>	**2021年8月14日16点09分：企鹅君在接受下午两小时高数的打压之后，迸发了伟大的灵感&gt;&gt;解决人类信息交流传递的关键问题<br>	**天气：阴雨<br>	**光线：中度照明，窗帘左二分之一，右三分之一<br>	**桌面：纸张混乱而有序，色彩多样，有一株不是很茂盛的绿萝<br>	<br>	<br></code></pre></td></tr></table></figure>
+
 ]]></content>
   </entry>
   <entry>
@@ -1881,6 +1973,11 @@
 ]]></content>
   </entry>
   <entry>
+    <title>P006-ucore实验记录</title>
+    <url>/2021/08/08/P006-ucore%E5%AE%9E%E9%AA%8C%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>R000-文章命名规范</title>
     <url>/2021/01/01/R000-%E6%96%87%E7%AB%A0%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83/</url>
     <content><![CDATA[<h4 id="规范是为了更加高效"><a href="#规范是为了更加高效" class="headerlink" title="规范是为了更加高效"></a>规范是为了更加高效</h4><hr>
@@ -2013,24 +2110,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R005-涅槃计划</title>
-    <url>/2020/12/16/R005-%E6%B6%85%E6%A7%83%E8%AE%A1%E5%88%92/</url>
-    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight asciidoc"><table><tr><td class="code"><pre><code class="hljs asciidoc">将考研计划命名为涅槃[Nirvana action]<br><br><span class="hljs-bullet">** </span>做好打持久战的准备<br><span class="hljs-bullet">** </span><br><span class="hljs-bullet">** </span>即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br><span class="hljs-bullet">** </span>预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书[历史、政治、经济、管理]-提升技能[语言、专业、生活、工作、学习]-以学代练，以练促学[项目形式记录]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>考研安排</tag>
-        <tag>思维导图</tag>
-        <tag>考研索引</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R006-组成原理笔记</title>
     <url>/2020/12/16/R006-%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h4 id="实验模块"><a href="#实验模块" class="headerlink" title="实验模块"></a>实验模块</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## ROM<br><br>## RAM<br><br>## GPRs<br><br>## ALU<br></code></pre></td></tr></table></figure>
@@ -2047,6 +2126,24 @@
         <tag>RI-CPU</tag>
         <tag>计算机组成原理</tag>
         <tag>MIPS指令实现</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R005-涅槃计划</title>
+    <url>/2020/12/16/R005-%E6%B6%85%E6%A7%83%E8%AE%A1%E5%88%92/</url>
+    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight asciidoc"><table><tr><td class="code"><pre><code class="hljs asciidoc">将考研计划命名为涅槃[Nirvana action]<br><br><span class="hljs-bullet">** </span>做好打持久战的准备<br><span class="hljs-bullet">** </span><br><span class="hljs-bullet">** </span>即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br><span class="hljs-bullet">** </span>预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书[历史、政治、经济、管理]-提升技能[语言、专业、生活、工作、学习]-以学代练，以练促学[项目形式记录]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>考研安排</tag>
+        <tag>思维导图</tag>
+        <tag>考研索引</tag>
       </tags>
   </entry>
   <entry>
@@ -3153,41 +3250,223 @@
       </tags>
   </entry>
   <entry>
-    <title>R031-假期项目安排</title>
-    <url>/2021/01/03/R031-%E5%81%87%E6%9C%9F%E9%A1%B9%E7%9B%AE%E5%AE%89%E6%8E%92/</url>
-    <content><![CDATA[<h4 id="一个大胆的计划"><a href="#一个大胆的计划" class="headerlink" title="一个大胆的计划"></a>一个大胆的计划</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 设计艺术品，美在逻辑中</span><br>	** 如何设计一个完美的艺术品是非常考验专业素养、世界观、审美观、价值观的<br>	** <br>	<br><span class="hljs-comment">## 做什么？</span><br>	** 一个个人管理系统：经历管理，让用户看见自己的成长与变化 - 认清楚这个世界<br>	** 经历当中包含了很多信息-将这些信息提取分类出来：这是一个只用于回顾，然后帮助用户提高工作效率的系统。<br>	** 基础功能：用户创建一篇文章，自动加入文章配置[文章标题、背景图片]，写作结束后提取出关键字作为文章标签，根据文章回顾次数动态分配文章经验[经验用于段位和等级的增长]<br></code></pre></td></tr></table></figure>
+    <title>R033-考研单词L2</title>
+    <url>/2021/01/03/R033-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL2/</url>
+    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
 
-
-
-<h4 id="团队的组建"><a href="#团队的组建" class="headerlink" title="团队的组建"></a>团队的组建</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一个团队的用人标准不是智商有多高，而是能对团队产生多少贡献</span><br>	** 最好属于成就导向，有源源不断的动力，如果不是，那么就引导他成为成就导向型<br>	** 服从管理，服从是军人的天职，也是团队高效协作的必要条件<br>	** 能够分清楚事情的轻重缓急，不会因为杂念阻碍核心任务的跟进<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="假期更新hziee-cs-stack"><a href="#假期更新hziee-cs-stack" class="headerlink" title="假期更新hziee_cs_stack"></a>假期更新hziee_cs_stack</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将一年级上册和三年级上册的大部份资料整理发布</span><br>	** 养成好的习惯<br>	** 不懂就写，写清楚了问题就解决了<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="产品设计"><a href="#产品设计" class="headerlink" title="产品设计"></a>产品设计</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 这里可能要设计更多的专业知识</span><br>	** 比如 美术、音乐、地理、历史、生物、数学、物理、化学、神学等等<br>	** 当然更多的是应该分析成功产品的设计案例，多维度研究分析、最好能够复盘<br>	<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="整理自己的大学经历"><a href="#整理自己的大学经历" class="headerlink" title="整理自己的大学经历"></a>整理自己的大学经历</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 个人学习情况的总结绘制</span><br>	** 专业课程<br>	** 习惯培养<br>	** 思维方式<br>	** 神学入门<br>	<br><span class="hljs-comment">## 个人成就的总结绘制</span><br>	** 准确表达<br>	** 领导能力<br>    ** 荣誉经历<br>    ** 写作能力<br>	<br><span class="hljs-comment">## 个人愿景的总结绘制</span><br>	** 数据分析<br>	** 人工智能<br>	** 操作系统<br>	** 数学建模<br>	** VR公司、产品<br>	** 艺术家<br></code></pre></td></tr></table></figure>
-
-
-
+<hr>
+<table>
+<thead>
+<tr>
+<th>supersensitive</th>
+<th></th>
+<th>profess</th>
+<th></th>
+<th>precocious</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>supercharge</td>
+<td></td>
+<td>prodigious</td>
+<td></td>
+<td>predict</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudo</td>
+<td></td>
+<td>proclivity</td>
+<td></td>
+<td>predisposition</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudonym</td>
+<td></td>
+<td>procure</td>
+<td></td>
+<td>preoccupation</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudoscience</td>
+<td></td>
+<td>prominent</td>
+<td></td>
+<td>prescient</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudograph</td>
+<td></td>
+<td>prosecute</td>
+<td></td>
+<td>prerogative</td>
+<td></td>
+</tr>
+<tr>
+<td>pro-American</td>
+<td></td>
+<td>prospect</td>
+<td></td>
+<td>postage</td>
+<td></td>
+</tr>
+<tr>
+<td>proslavery</td>
+<td></td>
+<td>provident</td>
+<td></td>
+<td>postoffice</td>
+<td></td>
+</tr>
+<tr>
+<td>proabortionist</td>
+<td></td>
+<td>provoke</td>
+<td></td>
+<td>postcard</td>
+<td></td>
+</tr>
+<tr>
+<td>procrastinate</td>
+<td></td>
+<td>preschool</td>
+<td></td>
+<td>postal</td>
+<td></td>
+</tr>
+<tr>
+<td>procreate</td>
+<td></td>
+<td>prehistory</td>
+<td></td>
+<td>postwar</td>
+<td></td>
+</tr>
+<tr>
+<td>profligate</td>
+<td></td>
+<td>prefix</td>
+<td></td>
+<td>postpone</td>
+<td></td>
+</tr>
+<tr>
+<td>proliferate</td>
+<td></td>
+<td>preposition</td>
+<td></td>
+<td>postgraduate</td>
+<td></td>
+</tr>
+<tr>
+<td>profit</td>
+<td></td>
+<td>prepay</td>
+<td></td>
+<td>postface</td>
+<td></td>
+</tr>
+<tr>
+<td>profuse</td>
+<td></td>
+<td>prebuilt</td>
+<td></td>
+<td>posterior</td>
+<td></td>
+</tr>
+<tr>
+<td>prolific</td>
+<td></td>
+<td>preamble</td>
+<td></td>
+<td>polyandry</td>
+<td></td>
+</tr>
+<tr>
+<td>prosperous</td>
+<td></td>
+<td>precaution</td>
+<td></td>
+<td>polyglot</td>
+<td></td>
+</tr>
+<tr>
+<td>progress</td>
+<td></td>
+<td>precede</td>
+<td></td>
+<td>polyfunctional</td>
+<td></td>
+</tr>
+<tr>
+<td>project</td>
+<td></td>
+<td>precedent</td>
+<td></td>
+<td>perigon</td>
+<td></td>
+</tr>
+<tr>
+<td>prologue</td>
+<td></td>
+<td>precept</td>
+<td></td>
+<td>perimeter</td>
+<td></td>
+</tr>
+<tr>
+<td>promote</td>
+<td></td>
+<td>precinct</td>
+<td></td>
+<td>periphery</td>
+<td></td>
+</tr>
+<tr>
+<td>protrude</td>
+<td></td>
+<td>precipice</td>
+<td></td>
+<td>perfidy</td>
+<td></td>
+</tr>
+<tr>
+<td>propel</td>
+<td></td>
+<td>precipitation</td>
+<td></td>
+<td>perjury</td>
+<td></td>
+</tr>
+<tr>
+<td>proficient</td>
+<td></td>
+<td>precise</td>
+<td></td>
+<td>perfunctory</td>
+<td></td>
+</tr>
+<tr>
+<td>profile</td>
+<td></td>
+<td>preclude</td>
+<td></td>
+<td>perpetrate</td>
+<td></td>
+</tr>
+</tbody></table>
 ]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
       <tags>
-        <tag>假期安排</tag>
-        <tag>产品设计</tag>
-        <tag>团队管理</tag>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
       </tags>
   </entry>
   <entry>
@@ -3460,223 +3739,41 @@
       </tags>
   </entry>
   <entry>
-    <title>R033-考研单词L2</title>
-    <url>/2021/01/03/R033-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL2/</url>
-    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
+    <title>R031-假期项目安排</title>
+    <url>/2021/01/03/R031-%E5%81%87%E6%9C%9F%E9%A1%B9%E7%9B%AE%E5%AE%89%E6%8E%92/</url>
+    <content><![CDATA[<h4 id="一个大胆的计划"><a href="#一个大胆的计划" class="headerlink" title="一个大胆的计划"></a>一个大胆的计划</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 设计艺术品，美在逻辑中</span><br>	** 如何设计一个完美的艺术品是非常考验专业素养、世界观、审美观、价值观的<br>	** <br>	<br><span class="hljs-comment">## 做什么？</span><br>	** 一个个人管理系统：经历管理，让用户看见自己的成长与变化 - 认清楚这个世界<br>	** 经历当中包含了很多信息-将这些信息提取分类出来：这是一个只用于回顾，然后帮助用户提高工作效率的系统。<br>	** 基础功能：用户创建一篇文章，自动加入文章配置[文章标题、背景图片]，写作结束后提取出关键字作为文章标签，根据文章回顾次数动态分配文章经验[经验用于段位和等级的增长]<br></code></pre></td></tr></table></figure>
 
-<hr>
-<table>
-<thead>
-<tr>
-<th>supersensitive</th>
-<th></th>
-<th>profess</th>
-<th></th>
-<th>precocious</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>supercharge</td>
-<td></td>
-<td>prodigious</td>
-<td></td>
-<td>predict</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudo</td>
-<td></td>
-<td>proclivity</td>
-<td></td>
-<td>predisposition</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudonym</td>
-<td></td>
-<td>procure</td>
-<td></td>
-<td>preoccupation</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudoscience</td>
-<td></td>
-<td>prominent</td>
-<td></td>
-<td>prescient</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudograph</td>
-<td></td>
-<td>prosecute</td>
-<td></td>
-<td>prerogative</td>
-<td></td>
-</tr>
-<tr>
-<td>pro-American</td>
-<td></td>
-<td>prospect</td>
-<td></td>
-<td>postage</td>
-<td></td>
-</tr>
-<tr>
-<td>proslavery</td>
-<td></td>
-<td>provident</td>
-<td></td>
-<td>postoffice</td>
-<td></td>
-</tr>
-<tr>
-<td>proabortionist</td>
-<td></td>
-<td>provoke</td>
-<td></td>
-<td>postcard</td>
-<td></td>
-</tr>
-<tr>
-<td>procrastinate</td>
-<td></td>
-<td>preschool</td>
-<td></td>
-<td>postal</td>
-<td></td>
-</tr>
-<tr>
-<td>procreate</td>
-<td></td>
-<td>prehistory</td>
-<td></td>
-<td>postwar</td>
-<td></td>
-</tr>
-<tr>
-<td>profligate</td>
-<td></td>
-<td>prefix</td>
-<td></td>
-<td>postpone</td>
-<td></td>
-</tr>
-<tr>
-<td>proliferate</td>
-<td></td>
-<td>preposition</td>
-<td></td>
-<td>postgraduate</td>
-<td></td>
-</tr>
-<tr>
-<td>profit</td>
-<td></td>
-<td>prepay</td>
-<td></td>
-<td>postface</td>
-<td></td>
-</tr>
-<tr>
-<td>profuse</td>
-<td></td>
-<td>prebuilt</td>
-<td></td>
-<td>posterior</td>
-<td></td>
-</tr>
-<tr>
-<td>prolific</td>
-<td></td>
-<td>preamble</td>
-<td></td>
-<td>polyandry</td>
-<td></td>
-</tr>
-<tr>
-<td>prosperous</td>
-<td></td>
-<td>precaution</td>
-<td></td>
-<td>polyglot</td>
-<td></td>
-</tr>
-<tr>
-<td>progress</td>
-<td></td>
-<td>precede</td>
-<td></td>
-<td>polyfunctional</td>
-<td></td>
-</tr>
-<tr>
-<td>project</td>
-<td></td>
-<td>precedent</td>
-<td></td>
-<td>perigon</td>
-<td></td>
-</tr>
-<tr>
-<td>prologue</td>
-<td></td>
-<td>precept</td>
-<td></td>
-<td>perimeter</td>
-<td></td>
-</tr>
-<tr>
-<td>promote</td>
-<td></td>
-<td>precinct</td>
-<td></td>
-<td>periphery</td>
-<td></td>
-</tr>
-<tr>
-<td>protrude</td>
-<td></td>
-<td>precipice</td>
-<td></td>
-<td>perfidy</td>
-<td></td>
-</tr>
-<tr>
-<td>propel</td>
-<td></td>
-<td>precipitation</td>
-<td></td>
-<td>perjury</td>
-<td></td>
-</tr>
-<tr>
-<td>proficient</td>
-<td></td>
-<td>precise</td>
-<td></td>
-<td>perfunctory</td>
-<td></td>
-</tr>
-<tr>
-<td>profile</td>
-<td></td>
-<td>preclude</td>
-<td></td>
-<td>perpetrate</td>
-<td></td>
-</tr>
-</tbody></table>
+
+
+<h4 id="团队的组建"><a href="#团队的组建" class="headerlink" title="团队的组建"></a>团队的组建</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一个团队的用人标准不是智商有多高，而是能对团队产生多少贡献</span><br>	** 最好属于成就导向，有源源不断的动力，如果不是，那么就引导他成为成就导向型<br>	** 服从管理，服从是军人的天职，也是团队高效协作的必要条件<br>	** 能够分清楚事情的轻重缓急，不会因为杂念阻碍核心任务的跟进<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="假期更新hziee-cs-stack"><a href="#假期更新hziee-cs-stack" class="headerlink" title="假期更新hziee_cs_stack"></a>假期更新hziee_cs_stack</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将一年级上册和三年级上册的大部份资料整理发布</span><br>	** 养成好的习惯<br>	** 不懂就写，写清楚了问题就解决了<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="产品设计"><a href="#产品设计" class="headerlink" title="产品设计"></a>产品设计</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 这里可能要设计更多的专业知识</span><br>	** 比如 美术、音乐、地理、历史、生物、数学、物理、化学、神学等等<br>	** 当然更多的是应该分析成功产品的设计案例，多维度研究分析、最好能够复盘<br>	<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="整理自己的大学经历"><a href="#整理自己的大学经历" class="headerlink" title="整理自己的大学经历"></a>整理自己的大学经历</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 个人学习情况的总结绘制</span><br>	** 专业课程<br>	** 习惯培养<br>	** 思维方式<br>	** 神学入门<br>	<br><span class="hljs-comment">## 个人成就的总结绘制</span><br>	** 准确表达<br>	** 领导能力<br>    ** 荣誉经历<br>    ** 写作能力<br>	<br><span class="hljs-comment">## 个人愿景的总结绘制</span><br>	** 数据分析<br>	** 人工智能<br>	** 操作系统<br>	** 数学建模<br>	** VR公司、产品<br>	** 艺术家<br></code></pre></td></tr></table></figure>
+
+
+
 ]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
       <tags>
-        <tag>英语单词</tag>
-        <tag>考研英语</tag>
+        <tag>假期安排</tag>
+        <tag>产品设计</tag>
+        <tag>团队管理</tag>
       </tags>
   </entry>
   <entry>
@@ -4579,6 +4676,26 @@
       </tags>
   </entry>
   <entry>
+    <title>R042-应用写作-FINAL</title>
+    <url>/2021/01/07/R042-%E5%BA%94%E7%94%A8%E5%86%99%E4%BD%9C-FINAL/</url>
+    <content><![CDATA[<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 第六章 议案、提案</span><br>	**议案：人大专用词<br>	**提案：<br>	<br><span class="hljs-comment">## 主送机关：同级的</span><br>	**临安区人民代表大会<br>	**临安区人大常务委员会<br>	<br>	同级的行政机关<br>	**杭州市人民代表大会<br>	**杭州市人大常务委员会<br>	<br><span class="hljs-comment">## 议案；P187</span><br>	**议案的正文部分结构<br>	**浙江省人民政府<br>		<span class="hljs-comment">#审议的是附件---对于议案[正文比较简略]</span><br>	**议案的附件经审议通过后具有法律效力<br>	<br><span class="hljs-comment">## 函：P188</span><br>	**不相隶属机关[一个原则：A和B，A能不能管理B// 一般是平行]<br>	**函与复函[类似请示与批复]<br>	请予函复[如果不加这句话可以不回复]<br>	<br>	**请示是必须要批复的，而函可以不用[除非加“请予函复”]<br>	<br><span class="hljs-comment">## 复函：</span><br>	**标题：一问一答<br>		<span class="hljs-comment">#关于***的复函</span><br>		<br>		******：<br>		    你办[办公厅 *不能是教育局[你单位*万能]]《%^&amp;*》收悉，现函复如下：<br>		我单位***。<br>		    特此函复。<br>		    附件：<br>		    										****单位<br>		    										x年x月x日<br>		    										<br>		    										<br>	**<br>	<br><span class="hljs-comment">## 请示与批复：</span><br>	**请示<br>					**标题（某某某单位）关于&amp;&amp;&amp;事件的请示<br>	XX单位：<br>		陈述事件，申请*****。<br>		特此请示，请批复<br>														XXX单位<br>														x年x月x日<br>														<br><br>	**批复<br>					**标题（某某某单位）关于《&amp;&amp;&amp;请示》的批复<br>	<span class="hljs-comment">###单位：</span><br>		你单位《&amp;&amp;&amp;请示》收悉，%&amp;*<br>		特此批复。<br>																																	XXX单位<br>														x年x月x日<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">0--请示批复<br>1--信工的上级单位就是杭州电子科技大学<br><br><span class="hljs-comment">## 类型</span><br><br><span class="hljs-comment">## 主送机关</span><br><br><span class="hljs-comment">## 内容范围</span><br><br><span class="hljs-comment">## 回复方式</span><br><br>---<br>请示的修订：<br>	书面化的表达：我院、故、<br>	特此请示，请批复。<br>	<br>	<br>批复：<br>							关于同意采购校车的批复					……标题表明态度<br>杭州电子科技大学信息工程学院：<br>	你单位《关于采购校车的请示》收悉。经会议研究讨论，领导审议，统一你单位采购校车2辆，用于师生通勤。[可以提出期望]。望你单位能合理利用校车资源，更好服务师生。<br>	特此批复。<br>												杭州电子科技大学<br>												落款时间[注意时差]<br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">P3:<br>	**第一段：所谓主题就是…………………………。文章具体内容所表达最主要的思想[主题]<br>	<br>P5:<br>	**主题的来源是生活<br>	<br>P7:<br>	**从写作的角度来说，提炼主题的五个基本要求：正确、鲜明、深刻、新颖等<br><br>P10:<br>	**材料是指………………事实或观点[真实、鲜明[不能墙头草]]<br>	<br>P11:<br>	**区分事实材料和理论材料[事实材料更有说服力]<br>	<br>P15:<br>	**叙述的方法：<br>		<span class="hljs-comment">#顺序，倒叙，插叙，平叙</span><br><br>P27:<br>	**说明的方法<br>		<span class="hljs-comment">#介绍、描述、定义、分类、诠释等</span><br>		<br>P38:<br>	**结构的原则：<br>		<span class="hljs-comment">#表现主题、发展规律、特点[三点]</span><br>		<br>P55:<br>	**机关公文的定义[必考]<br>		<span class="hljs-comment">#机关公文是指……………………法定机关与组织 &amp; 公务活动[不是私人的]</span><br>		<br>P58:<br>	**机关公文的种类：<br>		<span class="hljs-comment">#15种---</span><br>		<br>P59:<br>	**机关公文的分类：<br>		<span class="hljs-comment">#行文方向、、、、等分类</span><br>		<br>P62:<br>	**第七行[六角括号-=-]用来写发文的文号<br>	<br>P70:<br>	**机关公文的行文规则 - 主观题<br>	<br>P78:<br>	**机关公文的文体：<br>		<span class="hljs-comment">#决议</span><br>			**必须经由会议讨论通过<br>			**党口文件<br>		<span class="hljs-comment">#</span><br>		<span class="hljs-comment">#</span><br>P83:<br>	**决定<br>		<span class="hljs-comment">#</span><br>		<br>P112:<br>	**命令<br>		第六段：命令一般以机关领导人的身份发布。行政口文件<br>		<br>P149:<br>	**通知<br>		范围：发布、传达…………[可以是平行、下行，但是！！！不能是上行]<br>		类型：指示、转发等<br>	<br>P176:<br>	**请示：<br>		如何写请示<br>		<br>P180:<br>	**批复：<br>		<br>P186:<br>	**议案：<br>		适用于各级人民政府、人大、人大常务委员会<br>		<br>P188:<br>	**函：<br>		适用于不相隶属的<br>		<br>单选、多选、简答、作文<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>应用写作考点</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R042-考研单词L5</title>
     <url>/2021/01/07/R042-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL5/</url>
     <content><![CDATA[<h4 id="书籍音频资料下载"><a href="#书籍音频资料下载" class="headerlink" title="书籍音频资料下载"></a>书籍音频资料下载</h4><hr>
@@ -5110,26 +5227,6 @@
         <tag>英语单词</tag>
         <tag>考研英语</tag>
         <tag>新东方词汇书籍音频下载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R042-应用写作-FINAL</title>
-    <url>/2021/01/07/R042-%E5%BA%94%E7%94%A8%E5%86%99%E4%BD%9C-FINAL/</url>
-    <content><![CDATA[<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 第六章 议案、提案</span><br>	**议案：人大专用词<br>	**提案：<br>	<br><span class="hljs-comment">## 主送机关：同级的</span><br>	**临安区人民代表大会<br>	**临安区人大常务委员会<br>	<br>	同级的行政机关<br>	**杭州市人民代表大会<br>	**杭州市人大常务委员会<br>	<br><span class="hljs-comment">## 议案；P187</span><br>	**议案的正文部分结构<br>	**浙江省人民政府<br>		<span class="hljs-comment">#审议的是附件---对于议案[正文比较简略]</span><br>	**议案的附件经审议通过后具有法律效力<br>	<br><span class="hljs-comment">## 函：P188</span><br>	**不相隶属机关[一个原则：A和B，A能不能管理B// 一般是平行]<br>	**函与复函[类似请示与批复]<br>	请予函复[如果不加这句话可以不回复]<br>	<br>	**请示是必须要批复的，而函可以不用[除非加“请予函复”]<br>	<br><span class="hljs-comment">## 复函：</span><br>	**标题：一问一答<br>		<span class="hljs-comment">#关于***的复函</span><br>		<br>		******：<br>		    你办[办公厅 *不能是教育局[你单位*万能]]《%^&amp;*》收悉，现函复如下：<br>		我单位***。<br>		    特此函复。<br>		    附件：<br>		    										****单位<br>		    										x年x月x日<br>		    										<br>		    										<br>	**<br>	<br><span class="hljs-comment">## 请示与批复：</span><br>	**请示<br>					**标题（某某某单位）关于&amp;&amp;&amp;事件的请示<br>	XX单位：<br>		陈述事件，申请*****。<br>		特此请示，请批复<br>														XXX单位<br>														x年x月x日<br>														<br><br>	**批复<br>					**标题（某某某单位）关于《&amp;&amp;&amp;请示》的批复<br>	<span class="hljs-comment">###单位：</span><br>		你单位《&amp;&amp;&amp;请示》收悉，%&amp;*<br>		特此批复。<br>																																	XXX单位<br>														x年x月x日<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">0--请示批复<br>1--信工的上级单位就是杭州电子科技大学<br><br><span class="hljs-comment">## 类型</span><br><br><span class="hljs-comment">## 主送机关</span><br><br><span class="hljs-comment">## 内容范围</span><br><br><span class="hljs-comment">## 回复方式</span><br><br>---<br>请示的修订：<br>	书面化的表达：我院、故、<br>	特此请示，请批复。<br>	<br>	<br>批复：<br>							关于同意采购校车的批复					……标题表明态度<br>杭州电子科技大学信息工程学院：<br>	你单位《关于采购校车的请示》收悉。经会议研究讨论，领导审议，统一你单位采购校车2辆，用于师生通勤。[可以提出期望]。望你单位能合理利用校车资源，更好服务师生。<br>	特此批复。<br>												杭州电子科技大学<br>												落款时间[注意时差]<br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">P3:<br>	**第一段：所谓主题就是…………………………。文章具体内容所表达最主要的思想[主题]<br>	<br>P5:<br>	**主题的来源是生活<br>	<br>P7:<br>	**从写作的角度来说，提炼主题的五个基本要求：正确、鲜明、深刻、新颖等<br><br>P10:<br>	**材料是指………………事实或观点[真实、鲜明[不能墙头草]]<br>	<br>P11:<br>	**区分事实材料和理论材料[事实材料更有说服力]<br>	<br>P15:<br>	**叙述的方法：<br>		<span class="hljs-comment">#顺序，倒叙，插叙，平叙</span><br><br>P27:<br>	**说明的方法<br>		<span class="hljs-comment">#介绍、描述、定义、分类、诠释等</span><br>		<br>P38:<br>	**结构的原则：<br>		<span class="hljs-comment">#表现主题、发展规律、特点[三点]</span><br>		<br>P55:<br>	**机关公文的定义[必考]<br>		<span class="hljs-comment">#机关公文是指……………………法定机关与组织 &amp; 公务活动[不是私人的]</span><br>		<br>P58:<br>	**机关公文的种类：<br>		<span class="hljs-comment">#15种---</span><br>		<br>P59:<br>	**机关公文的分类：<br>		<span class="hljs-comment">#行文方向、、、、等分类</span><br>		<br>P62:<br>	**第七行[六角括号-=-]用来写发文的文号<br>	<br>P70:<br>	**机关公文的行文规则 - 主观题<br>	<br>P78:<br>	**机关公文的文体：<br>		<span class="hljs-comment">#决议</span><br>			**必须经由会议讨论通过<br>			**党口文件<br>		<span class="hljs-comment">#</span><br>		<span class="hljs-comment">#</span><br>P83:<br>	**决定<br>		<span class="hljs-comment">#</span><br>		<br>P112:<br>	**命令<br>		第六段：命令一般以机关领导人的身份发布。行政口文件<br>		<br>P149:<br>	**通知<br>		范围：发布、传达…………[可以是平行、下行，但是！！！不能是上行]<br>		类型：指示、转发等<br>	<br>P176:<br>	**请示：<br>		如何写请示<br>		<br>P180:<br>	**批复：<br>		<br>P186:<br>	**议案：<br>		适用于各级人民政府、人大、人大常务委员会<br>		<br>P188:<br>	**函：<br>		适用于不相隶属的<br>		<br>单选、多选、简答、作文<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>应用写作考点</tag>
       </tags>
   </entry>
   <entry>
@@ -10112,890 +10209,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>R080-topwords-L12</title>
-    <url>/2021/03/26/R080-topwords-L12/</url>
-    <content><![CDATA[<table>
-<thead>
-<tr>
-<th>单词</th>
-<th>词性1</th>
-<th>译文1</th>
-<th>词性2</th>
-<th>译文2</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>dependent</td>
-<td>a</td>
-<td>依靠的；依赖的</td>
-<td>n</td>
-<td>受抚养者</td>
-</tr>
-<tr>
-<td>independent</td>
-<td>a</td>
-<td>独立自主的，不受约束的</td>
-<td>n</td>
-<td>中立派</td>
-</tr>
-<tr>
-<td>reliant</td>
-<td>a</td>
-<td>依靠的，依赖的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>extreme</td>
-<td>n</td>
-<td>极端，极度</td>
-<td>a</td>
-<td>极度的，极端的</td>
-</tr>
-<tr>
-<td>extremely</td>
-<td>ad</td>
-<td>极端地</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ultimate</td>
-<td>a</td>
-<td>最后的，极端的，最好的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>utmost</td>
-<td>a</td>
-<td>极度的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>radical</td>
-<td>a</td>
-<td>根本的，彻底的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>imply</td>
-<td>v</td>
-<td>暗指，意指</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>simply</td>
-<td>ad</td>
-<td>简朴地，非常</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>indicate</td>
-<td>v</td>
-<td>表明，暗示</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>infer</td>
-<td>v</td>
-<td>暗示</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>exhibit</td>
-<td>v</td>
-<td>表现，展示</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>exhibition</td>
-<td>n</td>
-<td>展示，展览</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>expose to</td>
-<td></td>
-<td>暴露于</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>array</td>
-<td>n</td>
-<td>一大群</td>
-<td>v</td>
-<td>布置，排列</td>
-</tr>
-<tr>
-<td>eventually</td>
-<td>ad</td>
-<td>最终，最后</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>prevent</td>
-<td>v</td>
-<td>预防</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>finally</td>
-<td>ad</td>
-<td>最后，终于</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ultimately</td>
-<td>ad</td>
-<td>最后，最终</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>label</td>
-<td>v</td>
-<td>把……称为</td>
-<td>n</td>
-<td>标签</td>
-</tr>
-<tr>
-<td>tag</td>
-<td>n</td>
-<td>标签</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>brand</td>
-<td>n</td>
-<td>品牌</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>designate</td>
-<td>v</td>
-<td>指定，标示</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>psychology</td>
-<td>n</td>
-<td>心理学</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>typical</td>
-<td>a</td>
-<td>典型的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>typically</td>
-<td>ad</td>
-<td>典型地</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>sample</td>
-<td>n</td>
-<td>样本</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>various</td>
-<td>a</td>
-<td>不同的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>vary</td>
-<td>v</td>
-<td>不同，改变</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>variety</td>
-<td>n</td>
-<td>种类，多种多样</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>variation</td>
-<td>n</td>
-<td>变化</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>familiar</td>
-<td>a</td>
-<td>熟悉的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>unfamiliar</td>
-<td>a</td>
-<td>不熟悉的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>be familiar with</td>
-<td></td>
-<td>熟练，精通</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>be proficient in</td>
-<td></td>
-<td>精通</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>be adept at</td>
-<td></td>
-<td>擅长，精于</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>intimate</td>
-<td>a</td>
-<td>亲密的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>shift</td>
-<td>v</td>
-<td>转移，替换</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>downshift</td>
-<td>v</td>
-<td>降档，放慢生活节奏</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>transfer</td>
-<td>v</td>
-<td>使转移</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>alter</td>
-<td>v</td>
-<td>改变</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>transform</td>
-<td>v</td>
-<td>改变</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>nevertheless</td>
-<td>co</td>
-<td>然而，不过，尽管如此</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>though</td>
-<td>co</td>
-<td>尽管，虽然</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>radical</td>
-<td>a</td>
-<td>基本的，彻底的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>radically</td>
-<td>ad</td>
-<td>根本地，彻底地</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>sufficient</td>
-<td>a</td>
-<td>足够的，充分的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>adequate</td>
-<td>a</td>
-<td>足够的，适当的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>affluent</td>
-<td>a</td>
-<td>富足的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>abundant</td>
-<td>a</td>
-<td>大量的，充足的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ample</td>
-<td>a</td>
-<td>足够的，充足的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>extent</td>
-<td>n</td>
-<td>广度，长度，宽度</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>extension</td>
-<td>n</td>
-<td>延长，扩展</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>extend</td>
-<td>v</td>
-<td>延长，推广</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>extended</td>
-<td>a</td>
-<td>延长的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>extensive</td>
-<td>a</td>
-<td>广泛的，大量的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>to some extent</td>
-<td></td>
-<td>在一定程度上</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>guarantee</td>
-<td>n</td>
-<td>保证，担保</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>guaranteed</td>
-<td>a</td>
-<td>有保证的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>pledge</td>
-<td>n</td>
-<td>保证，誓言</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>convention</td>
-<td>n</td>
-<td>大会，会议</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>conventional</td>
-<td>a</td>
-<td>传统的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>unconventional</td>
-<td>a</td>
-<td>非传统的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>expectation</td>
-<td>n</td>
-<td>预期，期望</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>expect</td>
-<td>v</td>
-<td>期望</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>unexpected</td>
-<td>a</td>
-<td>意外的，想不到的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>expectancy</td>
-<td>n</td>
-<td>期待，期望</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>meet the expectation</td>
-<td></td>
-<td>达到预期</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>dim</td>
-<td>a</td>
-<td>昏暗的，暗淡的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>acceptance</td>
-<td>n</td>
-<td>容忍，接受</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>clothe</td>
-<td>v</td>
-<td>为……提供衣服</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>clothes</td>
-<td>n</td>
-<td>衣服</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>lure</td>
-<td>n</td>
-<td>魅力，诱惑力</td>
-<td>v</td>
-<td>诱惑</td>
-</tr>
-<tr>
-<td>marine</td>
-<td>a</td>
-<td>海洋的，海运的</td>
-<td>n</td>
-<td>水兵</td>
-</tr>
-<tr>
-<td>norm</td>
-<td>a</td>
-<td>标准，规范</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>numerous</td>
-<td>a</td>
-<td>众多的，许多的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>numerical</td>
-<td>a</td>
-<td>数字的，数值的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>orchestra</td>
-<td>n</td>
-<td>管弦乐队</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>privacy</td>
-<td>n</td>
-<td>隐私，清净</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>illusion</td>
-<td>n</td>
-<td>错觉，假象</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>illustrate</td>
-<td>v</td>
-<td>说明，表明</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>pursue</td>
-<td>v</td>
-<td>追求，实行</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>insist</td>
-<td>v</td>
-<td>坚持，强调</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>insistence</td>
-<td>n</td>
-<td>坚持，强调</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>consist in</td>
-<td></td>
-<td>存在于……中</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>consist of</td>
-<td></td>
-<td>由……组成</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>persist</td>
-<td>v</td>
-<td>坚持</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>persevere</td>
-<td>v</td>
-<td>坚持不懈</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>uphold</td>
-<td>v</td>
-<td>支持，维持</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>previous</td>
-<td>a</td>
-<td>以前的，早先的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>previously</td>
-<td>ad</td>
-<td>以前，先前</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>primary</td>
-<td>a</td>
-<td>首要的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>primitive</td>
-<td>a</td>
-<td>原始的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>prior</td>
-<td>a</td>
-<td>在先的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>release</td>
-<td>v</td>
-<td>释放，发布</td>
-<td>n</td>
-<td>发表，发布</td>
-</tr>
-<tr>
-<td>publish</td>
-<td>v</td>
-<td>出版，发行</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>deliver</td>
-<td>v</td>
-<td>发表，递送</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>announce</td>
-<td>v</td>
-<td>宣布</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>remind</td>
-<td>v</td>
-<td>提醒</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>reminder</td>
-<td>n</td>
-<td>暗示，催单</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>remind sb. Of</td>
-<td></td>
-<td>提醒……</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>temporary</td>
-<td>a</td>
-<td>临时的，暂时的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>chronic</td>
-<td>a</td>
-<td>慢性的，长期的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>whereas</td>
-<td>co</td>
-<td>而，反之</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>elsewhere</td>
-<td>ad</td>
-<td>在别处，去别处</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>wise</td>
-<td>a</td>
-<td>聪敏的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>otherwise</td>
-<td>ad</td>
-<td>否则</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>likewise</td>
-<td>ad</td>
-<td>同样地</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>wisely</td>
-<td>ad</td>
-<td>聪明地，明智地</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>prudent</td>
-<td>a</td>
-<td>谨慎的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>acknowledge</td>
-<td>v</td>
-<td>承认</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>knowledgeable</td>
-<td>a</td>
-<td>知识渊博的，有知识的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>announce</td>
-<td>v</td>
-<td>宣布</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>announcement</td>
-<td>n</td>
-<td>宣告</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>declare</td>
-<td>v</td>
-<td>宣布</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>claim</td>
-<td>v</td>
-<td>声称，断言</td>
-<td>n</td>
-<td>主张</td>
-</tr>
-<tr>
-<td>proclaim</td>
-<td>v</td>
-<td>宣告</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>combine</td>
-<td>v</td>
-<td>结合，联合</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>combat</td>
-<td>n</td>
-<td>战斗</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>combine with</td>
-<td></td>
-<td>与……联合</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>integrate</td>
-<td>v</td>
-<td>使一体化</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>merge</td>
-<td>v</td>
-<td>混合</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>enormous</td>
-<td>a</td>
-<td>巨大的</td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-]]></content>
-  </entry>
-  <entry>
     <title>R081-topwords-AN</title>
     <url>/2021/03/26/R081-topwords-AN/</url>
     <content><![CDATA[<table>
@@ -11915,6 +11128,890 @@
 ]]></content>
   </entry>
   <entry>
+    <title>R080-topwords-L12</title>
+    <url>/2021/03/26/R080-topwords-L12/</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th>单词</th>
+<th>词性1</th>
+<th>译文1</th>
+<th>词性2</th>
+<th>译文2</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>dependent</td>
+<td>a</td>
+<td>依靠的；依赖的</td>
+<td>n</td>
+<td>受抚养者</td>
+</tr>
+<tr>
+<td>independent</td>
+<td>a</td>
+<td>独立自主的，不受约束的</td>
+<td>n</td>
+<td>中立派</td>
+</tr>
+<tr>
+<td>reliant</td>
+<td>a</td>
+<td>依靠的，依赖的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>extreme</td>
+<td>n</td>
+<td>极端，极度</td>
+<td>a</td>
+<td>极度的，极端的</td>
+</tr>
+<tr>
+<td>extremely</td>
+<td>ad</td>
+<td>极端地</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ultimate</td>
+<td>a</td>
+<td>最后的，极端的，最好的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>utmost</td>
+<td>a</td>
+<td>极度的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>radical</td>
+<td>a</td>
+<td>根本的，彻底的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>imply</td>
+<td>v</td>
+<td>暗指，意指</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>simply</td>
+<td>ad</td>
+<td>简朴地，非常</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>indicate</td>
+<td>v</td>
+<td>表明，暗示</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>infer</td>
+<td>v</td>
+<td>暗示</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>exhibit</td>
+<td>v</td>
+<td>表现，展示</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>exhibition</td>
+<td>n</td>
+<td>展示，展览</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>expose to</td>
+<td></td>
+<td>暴露于</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>array</td>
+<td>n</td>
+<td>一大群</td>
+<td>v</td>
+<td>布置，排列</td>
+</tr>
+<tr>
+<td>eventually</td>
+<td>ad</td>
+<td>最终，最后</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>prevent</td>
+<td>v</td>
+<td>预防</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>finally</td>
+<td>ad</td>
+<td>最后，终于</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ultimately</td>
+<td>ad</td>
+<td>最后，最终</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>label</td>
+<td>v</td>
+<td>把……称为</td>
+<td>n</td>
+<td>标签</td>
+</tr>
+<tr>
+<td>tag</td>
+<td>n</td>
+<td>标签</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>brand</td>
+<td>n</td>
+<td>品牌</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>designate</td>
+<td>v</td>
+<td>指定，标示</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>psychology</td>
+<td>n</td>
+<td>心理学</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>typical</td>
+<td>a</td>
+<td>典型的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>typically</td>
+<td>ad</td>
+<td>典型地</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>sample</td>
+<td>n</td>
+<td>样本</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>various</td>
+<td>a</td>
+<td>不同的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>vary</td>
+<td>v</td>
+<td>不同，改变</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>variety</td>
+<td>n</td>
+<td>种类，多种多样</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>variation</td>
+<td>n</td>
+<td>变化</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>familiar</td>
+<td>a</td>
+<td>熟悉的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>unfamiliar</td>
+<td>a</td>
+<td>不熟悉的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>be familiar with</td>
+<td></td>
+<td>熟练，精通</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>be proficient in</td>
+<td></td>
+<td>精通</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>be adept at</td>
+<td></td>
+<td>擅长，精于</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>intimate</td>
+<td>a</td>
+<td>亲密的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>shift</td>
+<td>v</td>
+<td>转移，替换</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>downshift</td>
+<td>v</td>
+<td>降档，放慢生活节奏</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>transfer</td>
+<td>v</td>
+<td>使转移</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>alter</td>
+<td>v</td>
+<td>改变</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>transform</td>
+<td>v</td>
+<td>改变</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>nevertheless</td>
+<td>co</td>
+<td>然而，不过，尽管如此</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>though</td>
+<td>co</td>
+<td>尽管，虽然</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>radical</td>
+<td>a</td>
+<td>基本的，彻底的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>radically</td>
+<td>ad</td>
+<td>根本地，彻底地</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>sufficient</td>
+<td>a</td>
+<td>足够的，充分的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>adequate</td>
+<td>a</td>
+<td>足够的，适当的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>affluent</td>
+<td>a</td>
+<td>富足的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>abundant</td>
+<td>a</td>
+<td>大量的，充足的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ample</td>
+<td>a</td>
+<td>足够的，充足的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>extent</td>
+<td>n</td>
+<td>广度，长度，宽度</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>extension</td>
+<td>n</td>
+<td>延长，扩展</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>extend</td>
+<td>v</td>
+<td>延长，推广</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>extended</td>
+<td>a</td>
+<td>延长的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>extensive</td>
+<td>a</td>
+<td>广泛的，大量的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>to some extent</td>
+<td></td>
+<td>在一定程度上</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>guarantee</td>
+<td>n</td>
+<td>保证，担保</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>guaranteed</td>
+<td>a</td>
+<td>有保证的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pledge</td>
+<td>n</td>
+<td>保证，誓言</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>convention</td>
+<td>n</td>
+<td>大会，会议</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>conventional</td>
+<td>a</td>
+<td>传统的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>unconventional</td>
+<td>a</td>
+<td>非传统的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>expectation</td>
+<td>n</td>
+<td>预期，期望</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>expect</td>
+<td>v</td>
+<td>期望</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>unexpected</td>
+<td>a</td>
+<td>意外的，想不到的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>expectancy</td>
+<td>n</td>
+<td>期待，期望</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>meet the expectation</td>
+<td></td>
+<td>达到预期</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>dim</td>
+<td>a</td>
+<td>昏暗的，暗淡的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>acceptance</td>
+<td>n</td>
+<td>容忍，接受</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>clothe</td>
+<td>v</td>
+<td>为……提供衣服</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>clothes</td>
+<td>n</td>
+<td>衣服</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>lure</td>
+<td>n</td>
+<td>魅力，诱惑力</td>
+<td>v</td>
+<td>诱惑</td>
+</tr>
+<tr>
+<td>marine</td>
+<td>a</td>
+<td>海洋的，海运的</td>
+<td>n</td>
+<td>水兵</td>
+</tr>
+<tr>
+<td>norm</td>
+<td>a</td>
+<td>标准，规范</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>numerous</td>
+<td>a</td>
+<td>众多的，许多的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>numerical</td>
+<td>a</td>
+<td>数字的，数值的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>orchestra</td>
+<td>n</td>
+<td>管弦乐队</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>privacy</td>
+<td>n</td>
+<td>隐私，清净</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>illusion</td>
+<td>n</td>
+<td>错觉，假象</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>illustrate</td>
+<td>v</td>
+<td>说明，表明</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pursue</td>
+<td>v</td>
+<td>追求，实行</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>insist</td>
+<td>v</td>
+<td>坚持，强调</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>insistence</td>
+<td>n</td>
+<td>坚持，强调</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>consist in</td>
+<td></td>
+<td>存在于……中</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>consist of</td>
+<td></td>
+<td>由……组成</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>persist</td>
+<td>v</td>
+<td>坚持</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>persevere</td>
+<td>v</td>
+<td>坚持不懈</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>uphold</td>
+<td>v</td>
+<td>支持，维持</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>previous</td>
+<td>a</td>
+<td>以前的，早先的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>previously</td>
+<td>ad</td>
+<td>以前，先前</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>primary</td>
+<td>a</td>
+<td>首要的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>primitive</td>
+<td>a</td>
+<td>原始的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>prior</td>
+<td>a</td>
+<td>在先的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>release</td>
+<td>v</td>
+<td>释放，发布</td>
+<td>n</td>
+<td>发表，发布</td>
+</tr>
+<tr>
+<td>publish</td>
+<td>v</td>
+<td>出版，发行</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>deliver</td>
+<td>v</td>
+<td>发表，递送</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>announce</td>
+<td>v</td>
+<td>宣布</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>remind</td>
+<td>v</td>
+<td>提醒</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>reminder</td>
+<td>n</td>
+<td>暗示，催单</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>remind sb. Of</td>
+<td></td>
+<td>提醒……</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>temporary</td>
+<td>a</td>
+<td>临时的，暂时的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>chronic</td>
+<td>a</td>
+<td>慢性的，长期的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>whereas</td>
+<td>co</td>
+<td>而，反之</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>elsewhere</td>
+<td>ad</td>
+<td>在别处，去别处</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>wise</td>
+<td>a</td>
+<td>聪敏的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>otherwise</td>
+<td>ad</td>
+<td>否则</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>likewise</td>
+<td>ad</td>
+<td>同样地</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>wisely</td>
+<td>ad</td>
+<td>聪明地，明智地</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>prudent</td>
+<td>a</td>
+<td>谨慎的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>acknowledge</td>
+<td>v</td>
+<td>承认</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>knowledgeable</td>
+<td>a</td>
+<td>知识渊博的，有知识的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>announce</td>
+<td>v</td>
+<td>宣布</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>announcement</td>
+<td>n</td>
+<td>宣告</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>declare</td>
+<td>v</td>
+<td>宣布</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>claim</td>
+<td>v</td>
+<td>声称，断言</td>
+<td>n</td>
+<td>主张</td>
+</tr>
+<tr>
+<td>proclaim</td>
+<td>v</td>
+<td>宣告</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>combine</td>
+<td>v</td>
+<td>结合，联合</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>combat</td>
+<td>n</td>
+<td>战斗</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>combine with</td>
+<td></td>
+<td>与……联合</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>integrate</td>
+<td>v</td>
+<td>使一体化</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>merge</td>
+<td>v</td>
+<td>混合</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>enormous</td>
+<td>a</td>
+<td>巨大的</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
     <title>R082-Ubuntu18-20网络故障</title>
     <url>/2021/03/27/R082-Ubuntu18-20%E7%BD%91%E7%BB%9C%E6%95%85%E9%9A%9C/</url>
     <content><![CDATA[<h4 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## linux系列的操作系统在VMware中使用时，网络连接标识显示问号</span><br><br><span class="hljs-comment">## 重启或者重装均无效，网络配置无效，同时，同样在虚拟机目录中的win10系列系统网络可以正常使用</span><br></code></pre></td></tr></table></figure>
@@ -12003,14 +12100,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>R086-门徒训练N108</title>
-    <url>/2021/04/13/R086-%E9%97%A8%E5%BE%92%E8%AE%AD%E7%BB%83N108/</url>
-    <content><![CDATA[<h4 id="与世界分别"><a href="#与世界分别" class="headerlink" title="与世界分别"></a>与世界分别</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 回顾：</span><br>	**现在相比与开始之前灵修生活有什么变化？<br>	<br>	**能够抓紧机会<br>	<br><span class="hljs-comment">## 与世界分别</span><br>	[约翰一书 2：15-17]<br>	不要爱世界和世界上的事。人若爱世界，爱父的心就不在他里面了。因为，凡世界上的事，就像肉体的情欲、眼目的情欲，并今生的骄傲，都不是从父来的，乃是从世界来的。这世界和其上的情欲都要过去，唯有遵行神旨意的，是永远长存。<br>	<br>	**并不只是上面所讲的三件事情 [出了埃及的民]<br>    <br><span class="hljs-comment">## 为什么需要与世界分别？</span><br>	**神的呼召和命令<br>		--救恩的目的：事奉神<br>			==容我的百姓去，好事奉我<br>			[蒙恩的罪人，蒙爱的儿女，蒙道的祭司[终身在祂面前]]<br>			<br>		--圣徒生活的特质<br>			分别为圣的生活[五经的中心思想：归耶和华为圣]<br>			[我们是基督花重价买来的。]<br>	**真认识世界本质的必然结果<br>		--全世界都卧在那恶者的手下[它的工作就是偷窃、杀害、毁坏]<br>		<br>		--一个人不能事奉两个主<br>			==是否爱主？为什么不能爱祂？<br>			<br>		--永恒的透视<br>			==这个世界及其上的情欲都要过去<br>			==怎样能够对这个世界有正确的认识、正确的态度、正确的生活<br>			<br>		<br><span class="hljs-comment">## 与世界分别的生活原则</span><br>	**我们不属于这个世界<br>		<br>	**不要爱世界<br>		[约一]<br>		==老鹰的故事：<br>			飞了很久，看到一块浮冰可以休息。等到遇到瀑布时，发现双脚已经被冻住了。<br>	**不要效法这个世界/不要听从这个世界<br>		==约翰一书<br>	**要胜过世界，成为世上的光。<br>    	==罗马书8:35<br>    	<br>		<br><span class="hljs-comment">## 胜过世界的秘诀</span><br>	**信<br>		==约翰一书<br>		==腓3:8 - 我以认识我主耶稣基督为至宝<br>	**望<br>		==彼前<br>		==我们只是客旅<br>	**爱<br>		==主爱的激励与我们爱主的心<br>		==哥林多后书5<br>		==罗马书8<br><br></code></pre></td></tr></table></figure>
-
-]]></content>
-  </entry>
-  <entry>
     <title>R087-Selenium-IDEA自动化测试</title>
     <url>/2021/04/19/R087-Selenium-IDEA%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<h4 id="使用Selenium-IDEA进行自动化测试"><a href="#使用Selenium-IDEA进行自动化测试" class="headerlink" title="使用Selenium+IDEA进行自动化测试"></a>使用Selenium+IDEA进行自动化测试</h4><p>为了能够使用IDEA + Selenium进行自动化测试，查阅资料配置此环境进行软件测试（黑盒测试内容）</p>
@@ -12063,6 +12152,21 @@
 <h5 id="step1：参考上篇step8配置好lib库-将上面5个jar包添加到项目的lib"><a href="#step1：参考上篇step8配置好lib库-将上面5个jar包添加到项目的lib" class="headerlink" title="step1：参考上篇step8配置好lib库[将上面5个jar包添加到项目的lib]"></a>step1：参考上篇step8配置好lib库[将上面5个jar包添加到项目的lib]</h5><h5 id="step2：参考-文献1-测试读写excel是否正常"><a href="#step2：参考-文献1-测试读写excel是否正常" class="headerlink" title="step2：参考[文献1]测试读写excel是否正常"></a>step2：参考[文献1]测试读写excel是否正常</h5><h5 id="step3：从excel读出数据后，修改上篇中的属性值，代替手动输入"><a href="#step3：从excel读出数据后，修改上篇中的属性值，代替手动输入" class="headerlink" title="step3：从excel读出数据后，修改上篇中的属性值，代替手动输入"></a>step3：从excel读出数据后，修改上篇中的属性值，代替手动输入</h5>]]></content>
   </entry>
   <entry>
+    <title>R088-举步维艰</title>
+    <url>/2021/08/11/R088-%E4%B8%BE%E6%AD%A5%E7%BB%B4%E8%89%B0/</url>
+    <content><![CDATA[<h4 id="历经磨难"><a href="#历经磨难" class="headerlink" title="历经磨难"></a>历经磨难</h4><p>企鹅君在一公众号看到文章：名校学霸都是如何度过假期？</p>
+<p>你努力了一时就觉得疲惫不堪，而别人一直在付出从未有过怨言。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>R086-门徒训练N108</title>
+    <url>/2021/04/13/R086-%E9%97%A8%E5%BE%92%E8%AE%AD%E7%BB%83N108/</url>
+    <content><![CDATA[<h4 id="与世界分别"><a href="#与世界分别" class="headerlink" title="与世界分别"></a>与世界分别</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 回顾：</span><br>	**现在相比与开始之前灵修生活有什么变化？<br>	<br>	**能够抓紧机会<br>	<br><span class="hljs-comment">## 与世界分别</span><br>	[约翰一书 2：15-17]<br>	不要爱世界和世界上的事。人若爱世界，爱父的心就不在他里面了。因为，凡世界上的事，就像肉体的情欲、眼目的情欲，并今生的骄傲，都不是从父来的，乃是从世界来的。这世界和其上的情欲都要过去，唯有遵行神旨意的，是永远长存。<br>	<br>	**并不只是上面所讲的三件事情 [出了埃及的民]<br>    <br><span class="hljs-comment">## 为什么需要与世界分别？</span><br>	**神的呼召和命令<br>		--救恩的目的：事奉神<br>			==容我的百姓去，好事奉我<br>			[蒙恩的罪人，蒙爱的儿女，蒙道的祭司[终身在祂面前]]<br>			<br>		--圣徒生活的特质<br>			分别为圣的生活[五经的中心思想：归耶和华为圣]<br>			[我们是基督花重价买来的。]<br>	**真认识世界本质的必然结果<br>		--全世界都卧在那恶者的手下[它的工作就是偷窃、杀害、毁坏]<br>		<br>		--一个人不能事奉两个主<br>			==是否爱主？为什么不能爱祂？<br>			<br>		--永恒的透视<br>			==这个世界及其上的情欲都要过去<br>			==怎样能够对这个世界有正确的认识、正确的态度、正确的生活<br>			<br>		<br><span class="hljs-comment">## 与世界分别的生活原则</span><br>	**我们不属于这个世界<br>		<br>	**不要爱世界<br>		[约一]<br>		==老鹰的故事：<br>			飞了很久，看到一块浮冰可以休息。等到遇到瀑布时，发现双脚已经被冻住了。<br>	**不要效法这个世界/不要听从这个世界<br>		==约翰一书<br>	**要胜过世界，成为世上的光。<br>    	==罗马书8:35<br>    	<br>		<br><span class="hljs-comment">## 胜过世界的秘诀</span><br>	**信<br>		==约翰一书<br>		==腓3:8 - 我以认识我主耶稣基督为至宝<br>	**望<br>		==彼前<br>		==我们只是客旅<br>	**爱<br>		==主爱的激励与我们爱主的心<br>		==哥林多后书5<br>		==罗马书8<br><br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
     <title>R088-流氓输入法</title>
     <url>/2021/04/30/R088-%E6%B5%81%E6%B0%93%E8%BE%93%E5%85%A5%E6%B3%95/</url>
     <content><![CDATA[<h4 id="斩草除根"><a href="#斩草除根" class="headerlink" title="斩草除根"></a>斩草除根</h4><hr>
@@ -12074,6 +12178,13 @@
 <li>能够记录并且统计用户近期的活动数据：软件的使用频率、频繁访问的文件</li>
 <li>更加智能、实用的文档编写辅助工具：目标是markdown，一次编写、到处发布。</li>
 </ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>R090-BREAKSTACK</title>
+    <url>/2021/08/11/R090-BREAKSTACK/</url>
+    <content><![CDATA[<h4 id="函数调用栈"><a href="#函数调用栈" class="headerlink" title="函数调用栈"></a>函数调用栈</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs SH"><span class="hljs-comment">## 2021年8月11日</span><br>**数据结构<br>	-bilibili P42<br>	-https://www.bilibili.com/video/BV1C54y1L7JM?p=41&amp;spm_id_from=pageDriver<br>	<br>	-reason：重启测试virtual studio<br>	-待完成：课程第三部分、迭代实现fib算法<br>	<br></code></pre></td></tr></table></figure>
+
 ]]></content>
   </entry>
   <entry>

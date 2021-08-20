@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>408-Linux内核</title>
+    <url>/2021/03/24/408-Linux%E5%86%85%E6%A0%B8/</url>
+    <content><![CDATA[<h4 id="操作系统"><a href="#操作系统" class="headerlink" title="操作系统"></a>操作系统</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 操作系统的功能</span><br>	**<br>	**<br>	**<br>	**<br>	**<br>	<br><span class="hljs-comment">## 操作系统的特征</span><br>	**并发性<br>	**共享性<br>	**虚拟性<br>	**异步性<br>	<br><span class="hljs-comment">## 操作系统的目标</span><br>	**<br>	**<br>	<br>	<br>	<br>-----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 操作系统的发展</span><br>	**手工阶段<br>	**单道批处理系统<br>	**多道批处理系统<br>	**分时操作系统<br>	<br>	<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>Linux内核</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>912-408专业课备考4月安排</title>
     <url>/2021/04/20/912-408%E4%B8%93%E4%B8%9A%E8%AF%BE%E5%A4%87%E8%80%834%E6%9C%88%E5%AE%89%E6%8E%92/</url>
     <content><![CDATA[]]></content>
@@ -12,14 +22,12 @@
       </tags>
   </entry>
   <entry>
-    <title>408-Linux内核</title>
-    <url>/2021/03/24/408-Linux%E5%86%85%E6%A0%B8/</url>
-    <content><![CDATA[<h4 id="操作系统"><a href="#操作系统" class="headerlink" title="操作系统"></a>操作系统</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 操作系统的功能</span><br>	**<br>	**<br>	**<br>	**<br>	**<br>	<br><span class="hljs-comment">## 操作系统的特征</span><br>	**并发性<br>	**共享性<br>	**虚拟性<br>	**异步性<br>	<br><span class="hljs-comment">## 操作系统的目标</span><br>	**<br>	**<br>	<br>	<br>	<br>-----------------------------------------------------------------------------<br><br><span class="hljs-comment">## 操作系统的发展</span><br>	**手工阶段<br>	**单道批处理系统<br>	**多道批处理系统<br>	**分时操作系统<br>	<br>	<br></code></pre></td></tr></table></figure>
+    <title>912-PAT劝退指南</title>
+    <url>/2021/04/29/912-PAT%E5%8A%9D%E9%80%80%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<h6 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h6><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">https://github.com/liuchuo/PAT<br>https://www.liuchuo.net/<br>《算法笔记》<br></code></pre></td></tr></table></figure>
 
 ]]></content>
-      <tags>
-        <tag>Linux内核</tag>
-      </tags>
   </entry>
   <entry>
     <title>912-Algorithm-T</title>
@@ -82,14 +90,6 @@
 
 <h4 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h4><hr>
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><br></code></pre></td></tr></table></figure>
-
-]]></content>
-  </entry>
-  <entry>
-    <title>912-PAT劝退指南</title>
-    <url>/2021/04/29/912-PAT%E5%8A%9D%E9%80%80%E6%8C%87%E5%8D%97/</url>
-    <content><![CDATA[<h6 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h6><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">https://github.com/liuchuo/PAT<br>https://www.liuchuo.net/<br>《算法笔记》<br></code></pre></td></tr></table></figure>
 
 ]]></content>
   </entry>
@@ -471,21 +471,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>912-考研全程done-list</title>
-    <url>/2021/03/12/912-%E8%80%83%E7%A0%94%E5%85%A8%E7%A8%8Bdone-list/</url>
-    <content><![CDATA[<h4 id="天道酬勤"><a href="#天道酬勤" class="headerlink" title="天道酬勤"></a>天道酬勤</h4><hr>
-<blockquote>
-<p><code>2021年3月12日20点27分</code> 完成张宇基础30讲-第一讲</p>
-</blockquote>
-<blockquote>
-<p><code>2021年3月12日20点27分</code> 完成考研单词[乱序版]第一轮</p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>912</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>912-经验专题-6</title>
     <url>/2021/07/01/912-%E7%BB%8F%E9%AA%8C%E4%B8%93%E9%A2%98-6/</url>
     <content><![CDATA[<p> 首先要感谢考研的前辈们，尤其是lhy学长在知乎的分享，你们提供的信息给了我巨大的帮助，还要感谢lxh同学给我提供的宝贵帮助。拟录取名单已经公布，我也将我的考研经历记录下来，供大家参考。文笔拙劣，请大家体谅。</p>
@@ -500,16 +485,19 @@
 ]]></content>
   </entry>
   <entry>
-    <title>912-考研数学5月应该在什么位置</title>
-    <url>/2021/05/20/912-%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A65%E6%9C%88%E5%BA%94%E8%AF%A5%E5%9C%A8%E4%BB%80%E4%B9%88%E4%BD%8D%E7%BD%AE/</url>
-    <content><![CDATA[<h4 id="水平的划分"><a href="#水平的划分" class="headerlink" title="水平的划分"></a>水平的划分</h4><hr>
-<p>以学到什么程度为阶段，而不是看了几遍书</p>
-<h4 id="划重点"><a href="#划重点" class="headerlink" title="划重点"></a>划重点</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 五月了</span><br>	**要有一套自己的习惯、方法<br>	**什么时候看、一次看多久、看完之后刷什么样的题目、做完题目之后如何复盘、做完后是进入下一章还是其他<br>	**几天要复习一次<br>	<br><span class="hljs-comment">## 对考研数学要有一个清晰的认知</span><br>	**知道整体的构建、核心是什么？<br>	**各个知识点是如何串连起来的？<br>	<br><span class="hljs-comment">## 对考研数学的节奏和接下来的计划</span><br>	**最重要的是真题<br>	**知道如何考试、知道知识点是怎么串联起来的[怎到靠什么、怎么考]<br>	**配一本习题册[练习熟练度，能力提升]<br>	**把你见过的东西整理出来，总结出题规律<br>	<br>	**拿到题目就定位到对应的解决思路<br>	<br><span class="hljs-comment">## 建立宏观思维</span><br>	**<br></code></pre></td></tr></table></figure>
-
-
-
+    <title>912-考研全程done-list</title>
+    <url>/2021/03/12/912-%E8%80%83%E7%A0%94%E5%85%A8%E7%A8%8Bdone-list/</url>
+    <content><![CDATA[<h4 id="天道酬勤"><a href="#天道酬勤" class="headerlink" title="天道酬勤"></a>天道酬勤</h4><hr>
+<blockquote>
+<p><code>2021年3月12日20点27分</code> 完成张宇基础30讲-第一讲</p>
+</blockquote>
+<blockquote>
+<p><code>2021年3月12日20点27分</code> 完成考研单词[乱序版]第一轮</p>
+</blockquote>
 ]]></content>
+      <tags>
+        <tag>912</tag>
+      </tags>
   </entry>
   <entry>
     <title>912-考研八月记录</title>
@@ -531,6 +519,18 @@
 
 
 <h4 id="DONELIST"><a href="#DONELIST" class="headerlink" title="DONELIST"></a>DONELIST</h4><p>回头看看你所做完的任务，给他们添加时间节点标签，记录下简短的思考，然后继续完成更多的任务，每次完成任务产生的效果都要为下一个任务做出贡献。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>912-考研数学5月应该在什么位置</title>
+    <url>/2021/05/20/912-%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A65%E6%9C%88%E5%BA%94%E8%AF%A5%E5%9C%A8%E4%BB%80%E4%B9%88%E4%BD%8D%E7%BD%AE/</url>
+    <content><![CDATA[<h4 id="水平的划分"><a href="#水平的划分" class="headerlink" title="水平的划分"></a>水平的划分</h4><hr>
+<p>以学到什么程度为阶段，而不是看了几遍书</p>
+<h4 id="划重点"><a href="#划重点" class="headerlink" title="划重点"></a>划重点</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 五月了</span><br>	**要有一套自己的习惯、方法<br>	**什么时候看、一次看多久、看完之后刷什么样的题目、做完题目之后如何复盘、做完后是进入下一章还是其他<br>	**几天要复习一次<br>	<br><span class="hljs-comment">## 对考研数学要有一个清晰的认知</span><br>	**知道整体的构建、核心是什么？<br>	**各个知识点是如何串连起来的？<br>	<br><span class="hljs-comment">## 对考研数学的节奏和接下来的计划</span><br>	**最重要的是真题<br>	**知道如何考试、知道知识点是怎么串联起来的[怎到靠什么、怎么考]<br>	**配一本习题册[练习熟练度，能力提升]<br>	**把你见过的东西整理出来，总结出题规律<br>	<br>	**拿到题目就定位到对应的解决思路<br>	<br><span class="hljs-comment">## 建立宏观思维</span><br>	**<br></code></pre></td></tr></table></figure>
+
+
+
 ]]></content>
   </entry>
   <entry>
@@ -1061,19 +1061,6 @@
       </tags>
   </entry>
   <entry>
-    <title>B007-从0到1</title>
-    <url>/2021/01/19/B007-%E4%BB%8E0%E5%88%B01/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>深夜书刊</category>
-        <category>阅读笔记</category>
-      </categories>
-      <tags>
-        <tag>阅读笔记</tag>
-        <tag>从0到1</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>B006-天才在左疯子在右</title>
     <url>/2021/01/19/B006-%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3/</url>
     <content><![CDATA[]]></content>
@@ -1084,6 +1071,19 @@
       <tags>
         <tag>阅读笔记</tag>
         <tag>天才在左疯子在右</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>B007-从0到1</title>
+    <url>/2021/01/19/B007-%E4%BB%8E0%E5%88%B01/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>深夜书刊</category>
+        <category>阅读笔记</category>
+      </categories>
+      <tags>
+        <tag>阅读笔记</tag>
+        <tag>从0到1</tag>
       </tags>
   </entry>
   <entry>
@@ -1116,23 +1116,6 @@
       </tags>
   </entry>
   <entry>
-    <title>B010-如果我们的语言是威士忌</title>
-    <url>/2021/03/27/B010-%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E7%9A%84%E8%AF%AD%E8%A8%80%E6%98%AF%E5%A8%81%E5%A3%AB%E5%BF%8C/</url>
-    <content><![CDATA[<h4 id="世界的奇妙"><a href="#世界的奇妙" class="headerlink" title="世界的奇妙"></a>世界的奇妙</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 多数人以为年头越久越好喝，但并非那样。既有岁月使之得到的，又有岁月使之失去的。蒸发有其增加的东西，也有减少的东西。终究不过是个性差异而已。</span><br>																[P34]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>深夜书刊</category>
-        <category>阅读笔记</category>
-      </categories>
-      <tags>
-        <tag>深夜书刊</tag>
-        <tag>读书笔记</tag>
-        <tag>村上春树</tag>
-        <tag>如果我们的语言是威士忌</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>B009-曾国藩传</title>
     <url>/2021/01/24/B009-%E6%9B%BE%E5%9B%BD%E8%97%A9%E4%BC%A0/</url>
     <content><![CDATA[<h4 id="序"><a href="#序" class="headerlink" title="序"></a>序</h4><hr>
@@ -1156,6 +1139,23 @@
         <tag>深夜书刊</tag>
         <tag>读书笔记</tag>
         <tag>曾国藩传</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>B010-如果我们的语言是威士忌</title>
+    <url>/2021/03/27/B010-%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E7%9A%84%E8%AF%AD%E8%A8%80%E6%98%AF%E5%A8%81%E5%A3%AB%E5%BF%8C/</url>
+    <content><![CDATA[<h4 id="世界的奇妙"><a href="#世界的奇妙" class="headerlink" title="世界的奇妙"></a>世界的奇妙</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 多数人以为年头越久越好喝，但并非那样。既有岁月使之得到的，又有岁月使之失去的。蒸发有其增加的东西，也有减少的东西。终究不过是个性差异而已。</span><br>																[P34]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>深夜书刊</category>
+        <category>阅读笔记</category>
+      </categories>
+      <tags>
+        <tag>深夜书刊</tag>
+        <tag>读书笔记</tag>
+        <tag>村上春树</tag>
+        <tag>如果我们的语言是威士忌</tag>
       </tags>
   </entry>
   <entry>
@@ -1406,13 +1406,6 @@
       </tags>
   </entry>
   <entry>
-    <title>I007-从传记阅读到个人成长</title>
-    <url>/2021/01/20/I007-%E4%BB%8E%E4%BC%A0%E8%AE%B0%E9%98%85%E8%AF%BB%E5%88%B0%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</url>
-    <content><![CDATA[<h4 id="商业计划"><a href="#商业计划" class="headerlink" title="商业计划"></a>商业计划</h4><hr>
-<p>从传记阅读到个人成长，能否将传记阅读衍生为一种独特的成长模式？通过分析具体的历史人物，反思自我、阅读自我、替身自我。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>I006-伟大的艺术家都是疯子</title>
     <url>/2021/01/13/I006-%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%83%BD%E6%98%AF%E7%96%AF%E5%AD%90/</url>
     <content><![CDATA[<h4 id="何故退出"><a href="#何故退出" class="headerlink" title="何故退出"></a>何故退出</h4><hr>
@@ -1423,6 +1416,13 @@
         <tag>艺术家与疯子</tag>
         <tag>在绝望中寻找希望</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>I007-从传记阅读到个人成长</title>
+    <url>/2021/01/20/I007-%E4%BB%8E%E4%BC%A0%E8%AE%B0%E9%98%85%E8%AF%BB%E5%88%B0%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</url>
+    <content><![CDATA[<h4 id="商业计划"><a href="#商业计划" class="headerlink" title="商业计划"></a>商业计划</h4><hr>
+<p>从传记阅读到个人成长，能否将传记阅读衍生为一种独特的成长模式？通过分析具体的历史人物，反思自我、阅读自我、替身自我。</p>
+]]></content>
   </entry>
   <entry>
     <title>I008-私人定制操作系统</title>
@@ -1437,18 +1437,18 @@
 ]]></content>
   </entry>
   <entry>
+    <title>I009-DoOneThingAtaTime</title>
+    <url>/2021/08/08/I009-DoOneThingAtaTime/</url>
+    <content><![CDATA[<h4 id="绝对专注原则"><a href="#绝对专注原则" class="headerlink" title="绝对专注原则"></a>绝对专注原则</h4><p>在一段时间内只做一件事，并且做好这一件事</p>
+<p>如果不得不开始做其他的事情，那么其他的事情也是为当前正在进行的这一件事作为补充以及辅助。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>I010-构建自己的工作站</title>
     <url>/2021/08/09/I010-%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B7%A5%E4%BD%9C%E7%AB%99/</url>
     <content><![CDATA[<h4 id="高效秘诀"><a href="#高效秘诀" class="headerlink" title="高效秘诀"></a>高效秘诀</h4><p>从工作站的角度来收集整理资料，首先创建一个基本固定的框架。如同真实的建造房屋一般</p>
 <figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 第一项</span><br>	**文档分类<br>		<br>		<br><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
 
-]]></content>
-  </entry>
-  <entry>
-    <title>I009-DoOneThingAtaTime</title>
-    <url>/2021/08/08/I009-DoOneThingAtaTime/</url>
-    <content><![CDATA[<h4 id="绝对专注原则"><a href="#绝对专注原则" class="headerlink" title="绝对专注原则"></a>绝对专注原则</h4><p>在一段时间内只做一件事，并且做好这一件事</p>
-<p>如果不得不开始做其他的事情，那么其他的事情也是为当前正在进行的这一件事作为补充以及辅助。</p>
 ]]></content>
   </entry>
   <entry>
@@ -1485,6 +1485,20 @@
     <url>/2021/08/14/I013-%E5%88%9B%E9%80%A0%E5%8A%9B%E8%87%AA%E6%88%91%E8%A7%82%E5%AF%9F/</url>
     <content><![CDATA[<h4 id="自我观察描述"><a href="#自我观察描述" class="headerlink" title="自我观察描述"></a>自我观察描述</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs SH"><span class="hljs-comment">## 在大脑接受到一段时间的高强度压力之后，迸发出了很多全新的令人拍案叫绝的想法！</span><br>	**2021年8月14日16点09分：企鹅君在接受下午两小时高数的打压之后，迸发了伟大的灵感&gt;&gt;解决人类信息交流传递的关键问题<br>	**天气：阴雨<br>	**光线：中度照明，窗帘左二分之一，右三分之一<br>	**桌面：纸张混乱而有序，色彩多样，有一株不是很茂盛的绿萝<br>	<br>	<br></code></pre></td></tr></table></figure>
 
+]]></content>
+  </entry>
+  <entry>
+    <title>I014-不可停止</title>
+    <url>/2021/08/20/I014-%E4%B8%8D%E5%8F%AF%E5%81%9C%E6%AD%A2/</url>
+    <content><![CDATA[<h4 id="永不止步"><a href="#永不止步" class="headerlink" title="永不止步"></a>永不止步</h4><p>只要你看到了前进的规律是不变的，就没有什么可以阻挡你的脚步。</p>
+<p>case1：高三时因为肺结核，即外界因素，阻挡了你继续学习的脚步</p>
+<p>case2：大学因为学校条件限制，即外界因素，阻挡了你继续接受高质量的教育</p>
+<p>case3：因为周围的各种条件，阻挡了你对世界的继续探索，并且抹杀了你很多的好奇心</p>
+<p>而事实上，这些所有的东西都不应该也不能成为阻挡你前进的障碍，你仅仅需要在思想上简单的跨国他们，然后继续保持热爱和探索。</p>
+<p>case4：即使这次考研失利，你也不应该也不能停止学习的脚步，数学即大道，语言即小道，工作技能只是术，求术而废道，殆矣！</p>
+<p>正确的处理方式应该是遵循事物的规律，循序事物原先发展的方向，并且加以最大限度的努力，创造继续向前探索的条件。—&gt; 如继续接受最好的教育，保持探索。—&gt; 学堂在线、mooc、bilibili等等如此[耶鲁大学、哈佛大学、斯坦福大学、麻省理工]</p>
+<p>先有见识，然后有同等的付出。遵循事物的规律。</p>
+<p>换而言之，就算这次考研失利了，也要继续同步完成研究生阶段的规划与任务，最终达到能力，同时查漏补缺，数学弱就针对数学，英语弱就针对英语，对症下药，然后药到病除。</p>
 ]]></content>
   </entry>
   <entry>
@@ -1563,6 +1577,18 @@
       </tags>
   </entry>
   <entry>
+    <title>B001-菲尔-奈特</title>
+    <url>/2021/01/19/L001-%E8%8F%B2%E5%B0%94-%E5%A5%88%E7%89%B9/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>人物周刊</category>
+      </categories>
+      <tags>
+        <tag>人物周刊</tag>
+        <tag>菲尔-奈特</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R000-史蒂夫</title>
     <url>/2021/01/19/L000-%E5%8F%B2%E8%92%82%E5%A4%AB-%E4%B9%94%E5%B8%83%E6%96%AF/</url>
     <content><![CDATA[<h4 id="偏执而又情感丰富的艺术家"><a href="#偏执而又情感丰富的艺术家" class="headerlink" title="偏执而又情感丰富的艺术家"></a>偏执而又情感丰富的艺术家</h4><hr>
@@ -1573,18 +1599,6 @@
       <tags>
         <tag>人物周刊</tag>
         <tag>乔布斯</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>B001-菲尔-奈特</title>
-    <url>/2021/01/19/L001-%E8%8F%B2%E5%B0%94-%E5%A5%88%E7%89%B9/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>人物周刊</category>
-      </categories>
-      <tags>
-        <tag>人物周刊</tag>
-        <tag>菲尔-奈特</tag>
       </tags>
   </entry>
   <entry>
@@ -2110,6 +2124,24 @@
       </tags>
   </entry>
   <entry>
+    <title>R005-涅槃计划</title>
+    <url>/2020/12/16/R005-%E6%B6%85%E6%A7%83%E8%AE%A1%E5%88%92/</url>
+    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight asciidoc"><table><tr><td class="code"><pre><code class="hljs asciidoc">将考研计划命名为涅槃[Nirvana action]<br><br><span class="hljs-bullet">** </span>做好打持久战的准备<br><span class="hljs-bullet">** </span><br><span class="hljs-bullet">** </span>即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br><span class="hljs-bullet">** </span>预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书[历史、政治、经济、管理]-提升技能[语言、专业、生活、工作、学习]-以学代练，以练促学[项目形式记录]<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>考研安排</tag>
+        <tag>思维导图</tag>
+        <tag>考研索引</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R006-组成原理笔记</title>
     <url>/2020/12/16/R006-%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h4 id="实验模块"><a href="#实验模块" class="headerlink" title="实验模块"></a>实验模块</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## ROM<br><br>## RAM<br><br>## GPRs<br><br>## ALU<br></code></pre></td></tr></table></figure>
@@ -2126,24 +2158,6 @@
         <tag>RI-CPU</tag>
         <tag>计算机组成原理</tag>
         <tag>MIPS指令实现</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R005-涅槃计划</title>
-    <url>/2020/12/16/R005-%E6%B6%85%E6%A7%83%E8%AE%A1%E5%88%92/</url>
-    <content><![CDATA[<h4 id="可以参考的时间表"><a href="#可以参考的时间表" class="headerlink" title="可以参考的时间表"></a>可以参考的时间表</h4><figure class="highlight awk"><table><tr><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//mm</span>.edrawsoft.cn<span class="hljs-regexp">/template/</span><span class="hljs-number">1844</span><br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="涅槃计划"><a href="#涅槃计划" class="headerlink" title="涅槃计划"></a>涅槃计划</h4><figure class="highlight asciidoc"><table><tr><td class="code"><pre><code class="hljs asciidoc">将考研计划命名为涅槃[Nirvana action]<br><br><span class="hljs-bullet">** </span>做好打持久战的准备<br><span class="hljs-bullet">** </span><br><span class="hljs-bullet">** </span>即使浴火未能重生，变成了灰烬 -- &gt; 也有再来的机会<br><span class="hljs-bullet">** </span>预期两年的备考过程中，不断打好自己的基础知识，做好行动记录 --&gt; 不断升华自己的灵魂 与 对世界的认识 --&gt; <br>--&gt; 博览群书[历史、政治、经济、管理]-提升技能[语言、专业、生活、工作、学习]-以学代练，以练促学[项目形式记录]<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>考研安排</tag>
-        <tag>思维导图</tag>
-        <tag>考研索引</tag>
       </tags>
   </entry>
   <entry>
@@ -3250,223 +3264,41 @@
       </tags>
   </entry>
   <entry>
-    <title>R033-考研单词L2</title>
-    <url>/2021/01/03/R033-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL2/</url>
-    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
+    <title>R031-假期项目安排</title>
+    <url>/2021/01/03/R031-%E5%81%87%E6%9C%9F%E9%A1%B9%E7%9B%AE%E5%AE%89%E6%8E%92/</url>
+    <content><![CDATA[<h4 id="一个大胆的计划"><a href="#一个大胆的计划" class="headerlink" title="一个大胆的计划"></a>一个大胆的计划</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 设计艺术品，美在逻辑中</span><br>	** 如何设计一个完美的艺术品是非常考验专业素养、世界观、审美观、价值观的<br>	** <br>	<br><span class="hljs-comment">## 做什么？</span><br>	** 一个个人管理系统：经历管理，让用户看见自己的成长与变化 - 认清楚这个世界<br>	** 经历当中包含了很多信息-将这些信息提取分类出来：这是一个只用于回顾，然后帮助用户提高工作效率的系统。<br>	** 基础功能：用户创建一篇文章，自动加入文章配置[文章标题、背景图片]，写作结束后提取出关键字作为文章标签，根据文章回顾次数动态分配文章经验[经验用于段位和等级的增长]<br></code></pre></td></tr></table></figure>
 
-<hr>
-<table>
-<thead>
-<tr>
-<th>supersensitive</th>
-<th></th>
-<th>profess</th>
-<th></th>
-<th>precocious</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>supercharge</td>
-<td></td>
-<td>prodigious</td>
-<td></td>
-<td>predict</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudo</td>
-<td></td>
-<td>proclivity</td>
-<td></td>
-<td>predisposition</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudonym</td>
-<td></td>
-<td>procure</td>
-<td></td>
-<td>preoccupation</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudoscience</td>
-<td></td>
-<td>prominent</td>
-<td></td>
-<td>prescient</td>
-<td></td>
-</tr>
-<tr>
-<td>pseudograph</td>
-<td></td>
-<td>prosecute</td>
-<td></td>
-<td>prerogative</td>
-<td></td>
-</tr>
-<tr>
-<td>pro-American</td>
-<td></td>
-<td>prospect</td>
-<td></td>
-<td>postage</td>
-<td></td>
-</tr>
-<tr>
-<td>proslavery</td>
-<td></td>
-<td>provident</td>
-<td></td>
-<td>postoffice</td>
-<td></td>
-</tr>
-<tr>
-<td>proabortionist</td>
-<td></td>
-<td>provoke</td>
-<td></td>
-<td>postcard</td>
-<td></td>
-</tr>
-<tr>
-<td>procrastinate</td>
-<td></td>
-<td>preschool</td>
-<td></td>
-<td>postal</td>
-<td></td>
-</tr>
-<tr>
-<td>procreate</td>
-<td></td>
-<td>prehistory</td>
-<td></td>
-<td>postwar</td>
-<td></td>
-</tr>
-<tr>
-<td>profligate</td>
-<td></td>
-<td>prefix</td>
-<td></td>
-<td>postpone</td>
-<td></td>
-</tr>
-<tr>
-<td>proliferate</td>
-<td></td>
-<td>preposition</td>
-<td></td>
-<td>postgraduate</td>
-<td></td>
-</tr>
-<tr>
-<td>profit</td>
-<td></td>
-<td>prepay</td>
-<td></td>
-<td>postface</td>
-<td></td>
-</tr>
-<tr>
-<td>profuse</td>
-<td></td>
-<td>prebuilt</td>
-<td></td>
-<td>posterior</td>
-<td></td>
-</tr>
-<tr>
-<td>prolific</td>
-<td></td>
-<td>preamble</td>
-<td></td>
-<td>polyandry</td>
-<td></td>
-</tr>
-<tr>
-<td>prosperous</td>
-<td></td>
-<td>precaution</td>
-<td></td>
-<td>polyglot</td>
-<td></td>
-</tr>
-<tr>
-<td>progress</td>
-<td></td>
-<td>precede</td>
-<td></td>
-<td>polyfunctional</td>
-<td></td>
-</tr>
-<tr>
-<td>project</td>
-<td></td>
-<td>precedent</td>
-<td></td>
-<td>perigon</td>
-<td></td>
-</tr>
-<tr>
-<td>prologue</td>
-<td></td>
-<td>precept</td>
-<td></td>
-<td>perimeter</td>
-<td></td>
-</tr>
-<tr>
-<td>promote</td>
-<td></td>
-<td>precinct</td>
-<td></td>
-<td>periphery</td>
-<td></td>
-</tr>
-<tr>
-<td>protrude</td>
-<td></td>
-<td>precipice</td>
-<td></td>
-<td>perfidy</td>
-<td></td>
-</tr>
-<tr>
-<td>propel</td>
-<td></td>
-<td>precipitation</td>
-<td></td>
-<td>perjury</td>
-<td></td>
-</tr>
-<tr>
-<td>proficient</td>
-<td></td>
-<td>precise</td>
-<td></td>
-<td>perfunctory</td>
-<td></td>
-</tr>
-<tr>
-<td>profile</td>
-<td></td>
-<td>preclude</td>
-<td></td>
-<td>perpetrate</td>
-<td></td>
-</tr>
-</tbody></table>
+
+
+<h4 id="团队的组建"><a href="#团队的组建" class="headerlink" title="团队的组建"></a>团队的组建</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一个团队的用人标准不是智商有多高，而是能对团队产生多少贡献</span><br>	** 最好属于成就导向，有源源不断的动力，如果不是，那么就引导他成为成就导向型<br>	** 服从管理，服从是军人的天职，也是团队高效协作的必要条件<br>	** 能够分清楚事情的轻重缓急，不会因为杂念阻碍核心任务的跟进<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="假期更新hziee-cs-stack"><a href="#假期更新hziee-cs-stack" class="headerlink" title="假期更新hziee_cs_stack"></a>假期更新hziee_cs_stack</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将一年级上册和三年级上册的大部份资料整理发布</span><br>	** 养成好的习惯<br>	** 不懂就写，写清楚了问题就解决了<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="产品设计"><a href="#产品设计" class="headerlink" title="产品设计"></a>产品设计</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 这里可能要设计更多的专业知识</span><br>	** 比如 美术、音乐、地理、历史、生物、数学、物理、化学、神学等等<br>	** 当然更多的是应该分析成功产品的设计案例，多维度研究分析、最好能够复盘<br>	<br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="整理自己的大学经历"><a href="#整理自己的大学经历" class="headerlink" title="整理自己的大学经历"></a>整理自己的大学经历</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 个人学习情况的总结绘制</span><br>	** 专业课程<br>	** 习惯培养<br>	** 思维方式<br>	** 神学入门<br>	<br><span class="hljs-comment">## 个人成就的总结绘制</span><br>	** 准确表达<br>	** 领导能力<br>    ** 荣誉经历<br>    ** 写作能力<br>	<br><span class="hljs-comment">## 个人愿景的总结绘制</span><br>	** 数据分析<br>	** 人工智能<br>	** 操作系统<br>	** 数学建模<br>	** VR公司、产品<br>	** 艺术家<br></code></pre></td></tr></table></figure>
+
+
+
 ]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
       <tags>
-        <tag>英语单词</tag>
-        <tag>考研英语</tag>
+        <tag>假期安排</tag>
+        <tag>产品设计</tag>
+        <tag>团队管理</tag>
       </tags>
   </entry>
   <entry>
@@ -3739,41 +3571,223 @@
       </tags>
   </entry>
   <entry>
-    <title>R031-假期项目安排</title>
-    <url>/2021/01/03/R031-%E5%81%87%E6%9C%9F%E9%A1%B9%E7%9B%AE%E5%AE%89%E6%8E%92/</url>
-    <content><![CDATA[<h4 id="一个大胆的计划"><a href="#一个大胆的计划" class="headerlink" title="一个大胆的计划"></a>一个大胆的计划</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 设计艺术品，美在逻辑中</span><br>	** 如何设计一个完美的艺术品是非常考验专业素养、世界观、审美观、价值观的<br>	** <br>	<br><span class="hljs-comment">## 做什么？</span><br>	** 一个个人管理系统：经历管理，让用户看见自己的成长与变化 - 认清楚这个世界<br>	** 经历当中包含了很多信息-将这些信息提取分类出来：这是一个只用于回顾，然后帮助用户提高工作效率的系统。<br>	** 基础功能：用户创建一篇文章，自动加入文章配置[文章标题、背景图片]，写作结束后提取出关键字作为文章标签，根据文章回顾次数动态分配文章经验[经验用于段位和等级的增长]<br></code></pre></td></tr></table></figure>
+    <title>R033-考研单词L2</title>
+    <url>/2021/01/03/R033-%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8DL2/</url>
+    <content><![CDATA[<h4 id="梅花开尽百花开"><a href="#梅花开尽百花开" class="headerlink" title="梅花开尽百花开"></a>梅花开尽百花开</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 以考核的方式背单词，加深记忆</span><br><br>	**打印单词表格-默写中英文意义<br></code></pre></td></tr></table></figure>
 
-
-
-<h4 id="团队的组建"><a href="#团队的组建" class="headerlink" title="团队的组建"></a>团队的组建</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一个团队的用人标准不是智商有多高，而是能对团队产生多少贡献</span><br>	** 最好属于成就导向，有源源不断的动力，如果不是，那么就引导他成为成就导向型<br>	** 服从管理，服从是军人的天职，也是团队高效协作的必要条件<br>	** 能够分清楚事情的轻重缓急，不会因为杂念阻碍核心任务的跟进<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="假期更新hziee-cs-stack"><a href="#假期更新hziee-cs-stack" class="headerlink" title="假期更新hziee_cs_stack"></a>假期更新hziee_cs_stack</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 将一年级上册和三年级上册的大部份资料整理发布</span><br>	** 养成好的习惯<br>	** 不懂就写，写清楚了问题就解决了<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="产品设计"><a href="#产品设计" class="headerlink" title="产品设计"></a>产品设计</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 这里可能要设计更多的专业知识</span><br>	** 比如 美术、音乐、地理、历史、生物、数学、物理、化学、神学等等<br>	** 当然更多的是应该分析成功产品的设计案例，多维度研究分析、最好能够复盘<br>	<br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="整理自己的大学经历"><a href="#整理自己的大学经历" class="headerlink" title="整理自己的大学经历"></a>整理自己的大学经历</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 个人学习情况的总结绘制</span><br>	** 专业课程<br>	** 习惯培养<br>	** 思维方式<br>	** 神学入门<br>	<br><span class="hljs-comment">## 个人成就的总结绘制</span><br>	** 准确表达<br>	** 领导能力<br>    ** 荣誉经历<br>    ** 写作能力<br>	<br><span class="hljs-comment">## 个人愿景的总结绘制</span><br>	** 数据分析<br>	** 人工智能<br>	** 操作系统<br>	** 数学建模<br>	** VR公司、产品<br>	** 艺术家<br></code></pre></td></tr></table></figure>
-
-
-
+<hr>
+<table>
+<thead>
+<tr>
+<th>supersensitive</th>
+<th></th>
+<th>profess</th>
+<th></th>
+<th>precocious</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>supercharge</td>
+<td></td>
+<td>prodigious</td>
+<td></td>
+<td>predict</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudo</td>
+<td></td>
+<td>proclivity</td>
+<td></td>
+<td>predisposition</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudonym</td>
+<td></td>
+<td>procure</td>
+<td></td>
+<td>preoccupation</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudoscience</td>
+<td></td>
+<td>prominent</td>
+<td></td>
+<td>prescient</td>
+<td></td>
+</tr>
+<tr>
+<td>pseudograph</td>
+<td></td>
+<td>prosecute</td>
+<td></td>
+<td>prerogative</td>
+<td></td>
+</tr>
+<tr>
+<td>pro-American</td>
+<td></td>
+<td>prospect</td>
+<td></td>
+<td>postage</td>
+<td></td>
+</tr>
+<tr>
+<td>proslavery</td>
+<td></td>
+<td>provident</td>
+<td></td>
+<td>postoffice</td>
+<td></td>
+</tr>
+<tr>
+<td>proabortionist</td>
+<td></td>
+<td>provoke</td>
+<td></td>
+<td>postcard</td>
+<td></td>
+</tr>
+<tr>
+<td>procrastinate</td>
+<td></td>
+<td>preschool</td>
+<td></td>
+<td>postal</td>
+<td></td>
+</tr>
+<tr>
+<td>procreate</td>
+<td></td>
+<td>prehistory</td>
+<td></td>
+<td>postwar</td>
+<td></td>
+</tr>
+<tr>
+<td>profligate</td>
+<td></td>
+<td>prefix</td>
+<td></td>
+<td>postpone</td>
+<td></td>
+</tr>
+<tr>
+<td>proliferate</td>
+<td></td>
+<td>preposition</td>
+<td></td>
+<td>postgraduate</td>
+<td></td>
+</tr>
+<tr>
+<td>profit</td>
+<td></td>
+<td>prepay</td>
+<td></td>
+<td>postface</td>
+<td></td>
+</tr>
+<tr>
+<td>profuse</td>
+<td></td>
+<td>prebuilt</td>
+<td></td>
+<td>posterior</td>
+<td></td>
+</tr>
+<tr>
+<td>prolific</td>
+<td></td>
+<td>preamble</td>
+<td></td>
+<td>polyandry</td>
+<td></td>
+</tr>
+<tr>
+<td>prosperous</td>
+<td></td>
+<td>precaution</td>
+<td></td>
+<td>polyglot</td>
+<td></td>
+</tr>
+<tr>
+<td>progress</td>
+<td></td>
+<td>precede</td>
+<td></td>
+<td>polyfunctional</td>
+<td></td>
+</tr>
+<tr>
+<td>project</td>
+<td></td>
+<td>precedent</td>
+<td></td>
+<td>perigon</td>
+<td></td>
+</tr>
+<tr>
+<td>prologue</td>
+<td></td>
+<td>precept</td>
+<td></td>
+<td>perimeter</td>
+<td></td>
+</tr>
+<tr>
+<td>promote</td>
+<td></td>
+<td>precinct</td>
+<td></td>
+<td>periphery</td>
+<td></td>
+</tr>
+<tr>
+<td>protrude</td>
+<td></td>
+<td>precipice</td>
+<td></td>
+<td>perfidy</td>
+<td></td>
+</tr>
+<tr>
+<td>propel</td>
+<td></td>
+<td>precipitation</td>
+<td></td>
+<td>perjury</td>
+<td></td>
+</tr>
+<tr>
+<td>proficient</td>
+<td></td>
+<td>precise</td>
+<td></td>
+<td>perfunctory</td>
+<td></td>
+</tr>
+<tr>
+<td>profile</td>
+<td></td>
+<td>preclude</td>
+<td></td>
+<td>perpetrate</td>
+<td></td>
+</tr>
+</tbody></table>
 ]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
       <tags>
-        <tag>假期安排</tag>
-        <tag>产品设计</tag>
-        <tag>团队管理</tag>
+        <tag>英语单词</tag>
+        <tag>考研英语</tag>
       </tags>
   </entry>
   <entry>
@@ -10209,6 +10223,890 @@
 ]]></content>
   </entry>
   <entry>
+    <title>R080-topwords-L12</title>
+    <url>/2021/03/26/R080-topwords-L12/</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th>单词</th>
+<th>词性1</th>
+<th>译文1</th>
+<th>词性2</th>
+<th>译文2</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>dependent</td>
+<td>a</td>
+<td>依靠的；依赖的</td>
+<td>n</td>
+<td>受抚养者</td>
+</tr>
+<tr>
+<td>independent</td>
+<td>a</td>
+<td>独立自主的，不受约束的</td>
+<td>n</td>
+<td>中立派</td>
+</tr>
+<tr>
+<td>reliant</td>
+<td>a</td>
+<td>依靠的，依赖的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>extreme</td>
+<td>n</td>
+<td>极端，极度</td>
+<td>a</td>
+<td>极度的，极端的</td>
+</tr>
+<tr>
+<td>extremely</td>
+<td>ad</td>
+<td>极端地</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ultimate</td>
+<td>a</td>
+<td>最后的，极端的，最好的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>utmost</td>
+<td>a</td>
+<td>极度的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>radical</td>
+<td>a</td>
+<td>根本的，彻底的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>imply</td>
+<td>v</td>
+<td>暗指，意指</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>simply</td>
+<td>ad</td>
+<td>简朴地，非常</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>indicate</td>
+<td>v</td>
+<td>表明，暗示</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>infer</td>
+<td>v</td>
+<td>暗示</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>exhibit</td>
+<td>v</td>
+<td>表现，展示</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>exhibition</td>
+<td>n</td>
+<td>展示，展览</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>expose to</td>
+<td></td>
+<td>暴露于</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>array</td>
+<td>n</td>
+<td>一大群</td>
+<td>v</td>
+<td>布置，排列</td>
+</tr>
+<tr>
+<td>eventually</td>
+<td>ad</td>
+<td>最终，最后</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>prevent</td>
+<td>v</td>
+<td>预防</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>finally</td>
+<td>ad</td>
+<td>最后，终于</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ultimately</td>
+<td>ad</td>
+<td>最后，最终</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>label</td>
+<td>v</td>
+<td>把……称为</td>
+<td>n</td>
+<td>标签</td>
+</tr>
+<tr>
+<td>tag</td>
+<td>n</td>
+<td>标签</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>brand</td>
+<td>n</td>
+<td>品牌</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>designate</td>
+<td>v</td>
+<td>指定，标示</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>psychology</td>
+<td>n</td>
+<td>心理学</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>typical</td>
+<td>a</td>
+<td>典型的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>typically</td>
+<td>ad</td>
+<td>典型地</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>sample</td>
+<td>n</td>
+<td>样本</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>various</td>
+<td>a</td>
+<td>不同的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>vary</td>
+<td>v</td>
+<td>不同，改变</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>variety</td>
+<td>n</td>
+<td>种类，多种多样</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>variation</td>
+<td>n</td>
+<td>变化</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>familiar</td>
+<td>a</td>
+<td>熟悉的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>unfamiliar</td>
+<td>a</td>
+<td>不熟悉的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>be familiar with</td>
+<td></td>
+<td>熟练，精通</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>be proficient in</td>
+<td></td>
+<td>精通</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>be adept at</td>
+<td></td>
+<td>擅长，精于</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>intimate</td>
+<td>a</td>
+<td>亲密的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>shift</td>
+<td>v</td>
+<td>转移，替换</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>downshift</td>
+<td>v</td>
+<td>降档，放慢生活节奏</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>transfer</td>
+<td>v</td>
+<td>使转移</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>alter</td>
+<td>v</td>
+<td>改变</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>transform</td>
+<td>v</td>
+<td>改变</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>nevertheless</td>
+<td>co</td>
+<td>然而，不过，尽管如此</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>though</td>
+<td>co</td>
+<td>尽管，虽然</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>radical</td>
+<td>a</td>
+<td>基本的，彻底的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>radically</td>
+<td>ad</td>
+<td>根本地，彻底地</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>sufficient</td>
+<td>a</td>
+<td>足够的，充分的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>adequate</td>
+<td>a</td>
+<td>足够的，适当的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>affluent</td>
+<td>a</td>
+<td>富足的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>abundant</td>
+<td>a</td>
+<td>大量的，充足的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ample</td>
+<td>a</td>
+<td>足够的，充足的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>extent</td>
+<td>n</td>
+<td>广度，长度，宽度</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>extension</td>
+<td>n</td>
+<td>延长，扩展</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>extend</td>
+<td>v</td>
+<td>延长，推广</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>extended</td>
+<td>a</td>
+<td>延长的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>extensive</td>
+<td>a</td>
+<td>广泛的，大量的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>to some extent</td>
+<td></td>
+<td>在一定程度上</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>guarantee</td>
+<td>n</td>
+<td>保证，担保</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>guaranteed</td>
+<td>a</td>
+<td>有保证的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pledge</td>
+<td>n</td>
+<td>保证，誓言</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>convention</td>
+<td>n</td>
+<td>大会，会议</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>conventional</td>
+<td>a</td>
+<td>传统的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>unconventional</td>
+<td>a</td>
+<td>非传统的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>expectation</td>
+<td>n</td>
+<td>预期，期望</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>expect</td>
+<td>v</td>
+<td>期望</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>unexpected</td>
+<td>a</td>
+<td>意外的，想不到的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>expectancy</td>
+<td>n</td>
+<td>期待，期望</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>meet the expectation</td>
+<td></td>
+<td>达到预期</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>dim</td>
+<td>a</td>
+<td>昏暗的，暗淡的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>acceptance</td>
+<td>n</td>
+<td>容忍，接受</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>clothe</td>
+<td>v</td>
+<td>为……提供衣服</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>clothes</td>
+<td>n</td>
+<td>衣服</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>lure</td>
+<td>n</td>
+<td>魅力，诱惑力</td>
+<td>v</td>
+<td>诱惑</td>
+</tr>
+<tr>
+<td>marine</td>
+<td>a</td>
+<td>海洋的，海运的</td>
+<td>n</td>
+<td>水兵</td>
+</tr>
+<tr>
+<td>norm</td>
+<td>a</td>
+<td>标准，规范</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>numerous</td>
+<td>a</td>
+<td>众多的，许多的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>numerical</td>
+<td>a</td>
+<td>数字的，数值的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>orchestra</td>
+<td>n</td>
+<td>管弦乐队</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>privacy</td>
+<td>n</td>
+<td>隐私，清净</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>illusion</td>
+<td>n</td>
+<td>错觉，假象</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>illustrate</td>
+<td>v</td>
+<td>说明，表明</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pursue</td>
+<td>v</td>
+<td>追求，实行</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>insist</td>
+<td>v</td>
+<td>坚持，强调</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>insistence</td>
+<td>n</td>
+<td>坚持，强调</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>consist in</td>
+<td></td>
+<td>存在于……中</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>consist of</td>
+<td></td>
+<td>由……组成</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>persist</td>
+<td>v</td>
+<td>坚持</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>persevere</td>
+<td>v</td>
+<td>坚持不懈</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>uphold</td>
+<td>v</td>
+<td>支持，维持</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>previous</td>
+<td>a</td>
+<td>以前的，早先的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>previously</td>
+<td>ad</td>
+<td>以前，先前</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>primary</td>
+<td>a</td>
+<td>首要的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>primitive</td>
+<td>a</td>
+<td>原始的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>prior</td>
+<td>a</td>
+<td>在先的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>release</td>
+<td>v</td>
+<td>释放，发布</td>
+<td>n</td>
+<td>发表，发布</td>
+</tr>
+<tr>
+<td>publish</td>
+<td>v</td>
+<td>出版，发行</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>deliver</td>
+<td>v</td>
+<td>发表，递送</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>announce</td>
+<td>v</td>
+<td>宣布</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>remind</td>
+<td>v</td>
+<td>提醒</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>reminder</td>
+<td>n</td>
+<td>暗示，催单</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>remind sb. Of</td>
+<td></td>
+<td>提醒……</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>temporary</td>
+<td>a</td>
+<td>临时的，暂时的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>chronic</td>
+<td>a</td>
+<td>慢性的，长期的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>whereas</td>
+<td>co</td>
+<td>而，反之</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>elsewhere</td>
+<td>ad</td>
+<td>在别处，去别处</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>wise</td>
+<td>a</td>
+<td>聪敏的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>otherwise</td>
+<td>ad</td>
+<td>否则</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>likewise</td>
+<td>ad</td>
+<td>同样地</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>wisely</td>
+<td>ad</td>
+<td>聪明地，明智地</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>prudent</td>
+<td>a</td>
+<td>谨慎的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>acknowledge</td>
+<td>v</td>
+<td>承认</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>knowledgeable</td>
+<td>a</td>
+<td>知识渊博的，有知识的</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>announce</td>
+<td>v</td>
+<td>宣布</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>announcement</td>
+<td>n</td>
+<td>宣告</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>declare</td>
+<td>v</td>
+<td>宣布</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>claim</td>
+<td>v</td>
+<td>声称，断言</td>
+<td>n</td>
+<td>主张</td>
+</tr>
+<tr>
+<td>proclaim</td>
+<td>v</td>
+<td>宣告</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>combine</td>
+<td>v</td>
+<td>结合，联合</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>combat</td>
+<td>n</td>
+<td>战斗</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>combine with</td>
+<td></td>
+<td>与……联合</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>integrate</td>
+<td>v</td>
+<td>使一体化</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>merge</td>
+<td>v</td>
+<td>混合</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>enormous</td>
+<td>a</td>
+<td>巨大的</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
     <title>R081-topwords-AN</title>
     <url>/2021/03/26/R081-topwords-AN/</url>
     <content><![CDATA[<table>
@@ -11128,890 +12026,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>R080-topwords-L12</title>
-    <url>/2021/03/26/R080-topwords-L12/</url>
-    <content><![CDATA[<table>
-<thead>
-<tr>
-<th>单词</th>
-<th>词性1</th>
-<th>译文1</th>
-<th>词性2</th>
-<th>译文2</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>dependent</td>
-<td>a</td>
-<td>依靠的；依赖的</td>
-<td>n</td>
-<td>受抚养者</td>
-</tr>
-<tr>
-<td>independent</td>
-<td>a</td>
-<td>独立自主的，不受约束的</td>
-<td>n</td>
-<td>中立派</td>
-</tr>
-<tr>
-<td>reliant</td>
-<td>a</td>
-<td>依靠的，依赖的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>extreme</td>
-<td>n</td>
-<td>极端，极度</td>
-<td>a</td>
-<td>极度的，极端的</td>
-</tr>
-<tr>
-<td>extremely</td>
-<td>ad</td>
-<td>极端地</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ultimate</td>
-<td>a</td>
-<td>最后的，极端的，最好的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>utmost</td>
-<td>a</td>
-<td>极度的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>radical</td>
-<td>a</td>
-<td>根本的，彻底的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>imply</td>
-<td>v</td>
-<td>暗指，意指</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>simply</td>
-<td>ad</td>
-<td>简朴地，非常</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>indicate</td>
-<td>v</td>
-<td>表明，暗示</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>infer</td>
-<td>v</td>
-<td>暗示</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>exhibit</td>
-<td>v</td>
-<td>表现，展示</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>exhibition</td>
-<td>n</td>
-<td>展示，展览</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>expose to</td>
-<td></td>
-<td>暴露于</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>array</td>
-<td>n</td>
-<td>一大群</td>
-<td>v</td>
-<td>布置，排列</td>
-</tr>
-<tr>
-<td>eventually</td>
-<td>ad</td>
-<td>最终，最后</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>prevent</td>
-<td>v</td>
-<td>预防</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>finally</td>
-<td>ad</td>
-<td>最后，终于</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ultimately</td>
-<td>ad</td>
-<td>最后，最终</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>label</td>
-<td>v</td>
-<td>把……称为</td>
-<td>n</td>
-<td>标签</td>
-</tr>
-<tr>
-<td>tag</td>
-<td>n</td>
-<td>标签</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>brand</td>
-<td>n</td>
-<td>品牌</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>designate</td>
-<td>v</td>
-<td>指定，标示</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>psychology</td>
-<td>n</td>
-<td>心理学</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>typical</td>
-<td>a</td>
-<td>典型的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>typically</td>
-<td>ad</td>
-<td>典型地</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>sample</td>
-<td>n</td>
-<td>样本</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>various</td>
-<td>a</td>
-<td>不同的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>vary</td>
-<td>v</td>
-<td>不同，改变</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>variety</td>
-<td>n</td>
-<td>种类，多种多样</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>variation</td>
-<td>n</td>
-<td>变化</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>familiar</td>
-<td>a</td>
-<td>熟悉的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>unfamiliar</td>
-<td>a</td>
-<td>不熟悉的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>be familiar with</td>
-<td></td>
-<td>熟练，精通</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>be proficient in</td>
-<td></td>
-<td>精通</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>be adept at</td>
-<td></td>
-<td>擅长，精于</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>intimate</td>
-<td>a</td>
-<td>亲密的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>shift</td>
-<td>v</td>
-<td>转移，替换</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>downshift</td>
-<td>v</td>
-<td>降档，放慢生活节奏</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>transfer</td>
-<td>v</td>
-<td>使转移</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>alter</td>
-<td>v</td>
-<td>改变</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>transform</td>
-<td>v</td>
-<td>改变</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>nevertheless</td>
-<td>co</td>
-<td>然而，不过，尽管如此</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>though</td>
-<td>co</td>
-<td>尽管，虽然</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>radical</td>
-<td>a</td>
-<td>基本的，彻底的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>radically</td>
-<td>ad</td>
-<td>根本地，彻底地</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>sufficient</td>
-<td>a</td>
-<td>足够的，充分的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>adequate</td>
-<td>a</td>
-<td>足够的，适当的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>affluent</td>
-<td>a</td>
-<td>富足的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>abundant</td>
-<td>a</td>
-<td>大量的，充足的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>ample</td>
-<td>a</td>
-<td>足够的，充足的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>extent</td>
-<td>n</td>
-<td>广度，长度，宽度</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>extension</td>
-<td>n</td>
-<td>延长，扩展</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>extend</td>
-<td>v</td>
-<td>延长，推广</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>extended</td>
-<td>a</td>
-<td>延长的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>extensive</td>
-<td>a</td>
-<td>广泛的，大量的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>to some extent</td>
-<td></td>
-<td>在一定程度上</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>guarantee</td>
-<td>n</td>
-<td>保证，担保</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>guaranteed</td>
-<td>a</td>
-<td>有保证的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>pledge</td>
-<td>n</td>
-<td>保证，誓言</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>convention</td>
-<td>n</td>
-<td>大会，会议</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>conventional</td>
-<td>a</td>
-<td>传统的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>unconventional</td>
-<td>a</td>
-<td>非传统的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>expectation</td>
-<td>n</td>
-<td>预期，期望</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>expect</td>
-<td>v</td>
-<td>期望</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>unexpected</td>
-<td>a</td>
-<td>意外的，想不到的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>expectancy</td>
-<td>n</td>
-<td>期待，期望</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>meet the expectation</td>
-<td></td>
-<td>达到预期</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>dim</td>
-<td>a</td>
-<td>昏暗的，暗淡的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>acceptance</td>
-<td>n</td>
-<td>容忍，接受</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>clothe</td>
-<td>v</td>
-<td>为……提供衣服</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>clothes</td>
-<td>n</td>
-<td>衣服</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>lure</td>
-<td>n</td>
-<td>魅力，诱惑力</td>
-<td>v</td>
-<td>诱惑</td>
-</tr>
-<tr>
-<td>marine</td>
-<td>a</td>
-<td>海洋的，海运的</td>
-<td>n</td>
-<td>水兵</td>
-</tr>
-<tr>
-<td>norm</td>
-<td>a</td>
-<td>标准，规范</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>numerous</td>
-<td>a</td>
-<td>众多的，许多的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>numerical</td>
-<td>a</td>
-<td>数字的，数值的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>orchestra</td>
-<td>n</td>
-<td>管弦乐队</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>privacy</td>
-<td>n</td>
-<td>隐私，清净</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>illusion</td>
-<td>n</td>
-<td>错觉，假象</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>illustrate</td>
-<td>v</td>
-<td>说明，表明</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>pursue</td>
-<td>v</td>
-<td>追求，实行</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>insist</td>
-<td>v</td>
-<td>坚持，强调</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>insistence</td>
-<td>n</td>
-<td>坚持，强调</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>consist in</td>
-<td></td>
-<td>存在于……中</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>consist of</td>
-<td></td>
-<td>由……组成</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>persist</td>
-<td>v</td>
-<td>坚持</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>persevere</td>
-<td>v</td>
-<td>坚持不懈</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>uphold</td>
-<td>v</td>
-<td>支持，维持</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>previous</td>
-<td>a</td>
-<td>以前的，早先的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>previously</td>
-<td>ad</td>
-<td>以前，先前</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>primary</td>
-<td>a</td>
-<td>首要的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>primitive</td>
-<td>a</td>
-<td>原始的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>prior</td>
-<td>a</td>
-<td>在先的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>release</td>
-<td>v</td>
-<td>释放，发布</td>
-<td>n</td>
-<td>发表，发布</td>
-</tr>
-<tr>
-<td>publish</td>
-<td>v</td>
-<td>出版，发行</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>deliver</td>
-<td>v</td>
-<td>发表，递送</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>announce</td>
-<td>v</td>
-<td>宣布</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>remind</td>
-<td>v</td>
-<td>提醒</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>reminder</td>
-<td>n</td>
-<td>暗示，催单</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>remind sb. Of</td>
-<td></td>
-<td>提醒……</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>temporary</td>
-<td>a</td>
-<td>临时的，暂时的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>chronic</td>
-<td>a</td>
-<td>慢性的，长期的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>whereas</td>
-<td>co</td>
-<td>而，反之</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>elsewhere</td>
-<td>ad</td>
-<td>在别处，去别处</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>wise</td>
-<td>a</td>
-<td>聪敏的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>otherwise</td>
-<td>ad</td>
-<td>否则</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>likewise</td>
-<td>ad</td>
-<td>同样地</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>wisely</td>
-<td>ad</td>
-<td>聪明地，明智地</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>prudent</td>
-<td>a</td>
-<td>谨慎的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>acknowledge</td>
-<td>v</td>
-<td>承认</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>knowledgeable</td>
-<td>a</td>
-<td>知识渊博的，有知识的</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>announce</td>
-<td>v</td>
-<td>宣布</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>announcement</td>
-<td>n</td>
-<td>宣告</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>declare</td>
-<td>v</td>
-<td>宣布</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>claim</td>
-<td>v</td>
-<td>声称，断言</td>
-<td>n</td>
-<td>主张</td>
-</tr>
-<tr>
-<td>proclaim</td>
-<td>v</td>
-<td>宣告</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>combine</td>
-<td>v</td>
-<td>结合，联合</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>combat</td>
-<td>n</td>
-<td>战斗</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>combine with</td>
-<td></td>
-<td>与……联合</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>integrate</td>
-<td>v</td>
-<td>使一体化</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>merge</td>
-<td>v</td>
-<td>混合</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>enormous</td>
-<td>a</td>
-<td>巨大的</td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-]]></content>
-  </entry>
-  <entry>
     <title>R082-Ubuntu18-20网络故障</title>
     <url>/2021/03/27/R082-Ubuntu18-20%E7%BD%91%E7%BB%9C%E6%95%85%E9%9A%9C/</url>
     <content><![CDATA[<h4 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## linux系列的操作系统在VMware中使用时，网络连接标识显示问号</span><br><br><span class="hljs-comment">## 重启或者重装均无效，网络配置无效，同时，同样在虚拟机目录中的win10系列系统网络可以正常使用</span><br></code></pre></td></tr></table></figure>
@@ -12100,6 +12114,14 @@
 ]]></content>
   </entry>
   <entry>
+    <title>R086-门徒训练N108</title>
+    <url>/2021/04/13/R086-%E9%97%A8%E5%BE%92%E8%AE%AD%E7%BB%83N108/</url>
+    <content><![CDATA[<h4 id="与世界分别"><a href="#与世界分别" class="headerlink" title="与世界分别"></a>与世界分别</h4><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 回顾：</span><br>	**现在相比与开始之前灵修生活有什么变化？<br>	<br>	**能够抓紧机会<br>	<br><span class="hljs-comment">## 与世界分别</span><br>	[约翰一书 2：15-17]<br>	不要爱世界和世界上的事。人若爱世界，爱父的心就不在他里面了。因为，凡世界上的事，就像肉体的情欲、眼目的情欲，并今生的骄傲，都不是从父来的，乃是从世界来的。这世界和其上的情欲都要过去，唯有遵行神旨意的，是永远长存。<br>	<br>	**并不只是上面所讲的三件事情 [出了埃及的民]<br>    <br><span class="hljs-comment">## 为什么需要与世界分别？</span><br>	**神的呼召和命令<br>		--救恩的目的：事奉神<br>			==容我的百姓去，好事奉我<br>			[蒙恩的罪人，蒙爱的儿女，蒙道的祭司[终身在祂面前]]<br>			<br>		--圣徒生活的特质<br>			分别为圣的生活[五经的中心思想：归耶和华为圣]<br>			[我们是基督花重价买来的。]<br>	**真认识世界本质的必然结果<br>		--全世界都卧在那恶者的手下[它的工作就是偷窃、杀害、毁坏]<br>		<br>		--一个人不能事奉两个主<br>			==是否爱主？为什么不能爱祂？<br>			<br>		--永恒的透视<br>			==这个世界及其上的情欲都要过去<br>			==怎样能够对这个世界有正确的认识、正确的态度、正确的生活<br>			<br>		<br><span class="hljs-comment">## 与世界分别的生活原则</span><br>	**我们不属于这个世界<br>		<br>	**不要爱世界<br>		[约一]<br>		==老鹰的故事：<br>			飞了很久，看到一块浮冰可以休息。等到遇到瀑布时，发现双脚已经被冻住了。<br>	**不要效法这个世界/不要听从这个世界<br>		==约翰一书<br>	**要胜过世界，成为世上的光。<br>    	==罗马书8:35<br>    	<br>		<br><span class="hljs-comment">## 胜过世界的秘诀</span><br>	**信<br>		==约翰一书<br>		==腓3:8 - 我以认识我主耶稣基督为至宝<br>	**望<br>		==彼前<br>		==我们只是客旅<br>	**爱<br>		==主爱的激励与我们爱主的心<br>		==哥林多后书5<br>		==罗马书8<br><br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
     <title>R087-Selenium-IDEA自动化测试</title>
     <url>/2021/04/19/R087-Selenium-IDEA%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<h4 id="使用Selenium-IDEA进行自动化测试"><a href="#使用Selenium-IDEA进行自动化测试" class="headerlink" title="使用Selenium+IDEA进行自动化测试"></a>使用Selenium+IDEA进行自动化测试</h4><p>为了能够使用IDEA + Selenium进行自动化测试，查阅资料配置此环境进行软件测试（黑盒测试内容）</p>
@@ -12156,14 +12178,6 @@
     <url>/2021/08/11/R088-%E4%B8%BE%E6%AD%A5%E7%BB%B4%E8%89%B0/</url>
     <content><![CDATA[<h4 id="历经磨难"><a href="#历经磨难" class="headerlink" title="历经磨难"></a>历经磨难</h4><p>企鹅君在一公众号看到文章：名校学霸都是如何度过假期？</p>
 <p>你努力了一时就觉得疲惫不堪，而别人一直在付出从未有过怨言。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>R086-门徒训练N108</title>
-    <url>/2021/04/13/R086-%E9%97%A8%E5%BE%92%E8%AE%AD%E7%BB%83N108/</url>
-    <content><![CDATA[<h4 id="与世界分别"><a href="#与世界分别" class="headerlink" title="与世界分别"></a>与世界分别</h4><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 回顾：</span><br>	**现在相比与开始之前灵修生活有什么变化？<br>	<br>	**能够抓紧机会<br>	<br><span class="hljs-comment">## 与世界分别</span><br>	[约翰一书 2：15-17]<br>	不要爱世界和世界上的事。人若爱世界，爱父的心就不在他里面了。因为，凡世界上的事，就像肉体的情欲、眼目的情欲，并今生的骄傲，都不是从父来的，乃是从世界来的。这世界和其上的情欲都要过去，唯有遵行神旨意的，是永远长存。<br>	<br>	**并不只是上面所讲的三件事情 [出了埃及的民]<br>    <br><span class="hljs-comment">## 为什么需要与世界分别？</span><br>	**神的呼召和命令<br>		--救恩的目的：事奉神<br>			==容我的百姓去，好事奉我<br>			[蒙恩的罪人，蒙爱的儿女，蒙道的祭司[终身在祂面前]]<br>			<br>		--圣徒生活的特质<br>			分别为圣的生活[五经的中心思想：归耶和华为圣]<br>			[我们是基督花重价买来的。]<br>	**真认识世界本质的必然结果<br>		--全世界都卧在那恶者的手下[它的工作就是偷窃、杀害、毁坏]<br>		<br>		--一个人不能事奉两个主<br>			==是否爱主？为什么不能爱祂？<br>			<br>		--永恒的透视<br>			==这个世界及其上的情欲都要过去<br>			==怎样能够对这个世界有正确的认识、正确的态度、正确的生活<br>			<br>		<br><span class="hljs-comment">## 与世界分别的生活原则</span><br>	**我们不属于这个世界<br>		<br>	**不要爱世界<br>		[约一]<br>		==老鹰的故事：<br>			飞了很久，看到一块浮冰可以休息。等到遇到瀑布时，发现双脚已经被冻住了。<br>	**不要效法这个世界/不要听从这个世界<br>		==约翰一书<br>	**要胜过世界，成为世上的光。<br>    	==罗马书8:35<br>    	<br>		<br><span class="hljs-comment">## 胜过世界的秘诀</span><br>	**信<br>		==约翰一书<br>		==腓3:8 - 我以认识我主耶稣基督为至宝<br>	**望<br>		==彼前<br>		==我们只是客旅<br>	**爱<br>		==主爱的激励与我们爱主的心<br>		==哥林多后书5<br>		==罗马书8<br><br></code></pre></td></tr></table></figure>
-
 ]]></content>
   </entry>
   <entry>

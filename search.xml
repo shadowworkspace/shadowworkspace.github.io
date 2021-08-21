@@ -22,14 +22,6 @@
       </tags>
   </entry>
   <entry>
-    <title>912-PAT劝退指南</title>
-    <url>/2021/04/29/912-PAT%E5%8A%9D%E9%80%80%E6%8C%87%E5%8D%97/</url>
-    <content><![CDATA[<h6 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h6><hr>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">https://github.com/liuchuo/PAT<br>https://www.liuchuo.net/<br>《算法笔记》<br></code></pre></td></tr></table></figure>
-
-]]></content>
-  </entry>
-  <entry>
     <title>912-Algorithm-T</title>
     <url>/2021/05/21/912-Algorithm-T/</url>
     <content><![CDATA[<h4 id="四月的算法之旅"><a href="#四月的算法之旅" class="headerlink" title="四月的算法之旅"></a>四月的算法之旅</h4><hr>
@@ -94,6 +86,33 @@
 ]]></content>
   </entry>
   <entry>
+    <title>912-PAT劝退指南</title>
+    <url>/2021/04/29/912-PAT%E5%8A%9D%E9%80%80%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<h6 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h6><hr>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">https://github.com/liuchuo/PAT<br>https://www.liuchuo.net/<br>《算法笔记》<br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>912-ucore记录之lab1</title>
+    <url>/2021/06/26/912-ucore%E8%AE%B0%E5%BD%95%E4%B9%8Blab1/</url>
+    <content><![CDATA[<h4 id="几经波折"><a href="#几经波折" class="headerlink" title="几经波折"></a>几经波折</h4><hr>
+<h4 id="启动代码分析"><a href="#启动代码分析" class="headerlink" title="启动代码分析"></a>启动代码分析</h4><hr>
+<figure class="highlight c"><table><tr><td class="code"><pre><code class="hljs c"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;asm.h&gt;</span></span><br><br># Start the CPU: <span class="hljs-keyword">switch</span> to <span class="hljs-number">32</span>-bit <span class="hljs-keyword">protected</span> mode, jump into C.<br># The BIOS loads <span class="hljs-keyword">this</span> code from the first sector of the hard disk into<br><span class="hljs-meta"># memory at physical address 0x7c00 and starts executing in real mode</span><br><span class="hljs-meta"># with %cs=0 %ip=7c00.</span><br><br># <span class="hljs-number">80386</span>CPU为了兼容<span class="hljs-number">8086</span>程序，最开始启动时是以<span class="hljs-number">16</span>位的实模式进行工作的<br># 生成img磁盘映像时，bootasm.S中的引导代码将会被放在引导扇区<br># <span class="hljs-number">80386</span>CPU加电启动后，会执行BIOS中的默认引导程序，BIOS引导程序会将引导扇区中(第一个磁盘块)的内容读入内存，并放置在<span class="hljs-number">0x7C00</span>(<span class="hljs-number">16</span>位)/<span class="hljs-number">0x00007c00</span>(<span class="hljs-number">32</span>位)处<br># 随后CPU会跳转到<span class="hljs-number">0x7c00</span>处开始第一条指令的执行，即bootasm.S的第一条指令(start:)<br><br>.<span class="hljs-built_in">set</span> PROT_MODE_CSEG,        <span class="hljs-number">0x8</span>                     <span class="hljs-meta"># kernel code segment selector</span><br>.<span class="hljs-built_in">set</span> PROT_MODE_DSEG,        <span class="hljs-number">0x10</span>                    <span class="hljs-meta"># kernel data segment selector</span><br>.<span class="hljs-built_in">set</span> CR0_PE_ON,             <span class="hljs-number">0x1</span>                     <span class="hljs-meta"># protected mode enable flag</span><br><br><span class="hljs-meta"># start address should be 0:7c00, in real mode, the beginning address of the running bootloader</span><br>.globl start<br>start:<br>.code16                                             # Assemble <span class="hljs-keyword">for</span> <span class="hljs-number">16</span>-bit mode<br>    cli                                             # Disable interrupts<br>    cld                                             # String operations increment<br><br>    # Set up the important data segment registers (DS, ES, SS).<br>    xorw %ax, %ax                                   # Segment number zero<br>    movw %ax, %ds                                   # -&gt; Data Segment<br>    movw %ax, %es                                   # -&gt; Extra Segment<br>    movw %ax, %ss                                   # -&gt; Stack Segment<br><br>    # Enable A20:<br>    #  For backwards compatibility with the earliest PCs, physical<br>    <span class="hljs-meta">#  address <span class="hljs-meta-keyword">line</span> 20 is tied low, so that addresses higher than</span><br>    #  <span class="hljs-number">1</span>MB wrap around to zero by <span class="hljs-keyword">default</span>. This code undoes <span class="hljs-keyword">this</span>.<br><br>    # 为了进入<span class="hljs-number">32</span>位保护模式，必须先开启A20(第<span class="hljs-number">21</span>位内存访问线)，否则在<span class="hljs-number">32</span>位寻址模式下给出的内存地址第<span class="hljs-number">21</span>位始终为<span class="hljs-number">0</span>，造成错误<br>    # 为什么需要特意开启A20总线?<br>    # 在早期的<span class="hljs-number">8086</span>CPU中，内存总线是<span class="hljs-number">20</span>位的，由高<span class="hljs-number">16</span>位的段基址和低<span class="hljs-number">16</span>位的段内偏移共同构成一个<span class="hljs-number">20</span>位的内存地址<br>    # 但事实上在段基址和段内偏移比较大的情况下，其实际得出的结果是超过了<span class="hljs-number">20</span>位的(例如<span class="hljs-number">0xFFFF</span>段基址 &lt;&lt;&lt; <span class="hljs-number">4</span> + <span class="hljs-number">0xFFFF</span>段内偏移 &gt; <span class="hljs-number">0xFFFFF</span>)，出现了溢出<br>    # 而<span class="hljs-number">8086</span>中对这种溢出是兼容的，这种溢出在<span class="hljs-number">8086</span>上会体现为绕回<span class="hljs-number">0x00000</span>低端<br>    # “程序员，你是知道的，他们喜欢钻研，更喜欢利用硬件的某些特性来展示自己的技术，很难说在当年有多少程序在依赖这个回绕特性工作着”<br>    # 摘自《X86汇编语言 从实模式到保护模式》 <span class="hljs-number">11.5</span> 关于第<span class="hljs-number">21</span>条地址线A20的问题<br>    # 到了更新版的<span class="hljs-number">80286</span>时代，<span class="hljs-number">24</span>位的内存总线，如果不默认关闭A20总线，那么就无法兼容使用回绕特性的<span class="hljs-number">8086</span>程序了<br>    # 而<span class="hljs-number">80386</span>作为<span class="hljs-number">80286</span>的后一代，也继承了<span class="hljs-number">80286</span>这一特性<br>seta20<span class="hljs-number">.1</span>:<br>    inb $0x64, %al                                  # Wait for not busy(8042 input buffer empty).<br>    testb $<span class="hljs-number">0x2</span>, %al<br>    jnz seta20<span class="hljs-number">.1</span><br><br>    movb $<span class="hljs-number">0xd1</span>, %al                                 # <span class="hljs-number">0xd1</span> -&gt; port <span class="hljs-number">0x64</span><br>    outb %al, $<span class="hljs-number">0x64</span>                                 # <span class="hljs-number">0xd1</span> means: write data to <span class="hljs-number">8042</span>’s P2 port<br><br>seta20<span class="hljs-number">.2</span>:<br>    inb $0x64, %al                                  # Wait for not busy(8042 input buffer empty).<br>    testb $<span class="hljs-number">0x2</span>, %al<br>    jnz seta20<span class="hljs-number">.2</span><br><br>    movb $<span class="hljs-number">0xdf</span>, %al                                 # <span class="hljs-number">0xdf</span> -&gt; port <span class="hljs-number">0x60</span><br>    outb %al, $<span class="hljs-number">0x60</span>                                 # <span class="hljs-number">0xdf</span> = <span class="hljs-number">11011111</span>, means <span class="hljs-built_in">set</span> P2’s A20 bit(the <span class="hljs-number">1</span> bit) to <span class="hljs-number">1</span><br><br>    # Switch from real to <span class="hljs-keyword">protected</span> mode, <span class="hljs-keyword">using</span> a bootstrap GDT<br>    <span class="hljs-meta"># and segment translation that makes virtual addresses</span><br>    <span class="hljs-meta"># identical to physical addresses, so that the</span><br>    <span class="hljs-meta"># effective memory map does not change during the switch.</span><br>    # 设置GDT，修改CRO寄存器中的保护模式允许位，进入保护模式<br>    lgdt gdtdesc<br>    movl %cr0, %eax<br>    orl $CR0_PE_ON, %eax<br>    movl %eax, %cr0<br><br>    # Jump to next instruction, but in <span class="hljs-number">32</span>-bit code segment.<br>    # Switches processor into <span class="hljs-number">32</span>-bit mode.<br>    # 通过一个远跳转指令指向protcseg处的指令，令CPU清空之前在实模式下保存在流水线中的指令(当前处于保护模式下执行实模式的指令会出现各种问题)<br>    ljmp $PROT_MODE_CSEG, $protcseg<br><br># 下面的都是X86<span class="hljs-number">-32</span>的汇编程序<br>.code32                                             # Assemble <span class="hljs-keyword">for</span> <span class="hljs-number">32</span>-bit mode<br>protcseg:<br>    # Set up the <span class="hljs-keyword">protected</span>-mode data segment registers<br>    # 跳转至保护模式后，需要刷新数据段寄存器(因为引入了特权级保护，避免数据段寄存器之前的值不对而出现漏洞)<br>    movw $PROT_MODE_DSEG, %ax                       # Our data segment selector<br>    movw %ax, %ds                                   # -&gt; DS: Data Segment<br>    movw %ax, %es                                   # -&gt; ES: Extra Segment<br>    movw %ax, %fs                                   # -&gt; FS<br>    movw %ax, %gs                                   # -&gt; GS<br>    movw %ax, %ss                                   # -&gt; SS: Stack Segment<br><br>    # Set up the <span class="hljs-built_in">stack</span> pointer <span class="hljs-keyword">and</span> call into C. The <span class="hljs-built_in">stack</span> region is from <span class="hljs-number">0</span>--start(<span class="hljs-number">0x7c00</span>)<br>    # 设置栈段寄存器 栈基址<span class="hljs-number">0x0</span>，栈顶指针指向start段所在位置(<span class="hljs-number">0x7c00</span>)<br>    movl $<span class="hljs-number">0x0</span>, %ebp<br>    movl $start, %esp<br>    # 调用跳转至bootmain.c中的bootmain函数，完成内核的引导<br>    call bootmain<br><br>    # If bootmain returns (it shouldn’t), loop.<br>    # 自旋死循环(但如果引导程序和内核实现正确，bootmain函数将永远不会返回并执行至此。因为操作系统内核本身就是通过自旋循环常驻内存的)<br>spin:<br>    jmp spin<br><br># Bootstrap GDT<br>.p2align <span class="hljs-number">2</span>                                          <span class="hljs-meta"># force 4 byte alignment</span><br># SEG_ASM是位于<span class="hljs-keyword">asm</span>.h中的宏，用于构造GDT中的段描述符<br># 按照GDT的约定，第一个为<span class="hljs-literal">NULL</span>段。ucore采用的是平坦内存模型，所以代码段和数据段在内核中均只存在一个。<br>gdt:<br>    SEG_NULLASM                                     <span class="hljs-meta"># null seg</span><br>    SEG_ASM(STA_X|STA_R, <span class="hljs-number">0x0</span>, <span class="hljs-number">0xffffffff</span>)           <span class="hljs-meta"># code seg for bootloader and kernel</span><br>    SEG_ASM(STA_W, <span class="hljs-number">0x0</span>, <span class="hljs-number">0xffffffff</span>)                 <span class="hljs-meta"># data seg for bootloader and kernel</span><br><br>gdtdesc:<br>    .word <span class="hljs-number">0x17</span>                                      <span class="hljs-meta"># sizeof(gdt) - 1</span><br>    .<span class="hljs-keyword">long</span> gdt                                       <span class="hljs-meta"># address gdt</span><br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+
+
+<h4 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h4><figure class="highlight java"><table><tr><td class="code"><pre><code class="hljs java">https:<span class="hljs-comment">//www.cnblogs.com/xiaoxiongcanguan/p/13714587.html</span><br>https:<span class="hljs-comment">//www.cnblogs.com/xiaoxiongcanguan/p/12176857.html</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
     <title>912-THU修炼秘笈</title>
     <url>/2021/06/20/912-THU%E4%BF%AE%E7%82%BC%E7%A7%98%E7%AC%88/</url>
     <content><![CDATA[<h4 id="最大的阻碍"><a href="#最大的阻碍" class="headerlink" title="最大的阻碍"></a>最大的阻碍</h4><hr>
@@ -143,22 +162,10 @@
 ]]></content>
   </entry>
   <entry>
-    <title>912-ucore记录之lab1</title>
-    <url>/2021/06/26/912-ucore%E8%AE%B0%E5%BD%95%E4%B9%8Blab1/</url>
-    <content><![CDATA[<h4 id="几经波折"><a href="#几经波折" class="headerlink" title="几经波折"></a>几经波折</h4><hr>
-<h4 id="启动代码分析"><a href="#启动代码分析" class="headerlink" title="启动代码分析"></a>启动代码分析</h4><hr>
-<figure class="highlight c"><table><tr><td class="code"><pre><code class="hljs c"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;asm.h&gt;</span></span><br><br># Start the CPU: <span class="hljs-keyword">switch</span> to <span class="hljs-number">32</span>-bit <span class="hljs-keyword">protected</span> mode, jump into C.<br># The BIOS loads <span class="hljs-keyword">this</span> code from the first sector of the hard disk into<br><span class="hljs-meta"># memory at physical address 0x7c00 and starts executing in real mode</span><br><span class="hljs-meta"># with %cs=0 %ip=7c00.</span><br><br># <span class="hljs-number">80386</span>CPU为了兼容<span class="hljs-number">8086</span>程序，最开始启动时是以<span class="hljs-number">16</span>位的实模式进行工作的<br># 生成img磁盘映像时，bootasm.S中的引导代码将会被放在引导扇区<br># <span class="hljs-number">80386</span>CPU加电启动后，会执行BIOS中的默认引导程序，BIOS引导程序会将引导扇区中(第一个磁盘块)的内容读入内存，并放置在<span class="hljs-number">0x7C00</span>(<span class="hljs-number">16</span>位)/<span class="hljs-number">0x00007c00</span>(<span class="hljs-number">32</span>位)处<br># 随后CPU会跳转到<span class="hljs-number">0x7c00</span>处开始第一条指令的执行，即bootasm.S的第一条指令(start:)<br><br>.<span class="hljs-built_in">set</span> PROT_MODE_CSEG,        <span class="hljs-number">0x8</span>                     <span class="hljs-meta"># kernel code segment selector</span><br>.<span class="hljs-built_in">set</span> PROT_MODE_DSEG,        <span class="hljs-number">0x10</span>                    <span class="hljs-meta"># kernel data segment selector</span><br>.<span class="hljs-built_in">set</span> CR0_PE_ON,             <span class="hljs-number">0x1</span>                     <span class="hljs-meta"># protected mode enable flag</span><br><br><span class="hljs-meta"># start address should be 0:7c00, in real mode, the beginning address of the running bootloader</span><br>.globl start<br>start:<br>.code16                                             # Assemble <span class="hljs-keyword">for</span> <span class="hljs-number">16</span>-bit mode<br>    cli                                             # Disable interrupts<br>    cld                                             # String operations increment<br><br>    # Set up the important data segment registers (DS, ES, SS).<br>    xorw %ax, %ax                                   # Segment number zero<br>    movw %ax, %ds                                   # -&gt; Data Segment<br>    movw %ax, %es                                   # -&gt; Extra Segment<br>    movw %ax, %ss                                   # -&gt; Stack Segment<br><br>    # Enable A20:<br>    #  For backwards compatibility with the earliest PCs, physical<br>    <span class="hljs-meta">#  address <span class="hljs-meta-keyword">line</span> 20 is tied low, so that addresses higher than</span><br>    #  <span class="hljs-number">1</span>MB wrap around to zero by <span class="hljs-keyword">default</span>. This code undoes <span class="hljs-keyword">this</span>.<br><br>    # 为了进入<span class="hljs-number">32</span>位保护模式，必须先开启A20(第<span class="hljs-number">21</span>位内存访问线)，否则在<span class="hljs-number">32</span>位寻址模式下给出的内存地址第<span class="hljs-number">21</span>位始终为<span class="hljs-number">0</span>，造成错误<br>    # 为什么需要特意开启A20总线?<br>    # 在早期的<span class="hljs-number">8086</span>CPU中，内存总线是<span class="hljs-number">20</span>位的，由高<span class="hljs-number">16</span>位的段基址和低<span class="hljs-number">16</span>位的段内偏移共同构成一个<span class="hljs-number">20</span>位的内存地址<br>    # 但事实上在段基址和段内偏移比较大的情况下，其实际得出的结果是超过了<span class="hljs-number">20</span>位的(例如<span class="hljs-number">0xFFFF</span>段基址 &lt;&lt;&lt; <span class="hljs-number">4</span> + <span class="hljs-number">0xFFFF</span>段内偏移 &gt; <span class="hljs-number">0xFFFFF</span>)，出现了溢出<br>    # 而<span class="hljs-number">8086</span>中对这种溢出是兼容的，这种溢出在<span class="hljs-number">8086</span>上会体现为绕回<span class="hljs-number">0x00000</span>低端<br>    # “程序员，你是知道的，他们喜欢钻研，更喜欢利用硬件的某些特性来展示自己的技术，很难说在当年有多少程序在依赖这个回绕特性工作着”<br>    # 摘自《X86汇编语言 从实模式到保护模式》 <span class="hljs-number">11.5</span> 关于第<span class="hljs-number">21</span>条地址线A20的问题<br>    # 到了更新版的<span class="hljs-number">80286</span>时代，<span class="hljs-number">24</span>位的内存总线，如果不默认关闭A20总线，那么就无法兼容使用回绕特性的<span class="hljs-number">8086</span>程序了<br>    # 而<span class="hljs-number">80386</span>作为<span class="hljs-number">80286</span>的后一代，也继承了<span class="hljs-number">80286</span>这一特性<br>seta20<span class="hljs-number">.1</span>:<br>    inb $0x64, %al                                  # Wait for not busy(8042 input buffer empty).<br>    testb $<span class="hljs-number">0x2</span>, %al<br>    jnz seta20<span class="hljs-number">.1</span><br><br>    movb $<span class="hljs-number">0xd1</span>, %al                                 # <span class="hljs-number">0xd1</span> -&gt; port <span class="hljs-number">0x64</span><br>    outb %al, $<span class="hljs-number">0x64</span>                                 # <span class="hljs-number">0xd1</span> means: write data to <span class="hljs-number">8042</span>’s P2 port<br><br>seta20<span class="hljs-number">.2</span>:<br>    inb $0x64, %al                                  # Wait for not busy(8042 input buffer empty).<br>    testb $<span class="hljs-number">0x2</span>, %al<br>    jnz seta20<span class="hljs-number">.2</span><br><br>    movb $<span class="hljs-number">0xdf</span>, %al                                 # <span class="hljs-number">0xdf</span> -&gt; port <span class="hljs-number">0x60</span><br>    outb %al, $<span class="hljs-number">0x60</span>                                 # <span class="hljs-number">0xdf</span> = <span class="hljs-number">11011111</span>, means <span class="hljs-built_in">set</span> P2’s A20 bit(the <span class="hljs-number">1</span> bit) to <span class="hljs-number">1</span><br><br>    # Switch from real to <span class="hljs-keyword">protected</span> mode, <span class="hljs-keyword">using</span> a bootstrap GDT<br>    <span class="hljs-meta"># and segment translation that makes virtual addresses</span><br>    <span class="hljs-meta"># identical to physical addresses, so that the</span><br>    <span class="hljs-meta"># effective memory map does not change during the switch.</span><br>    # 设置GDT，修改CRO寄存器中的保护模式允许位，进入保护模式<br>    lgdt gdtdesc<br>    movl %cr0, %eax<br>    orl $CR0_PE_ON, %eax<br>    movl %eax, %cr0<br><br>    # Jump to next instruction, but in <span class="hljs-number">32</span>-bit code segment.<br>    # Switches processor into <span class="hljs-number">32</span>-bit mode.<br>    # 通过一个远跳转指令指向protcseg处的指令，令CPU清空之前在实模式下保存在流水线中的指令(当前处于保护模式下执行实模式的指令会出现各种问题)<br>    ljmp $PROT_MODE_CSEG, $protcseg<br><br># 下面的都是X86<span class="hljs-number">-32</span>的汇编程序<br>.code32                                             # Assemble <span class="hljs-keyword">for</span> <span class="hljs-number">32</span>-bit mode<br>protcseg:<br>    # Set up the <span class="hljs-keyword">protected</span>-mode data segment registers<br>    # 跳转至保护模式后，需要刷新数据段寄存器(因为引入了特权级保护，避免数据段寄存器之前的值不对而出现漏洞)<br>    movw $PROT_MODE_DSEG, %ax                       # Our data segment selector<br>    movw %ax, %ds                                   # -&gt; DS: Data Segment<br>    movw %ax, %es                                   # -&gt; ES: Extra Segment<br>    movw %ax, %fs                                   # -&gt; FS<br>    movw %ax, %gs                                   # -&gt; GS<br>    movw %ax, %ss                                   # -&gt; SS: Stack Segment<br><br>    # Set up the <span class="hljs-built_in">stack</span> pointer <span class="hljs-keyword">and</span> call into C. The <span class="hljs-built_in">stack</span> region is from <span class="hljs-number">0</span>--start(<span class="hljs-number">0x7c00</span>)<br>    # 设置栈段寄存器 栈基址<span class="hljs-number">0x0</span>，栈顶指针指向start段所在位置(<span class="hljs-number">0x7c00</span>)<br>    movl $<span class="hljs-number">0x0</span>, %ebp<br>    movl $start, %esp<br>    # 调用跳转至bootmain.c中的bootmain函数，完成内核的引导<br>    call bootmain<br><br>    # If bootmain returns (it shouldn’t), loop.<br>    # 自旋死循环(但如果引导程序和内核实现正确，bootmain函数将永远不会返回并执行至此。因为操作系统内核本身就是通过自旋循环常驻内存的)<br>spin:<br>    jmp spin<br><br># Bootstrap GDT<br>.p2align <span class="hljs-number">2</span>                                          <span class="hljs-meta"># force 4 byte alignment</span><br># SEG_ASM是位于<span class="hljs-keyword">asm</span>.h中的宏，用于构造GDT中的段描述符<br># 按照GDT的约定，第一个为<span class="hljs-literal">NULL</span>段。ucore采用的是平坦内存模型，所以代码段和数据段在内核中均只存在一个。<br>gdt:<br>    SEG_NULLASM                                     <span class="hljs-meta"># null seg</span><br>    SEG_ASM(STA_X|STA_R, <span class="hljs-number">0x0</span>, <span class="hljs-number">0xffffffff</span>)           <span class="hljs-meta"># code seg for bootloader and kernel</span><br>    SEG_ASM(STA_W, <span class="hljs-number">0x0</span>, <span class="hljs-number">0xffffffff</span>)                 <span class="hljs-meta"># data seg for bootloader and kernel</span><br><br>gdtdesc:<br>    .word <span class="hljs-number">0x17</span>                                      <span class="hljs-meta"># sizeof(gdt) - 1</span><br>    .<span class="hljs-keyword">long</span> gdt                                       <span class="hljs-meta"># address gdt</span><br></code></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-
-
-<h4 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h4><figure class="highlight java"><table><tr><td class="code"><pre><code class="hljs java">https:<span class="hljs-comment">//www.cnblogs.com/xiaoxiongcanguan/p/13714587.html</span><br>https:<span class="hljs-comment">//www.cnblogs.com/xiaoxiongcanguan/p/12176857.html</span><br></code></pre></td></tr></table></figure>
-
+    <title>912-中断的代价</title>
+    <url>/2021/08/05/912-%E4%B8%AD%E6%96%AD%E7%9A%84%E4%BB%A3%E4%BB%B7/</url>
+    <content><![CDATA[<h4 id="中断保护"><a href="#中断保护" class="headerlink" title="中断保护"></a>中断保护</h4><p>在每一次执行中断操作之前都应该保证所有关键数据已经压栈，否则造成不可挽回的损失。</p>
+<p>即便如此，中断恢复的代价也是非常的高昂，而且很多时候由于进程的推进导致即使能够恢复现场也没有资源进行恢复，导致不可逆损失</p>
 ]]></content>
   </entry>
   <entry>
@@ -180,13 +187,6 @@
 <li>英语刷阅读[至少两天刷一篇] + 单词（大约3小时）</li>
 <li>线代与概率论基础阶段结束</li>
 </ul>
-]]></content>
-  </entry>
-  <entry>
-    <title>912-中断的代价</title>
-    <url>/2021/08/05/912-%E4%B8%AD%E6%96%AD%E7%9A%84%E4%BB%A3%E4%BB%B7/</url>
-    <content><![CDATA[<h4 id="中断保护"><a href="#中断保护" class="headerlink" title="中断保护"></a>中断保护</h4><p>在每一次执行中断操作之前都应该保证所有关键数据已经压栈，否则造成不可挽回的损失。</p>
-<p>即便如此，中断恢复的代价也是非常的高昂，而且很多时候由于进程的推进导致即使能够恢复现场也没有资源进行恢复，导致不可逆损失</p>
 ]]></content>
   </entry>
   <entry>
@@ -485,6 +485,11 @@
 ]]></content>
   </entry>
   <entry>
+    <title>912-考研八月记录</title>
+    <url>/2021/08/12/912-%E8%80%83%E7%A0%94%E5%85%AB%E6%9C%88%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>912-考研全程done-list</title>
     <url>/2021/03/12/912-%E8%80%83%E7%A0%94%E5%85%A8%E7%A8%8Bdone-list/</url>
     <content><![CDATA[<h4 id="天道酬勤"><a href="#天道酬勤" class="headerlink" title="天道酬勤"></a>天道酬勤</h4><hr>
@@ -498,11 +503,6 @@
       <tags>
         <tag>912</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>912-考研八月记录</title>
-    <url>/2021/08/12/912-%E8%80%83%E7%A0%94%E5%85%AB%E6%9C%88%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>912-考研复盘七月</title>
@@ -731,6 +731,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>912-英语备考4月安排</title>
+    <url>/2021/04/20/912-%E8%8B%B1%E8%AF%AD%E5%A4%87%E8%80%834%E6%9C%88%E5%AE%89%E6%8E%92/</url>
+    <content><![CDATA[<h4 id="慢就是快"><a href="#慢就是快" class="headerlink" title="慢就是快"></a>慢就是快</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 10分钟词组复习</span><br>	**重点关注星标词组<br>	<br><span class="hljs-comment">## 10分钟单词复习</span><br>	**重点关注星标单词<br>	**整理“老大难”放入单词集<br>	<br><span class="hljs-comment">## 40分钟阅读训练</span><br>	**现阶段为尝试性阅读方法学习<br>	**先跟阅读课程[前一晚]与语法课程[前一晚]<br>	**再尝试做英语二/模拟阅读题目<br>	<br>	**阅读前：熟悉方法和原则<br>	**阅读中：运用方法和原则与技巧<br>	**阅读后：整理卡壳点、模糊点、失分点及原因并且标注、记录<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>4月规划</category>
+      </categories>
+      <tags>
+        <tag>912</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>912-英语口语方法</title>
     <url>/2021/04/27/912-%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD%E6%96%B9%E6%B3%95/</url>
     <content><![CDATA[<h4 id="学习之道"><a href="#学习之道" class="headerlink" title="学习之道"></a>学习之道</h4><hr>
@@ -749,26 +762,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>912-英语备考4月安排</title>
-    <url>/2021/04/20/912-%E8%8B%B1%E8%AF%AD%E5%A4%87%E8%80%834%E6%9C%88%E5%AE%89%E6%8E%92/</url>
-    <content><![CDATA[<h4 id="慢就是快"><a href="#慢就是快" class="headerlink" title="慢就是快"></a>慢就是快</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 10分钟词组复习</span><br>	**重点关注星标词组<br>	<br><span class="hljs-comment">## 10分钟单词复习</span><br>	**重点关注星标单词<br>	**整理“老大难”放入单词集<br>	<br><span class="hljs-comment">## 40分钟阅读训练</span><br>	**现阶段为尝试性阅读方法学习<br>	**先跟阅读课程[前一晚]与语法课程[前一晚]<br>	**再尝试做英语二/模拟阅读题目<br>	<br>	**阅读前：熟悉方法和原则<br>	**阅读中：运用方法和原则与技巧<br>	**阅读后：整理卡壳点、模糊点、失分点及原因并且标注、记录<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>4月规划</category>
-      </categories>
-      <tags>
-        <tag>912</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ATlibrary-在痛苦的世界尽力而为</title>
-    <url>/2021/05/17/ATlibrary-%E5%9C%A8%E7%97%9B%E8%8B%A6%E7%9A%84%E4%B8%96%E7%95%8C%E5%B0%BD%E5%8A%9B%E8%80%8C%E4%B8%BA/</url>
-    <content><![CDATA[<h4 id="在痛苦的世界尽力而为"><a href="#在痛苦的世界尽力而为" class="headerlink" title="在痛苦的世界尽力而为"></a>在痛苦的世界尽力而为</h4><hr>
-<p>我考大学考了三年</p>
-]]></content>
-  </entry>
-  <entry>
     <title>ATlibrary-如何学习</title>
     <url>/2021/05/13/ATlibrary-%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0/</url>
     <content><![CDATA[<h4 id="如何学习"><a href="#如何学习" class="headerlink" title="如何学习"></a>如何学习</h4><hr>
@@ -776,6 +769,13 @@
 <h4 id="关于遗忘"><a href="#关于遗忘" class="headerlink" title="关于遗忘"></a>关于遗忘</h4><hr>
 <h4 id="有效学习"><a href="#有效学习" class="headerlink" title="有效学习"></a>有效学习</h4><hr>
 <p>很遗憾，这也是一本当前不适合我的书</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>ATlibrary-在痛苦的世界尽力而为</title>
+    <url>/2021/05/17/ATlibrary-%E5%9C%A8%E7%97%9B%E8%8B%A6%E7%9A%84%E4%B8%96%E7%95%8C%E5%B0%BD%E5%8A%9B%E8%80%8C%E4%B8%BA/</url>
+    <content><![CDATA[<h4 id="在痛苦的世界尽力而为"><a href="#在痛苦的世界尽力而为" class="headerlink" title="在痛苦的世界尽力而为"></a>在痛苦的世界尽力而为</h4><hr>
+<p>我考大学考了三年</p>
 ]]></content>
   </entry>
   <entry>
@@ -1577,18 +1577,6 @@
       </tags>
   </entry>
   <entry>
-    <title>B001-菲尔-奈特</title>
-    <url>/2021/01/19/L001-%E8%8F%B2%E5%B0%94-%E5%A5%88%E7%89%B9/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>人物周刊</category>
-      </categories>
-      <tags>
-        <tag>人物周刊</tag>
-        <tag>菲尔-奈特</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R000-史蒂夫</title>
     <url>/2021/01/19/L000-%E5%8F%B2%E8%92%82%E5%A4%AB-%E4%B9%94%E5%B8%83%E6%96%AF/</url>
     <content><![CDATA[<h4 id="偏执而又情感丰富的艺术家"><a href="#偏执而又情感丰富的艺术家" class="headerlink" title="偏执而又情感丰富的艺术家"></a>偏执而又情感丰富的艺术家</h4><hr>
@@ -1599,6 +1587,18 @@
       <tags>
         <tag>人物周刊</tag>
         <tag>乔布斯</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>B001-菲尔-奈特</title>
+    <url>/2021/01/19/L001-%E8%8F%B2%E5%B0%94-%E5%A5%88%E7%89%B9/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>人物周刊</category>
+      </categories>
+      <tags>
+        <tag>人物周刊</tag>
+        <tag>菲尔-奈特</tag>
       </tags>
   </entry>
   <entry>
@@ -1693,18 +1693,6 @@
       </tags>
   </entry>
   <entry>
-    <title>L007-王石</title>
-    <url>/2021/01/19/L007-%E7%8E%8B%E7%9F%B3/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>人物周刊</category>
-      </categories>
-      <tags>
-        <tag>人物周刊</tag>
-        <tag>王石</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>L008-尼采</title>
     <url>/2021/01/19/L008-%E5%B0%BC%E9%87%87/</url>
     <content><![CDATA[]]></content>
@@ -1717,6 +1705,18 @@
       </tags>
   </entry>
   <entry>
+    <title>L007-王石</title>
+    <url>/2021/01/19/L007-%E7%8E%8B%E7%9F%B3/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>人物周刊</category>
+      </categories>
+      <tags>
+        <tag>人物周刊</tag>
+        <tag>王石</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>L009-笛卡尔</title>
     <url>/2021/01/19/L009-%E7%AC%9B%E5%8D%A1%E5%B0%94/</url>
     <content><![CDATA[]]></content>
@@ -1726,18 +1726,6 @@
       <tags>
         <tag>人物周刊</tag>
         <tag>笛卡尔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>L010-爱因斯坦</title>
-    <url>/2021/01/19/L010-%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>人物周刊</category>
-      </categories>
-      <tags>
-        <tag>人物周刊</tag>
-        <tag>爱因斯坦</tag>
       </tags>
   </entry>
   <entry>
@@ -1799,6 +1787,18 @@
       <tags>
         <tag>数学体系</tag>
         <tag>数学之美</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>L010-爱因斯坦</title>
+    <url>/2021/01/19/L010-%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>人物周刊</category>
+      </categories>
+      <tags>
+        <tag>人物周刊</tag>
+        <tag>爱因斯坦</tag>
       </tags>
   </entry>
   <entry>
@@ -2066,32 +2066,6 @@
       </categories>
   </entry>
   <entry>
-    <title>R002-门徒训练N102</title>
-    <url>/2020/12/15/R002-%E9%97%A8%E5%BE%92%E8%AE%AD%E7%BB%83N102/</url>
-    <content><![CDATA[<hr>
-<h4 id="听到更要行到"><a href="#听到更要行到" class="headerlink" title="听到更要行到"></a>听到更要行到</h4><figure class="highlight asciidoc"><table><tr><td class="code"><pre><code class="hljs asciidoc">## 不仅仅能够听到，也要在生活里行出来<br>&gt; 人生的标杆<br>&gt; 受造的价值<br>&gt; 应用到生活的每一个层面<br>--------------------------------------------<br>&gt; 要道成肉身，走出来<br></code></pre></td></tr></table></figure>
-
-<hr>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">## 也许会碰到挫折，但不要会心，在同伴的协同下<br>&gt; $ 罗马书 8:28-30<br>&gt; 我们被神拣选，被祂称义，万事都在互相效力，叫称义的人得益处[如下，进入永恒]<br>&gt; 要把我们打磨成神儿子的形象<br>&gt; 我们是神手中的杰作<br>&gt; 神在祂心中的意念是一致的，即使表现得各不相同<br>&gt; 耶稣要率领众子进入神的荣耀，进入永恒 [是神永远旨意的完成]<br>&gt; 把我们磨成神儿子的形象 [是圣灵今天在我们身上工作的法则]<br>-------------------------------------------<br>&gt; 地上再多的苦，比起我们将来的荣耀，是不值一提的<br>&gt; [知道神的目的 - 善良、纯全、可喜悦的旨意]<br>&gt; 神拆毁我们、倒空我们、洁净我们、改变我们<br>&gt; 罗马数X:12节，不要效法这个世界<br>&gt; 要去查阅何为神善良、纯全、可喜悦的旨意<br>-------------------------------------------<br>&gt; 我们所有的遭遇，神在我们的身上都有美好的旨意，我们还有许多的未得之地<br>&gt; 愿我们心里也能彼此相爱，彼此扶持<br>&gt; 使万人成为神的门徒<br>&gt; [使万民成为主的门徒]<br>&gt; 门徒：学生、follower<br>&gt; <br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="如何成为耶稣基督的门徒"><a href="#如何成为耶稣基督的门徒" class="headerlink" title="如何成为耶稣基督的门徒"></a>如何成为耶稣基督的门徒</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 有代价<br>	*路加福音 <span class="hljs-number">14</span>:<span class="hljs-number">26</span>,<span class="hljs-number">27</span> <span class="hljs-number">33</span><br>	*马太福音 <span class="hljs-number">10</span>:<span class="hljs-number">27</span><span class="hljs-number">-38</span><br>	---------------------------------------<br>	## 神要求我们的，就是神要给我们的<br>		** 主向我们要求圣洁，但是在我里头毫无良善<br>		** 当我们跟从主，就向圣洁靠近<br>		** 是什么让这些吸引我们的偶像失去颜色？  <br>		不要做违背神、违背主的关系[当世界与主的旨意冲突时，要爱主胜过世界]<br>		永远让主居首位<br>		** 如果你没有遭受逼迫，那是神特别的恩典。如果你遭受到逼迫，那是神更大的恩典<br>		<br>		## 信耶稣一定有代价<br>	---------------------------------------<br>	<br>## 要舍己<br>	*外面很多东西都可以放，唯独舍己 - 是最大的代价<br>	*最大的难处、最大的麻烦<br>	<br></code></pre></td></tr></table></figure>
-
-<h4 id="门徒的特点"><a href="#门徒的特点" class="headerlink" title="门徒的特点"></a>门徒的特点</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 你在马路上怎么样认出一个军人来？<br>	** 门徒的特点<br>	** 活在光中<br>	---------------------------------------<br>	<br>	---------------------------------------<br>	** 活在爱中<br>	---------------------------------------<br>		## 有相爱的心，不能在舌头上，总要在行为和诚实上<br>		## 积极的爱永远是纯全，永远是在建造<br>		<br>	** 活在生命里<br>	---------------------------------------<br>		## 你们多结果子<br>		## 生命不断的被改变 	[在江湖混太久了 - 所以一路上慢慢被改变]<br>		## 没有人跟随耶稣生命不被改变的<br>			** 伯大尼 - 拉撒路 - 许多人因为拉撒路就信了耶稣[从前我是瞎眼的，如今我得以看见] - [复活生命的明证]<br>			** 原味尚醇 - 马铃薯的见证[] - 暴躁的改变 [旷野的流浪]<br>			** 门徒生命一定被改变<br>	---------------------------------------<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h4 id="在基督的学校做门徒"><a href="#在基督的学校做门徒" class="headerlink" title="在基督的学校做门徒"></a>在基督的学校做门徒</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 门徒是在宇宙中最高的学府<br><span class="hljs-comment">	** 祂独自引导，并无它神</span><br><span class="hljs-comment">	** 引导、训练我们</span><br>	<br>	--------------------------------------<br><span class="hljs-comment">	** 施洗约翰：引起注意 -&gt; 把人带起来跟随耶稣</span><br><span class="hljs-comment">	** 圣灵在凡事上教导我们</span><br><span class="hljs-comment">	** 没有一件事是不能放到主的面前祷告的</span><br>	<br>## 加百列 文<br>   伍伽勒 武<br><span class="hljs-comment">   ** 神可以让万物互相效力，只为训练祂的门徒</span><br><span class="hljs-comment">   ** 基督是一切，又在一切之内 	[歌罗西书3:11]</span><br><span class="hljs-comment">   ** Make the most of every op</span><br><span class="hljs-comment">   ** Just like Jesus</span><br>   ---------------------------------------<br>   <br>## 每一天结束的时候<br><span class="hljs-comment">	** 回想一下在基督的学校里学到了什么</span><br><span class="hljs-comment">	** 要越来越像耶稣</span><br>	愿我们在基督的学校里能成为最好的门徒<br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>门徒训练</tag>
-        <tag>在基督的学校作门徒</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R003-见证的故事</title>
     <url>/2020/12/15/R003-%E8%A7%81%E8%AF%81%E7%9A%84%E6%95%85%E4%BA%8B/</url>
     <content><![CDATA[<hr>
@@ -2121,6 +2095,32 @@
         <tag>形势与政策</tag>
         <tag>百年大变局之下大学生的思考</tag>
         <tag>写作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R002-门徒训练N102</title>
+    <url>/2020/12/15/R002-%E9%97%A8%E5%BE%92%E8%AE%AD%E7%BB%83N102/</url>
+    <content><![CDATA[<hr>
+<h4 id="听到更要行到"><a href="#听到更要行到" class="headerlink" title="听到更要行到"></a>听到更要行到</h4><figure class="highlight asciidoc"><table><tr><td class="code"><pre><code class="hljs asciidoc">## 不仅仅能够听到，也要在生活里行出来<br>&gt; 人生的标杆<br>&gt; 受造的价值<br>&gt; 应用到生活的每一个层面<br>--------------------------------------------<br>&gt; 要道成肉身，走出来<br></code></pre></td></tr></table></figure>
+
+<hr>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">## 也许会碰到挫折，但不要会心，在同伴的协同下<br>&gt; $ 罗马书 8:28-30<br>&gt; 我们被神拣选，被祂称义，万事都在互相效力，叫称义的人得益处[如下，进入永恒]<br>&gt; 要把我们打磨成神儿子的形象<br>&gt; 我们是神手中的杰作<br>&gt; 神在祂心中的意念是一致的，即使表现得各不相同<br>&gt; 耶稣要率领众子进入神的荣耀，进入永恒 [是神永远旨意的完成]<br>&gt; 把我们磨成神儿子的形象 [是圣灵今天在我们身上工作的法则]<br>-------------------------------------------<br>&gt; 地上再多的苦，比起我们将来的荣耀，是不值一提的<br>&gt; [知道神的目的 - 善良、纯全、可喜悦的旨意]<br>&gt; 神拆毁我们、倒空我们、洁净我们、改变我们<br>&gt; 罗马数X:12节，不要效法这个世界<br>&gt; 要去查阅何为神善良、纯全、可喜悦的旨意<br>-------------------------------------------<br>&gt; 我们所有的遭遇，神在我们的身上都有美好的旨意，我们还有许多的未得之地<br>&gt; 愿我们心里也能彼此相爱，彼此扶持<br>&gt; 使万人成为神的门徒<br>&gt; [使万民成为主的门徒]<br>&gt; 门徒：学生、follower<br>&gt; <br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="如何成为耶稣基督的门徒"><a href="#如何成为耶稣基督的门徒" class="headerlink" title="如何成为耶稣基督的门徒"></a>如何成为耶稣基督的门徒</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 有代价<br>	*路加福音 <span class="hljs-number">14</span>:<span class="hljs-number">26</span>,<span class="hljs-number">27</span> <span class="hljs-number">33</span><br>	*马太福音 <span class="hljs-number">10</span>:<span class="hljs-number">27</span><span class="hljs-number">-38</span><br>	---------------------------------------<br>	## 神要求我们的，就是神要给我们的<br>		** 主向我们要求圣洁，但是在我里头毫无良善<br>		** 当我们跟从主，就向圣洁靠近<br>		** 是什么让这些吸引我们的偶像失去颜色？  <br>		不要做违背神、违背主的关系[当世界与主的旨意冲突时，要爱主胜过世界]<br>		永远让主居首位<br>		** 如果你没有遭受逼迫，那是神特别的恩典。如果你遭受到逼迫，那是神更大的恩典<br>		<br>		## 信耶稣一定有代价<br>	---------------------------------------<br>	<br>## 要舍己<br>	*外面很多东西都可以放，唯独舍己 - 是最大的代价<br>	*最大的难处、最大的麻烦<br>	<br></code></pre></td></tr></table></figure>
+
+<h4 id="门徒的特点"><a href="#门徒的特点" class="headerlink" title="门徒的特点"></a>门徒的特点</h4><figure class="highlight clean"><table><tr><td class="code"><pre><code class="hljs clean">## 你在马路上怎么样认出一个军人来？<br>	** 门徒的特点<br>	** 活在光中<br>	---------------------------------------<br>	<br>	---------------------------------------<br>	** 活在爱中<br>	---------------------------------------<br>		## 有相爱的心，不能在舌头上，总要在行为和诚实上<br>		## 积极的爱永远是纯全，永远是在建造<br>		<br>	** 活在生命里<br>	---------------------------------------<br>		## 你们多结果子<br>		## 生命不断的被改变 	[在江湖混太久了 - 所以一路上慢慢被改变]<br>		## 没有人跟随耶稣生命不被改变的<br>			** 伯大尼 - 拉撒路 - 许多人因为拉撒路就信了耶稣[从前我是瞎眼的，如今我得以看见] - [复活生命的明证]<br>			** 原味尚醇 - 马铃薯的见证[] - 暴躁的改变 [旷野的流浪]<br>			** 门徒生命一定被改变<br>	---------------------------------------<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h4 id="在基督的学校做门徒"><a href="#在基督的学校做门徒" class="headerlink" title="在基督的学校做门徒"></a>在基督的学校做门徒</h4><figure class="highlight stata"><table><tr><td class="code"><pre><code class="hljs stata">## 门徒是在宇宙中最高的学府<br><span class="hljs-comment">	** 祂独自引导，并无它神</span><br><span class="hljs-comment">	** 引导、训练我们</span><br>	<br>	--------------------------------------<br><span class="hljs-comment">	** 施洗约翰：引起注意 -&gt; 把人带起来跟随耶稣</span><br><span class="hljs-comment">	** 圣灵在凡事上教导我们</span><br><span class="hljs-comment">	** 没有一件事是不能放到主的面前祷告的</span><br>	<br>## 加百列 文<br>   伍伽勒 武<br><span class="hljs-comment">   ** 神可以让万物互相效力，只为训练祂的门徒</span><br><span class="hljs-comment">   ** 基督是一切，又在一切之内 	[歌罗西书3:11]</span><br><span class="hljs-comment">   ** Make the most of every op</span><br><span class="hljs-comment">   ** Just like Jesus</span><br>   ---------------------------------------<br>   <br>## 每一天结束的时候<br><span class="hljs-comment">	** 回想一下在基督的学校里学到了什么</span><br><span class="hljs-comment">	** 要越来越像耶稣</span><br>	愿我们在基督的学校里能成为最好的门徒<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>门徒训练</tag>
+        <tag>在基督的学校作门徒</tag>
       </tags>
   </entry>
   <entry>
@@ -2489,57 +2489,6 @@
       </categories>
   </entry>
   <entry>
-    <title>R020-linux kernel</title>
-    <url>/2020/12/28/R020-linux%20kernel/</url>
-    <content><![CDATA[<h4 id="实验简介"><a href="#实验简介" class="headerlink" title="实验简介"></a>实验简介</h4><p>通过系统调用、进程调度、完成变量等方式实现多对多通信的模拟</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><br></code></pre></td></tr></table></figure>
-
-<h4 id="Cmder"><a href="#Cmder" class="headerlink" title="Cmder"></a>Cmder</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#不错的终端工具</span><br></code></pre></td></tr></table></figure>
-
-<h4 id="linux内核源码下载"><a href="#linux内核源码下载" class="headerlink" title="linux内核源码下载"></a>linux内核源码下载</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#附上度盘链接</span><br>https://pan.baidu.com/s/1b4D28fCVRsE5m6QEzvROfQ<br>密码：2333<br></code></pre></td></tr></table></figure>
-
-<h4 id="编译准备"><a href="#编译准备" class="headerlink" title="编译准备"></a>编译准备</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 安装必要的环境</span><br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install flex<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install bison<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libncurses-dev<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install pkg-config<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libglade2-dev<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libssl-dev<br></code></pre></td></tr></table></figure>
-
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libelf-dev<br></code></pre></td></tr></table></figure>
-
-<h4 id="编译配置"><a href="#编译配置" class="headerlink" title="编译配置"></a>编译配置</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**</span><br></code></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-<hr>
-<h4 id="切入重点："><a href="#切入重点：" class="headerlink" title="切入重点："></a>切入重点：</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**多对多进程间通信的实现</span><br><br><span class="hljs-comment">#**拓扑结构</span><br><br><span class="hljs-comment">#**参考资料</span><br><br><span class="hljs-comment">#**实现问题记录</span><br><br><span class="hljs-comment">#**问题解决策略</span><br><br>[LINK]-http://www.pudn.com/Download/item/id/3134446.html<br><br><span class="hljs-comment">#**子系统开启ssh</span><br>https://blog.csdn.net/zhouzme/article/details/81087837<br><span class="hljs-comment">#**教学课件</span><br>http://i.mooc.chaoxing.com/space/index?t=1609151033652<br></code></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>linux kernel</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R021-软工答辩初稿</title>
     <url>/2020/12/28/R021-%E8%BD%AF%E5%B7%A5%E7%AD%94%E8%BE%A9%E5%88%9D%E7%A8%BF/</url>
     <content><![CDATA[<h4 id="软件工程答辩稿"><a href="#软件工程答辩稿" class="headerlink" title="软件工程答辩稿"></a>软件工程答辩稿</h4><p>又要造假数据了，哎:fallen_leaf:</p>
@@ -2657,6 +2606,57 @@
       <categories>
         <category>日常记录</category>
       </categories>
+  </entry>
+  <entry>
+    <title>R020-linux kernel</title>
+    <url>/2020/12/28/R020-linux%20kernel/</url>
+    <content><![CDATA[<h4 id="实验简介"><a href="#实验简介" class="headerlink" title="实验简介"></a>实验简介</h4><p>通过系统调用、进程调度、完成变量等方式实现多对多通信的模拟</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><br></code></pre></td></tr></table></figure>
+
+<h4 id="Cmder"><a href="#Cmder" class="headerlink" title="Cmder"></a>Cmder</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#不错的终端工具</span><br></code></pre></td></tr></table></figure>
+
+<h4 id="linux内核源码下载"><a href="#linux内核源码下载" class="headerlink" title="linux内核源码下载"></a>linux内核源码下载</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#附上度盘链接</span><br>https://pan.baidu.com/s/1b4D28fCVRsE5m6QEzvROfQ<br>密码：2333<br></code></pre></td></tr></table></figure>
+
+<h4 id="编译准备"><a href="#编译准备" class="headerlink" title="编译准备"></a>编译准备</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 安装必要的环境</span><br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install flex<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install bison<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libncurses-dev<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install pkg-config<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libglade2-dev<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libssl-dev<br></code></pre></td></tr></table></figure>
+
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh">sudo apt install libelf-dev<br></code></pre></td></tr></table></figure>
+
+<h4 id="编译配置"><a href="#编译配置" class="headerlink" title="编译配置"></a>编译配置</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**</span><br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+<hr>
+<h4 id="切入重点："><a href="#切入重点：" class="headerlink" title="切入重点："></a>切入重点：</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">#**多对多进程间通信的实现</span><br><br><span class="hljs-comment">#**拓扑结构</span><br><br><span class="hljs-comment">#**参考资料</span><br><br><span class="hljs-comment">#**实现问题记录</span><br><br><span class="hljs-comment">#**问题解决策略</span><br><br>[LINK]-http://www.pudn.com/Download/item/id/3134446.html<br><br><span class="hljs-comment">#**子系统开启ssh</span><br>https://blog.csdn.net/zhouzme/article/details/81087837<br><span class="hljs-comment">#**教学课件</span><br>http://i.mooc.chaoxing.com/space/index?t=1609151033652<br></code></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>linux kernel</tag>
+      </tags>
   </entry>
   <entry>
     <title>R023-圣经阅读记录</title>
@@ -2834,6 +2834,40 @@
       </tags>
   </entry>
   <entry>
+    <title>R027-912考研笔记</title>
+    <url>/2020/12/31/R027-912%E8%80%83%E7%A0%94%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h4 id="这是一条不归路"><a href="#这是一条不归路" class="headerlink" title="这是一条不归路"></a>这是一条不归路</h4><blockquote>
+<p>除了胜利，我们无路可走。</p>
+</blockquote>
+<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么要考研？</span><br>	**低风险，高回报<br>	**对自己基础技能的检测与夯实<br>	**离自己的梦想更进一步[更优质的资源，更稳定、持续的正能量流、积累学习更多的知识]<br>	**荣耀神，为了之后有更好的能力传扬神的道<br></code></pre></td></tr></table></figure>
+
+<h4 id="初级阶段"><a href="#初级阶段" class="headerlink" title="初级阶段"></a>初级阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一栋房子最重要的部分是设计图纸，是整栋房子的灵魂核心</span><br>	**轮回-金字塔模型：<br>		*快速、广泛的初始化[竭尽所能的快速、高效率记录] - 起步阶段一定要快速、高效率[高频率的重复]<br>		*美和艺术重点不是表面所看到的东西[看到的东西通常不重要]<br>		*思维和逻辑以及精神上的美才是价值所在<br><br><span class="hljs-comment">## 时间：上一届考研的结束，就是自己考研的开始</span><br>	**或者说，从决定考研的任何时候就已经开始<br>	<br><span class="hljs-comment">## 准备：认真研读前辈们的经验与分享、心得，如果有机会最好能够和已经上岸或者已经经历过考试的学长学姐前辈们亲自交流、学习经验</span><br>	**记录下所阅读、收集、观看的 所有 资料的整理、链接、心得[非常重要]<br>	**初步描绘自己的一年备考计划，重点放在计划的初级阶段[备考时间段的前1-2个月] * 取长补短，结合上一步的资料<br>	**有不断修正计划的意识和行动 <br>	<br><span class="hljs-comment">## 挑战：稳行在高处</span><br>	**像素常一样<br>	**将窗户向耶路撒冷打开<br>	**跪在我神的面前<br>	<br><span class="hljs-comment">## 细节：--为了能够高效率完成预期任务</span><br>	**全程离线状态：手机关机、电脑飞行<br>	**为了能够离线，首先要准备好一周所需要的资料<br>	**为了应对离线产生的问题，要有一个突发事件记录表，有突发事件或者灵感或者问题时，详细记录到事件表--&gt;专门的时间段来处理<br>	**为了能够有效回溯，全程产生的任何资料都应该被记录[思维上的、物质上的、引用的、虚无的、乱七八糟的、everything]<br>	<br>	[*完整的记录一年的考研时间-为之后的战斗做好准备]<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="fallen-leaf"><a href="#fallen-leaf" class="headerlink" title=":fallen_leaf:"></a>:fallen_leaf:</h2><hr>
+<h5 id="数学策略"><a href="#数学策略" class="headerlink" title="数学策略"></a>数学策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 轮回金字塔 - 高频度重复 - 渐进深入</span><br>	**基础的熟练度<br>	<br>	**<br>	<br>	**<br></code></pre></td></tr></table></figure>
+
+<h5 id="英语策略"><a href="#英语策略" class="headerlink" title="英语策略"></a>英语策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 高频度重复</span><br>	**单词<br>		$利用艾宾浩斯遗忘曲线-[高频重复]<br>	**阅读<br>	<br>	**翻译<br>	<br>	**写作<br></code></pre></td></tr></table></figure>
+
+<h5 id="专业课策略"><a href="#专业课策略" class="headerlink" title="专业课策略"></a>专业课策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 数据结构</span><br>	**<br>	<br><span class="hljs-comment">## 操作系统</span><br>	**<br>	<br><span class="hljs-comment">## 组成原理</span><br>	**<br>	<br><span class="hljs-comment">## 计算机网络</span><br>	**<br>	<br></code></pre></td></tr></table></figure>
+
+<h5 id="政治策略"><a href="#政治策略" class="headerlink" title="政治策略"></a>政治策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
+
+<h5 id="个人经历策略"><a href="#个人经历策略" class="headerlink" title="个人经历策略"></a>个人经历策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## *方向A - 人工智能、机器学习</span><br>	***从现在开始整理博客、收集记录学习资料、论文创作、科研入门级训练<br>	<br><span class="hljs-comment">## *方向B - 操作系统</span><br>	***同上，并且要做出能够看得见的东西，最好是能够用得上的东西<br>	<br><span class="hljs-comment">## *个人经历的包装</span><br>	**科研经历<br>		**论文阅读<br>		**论文整理<br>		**论文撰写<br>		<br>	**竞赛经历	<br>		**操作系统开发项目<br>		**人工智能开发项目<br>		**机器学习开发项目<br>		<br>	**成长经历<br>		**阅读经历<br>		**感情经历<br>		**信仰经历<br>		<br><span class="hljs-comment">## *查找相关的导师信息，如果可以能够取得联系最好</span><br>	<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="bamboo-bamboo-bamboo-bamboo-bamboo"><a href="#bamboo-bamboo-bamboo-bamboo-bamboo" class="headerlink" title=":bamboo: :bamboo: :bamboo: :bamboo::bamboo:"></a>:bamboo: :bamboo: :bamboo: :bamboo::bamboo:</h2><hr>
+<h4 id="中期阶段"><a href="#中期阶段" class="headerlink" title="中期阶段"></a>中期阶段</h4><h4 id="后期阶段"><a href="#后期阶段" class="headerlink" title="后期阶段"></a>后期阶段</h4>]]></content>
+      <categories>
+        <category>日常记录</category>
+      </categories>
+      <tags>
+        <tag>912考研笔记</tag>
+        <tag>考研规划</tag>
+        <tag>考研资料</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R026-门徒训练N103</title>
     <url>/2020/12/30/R026-%E9%97%A8%E5%BE%92%E8%AE%AD%E7%BB%83N103/</url>
     <content><![CDATA[<h4 id="为什么要建立稳定的灵修生活"><a href="#为什么要建立稳定的灵修生活" class="headerlink" title="为什么要建立稳定的灵修生活"></a>为什么要建立稳定的灵修生活</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># 四件事情：</span><br>	A-为何建立稳定的灵修生活如此重要<br>		**是神儿女们绝不可忽视的拳脚功夫<br>			若不深耕，如何结实？--神一生都在建造我们<br>			当地震、海啸来临之时，一眼就看出哪些树、哪些房屋的根基是深厚的<br>		**生命软弱、跟神关系疏远的原因：<br>			-当今门徒训练-普遍的现象：肤浅、不够深。很多人的生命并没有被改变<br>			很关键的原因就是没有每一天过一个稳定的灵修生活<br>			目的：生命被改变、跟神的关系被改变、与主更亲近、生活更得胜<br>		**是当今时代众教会普遍的危机<br>			好像神家得不到供应，缺少生命-根基问题：没有稳定的灵修生活<br>			<br>		**圣经中的榜样-尤其是主耶稣自己，经常退到野地、海边、或山上去祷告<br>			约瑟在大饥荒之前，就是一直在积蓄粮食：我们的灵修、生活的一切都是在积蓄粮食，<br>			当你里面真正有生命的时候，神会把有需要的人带来。<br>			路德，拾穗。在波阿斯的田里，每一天拾穗就够我们所用<br>			与神亲密且持续的关系<br>			<br>	<span class="hljs-comment">## 我们务要认识耶和华，竭力追求认识祂。祂出现确如晨光；祂必临到我们想甘露，像滋润田地的春雨。 何 6:3</span><br>	<br>	<br></code></pre></td></tr></table></figure>
@@ -2866,37 +2900,73 @@
       </tags>
   </entry>
   <entry>
-    <title>R027-912考研笔记</title>
-    <url>/2020/12/31/R027-912%E8%80%83%E7%A0%94%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h4 id="这是一条不归路"><a href="#这是一条不归路" class="headerlink" title="这是一条不归路"></a>这是一条不归路</h4><blockquote>
-<p>除了胜利，我们无路可走。</p>
-</blockquote>
-<figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 为什么要考研？</span><br>	**低风险，高回报<br>	**对自己基础技能的检测与夯实<br>	**离自己的梦想更进一步[更优质的资源，更稳定、持续的正能量流、积累学习更多的知识]<br>	**荣耀神，为了之后有更好的能力传扬神的道<br></code></pre></td></tr></table></figure>
-
-<h4 id="初级阶段"><a href="#初级阶段" class="headerlink" title="初级阶段"></a>初级阶段</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 一栋房子最重要的部分是设计图纸，是整栋房子的灵魂核心</span><br>	**轮回-金字塔模型：<br>		*快速、广泛的初始化[竭尽所能的快速、高效率记录] - 起步阶段一定要快速、高效率[高频率的重复]<br>		*美和艺术重点不是表面所看到的东西[看到的东西通常不重要]<br>		*思维和逻辑以及精神上的美才是价值所在<br><br><span class="hljs-comment">## 时间：上一届考研的结束，就是自己考研的开始</span><br>	**或者说，从决定考研的任何时候就已经开始<br>	<br><span class="hljs-comment">## 准备：认真研读前辈们的经验与分享、心得，如果有机会最好能够和已经上岸或者已经经历过考试的学长学姐前辈们亲自交流、学习经验</span><br>	**记录下所阅读、收集、观看的 所有 资料的整理、链接、心得[非常重要]<br>	**初步描绘自己的一年备考计划，重点放在计划的初级阶段[备考时间段的前1-2个月] * 取长补短，结合上一步的资料<br>	**有不断修正计划的意识和行动 <br>	<br><span class="hljs-comment">## 挑战：稳行在高处</span><br>	**像素常一样<br>	**将窗户向耶路撒冷打开<br>	**跪在我神的面前<br>	<br><span class="hljs-comment">## 细节：--为了能够高效率完成预期任务</span><br>	**全程离线状态：手机关机、电脑飞行<br>	**为了能够离线，首先要准备好一周所需要的资料<br>	**为了应对离线产生的问题，要有一个突发事件记录表，有突发事件或者灵感或者问题时，详细记录到事件表--&gt;专门的时间段来处理<br>	**为了能够有效回溯，全程产生的任何资料都应该被记录[思维上的、物质上的、引用的、虚无的、乱七八糟的、everything]<br>	<br>	[*完整的记录一年的考研时间-为之后的战斗做好准备]<br></code></pre></td></tr></table></figure>
-
+    <title>R029-个人项目经验规划</title>
+    <url>/2021/01/01/R029-%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE%E7%BB%8F%E9%AA%8C%E8%A7%84%E5%88%92/</url>
+    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cser如何面对复试</td>
+<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
+</tr>
+<tr>
+<td>大数据工程师该会什么</td>
+<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
+</tr>
+<tr>
+<td>清华大学计科培养方案</td>
+<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
+</tr>
+<tr>
+<td>20计算机经验帖</td>
+<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
+</tr>
+<tr>
+<td>一位学姐的912分享</td>
+<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>数据结构邓俊辉</td>
+<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
 <hr>
-<h2 id="fallen-leaf"><a href="#fallen-leaf" class="headerlink" title=":fallen_leaf:"></a>:fallen_leaf:</h2><hr>
-<h5 id="数学策略"><a href="#数学策略" class="headerlink" title="数学策略"></a>数学策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 轮回金字塔 - 高频度重复 - 渐进深入</span><br>	**基础的熟练度<br>	<br>	**<br>	<br>	**<br></code></pre></td></tr></table></figure>
-
-<h5 id="英语策略"><a href="#英语策略" class="headerlink" title="英语策略"></a>英语策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 高频度重复</span><br>	**单词<br>		$利用艾宾浩斯遗忘曲线-[高频重复]<br>	**阅读<br>	<br>	**翻译<br>	<br>	**写作<br></code></pre></td></tr></table></figure>
-
-<h5 id="专业课策略"><a href="#专业课策略" class="headerlink" title="专业课策略"></a>专业课策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 数据结构</span><br>	**<br>	<br><span class="hljs-comment">## 操作系统</span><br>	**<br>	<br><span class="hljs-comment">## 组成原理</span><br>	**<br>	<br><span class="hljs-comment">## 计算机网络</span><br>	**<br>	<br></code></pre></td></tr></table></figure>
-
-<h5 id="政治策略"><a href="#政治策略" class="headerlink" title="政治策略"></a>政治策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## </span><br></code></pre></td></tr></table></figure>
-
-<h5 id="个人经历策略"><a href="#个人经历策略" class="headerlink" title="个人经历策略"></a>个人经历策略</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## *方向A - 人工智能、机器学习</span><br>	***从现在开始整理博客、收集记录学习资料、论文创作、科研入门级训练<br>	<br><span class="hljs-comment">## *方向B - 操作系统</span><br>	***同上，并且要做出能够看得见的东西，最好是能够用得上的东西<br>	<br><span class="hljs-comment">## *个人经历的包装</span><br>	**科研经历<br>		**论文阅读<br>		**论文整理<br>		**论文撰写<br>		<br>	**竞赛经历	<br>		**操作系统开发项目<br>		**人工智能开发项目<br>		**机器学习开发项目<br>		<br>	**成长经历<br>		**阅读经历<br>		**感情经历<br>		**信仰经历<br>		<br><span class="hljs-comment">## *查找相关的导师信息，如果可以能够取得联系最好</span><br>	<br></code></pre></td></tr></table></figure>
-
-<hr>
-<h2 id="bamboo-bamboo-bamboo-bamboo-bamboo"><a href="#bamboo-bamboo-bamboo-bamboo-bamboo" class="headerlink" title=":bamboo: :bamboo: :bamboo: :bamboo::bamboo:"></a>:bamboo: :bamboo: :bamboo: :bamboo::bamboo:</h2><hr>
-<h4 id="中期阶段"><a href="#中期阶段" class="headerlink" title="中期阶段"></a>中期阶段</h4><h4 id="后期阶段"><a href="#后期阶段" class="headerlink" title="后期阶段"></a>后期阶段</h4>]]></content>
+<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
+<table>
+<thead>
+<tr>
+<th>数据机构[学堂在线]</th>
+<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>考研英语词根词缀</td>
+<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
+</tr>
+</tbody></table>
+]]></content>
       <categories>
         <category>日常记录</category>
       </categories>
       <tags>
-        <tag>912考研笔记</tag>
-        <tag>考研规划</tag>
-        <tag>考研资料</tag>
+        <tag>人工智能</tag>
+        <tag>数学建模</tag>
+        <tag>912考研资料索引专刊</tag>
+        <tag>个人项目规划参考</tag>
+        <tag>大数据工程</tag>
       </tags>
   </entry>
   <entry>
@@ -3174,76 +3244,6 @@
         <tag>英语单词</tag>
         <tag>词根词缀记忆</tag>
         <tag>真题单词提取</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R029-个人项目经验规划</title>
-    <url>/2021/01/01/R029-%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE%E7%BB%8F%E9%AA%8C%E8%A7%84%E5%88%92/</url>
-    <content><![CDATA[<h4 id="资料目录"><a href="#资料目录" class="headerlink" title="资料目录"></a>资料目录</h4><hr>
-<table>
-<thead>
-<tr>
-<th>名称</th>
-<th>链接</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Cser如何面对复试</td>
-<td><a href="https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ">https://mp.weixin.qq.com/s/ZorAENv_Wpd8_IIsBlChWQ</a></td>
-</tr>
-<tr>
-<td>大数据工程师该会什么</td>
-<td><a href="https://www.zhihu.com/question/268790567">https://www.zhihu.com/question/268790567</a></td>
-</tr>
-<tr>
-<td>清华大学计科培养方案</td>
-<td><a href="https://max.book118.com/html/2018/0119/149624964.shtm">https://max.book118.com/html/2018/0119/149624964.shtm</a></td>
-</tr>
-<tr>
-<td>20计算机经验帖</td>
-<td><a href="https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9">https://www.bilibili.com/read/cv6865676?share_medium=android&amp;share_plat=android&amp;share_source=QQ&amp;share_tag=s_i&amp;timestamp=1609066715&amp;unique_k=hVQep9</a></td>
-</tr>
-<tr>
-<td>一位学姐的912分享</td>
-<td><a href="https://li5jun.com/article/835.html">https://li5jun.com/article/835.html</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>数据结构邓俊辉</td>
-<td><a href="https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm">https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm</a></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<hr>
-<h4 id="常用链接"><a href="#常用链接" class="headerlink" title="常用链接"></a>常用链接</h4><hr>
-<table>
-<thead>
-<tr>
-<th>数据机构[学堂在线]</th>
-<th><a href="https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307">https://www.xuetangx.com/learn/THU08091000384/THU08091000384/4231547/video/6326307</a></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>考研英语词根词缀</td>
-<td><a href="https://mm.edrawsoft.cn/template/82413">https://mm.edrawsoft.cn/template/82413</a></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>日常记录</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-        <tag>数学建模</tag>
-        <tag>912考研资料索引专刊</tag>
-        <tag>个人项目规划参考</tag>
-        <tag>大数据工程</tag>
       </tags>
   </entry>
   <entry>
@@ -12026,21 +12026,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>R082-Ubuntu18-20网络故障</title>
-    <url>/2021/03/27/R082-Ubuntu18-20%E7%BD%91%E7%BB%9C%E6%95%85%E9%9A%9C/</url>
-    <content><![CDATA[<h4 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## linux系列的操作系统在VMware中使用时，网络连接标识显示问号</span><br><br><span class="hljs-comment">## 重启或者重装均无效，网络配置无效，同时，同样在虚拟机目录中的win10系列系统网络可以正常使用</span><br></code></pre></td></tr></table></figure>
-
-
-
-<h4 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 重置VMware网络配置即可</span><br></code></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>Ubuntu</tag>
-        <tag>网络修复</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>R083-软件测试03-白盒测试</title>
     <url>/2021/03/29/R083-%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%9503-%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<h4 id="课前回顾"><a href="#课前回顾" class="headerlink" title="课前回顾"></a>课前回顾</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 黑盒测试-测试用例</span><br>	**等价类划分法<br>		&gt; 整合用例表<br>		<br>	**场景法<br>		&gt; 场景务必符合实际<br>		&gt; 措辞务必严谨<br>		<br>		<br></code></pre></td></tr></table></figure>
@@ -12058,6 +12043,21 @@
 <h5 id="题外"><a href="#题外" class="headerlink" title="题外"></a>题外</h5><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 创新的本质</span><br>	**把一个领域的专业知识，应用到另一个领域<br></code></pre></td></tr></table></figure>
 
 ]]></content>
+  </entry>
+  <entry>
+    <title>R082-Ubuntu18-20网络故障</title>
+    <url>/2021/03/27/R082-Ubuntu18-20%E7%BD%91%E7%BB%9C%E6%95%85%E9%9A%9C/</url>
+    <content><![CDATA[<h4 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## linux系列的操作系统在VMware中使用时，网络连接标识显示问号</span><br><br><span class="hljs-comment">## 重启或者重装均无效，网络配置无效，同时，同样在虚拟机目录中的win10系列系统网络可以正常使用</span><br></code></pre></td></tr></table></figure>
+
+
+
+<h4 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 重置VMware网络配置即可</span><br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>Ubuntu</tag>
+        <tag>网络修复</tag>
+      </tags>
   </entry>
   <entry>
     <title>R084-门徒训练N107</title>
@@ -12198,6 +12198,16 @@
     <title>R090-BREAKSTACK</title>
     <url>/2021/08/11/R090-BREAKSTACK/</url>
     <content><![CDATA[<h4 id="函数调用栈"><a href="#函数调用栈" class="headerlink" title="函数调用栈"></a>函数调用栈</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs SH"><span class="hljs-comment">## 2021年8月11日</span><br>**数据结构<br>	-bilibili P42<br>	-https://www.bilibili.com/video/BV1C54y1L7JM?p=41&amp;spm_id_from=pageDriver<br>	<br>	-reason：重启测试virtual studio<br>	-待完成：课程第三部分、迭代实现fib算法<br>	<br></code></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>R091-时间黑洞理论</title>
+    <url>/2021/08/21/R091-%E6%97%B6%E9%97%B4%E9%BB%91%E6%B4%9E%E7%90%86%E8%AE%BA/</url>
+    <content><![CDATA[<h4 id="黑洞现象"><a href="#黑洞现象" class="headerlink" title="黑洞现象"></a>黑洞现象</h4><p>本来在查找解决N皇后问题的方法，结果引申到一大堆乱七八糟的链接上：视频、电子书、文章、公众号随之而来。而事实上，我仅仅需要找到一个理论，然后再审察一种可行解—最多再一本书中详细查看讲解，然后接可以回到当前任务的主体：数据结构。</p>
+<h4 id="如何止步"><a href="#如何止步" class="headerlink" title="如何止步"></a>如何止步</h4><p>当即将陷入时间黑洞时，及时逃逸非常重要。那么有什么方法可以逃逸时间黑洞呢？</p>
+<p>时间片法则：在时间片耗尽时检测当前状态是否合法。</p>
+<h4 id="陷入记录"><a href="#陷入记录" class="headerlink" title="陷入记录"></a>陷入记录</h4><figure class="highlight sh"><table><tr><td class="code"><pre><code class="hljs sh"><span class="hljs-comment">## 2021年8月21日20点41分-陷入记录</span><br>	http://data.biancheng.net/view/34.html<br>	https://space.bilibili.com/526619673/video<br>	https://codepumpkin.com/n-queen-problem/<br>	https://www.tutorialspoint.com/cplusplus-program-to-solve-n-queen-problem<br>	https://zhuanlan.zhihu.com/p/279209853<br>	https://github.com/aoapc-book/aoapc-bac2nd<br>	<br>	算法竞赛入门经典<br>	<br></code></pre></td></tr></table></figure>
 
 ]]></content>
   </entry>
